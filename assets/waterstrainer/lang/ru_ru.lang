@@ -1,0 +1,21 @@
+itemGroup.waterstrainer.main=Фильтры воды
+
+tile.waterstrainer.strainer_base.name=Основание фильтра
+
+item.waterstrainer.efficiency_meter.name=Измеритель эффективности
+item.waterstrainer.garden_trowel.name=Садовый шпатель
+item.waterstrainer.worm.name=Червь
+item.waterstrainer.super_worm.name=Супер-червь
+item.waterstrainer.bait_pot.name=Горшок для приманки
+item.waterstrainer.net.name=Сетка
+item.waterstrainer.dense_net.name=Плотная сетка
+
+item.waterstrainer.strainer_survivalist.name=Фильтр выживальщика
+item.waterstrainer.strainer_survivalist_solid.name=Твёрдый фильтр выживальщика
+item.waterstrainer.strainer_survivalist_reinforced.name=Усиленный фильтр выживальщика
+
+item.waterstrainer.strainer_survivalist_dense.name=Фильтр выживальщика (плотный)
+item.waterstrainer.strainer_survivalist_dense_solid.name=Твёрдый фильтр выживальщика (плотный)
+item.waterstrainer.strainer_survivalist_dense_reinforced.name=Усиленный фильтр выживальщика (плотный)
+
+item.waterstrainer.strainer_fisherman.name=Рыбацкий фильтр

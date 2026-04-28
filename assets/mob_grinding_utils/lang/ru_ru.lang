@@ -1,0 +1,82 @@
+tile.mob_grinding_utils.fan.name=Вентилятор для мобов  
+tile.mob_grinding_utils.saw.name=Измельчитель мобов  
+tile.mob_grinding_utils.absorption_hopper.name=Всасывающая воронка  
+tile.mob_grinding_utils.absorption_hopper_d_u.name=Смещение В/Н  
+tile.mob_grinding_utils.absorption_hopper_n_s.name=Смещение С/Ю  
+tile.mob_grinding_utils.absorption_hopper_w_e.name=Смещение З/В  
+tile.mob_grinding_utils.spikes.name=Железные шипы  
+tile.mob_grinding_utils.tank.name=Сингулярный резервуар  
+tile.mob_grinding_utils.tank_sink.name=Сингулярный резервуар для XP-дренажа  
+tile.mob_grinding_utils.xp_tap.name=Кран опыта  
+tile.mob_grinding_utils.wither_muffler.name=Глушитель смерти Визера-босса  
+tile.mob_grinding_utils.dragon_muffler.name=Глушитель смерти Дракона Края  
+tile.mob_grinding_utils.dark_oak_stone.name=Камень темного дуба  
+tile.mob_grinding_utils.ender_inhibitor_on.name=Активный ингибитор эндера  
+tile.mob_grinding_utils.ender_inhibitor_off.name=Неактивный ингибитор эндера  
+tile.mob_grinding_utils.entity_conveyor.name=Конвейер сущностей  
+
+#Fluids  
+fluid.mob_grinding_utils.fluid_xp=Жидкий опыт  
+
+#Items  
+item.mob_grinding_utils.mob_swab.name=Тампон для мобов  
+item.mob_grinding_utils.gm_chicken_feed.name=ГМ корм для кур  
+item.mob_grinding_utils.fan_upgrade.name=Улучшение вентилятора мобов  
+item.mob_grinding_utils.absorption_upgrade.name=Улучшение радиуса всасывания  
+item.mob_grinding_utils.saw_upgrade.name=Улучшение измельчителя мобов  
+item.mob_grinding_utils.null_sword.name=Воображаемый меч «Не Здесь»  
+
+#Creative Tab  
+itemGroup.mob_grinding_utils=Mob Grinding Utils
+
+fakeplayer.mob_masher=Измельчитель мобов  
+
+death.attack.spikes=%1$s был пронзен шипами.  
+death.attack.spikes.player=%1$s был пронзен шипами %2$s.  
+
+tooltip.fan_1=Толкает мобов в направлении взгляда.  
+tooltip.fan_2=Может быть улучшен с помощью улучшений вентилятора мобов.  
+tooltip.fan_3=Область действия можно переключить в его GUI.  
+tooltip.saw_1=Продвинутый модульный измельчитель мобов.  
+tooltip.saw_2=Может быть улучшен с помощью улучшений измельчителя мобов.  
+tooltip.saw_3=Измельченные мобы УЧИТЫВАЮТСЯ как убийства игроком.  
+tooltip.hopper_1=Всасывает предметы и сферы опыта в области 7x7x7.  
+tooltip.hopper_2=Можно настроить на выталкивание в любую сторону.  
+tooltip.hopper_3=Жидкости будут вставляться в резервуары, а предметы — в инвентари.  
+tooltip.hopper_4=Радиус увеличивается улучшениями радиуса всасывания.  
+tooltip.hopper_5=Область действия можно переключить в его GUI.  
+tooltip.hopper_6=Положение можно сместить в его GUI.  
+tooltip.spikes_1=Базовые шипы — также выпадает опыт мобов.  
+tooltip.spikes_2=Мобы, убитые шипами, НЕ учитываются как убийства игроком.  
+tooltip.xptap_1=Прикрепите к стороне сингулярного резервуара.  
+tooltip.xptap_2=Превратит жидкий опыт обратно в сферы.  
+tooltip.withermuffler_1=Останавливает звуки смерти Визера-босса  
+tooltip.withermuffler_2=в радиусе 8 блоков.  
+tooltip.withermuffler_3=ПКМ, чтобы скрыть шкалу босса.  
+tooltip.dragonmuffler_1=Останавливает звуки смерти Дракона Края  
+tooltip.dragonmuffler_2=в радиусе 32 блоков.  
+tooltip.dragonmuffler_3=ПКМ, чтобы скрыть шкалу босса.  
+tooltip.darkoakstone=А говорили, что это невозможно…  
+tooltip.entityconveyor_1=Конвейер для перемещения мобов и предметов по горизонтали.  
+tooltip.entityconveyor_2=Мобы могут появляться на этом блоке.  
+tooltip.enderinhibitor_1=Подавляет телепортацию сущностей на расстоянии до 8 блоков.  
+tooltip.enderinhibitor_2=Может крепиться на ЛЮБУЮ сторону твердых блоков.  
+tooltip.enderinhibitor_3=ПКМ для деактивации/активации.  
+
+#Item Tool tips  
+tooltip.hopperupgrade=Модификатор радиуса: +1. Максимум 6.  
+tooltip.fanupgrade_width=Модификатор ширины: +1. Максимум 3.  
+tooltip.fanupgrade_height=Модификатор высоты: +1. Максимум 3.  
+tooltip.fanupgrade_distance=Модификатор расстояния: +1. Максимум 10.  
+tooltip.chickenfeed_1=Скормите курам.  
+tooltip.chickenfeed_2=Одноразовое использование для курицы…  
+tooltip.chickenfeed_3=Содержит:  
+tooltip.mobswab_1=Используйте на мобах, чтобы собрать «ДНК».  
+tooltip.mobswab_2=Скрафтите с ведром опыта и семенами.  
+tooltip.mobswab_3=Содержит:  
+tooltip.sawupgrade_sharpness=Острота: +1. Максимум 10.  
+tooltip.sawupgrade_looting=Добыча: +1. Максимум 10.  
+tooltip.sawupgrade_fire=Заговор огня: +1. Максимум 10.  
+tooltip.sawupgrade_smite=Небесная кара: +1. Максимум 10.  
+tooltip.sawupgrade_arthropods=Бич членистоногих: +1. Максимум 10.  
+tooltip.sawupgrade_beheading=Обезглавливание: +1. Максимум 10.  

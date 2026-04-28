@@ -1,0 +1,3 @@
+commands.zenstages.stages.success=Зарегистрировано этапов: %s.
+commands.zenstages.giveAll.success=Успешно предоставлено %s этапов %s.
+commands.zenstages.removeAll.success=Успешно удалено %s этапов %s.

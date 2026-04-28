@@ -1,0 +1,16 @@
+itemGroup.packageddraconic=PackagedDraconic
+
+tile.packageddraconic.fusion_crafter.name=Сборщик пакетов синтеза
+tile.packageddraconic.fusion_crafter.injectors.usable=Доступные маркированные инжекторы синтеза:
+tile.packageddraconic.fusion_crafter.injectors.required=Минимально необходимые маркированные инжекторы синтеза:
+tile.packageddraconic.fusion_crafter.injectors.0=Базовый %s
+tile.packageddraconic.fusion_crafter.injectors.1=Виверна %s
+tile.packageddraconic.fusion_crafter.injectors.2=Драконический %s
+tile.packageddraconic.fusion_crafter.injectors.3=Хаотический %s
+tile.packageddraconic.marked_basic_injector.name=Маркированный базовый инжектор синтеза
+tile.packageddraconic.marked_wyvern_injector.name=Маркированный инжектор синтеза виверны
+tile.packageddraconic.marked_draconic_injector.name=Маркированный драконический инжектор синтеза
+tile.packageddraconic.marked_chaotic_injector.name=Маркированный хаотический инжектор синтеза
+
+recipe.packageddraconic.fusion=Синтез
+recipe.packageddraconic.fusion.short=Синтез

@@ -1,0 +1,108 @@
+cover.machine_controller.title=Настройки контроллера машины
+cover.machine_controller.normal=Обычный
+cover.machine_controller.inverted=Инвертированный
+cover.machine_controller.inverted.description=§eОбычный§r - в этом режиме для работы механизма требуется сигнал §слабее§r установленного уровня красного камня/n§eИнвертированный§r - в этом режиме для работы механизма требуется сигнал §сильнее§r установленного уровня красного камня
+cover.machine_controller.redstone=Мин. сила сигнала: %,d
+gregtech.bus.collapse.error=Шина должна быть присоединена к мультиблоку
+
+/////
+
+gregtech.universal.tooltip.working_area_chunks_max=§bМакс. рабочая область: §f%,dx%,d чанков
+item.material.oreprefix.oreChunk=%s кусочек руды
+item.material.oreprefix.oreNetherChunk=%s кусочек руды
+item.material.oreprefix.oreEnderChunk=%s кусочек руды
+item.material.oreprefix.oreFineChunk=Мелкая %s кусочек руды
+item.material.oreprefix.oreChunk=Порошковая %s руда
+
+recipemap.electric_sieve.name=Рецепты электрического сита
+recipemap.attractor.name=Рецепты аттрактора пчёл
+
+gregblockutils.machine.sieve.lv.name=Базовое электрическое сито
+gregblockutils.machine.sieve.mv.name=Продвинутое электрическое сито
+gregblockutils.machine.sieve.hv.name=Продвинутое электрическое сито II
+gregblockutils.machine.sieve.ev.name=Продвинутое электрическое сито III
+gregblockutils.machine.sieve.iv.name=Продвинутое электрическое сито IV
+gregblockutils.machine.sieve.luv.name=Продвинутое электрическое сито V
+gregblockutils.machine.sieve.zpm.name=Продвинутое электрическое сито VI
+gregblockutils.machine.sieve.uv.name=Продвинутое электрическое сито VII
+gregblockutils.machine.attractor.lv.name=Базовый аттрактор пчёл
+gregblockutils.machine.attractor.mv.name=Продвинутый аттрактор пчёл
+gregblockutils.machine.attractor.hv.name=Продвинутый аттрактор пчёл II
+gregblockutils.machine.attractor.ev.name=Продвинутый аттрактор пчёл III
+gregblockutils.machine.attractor.iv.name=Продвинутый аттрактор пчёл IV
+gregblockutils.machine.attractor.luv.name=Продвинутый аттрактор пчёл V
+gregblockutils.machine.attractor.zpm.name=Продвинутый аттрактор пчёл VI
+gregblockutils.machine.attractor.uv.name=Продвинутый аттрактор пчёл VII
+gregblockutils.machine.pump.steam.name=Паровой насос
+gregblockutils.machine.sieve.steam.name=Паровое сито
+gregblockutils.machine.rock_breaker.steam.name=Паровой дробитель породы
+
+item.material.oreprefix.oreChunk=%s кусочек руды
+item.material.oreprefix.oreEnderChunk=Эндер %s кусочек руды
+item.material.oreprefix.oreNetherChunk=Незер %s кусочек руды
+item.material.oreprefix.oreSandyChunk=Песчаный %s кусочек руды
+
+item.gbpebble.basalt.name=Базальтовая галька
+item.gbpebble.black_granite.name=Чёрная гранитная галька
+item.gbpebble.marble.name=Мраморная галька
+item.gbpebble.red_granite.name=Красная гранитная галька
+
+/////
+
+material.aluminium.name=Алюминий
+material.chrome.name=Хром
+material.iridium.name=Иридий
+material.manganese.name=Марганец
+material.molybdenum.name=Молибден
+material.neodymium.name=Неодим
+material.darmstadtium.name=Дармштадтий
+material.osmium.name=Осмий
+material.palladium.name=Палладий
+material.thorium.name=Торий
+material.titanium.name=Титан
+material.tungsten.name=Вольфрам
+material.uranium.name=Уран
+material.uranium235.name=Уран-235
+material.brass.name=Латунь
+material.invar.name=Инвар
+material.magnalium.name=Магналий
+material.stainless_steel.name=Нержавеющая сталь Сталь
+material.ultimet.name=Ultimet
+material.wrought_iron.name=Кованое железо
+material.osmiridium.name=Осмиридий
+material.sterling_silver.name=Стерлинговое серебро
+material.rose_gold.name=Розовое золото
+material.black_bronze.name=Черная бронза
+material.bismuth_bronze.name=Висмутовая бронза
+material.black_steel.name=Черная сталь
+material.red_steel.name=Красная сталь
+material.blue_steel.name=Синяя сталь
+material.damascus_steel.name=Дамасская сталь
+material.tungsten_steel.name=Вольфрамовая сталь
+material.cobalt_brass.name=Кобальтовая латунь
+material.tungsten_carbide.name=Вольфрам Карбид
+material.vanadium_steel.name=Ванадиевая сталь
+material.hssg.name=HSS-G
+material.hsse.name=HSS-E
+material.hsss.name=HSS-S
+material.naquadah.name=Наквада
+material.naquadah_alloy.name=Сплав наквада
+material.naquadah_enriched.name=Обогащенный наквада
+material.tritanium.name=Тритан
+material.duranium.name=Дуран
+material.enderium.name=Эндерий
+material.neutronium.name=Нейтроний
+material.blue_topaz.name=Голубой топаз
+material.diamond.name=Алмаз
+material.emerald.name=Изумруд
+material.green_sapphire.name=Зеленый Сапфир
+material.ruby.name=Рубин
+material.sapphire.name=Сапфир
+material.tanzanite.name=Танзанит
+material.topaz.name=Топаз
+material.olivine.name=Оливин
+material.opal.name=Опал
+material.amethyst.name=Аметист
+material.garnet_red.name=Красный гранит
+material.garnet_yellow.name=Жёлтый гранит
+material.vinteum.name=Винтеум

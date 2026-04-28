@@ -1,0 +1,3 @@
+config.bpopener.addTooltip.name=Включить подсказки
+config.bpopener.returnToInventory.name=Вернуться в инвентарь
+tooltip.bpopener.open.name=§f§oПКМ чтобы открыть§r

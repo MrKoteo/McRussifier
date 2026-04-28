@@ -1,0 +1,14 @@
+carryon.category.settings=Настройки
+carryon.category.blacklist=Черный список
+carryon.category.modeloverrides=Переопределения моделей (расширенные)
+carryon.category.custompickupconditions=Пользовательские условия подбора (расширенные)
+carryon.category.whitelist=Белый список
+
+carryon.general.modeloverrides.modeloverrides=Переопределения моделей
+carryon.general.blacklist.forbiddenentities=Сущности, которые игрок не может подобрать
+carryon.general.blacklist.forbiddentiles=Блоки, которые игрок не может подобрать
+carryon.category.custompickupconditions.custompickupconditionsblocks=Пользовательские условия подбора блоков
+carryon.category.custompickupconditions.custompickupconditionsentities=Пользовательский подбор сущностей Условия
+
+key.carry.desc=Carry
+key.carry.category=Carry On

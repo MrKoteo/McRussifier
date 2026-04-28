@@ -1,0 +1,11 @@
+itemGroup.packagingprovider=Packaging Provider
+
+tile.packagingprovider.packaging_provider.name=ME провайдер упаковки
+tile.packagingprovider.packaging_provider.direct.false=Не предоставлять прямые рецепты
+tile.packagingprovider.packaging_provider.direct.true=Предоставлять прямые рецепты
+tile.packagingprovider.packaging_provider.packaging.false=Не предоставлять упакованные рецепты
+tile.packagingprovider.packaging_provider.packaging.true=Предоставлять упакованные рецепты
+tile.packagingprovider.packaging_provider.unpackaging.false=Не предоставлять распакованные рецепты
+tile.packagingprovider.packaging_provider.unpackaging.true=Предоставлять распакованные рецепты
+tile.packagingprovider.packaging_provider.no_holders=Нет доступных держателей рецептов
+tile.packagingprovider.packaging_provider.holder_present=Держатель рецептов уже представлен

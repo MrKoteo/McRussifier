@@ -1,0 +1,11 @@
+gui.crafting_tree.title=Предпросмотр дерева крафта
+gui.crafting_tree.switch=Просмотреть дерево крафта
+gui.crafting_tree.sub_node_missing=§cНедостаточно ингредиентов.§f
+gui.crafting_tree.missing=§cНе хватает: §e%s§f
+gui.crafting_tree.screenshot=Скриншот дерева крафта §c(Не реализовано)§f
+gui.crafting_tree.missing_only=Нажмите, чтобы отобразить только узлы с недостающими материалами.
+gui.crafting_tree.default=Нажмите, чтобы вернуться к виду по умолчанию.
+gui.crafting_tree.back=Назад
+gui.crafting_tree.tip.0=Нажмите на узел, чтобы выбрать его.
+gui.crafting_tree.tip.1=Нажмите на пустое место, чтобы снять выделение, используйте стрелки для навигации.
+gui.crafting_tree.tip.2=Удерживайте CTRL для перемещения между недостающими предметами (только ← →).

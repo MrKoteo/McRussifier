@@ -1,0 +1,5 @@
+gui.quitGame=Выйти из игры?
+gui.quitLevel=Выйти в меню?
+key.categories.quit=Выход
+key.quit.fastQuit=Быстрый выход
+key.quit.bossKey=Boss Key

@@ -1,0 +1,142 @@
+//Предметы
+item.trinity.u233_pit.name=Подкритическая сфера Урана-233
+item.trinity.u235_pit.name=Подкритические сферы Урана-235
+item.trinity.np237_pit.name=Подкритическая сфера Нептуния-237
+item.trinity.pu239_pit.name=Подкритическая сфера Плутония-239
+item.trinity.am242_pit.name=Подкритическая сфера Америция-242
+item.trinity.cm247_pit.name=Подкритическая сфера Кюрия-247
+item.trinity.bk248_pit.name=Подкритическая сфера Берклия-248
+item.trinity.cf249_pit.name=Подкритическая сфера Калифорния-249
+item.trinity.cf251_pit.name=Подкритическая сфера Калифорния-251
+item.trinity.gem_witherite.name=Витерит
+item.trinity.gem_dust_witherite.name=Измельчённый витерит
+item.trinity.barium.name=Порошок бария
+item.trinity.compound_barium_oxide.name=Оксид бария
+item.trinity.compound_barium_nitrate.name=Нитрат бария
+item.trinity.compound_lithium_deuteride.name=Дейтерид лития
+item.trinity.detonator.name=Ядерный детонатор
+item.trinity.trinitite_shard.name=Осколок тринитита
+item.trinity.neutron_initiator.name=Полоний-бериллиевый нейтронный инициатор
+item.trinity.dust_au_198.name=Порошок Золота-198
+item.trinity.ingot_au_198.name=Слиток Золота-198
+item.trinity.source_au_198.name=Источник Золота-198
+
+//Блоки
+tile.trinity.light_container.name=Слабоэкранированный ядерный контейнер
+tile.trinity.medium_container.name=Среднеэкранированный ядерный контейнер
+tile.trinity.heavy_container.name=Сильноэкранированный ядерный контейнер
+
+tile.trinity.trinitite.name=Песок, покрытый тринититом
+tile.trinity.radioactive_earth.name=Радиоактивная пустошная земля
+tile.trinity.radioactive_earth2.name=Сильно радиоактивная пустошная земля
+
+tile.trinity.solid_trinitite.name=Блок тринитита
+tile.trinity.salted_sand.name=Радиоактивный песок
+tile.trinity.salted_sand2.name=Сильно радиоактивный песок
+
+tile.trinity.solid_baratol.name=Баратол
+tile.trinity.compression_charge.name=Заряд сжатия
+
+tile.trinity.core_u233.name=Ядро бомбы деления Урана-233
+tile.trinity.core_u235.name=Ядро бомбы деления Урана-235
+tile.trinity.core_np237.name=Ядро бомбы деления Нептуния-237
+tile.trinity.core_pu239.name=Ядро бомбы деления Плутония-239
+tile.trinity.core_am242.name=Ядро бомбы деления Америция-242
+tile.trinity.core_cm247.name=Ядро бомбы деления Кюрия-247
+tile.trinity.core_bk248.name=Ядро бомбы деления Берклия-248
+tile.trinity.core_cf249.name=Ядро бомбы деления Калифорния-249
+tile.trinity.core_cf251.name=Ядро бомбы деления Калифорния-251
+tile.trinity.thermonuclear_core_pu239.name=Термоядерное ядро
+
+tile.trinity.bomb_u233.name=Бомба деления Урана-233
+tile.trinity.bomb_u235.name=Бомба деления Урана-235
+tile.trinity.bomb_np237.name=Бомба деления Нептуния-237
+tile.trinity.bomb_pu239.name=Бомба деления Плутония-239
+tile.trinity.bomb_am242.name=Бомба деления Америция-242
+tile.trinity.bomb_cm247.name=Бомба деления Кюрия-247
+tile.trinity.bomb_bk248.name=Бомба деления Берклия-248
+tile.trinity.bomb_cf249.name=Бомба деления Калифорния-249
+tile.trinity.bomb_cf251.name=Бомба деления Калифорния-251
+
+tile.trinity.salted_core_u233.name=Заражённое ядро бомбы Урана-233
+tile.trinity.salted_core_u235.name=Заражённое ядро бомбы Урана-235
+tile.trinity.salted_core_np237.name=Заражённое ядро бомбы Нептуния-237
+tile.trinity.salted_core_pu239.name=Заражённое ядро бомбы Плутония-239
+tile.trinity.salted_core_am242.name=Заражённое ядро бомбы Америция-242
+tile.trinity.salted_core_cm247.name=Заражённое ядро бомбы Кюрия-247
+tile.trinity.salted_core_bk248.name=Заражённое ядро бомбы Берклия-248
+tile.trinity.salted_core_cf249.name=Заражённое ядро бомбы Калифорния-249
+tile.trinity.salted_core_cf251.name=Заражённое ядро бомбы Калифорния-251
+
+tile.trinity.salted_bomb_u233.name=Заражённая бомба Урана-233
+tile.trinity.salted_bomb_u235.name=Заражённая бомба Урана-235
+tile.trinity.salted_bomb_np237.name=Заражённая бомба Нептуния-237
+tile.trinity.salted_bomb_pu239.name=Заражённая бомба Плутония-239
+tile.trinity.salted_bomb_am242.name=Заражённая бомба Америция-242
+tile.trinity.salted_bomb_cm247.name=Заражённая бомба Кюрия-247
+tile.trinity.salted_bomb_bk248.name=Заражённая бомба Берклия-248
+tile.trinity.salted_bomb_cf249.name=Заражённая бомба Калифорния-249
+tile.trinity.salted_bomb_cf251.name=Заражённая бомба Калифорния-251
+
+tile.trinity.bomb_antimatter.name=Антиматериальная бомба
+tile.trinity.bomb_cf251.name=Бомба деления Калифорния-251
+tile.trinity.dirty_bomb.name=Грязная бомба
+tile.trinity.gold_bomb.name=Очень грязная бомба
+tile.trinity.fusion_bomb.name=Чистая термоядерная бомба
+tile.trinity.empty_fusion_bomb.name=Чистая термоядерная бомба (Пустая)
+
+//Жидкости
+fluid.witherite_water=Вода с витеритом
+fluid.nitric_oxide=Оксид азота(II)
+fluid.nitrogen_dioxide=Диоксид азота
+fluid.nitric_acid=Азотная кислота
+fluid.barium_nitrate_solution=Раствор нитрата бария
+fluid.tnt=Расплавленный ТНТ
+fluid.baratol=Расплавленный баратол
+fluid.deuterium-tritium_mixture=Смесь дейтерия-трития
+
+tile.trinity.fluid_witherite_water.name=Вода с витеритом
+tile.trinity.fluid_nitric_oxide.name=Оксид азота(II)
+tile.trinity.fluid_nitrogen_dioxide.name=Диоксид азота
+tile.trinity.fluid_nitric_acid.name=Азотная кислота
+tile.trinity.fluid_barium_nitrate_solution.name=Раствор нитрата бария
+tile.trinity.fluid_deuterium-tritium_mixture.name=Смесь дейтерия-трития
+
+//Причины смерти
+death.attack.nuclear_explosion=%1$s превратился в ядерную тень
+
+//Вкладки творческого режима
+itemGroup.Trinity_Tab=Trinity
+
+//Интерфейсы
+gui.container.nuclear_pig.name=Ядерный контейнер
+container.nuclear_pig.name=Ядерный контейнер
+
+//Конфигурации
+gui.config.nuke.u233_radius.comment=Радиус взрыва Урана-233 (по умолчанию:65)
+gui.config.nuke.u235_radius.comment=Радиус взрыва Урана-235 (по умолчанию:54)
+gui.config.nuke.np237_radius.comment=Радиус взрыва Нептуния-237 (по умолчанию:40)
+gui.config.nuke.pu239_radius.comment=Радиус взрыва Плутония-239 (по умолчанию:70)
+gui.config.nuke.am242_radius.comment=Радиус взрыва Америция-242 (по умолчанию:86)
+gui.config.nuke.cm247_radius.comment=Радиус взрыва Кюрия-247 (по умолчанию:62)
+gui.config.nuke.bk248_radius.comment=Радиус взрыва Берклия-248 (по умолчанию:61)
+gui.config.nuke.cf249_radius.comment=Радиус взрыва Калифорния-249 (по умолчанию:97)
+gui.config.nuke.cf251_radius.comment=Радиус взрыва Калифорния-251 (по умолчанию:101)
+gui.config.nuke.cust1_radius.comment=Радиус взрыва 1-й пользовательской бомбы (по умолчанию:50)
+gui.config.nuke.cust2_radius.comment=Радиус взрыва 2-й пользовательской бомбы (по умолчанию:50)
+gui.config.nuke.cust3_radius.comment=Радиус взрыва 3-й пользовательской бомбы (по умолчанию:50)
+gui.config.nuke.cust4_radius.comment=Радиус взрыва 4-й пользовательской бомбы (по умолчанию:50)
+gui.config.nuke.icbm_radius.comment=Радиус взрыва ядерной ракеты (по умолчанию:50)
+gui.config.nuke.antimatter_radius.comment=Радиус взрыва антиматерии (по умолчанию:25)
+gui.config.fallout.fallout_multiplier.comment=Множитель радиуса радиоактивных осадков (по умолчанию:5)
+gui.config.fallout.fallout_rendering.comment=Визуализация радиоактивных осадков (по умолчанию:true)
+gui.config.fallout.salted_burst.comment=Начальная сила радиации заражённой бомбы (рад/тик) (по умолчанию:50)
+gui.config.nuke.speed.comment=Скорость обновления блоков осадков (по умолчанию:512)
+gui.config.nuke.capacity.comment=Прочность источника Золота-198
+gui.config.nuke.thermonuclear.comment=Включить термоядерные бомбы (по умолчанию:true)
+gui.config.nuke.custom_nukes.comment=Включить пользовательские бомбы (4 типа + заражённые версии) (по умолчанию:false)
+gui.config.fallout.lava_gen.comment=Генерировать лаву при создании осадков (ВЫЗЫВАЕТ СИЛЬНЫЕ ЛАГИ ПРИ БОЛЬШИХ ВЗРЫВАХ) (по умолчанию:true)
+gui.config.nuke.max_radius.comment=Максимальный радиус термоядерного взрыва (по умолчанию:1000)
+
+//gui.config.fallout.fallout_rendering.comment=Enable fallout rendering?
+

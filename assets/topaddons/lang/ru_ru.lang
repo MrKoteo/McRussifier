@@ -1,0 +1,130 @@
+topaddons.config:title=TOP Addons
+topaddons.config:category_client=TOP Addons — клиент
+topaddons.config:category_client.tooltip=Клиентские настройки (визуал)
+topaddons.config:category_server=TOP Addons — сервер
+topaddons.config:category_server.tooltip=
+topaddons.config:category_server_helmets=Шлемы
+topaddons.config:category_server_helmets.tooltip=Какие шлемы можно комбинировать с датчиком
+topaddons.config:category_server_bloodmagic=Blood Magic
+topaddons.config:category_server_bloodmagic.tooltip=Нужна ли сигнила для отображения информации датчика
+topaddons.config:category_server_vanilla=Vanilla
+topaddons.config:category_server_stevescarts=Steve's Carts 2
+topaddons.config:category_server_lycanitesmobs=Lycanite's Mobs
+topaddons.config:category_server_storagedrawers=Storage Drawers
+
+topaddons.config:helmets_probable=Любой шлем можно объединить с датчиком
+topaddons.config:helmets_probable.tooltip=Если включено, любой шлем в игре можно объединить с датчиком, чтобы видеть HUD без удержания датчика.
+topaddons.config:helmets_blacklist=Шлемы, которые нельзя объединять
+topaddons.config:bloodmagic_sigil=Нужна сигнила для информации алтаря
+topaddons.config:bloodmagic_sigil.tooltip=Требуется ли сигнила прорицания или предвидения для просмотра информации об алтаре крови
+topaddons.config:bloodmagic_mimick_sigil=Показывать мимик с сигнилой предвидения
+topaddons.config:bloodmagic_mimick_sigil.tooltip=Показывать тип блока-мимика в подсказке HUD при наличии сигнилы предвидения
+topaddons.config:vanilla_breeding_cooldown=Показывать таймер размножения животных
+topaddons.config:vanilla_breeding_cooldown.tooltip=Показывать, через сколько животное снова сможет размножаться (при приседании или держа предмет для размножения)
+topaddons.config:vanilla_growup_timer=Показывать таймер взросления животных
+topaddons.config:vanilla_growup_timer.tooltip=Показывать, через сколько детёныш вырастет (при приседании или держа предмет для размножения)
+topaddons.config:stevescarts_chest_contents=Показывать инвентарь вагонетки
+topaddons.config:stevescarts_chest_contents.tooltip=Показывать содержимое всех сундучных модулей
+topaddons.config:storagedrawers_extended=Заменить расширенную информацию
+topaddons.config:storagedrawers_extended.tooltip=Заменить стандартную расширенную информацию о ящиках Storage Drawers
+
+topaddons:generating=Генерация
+topaddons:consumption=Потребление
+topaddons:tank_empty=Пусто
+topaddons:none=Нет
+
+topaddons.forestry:fruit=Плод
+topaddons.forestry:ripe=Спелый
+topaddons.forestry:unripe=Неспелый
+topaddons.forestry:maturity=Созревание
+topaddons.forestry:pollinated=Опылён
+topaddons.forestry:moistener_speed=Скорость
+topaddons.forestry:engine_stored=Запасено
+topaddons.forestry:engine_heat=Температура
+topaddons.forestry:errors_nowork=Не работает
+
+topaddons.bloodmagic:tranquility=Безмятежность
+topaddons.bloodmagic:bonus=Бонус
+topaddons.bloodmagic:tier=Уровень
+topaddons.bloodmagic:filling=Наполнение сети
+topaddons.bloodmagic:unbound_orb=Сфера не привязана
+topaddons.bloodmagic:consumption=Потребление
+
+topaddons.ic2:no_sky=Небо закрыто/слишком темно
+topaddons.ic2:destination=Назначение
+topaddons.ic2:blueprint=Чертёж
+topaddons.ic2:transmitting=Передача
+topaddons.ic2:buffer=Буфер
+topaddons.ic2:max_transfer=Макс. передача
+topaddons.ic2:crop_name=Название культуры
+topaddons.ic2:crop_nutrient=Питательные вещества
+topaddons.ic2:crop_water=Вода
+topaddons.ic2:crop_weedex=Хранилище Weed-Ex
+topaddons.ic2:crop_growth=Очки роста
+topaddons.ic2:power_tier=Уровень энергии
+topaddons.ic2:mb_rate=Скорость
+topaddons.ic2:owner=Владелец
+topaddons.ic2:uu_amplifier=Усилитель
+topaddons.ic2:uu_replicating=Репликация
+topaddons.ic2:uu_stored_patterns=Сохранённые шаблоны
+topaddons.ic2:uu_scanning=Сканирование
+topaddons.ic2:heat_production=Выработка тепла
+topaddons.ic2:max_output=Макс. выход
+topaddons.ic2:miner_drill=Бур
+topaddons.ic2:miner_pipes=Трубы
+topaddons.ic2:miner_scanner=Сканер
+topaddons.ic2:miner_no_drill=Нет бура
+topaddons.ic2:miner_no_pipes=Нет труб
+topaddons.ic2:miner_no_scanner=Нет сканера
+topaddons.ic2:mode=Режим
+
+topaddons.neotech:durability=Прочность
+
+topaddons.storage_drawers:shrouded=Скрыто
+
+topaddons.vanilla:pitch=Высота тона
+topaddons.vanilla:rock=Бас-барабан
+topaddons.vanilla:sand=Малый барабан
+topaddons.vanilla:glass=Клик-трещотка
+topaddons.vanilla:wood=Бас-гитара
+topaddons.vanilla:else=Пианино/Арфа
+topaddons.vanilla:instrument=Инструмент
+topaddons.vanilla:nobreed=Не может размножаться
+topaddons.vanilla:adultin=Вырастет через
+
+topaddons.stevescarts2:priority_high=Высокий
+topaddons.stevescarts2:priority_medium=Средний
+topaddons.stevescarts2:priority_low=Низкий
+topaddons.stevescarts2:priority_disabled=Отключён
+topaddons.stevescarts2:assembly_time=Время сборки
+topaddons.stevescarts2:engine_outofwater=Нет воды
+topaddons.stevescarts2:engine_outoflava=Нет лавы
+topaddons.stevescarts2:engine_outofpower=Нет энергии
+topaddons.stevescarts2:engine_outoffuel=Нет топлива
+topaddons.stevescarts2:engine_powered=Под питанием
+
+topaddons.opencomputers:last_error=Последняя ошибка
+topaddons.opencomputers:connected_components=Подключённые компоненты
+topaddons.opencomputers:charge_speed=Скорость заряда
+topaddons.opencomputers:server=Сервер
+topaddons.opencomputers:raid_space=Использовано/всего места
+topaddons.opencomputers:label=Метка
+topaddons.opencomputers:side=Сторона
+
+topaddons.advgenerators:turbines=Турбины
+topaddons.advgenerators:fuel=Топливо
+topaddons.advgenerators:speed=Скорость
+topaddons.advgenerators:max_output=Макс. выход
+topaddons.advgenerators:heat=Температура
+topaddons.advgenerators:carbon=Углерод
+topaddons.advgenerators:steam=Пар
+topaddons.advgenerators:production=Выработка
+topaddons.advgenerators:max_heat_transfer=Макс. перенос тепла
+topaddons.advgenerators:fluid_production=Выработка жидкости
+topaddons.advgenerators:fluid_consumption=Потребление жидкости
+
+topaddons.lycanites:discovered=Обнаружен
+topaddons.lycanites:undiscovered=Не обнаружен
+topaddons.lycanites:summonable=Можно призвать
+topaddons.lycanites:tameable=Можно приручить
+topaddons.lycanites:soulbound=Привязан к душе

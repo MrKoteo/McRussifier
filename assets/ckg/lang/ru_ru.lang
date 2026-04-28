@@ -1,0 +1,19 @@
+# Creative Tab
+itemGroup.ckg=Compact Turbines
+
+# Блоки
+tile.ckg:BlockCkg.name=Ветрогенератор высокого напряжения (HV)
+tile.ckg:BlockCkg1.name=Ветрогенератор Extreme напряжения (EV)
+tile.ckg:BlockCkg2.name=Ветрогенератор Insane напряжения (IV)
+tile.ckg:BlockCkg3.name=Ветрогенератор Ludicrous напряжения (LuV)
+tile.ckg:BlockCkg4.name=Гидрогенератор высокого напряжения (HV)
+tile.ckg:BlockCkg5.name=Гидрогенератор Extreme напряжения (EV)
+tile.ckg:BlockCkg6.name=Гидрогенератор Insane напряжения (IV)
+tile.ckg:BlockCkg7.name=Гидрогенератор Ludicrous напряжения (LuV)
+
+# Предметы
+item.ckg:IridiumRotor.name=Ротор кинетической коробки передач (Иридий)
+item.ckg:IridiumBlade.name=Иридиевая лопасть ротора
+
+# Подсказки
+tooltip.ckg.ku=Выходная мощность: 0-%sx KU/t макс.

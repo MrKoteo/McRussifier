@@ -1,0 +1,16 @@
+improvedmobs.debug=Отладка
+improvedmobs.general=Основные настройки
+improvedmobs.list=Чёрный/Белый список
+improvedmobs.ai=Настройки ИИ
+improvedmobs.equipment=Настройки экипировки
+improvedmobs.attributes=Настройки атрибутов
+improvedmobs.integration=Интеграция
+improvedmobs.gui=Интерфейс
+
+improvedmobs.debug.tooltip=Отладка
+improvedmobs.general.tooltip=При значении по умолчанию каждый бонус сложности достигает максимума на сложности 250.
+improvedmobs.ai.tooltip=Настройки, связанные с пользовательским ИИ для мобов.
+improvedmobs.equipment.tooltip=Настройки, связанные с появлением мобов с экипировкой.
+improvedmobs.attributes.tooltip=Настройки для модификаторов атрибутов.
+improvedmobs.integration.tooltip=Настройки для интеграции с модами.
+improvedmobs.gui.tooltip=Настройки интерфейса.

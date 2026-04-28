@@ -1,0 +1,5 @@
+tooltip.foodspoiling.does_not_rot=Не портится
+tooltip.foodspoiling.good_for_days=Годен ещё %s день(дня/дней)
+tooltip.foodspoiling.good_for_less_than_day=Годен менее одного дня
+tooltip.foodspoiling.lifetime_factor=Фактор срока годности: %s
+tooltip.foodspoiling.stored_in_container=При хранении в открытой ёмкости:

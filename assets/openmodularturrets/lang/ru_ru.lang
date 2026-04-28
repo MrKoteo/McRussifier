@@ -1,0 +1,298 @@
+item.throwable_bullet.name=Метательная пуля
+item.throwable_grenade.name=Метательная граната
+item.ammo_bullet.name=Боеприпас - Пуля
+item.ammo_grenade.name=Боеприпас - Граната
+item.ammo_rocket.name=Боеприпас - Ракета
+item.ammo_ferro_slug.name=Боеприпас - Ферромагнитный снаряд
+item.ammo_blazing_clay.name=Боеприпас - Пылающая глина
+item.upgrade_fire_rate.name=Улучшение - Скорострельность
+item.upgrade_efficiency.name=Улучшение - Эффективность
+item.upgrade_range.name=Улучшение - Дальность
+item.upgrade_accuracy.name=Улучшение - Точность
+item.upgrade_scatter_shot.name=Улучшение - Разлётный выстрел
+item.addon_redstone_reactor.name=Дополнение - Реактор на красной пыли
+item.addon_damage_amp.name=Дополнение - Усиление урона
+item.addon_solar_panel.name=Дополнение - Солнечная панель
+item.addon_potentia.name=Дополнение - Конвертер Potentia
+item.addon_serial_port.name=Дополнение - Последовательный порт
+item.addon_recycler.name=Дополнение - Переработчик
+item.addon_concealer.name=Дополнение - Маскировка турели
+item.addon_fake_drops.name=Дополнение - Фейковые дропы
+item.sensor_tier_one.name=Сенсор (Уровень 1)
+item.sensor_tier_two.name=Сенсор (Уровень 2)
+item.sensor_tier_three.name=Сенсор (Уровень 3)
+item.sensor_tier_four.name=Сенсор (Уровень 4)
+item.sensor_tier_five.name=Сенсор (Уровень 5)
+item.chamber_tier_one.name=Камера (Уровень 1)
+item.chamber_tier_two.name=Камера (Уровень 2)
+item.chamber_tier_three.name=Камера (Уровень 3)
+item.chamber_tier_four.name=Камера (Уровень 4)
+item.chamber_tier_five.name=Камера (Уровень 5)
+item.barrel_tier_one.name=Ствол (Уровень 1)
+item.barrel_tier_two.name=Ствол (Уровень 2)
+item.barrel_tier_three.name=Ствол (Уровень 3)
+item.barrel_tier_four.name=Ствол (Уровень 4)
+item.barrel_tier_five.name=Ствол (Уровень 5)
+item.io_bus.name=Шина ввода-вывода
+item.memory_card.name=Карта памяти турели
+
+tile.turret_base_tier_one.name=Деревянная основа для турели
+tile.turret_base_tier_two.name=Свинцовая основа для турели
+tile.turret_base_tier_three.name=Усиленная основа для турели
+tile.turret_base_tier_four.name=Закалённая основа для турели
+tile.turret_base_tier_five.name=Резонирующая основа для турели
+
+tile.disposable_item_turret.name=Одноразовая турель
+tile.potato_cannon_turret.name=Турель с картофельной пушкой
+tile.rocket_turret.name=Турель с базукой
+tile.teleporter_turret.name=Турель с телепортом
+tile.machine_gun_turret.name=Пулемётная турель
+tile.incendiary_turret.name=Зажигательная турель
+tile.grenade_turret.name=Турель-гранатомёт
+tile.relativistic_turret.name=Релятивистская турель
+tile.laser_turret.name=Лазерная турель
+tile.rail_gun_turret.name=Рельсовая турель
+tile.lever_block.name=Базовая турельная ручка
+tile.expander_power_tier_one.name=Расширитель мощности базы (Уровень 1)
+tile.expander_power_tier_two.name=Расширитель мощности базы (Уровень 2)
+tile.expander_power_tier_three.name=Расширитель мощности базы (Уровень 3)
+tile.expander_power_tier_four.name=Расширитель мощности базы (Уровень 4)
+tile.expander_power_tier_five.name=Расширитель мощности базы (Уровень 5)
+tile.expander_inv_tier_one.name=Расширитель инвентаря базы (Уровень 1)
+tile.expander_inv_tier_two.name=Расширитель инвентаря базы (Уровень 2)
+tile.expander_inv_tier_three.name=Расширитель инвентаря базы (Уровень 3)
+tile.expander_inv_tier_four.name=Расширитель инвентаря базы (Уровень 4)
+tile.expander_inv_tier_five.name=Расширитель инвентаря базы (Уровень 5)
+tile.base_addon_loot_deleter.name=Дополнение базы - Удаление дропа
+
+# для IGWMod
+tile.turret_base.name=База турели
+
+itemGroup.openmodularturrets=Open Modular Turrets
+
+gui.omtteam.openmodularturrets:base=База
+
+gui.omtteam.openmodularturrets:attack_mobs=Атаковать мобов
+gui.omtteam.openmodularturrets:attack_neutrals=Атаковать нейтралов
+gui.omtteam.openmodularturrets:attack_players=Атаковать игроков
+gui.omtteam.openmodularturrets:multi_targeting=Мульти-таргетинг
+gui.omtteam.openmodularturrets:addons=Дополнения
+gui.omtteam.openmodularturrets:upgrades=Улучшения
+gui.omtteam.openmodularturrets:ammo=Боеприпасы/Топливо
+gui.omtteam.openmodularturrets:damage_amp=Усиление урона (отн. к HP)
+gui.omtteam.openmodularturrets:inventory=Инвентарь
+gui.omtteam.openmodularturrets:target=Цель
+gui.omtteam.openmodularturrets:targeting_options=Настройки цели
+gui.omtteam.openmodularturrets:permissions=Разрешения
+gui.omtteam.openmodularturrets:multi=Мульти
+gui.omtteam.openmodularturrets:single=Одиночный
+gui.omtteam.openmodularturrets:yaw=Поворот
+gui.omtteam.openmodularturrets:pitch=Наклон
+gui.omtteam.openmodularturrets:toggle=Переключить
+gui.omtteam.openmodularturrets:auto_fire=Авто-огонь
+gui.omtteam.openmodularturrets:turret=Турель
+gui.omtteam.openmodularturrets:turret_base_description=Ядро модульной турели.
+gui.omtteam.openmodularturrets:turret_head_description=Голова турели, устанавливается на базу.
+gui.omtteam.openmodularturrets:turret_lever_description=Ручка для генерации энергии, устанавливается на базу уровня 1.
+gui.omtteam.openmodularturrets:no_turret=На базе нет турели.
+gui.omtteam.openmodularturrets:type=Тип
+gui.omtteam.openmodularturrets:range=Дальность
+gui.omtteam.openmodularturrets:rof=Скорострельность
+gui.omtteam.openmodularturrets:accuracy=Точность
+gui.omtteam.openmodularturrets:drop_turrets=Выбросить турели
+gui.omtteam.openmodularturrets:drop_base=Выбросить базу
+gui.omtteam.openmodularturrets:configure=Настроить
+gui.omtteam.openmodularturrets:kills=Убийств (Всего)
+gui.omtteam.openmodularturrets:player_kills=Убийств (Игроков)
+gui.omtteam.openmodularturrets:light_value=Уровень света
+gui.omtteam.openmodularturrets:light_opacity=Непрозрачность света
+
+tooltip.tier=Уровень
+tooltip.range=Дистанция (в блоках)
+tooltip.accuracy=Точность
+tooltip.ammo=Тип боеприпасов
+tooltip.tier_required=Необходимая основа
+tooltip.damage.label=Характеристика урона
+tooltip.damage.stat=Урон по противнику
+tooltip.aoe=Радиус АОЕ
+tooltip.fire_rate=Выстрелов/сек
+tooltip.energy.stat=Расход энергии за выстрел
+tooltip.info=Информация
+tooltip.health=единиц
+
+tooptip.energy.label=Энергия
+tooltip.rf.max=Максимальная ёмкость
+tooltip.rf.io=Максимальный ввод/вывод
+tooltip.extras.label=Дополнения
+tooltip.extras.addons.0=Ничего
+tooltip.extras.addons.1=1x слот дополнений
+tooltip.extras.addons.2=2x слот дополнений
+tooltip.extras.upgrade.0=Ничего
+tooltip.extras.upgrade.1=1x слот улучшений
+tooltip.extras.upgrade.2=2x слот улучшений
+
+tooltip.expander.power1=Расширитель RF базы турели
+tooltip.expander.power2=Добавляет
+tooltip.expander.power3=ёмкости RF к базе турели.
+
+tooltip.expander.inv1=Расширитель инвентаря базы турели
+tooltip.expander.inv2=Добавляет 9 слотов инвентаря, которые может использовать база турели.
+tooltip.expander.inv3=Каждый слот может принимать только максимум
+
+tooltip.base_addon_loot_deleter.inv1=Дополнение базы - Удаление дропа
+tooltip.base_addon_loot_deleter.inv2=Удаляет весь выпавший дроп с
+tooltip.base_addon_loot_deleter.inv3=врагов, убитых прикреплённой базой.
+
+tooltip.openmodularturrets.memory_card.desc1=Shift+ПКМ по базе сохраняет данные
+tooltip.openmodularturrets.memory_card.desc2=Shift+ПКМ в другом месте очищает
+tooltip.openmodularturrets.memory_card.desc3=ПКМ по базе копирует данные с карты
+
+tooltip.omtteam.openmodularturrets:add_trusted_player=Добавляет указанного игрока в список доверенных турели.
+tooltip.omtteam.openmodularturrets:remove_trusted_player=Удаляет просматриваемого доверенного игрока из списка турели.
+tooltip.omtteam.openmodularturrets:view_previous_trusted_player=Просмотреть предыдущего доверенного игрока.
+tooltip.omtteam.openmodularturrets:view_next_trusted_player=Просмотреть следующего доверенного игрока.
+tooltip.omtteam.openmodularturrets:tp_none=Игрок не может открывать GUI.
+tooltip.omtteam.openmodularturrets:tp_can_open_gui=Игрок может открывать GUI.
+tooltip.omtteam.openmodularturrets:tp_can_change_settings=Игрок может изменять параметры базы.
+tooltip.omtteam.openmodularturrets:tp_can_administer=Игрок может управлять турелью (доверенные игроки и выброс).
+tooltip.omtteam.openmodularturrets:tp_decrease_access=Понизить уровень доступа просматриваемого доверенного игрока.
+tooltip.omtteam.openmodularturrets:tp_increase_access=Повысить уровень доступа просматриваемого доверенного игрока.
+tooltip.omtteam.openmodularturrets:info_access_level=Когда игрок выбран, это показывает его уровень доступа.
+tooltip.omtteam.openmodularturrets:target_mobs=Если турели базы атакуют мобов.
+tooltip.omtteam.openmodularturrets:target_neutrals=Если турели базы атакуют нейтральных существ.
+tooltip.omtteam.openmodularturrets:target_players=Если турели базы атакуют (не доверенных) игроков.
+tooltip.omtteam.openmodularturrets:tp_text_field=Имя доверенного игрока для добавления.
+tooltip.omtteam.openmodularturrets:minus_range=Уменьшает максимальную дальность поиска целей турелью на
+tooltip.omtteam.openmodularturrets:plus_range=Увеличивает максимальную дальность поиска целей турелью на
+tooltip.omtteam.openmodularturrets:configure_base=Открыть экран настроек базы.
+tooltip.omtteam.openmodularturrets:multi_targeting=Изменяет, должны ли турели сосредотачивать огонь или распределять его.
+tooltip.omtteam.openmodularturrets:ammo_slot=Боеприпасы и топливо для модульной турели.
+tooltip.omtteam.openmodularturrets:addon_slot=Дополнения (для дополнительных функций) для модульной турели.
+tooltip.omtteam.openmodularturrets:upgrade_slot=Улучшения для модульной турели.
+tooltip.omtteam.openmodularturrets:base_max_range=Максимальная дальность, на которой все установленные турели будут искать цели, в блоках.
+tooltip.omtteam.openmodularturrets:toggle_mode=Переключить режимы вкл/выкл
+
+flavour.expander.power.1=Теперь с ароматом!
+flavour.expander.power.2=Кинетическое расширение.
+flavour.expander.power.3=Там, их и они.
+flavour.expander.power.4=Может использоваться как устройство для погружения.
+flavour.expander.power.5=Асимметричная война.
+
+flavour.expander.inv.1=Немного имеет большое значение.
+flavour.expander.inv.2=Припасы!
+flavour.expander.inv.3=Волосы, наследник и заяц.
+flavour.expander.inv.4=Может использоваться как плавучее устройство.
+flavour.expander.inv.5=Очень много места, очень много инвентаря.
+
+flavour.base_addon_loot_deleter.inv.1=Просто немного дыма.
+
+flavour.base.1=Выпью твою кровь.
+flavour.base.2=Я сказал: "Доброго дня, сэр!"
+flavour.base.3=Нажать для атаки!
+flavour.base.4=Продолжай атаку!
+flavour.base.5a=Интересно, сможет ли эта
+flavour.base.5b=штука перевернуть бочку?..
+
+flavour.turret.0=Спокойный сон бедняка.
+flavour.turret.1=ТРАТАТА!! ТРАТАТАТАТА!!
+flavour.turret.2a=Другим примером является побудительная
+flavour.turret.2b=форма парадокса сферической лошади в вакууме.
+flavour.turret.3=Бах-бабах!
+flavour.turret.4=Тесла мог бы гордиться.
+flavour.turret.5=Большое Финишное Глушило.
+flavour.turret.6=Настоящий шедевр из ПВХ.
+flavour.turret.7=Пылающий разрыв.
+flavour.turret.8=Точка отсчета.
+flavour.turret.9a=Это похоже на длинные нити спагетти,
+flavour.turret.9b=но в 11 измерениях.
+
+turret.accuracy.low=Низкая
+turret.accuracy.medium=Средняя
+turret.accuracy.high=Высокая
+turret.accuracy.exact=Абсолютная
+
+turret.ammo.0=Любой блок/предмет
+turret.ammo.1=Патрон
+turret.ammo.2=Граната
+turret.ammo.3=Крылатая ракета
+turret.ammo.4=Ничего
+turret.ammo.5=Ферромагнитная пуля
+turret.ammo.6=Картошка
+turret.ammo.7=Пылающая глина
+
+base.tier.1=Свинцовая
+base.tier.2=Усиленная
+base.tier.3=Закалённая
+base.tier.4=Резонирующая
+base.tier.5=База турели 5-го уровня
+
+turret.addon.label=Дополнение для турели
+turret.addon.amp.a.label=Добавляет
+turret.addon.amp.b.label=урона каждому выстрелу.
+turret.addon.amp.flavour=Теперь у нас есть сокрушительная сила.
+turret.addon.redstone.a=Производит
+turret.addon.redstone.b=RF за
+turret.addon.redstone.c=красной пыли в инвентаре для боеприпасов.
+turret.addon.redstone.flavour=Изысканное поглощение.
+turret.addon.solar.a=Производит
+turret.addon.solar.b=RF/тик, когда светит солнце.
+turret.addon.solar.flavour=Добрый Гелиос!
+turret.addon.potentia.a=Преобразует Potentia в RF (
+turret.addon.potentia.b=RF за единицу).
+turret.addon.potentia.c=Добавляет внутреннюю ёмкость Potentia в
+turret.addon.potentia.d=Добавление Ordo vis через сеть
+turret.addon.potentia.e=увеличивает скорость преобразования RF в 10 раз.
+turret.addon.potentia.flavour=Потому что Eskom не может справиться...
+turret.addon.serial.a=Обеспечивает совместимость с OpenComputers и ComputerCraft.
+turret.addon.serial.b=совместимость.
+turret.addon.serial.flavour=Кому нужен ООП?
+turret.addon.recycler.1=Добавляет шанс, что турель не использует боеприпасы,
+turret.addon.recycler.2=а также шанс генерировать боеприпасы за каждый выстрел.
+turret.addon.recycler.3=Шанс отмены использования боеприпасов:
+turret.addon.recycler.4=Шанс генерации боеприпасов:
+turret.addon.recycler.flavour=Сокращай, используй повторно, утверждай.
+turret.addon.concealer.1=Скрывает турели, когда они не стреляют.
+turret.addon.concealer.flavour=DiggyDiggy Hole!
+turret.addon.fakedrops.a=Заставляет мобов, убитых турелями,
+turret.addon.fakedrops.b=выпадать дроп, как если бы их убил игрок.
+turret.addon.fakedrops.flavour=Включите стиль!
+
+turret.upgrade.label=Улучшение для турели
+turret.upgrade.turretinfo=Для эффектов см. Подсказки инструментов турелей.
+turret.upgrade.stacks=Не более 4 предметов в стаке.
+
+turret.upgrade.range=блока к дистанции за каждое улучшение.
+turret.upgrade.range.flavour=Не передадите мне вилку?
+
+turret.upgrade.rof=к скорости стрельбы за каждое улучшение.
+turret.upgrade.rof.flavour=Потребление времени потребляет время.
+
+turret.upgrade.eff=RF используется для выстрела, за каждое улучшение.
+turret.upgrade.eff.flavour=Эврика!
+
+turret.upgrade.acc=к точности за каждое улучшение.
+turret.upgrade.acc.flavour.a=Снайпер с острым зрением,
+turret.upgrade.acc.flavour.b=я стреляю - ты бежишь.
+
+turret.upgrade.scatter.a=Добавляет 2 снаряда к каждому выстрелу, за счёт
+turret.upgrade.scatter.b=+2 использования боеприпасов, снижения точности и увеличения расхода RF.
+turret.upgrade.scatter.flavour=Просто нужно стрелять больше пуль.
+
+turret.ammo.label=Боеприпасы турели
+turret.ammo.blazing_clay=Пылающая глина для зажигательной турели
+turret.ammo.bullet=Простая пуля для использования с пулемётной турелью.
+turret.ammo.ferro_slug=Этот продвинутый снаряд для рельсовой пушки.
+turret.ammo.grenade=Хорошая граната для гранатомёта.
+turret.ammo.rocket=Ракеты используются ракетной турелью, очевидно!
+
+status.ownership=Вы не владелец данной турели
+status.missing_base=Здесь нет нужной базы для турели.
+status.warning=Вы вошли в зону действия турелей. Двигайтесь дальше на свой страх и риск.
+
+death.attack.disposable=Очень %s, много смерти, вау...
+death.attack.bullet=%s попробовал вкусный свинец.
+death.attack.blazingclay=%s был приготовлен до сочной средней прожарки.
+death.attack.grenade=%s может потребовать некоторой сборки.
+death.attack.rocket=%s нашёл радужное соединение в виде ракеты.
+death.attack.laser=%s был уничтожен.
+death.attack.ferroslug=%s нашёл атомизированную Минерву.

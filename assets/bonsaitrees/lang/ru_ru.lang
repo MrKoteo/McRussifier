@@ -1,0 +1,75 @@
+tile.bonsaitrees.bonsaipot.name=Горшок для бонсай
+tile.bonsaitrees.bonsaipot.hopping.name=Прыгающий горшок для бонсай
+
+commands.bonsaitrees.usage=/bonsaitrees [подкоманда, оставьте пустым для списка команд]
+
+commands.bonsaitrees.available=Доступные подкоманды:
+commands.bonsaitrees.denied=У вас нет разрешения на использование этой команды.
+
+commands.bonsaitrees.saveTreeShape.description=Сохраняет форму дерева, на которое вы сейчас смотрите, в файл .json
+commands.bonsaitrees.saveTreeShape.usage=/bonsaitrees saveTreeShape <тип-дерева-id>, например, "forestry:hillCherry"
+commands.bonsaitrees.saveTreeShape.exception.no_itemstack_in_mainhand=Вам нужно держать предмет в основной руке!
+commands.bonsaitrees.saveTreeShape.exception.not_looking_at_block=Вы не смотрите на блок!
+commands.bonsaitrees.saveTreeShape.exception.can_not_determine_shape=Не удалось определить форму, найдено 0 блоков. Возможно, блок, на который вы смотрите, находится в списке игнорирования?
+commands.bonsaitrees.saveTreeShape.error_while_saving_shape=Не удалось сохранить форму в файл! Пожалуйста, проверьте логи сервера для получения подробностей.
+commands.bonsaitrees.saveTreeShape.wrote_shape_to_file=Форма сохранена в файл: %s
+
+commands.bonsaitrees.generateMissingShapes.description=Создает все недостающие формы деревьев в области, на которую вы смотрите. ОЧЕНЬ РАЗРУШИТЕЛЬНОЕ ДЕЙСТВИЕ!
+commands.bonsaitrees.generateMissingShapes.usage=/bonsaitrees generateMissingShapes yes
+commands.bonsaitrees.generateMissingShapes.exception.confirm_with_yes=Подтвердите команду с "yes" в качестве первого параметра! Область 32x32x32 вокруг блока, на который вы смотрите, будет удалена!
+commands.bonsaitrees.generateMissingShapes.info=Создание форм для дерева: %s
+commands.bonsaitrees.generateMissingShapes.created_shape_file=Файл формы создан: %s
+commands.bonsaitrees.generateMissingShapes.exception.no_shape=Не удалось определить форму
+
+commands.bonsaitrees.upgradeJsonFiles.description=Обновляет файлы форм до последней поддерживаемой версии. Это команда для разработчиков и, вероятно, не будет полезна для вас.
+commands.bonsaitrees.upgradeJsonFiles.usage=/bonsaitrees upgradeJsonFiles
+
+commands.bonsaitrees.reloadTrees.description=Перезагружает все деревья из файлов json и интеграций модов. Это команда для разработчиков и, вероятно, не будет полезна для вас. Это также перезагрузит все настроенные почвы!
+commands.bonsaitrees.reloadTrees.usage=/bonsaitrees reloadTrees
+
+commands.bonsaitrees.reloadSoils.description=Перезагружает все почвы из файлов json и интеграций модов. Это команда для разработчиков и, вероятно, не будет полезна для вас.
+commands.bonsaitrees.reloadSoils.usage=/bonsaitrees reloadSoils
+
+commands.bonsaitrees.listIntegrations.description=Список всех интеграций модов и количество деревьев, которые они предоставляют
+commands.bonsaitrees.listIntegrations.usage=/bonsaitrees listIntegrations
+commands.bonsaitrees.listIntegrations.result_title=Интеграции:
+commands.bonsaitrees.listIntegrations.result_entry=- %s: Деревья: %d Почвы: %d
+commands.bonsaitrees.listIntegrations.result_entry_total=Всего: Деревья: %d, Почвы: %d, Комбинировано: %d
+
+commands.bonsaitrees.listTrees.description=Список всех зарегистрированных типов деревьев
+commands.bonsaitrees.listTrees.usage=/bonsaitrees listTrees
+commands.bonsaitrees.listTrees.result_title=Зарегистрированные деревья:
+
+commands.bonsaitrees.listSoils.description=Список всех зарегистрированных почв
+commands.bonsaitrees.listSoils.usage=/bonsaitrees listSoils
+commands.bonsaitrees.listSoils.result_title=Зарегистрированные почвы:
+
+commands.bonsaitrees.checkCompatibility.description=Показывает совместимые деревья/почвы для данной почвы/дерева
+commands.bonsaitrees.checkCompatibility.usage=/bonsaitrees checkCompatibility <дерево/почва>
+commands.bonsaitrees.checkCompatibility.result_title_trees=Совместимые деревья: %d
+commands.bonsaitrees.checkCompatibility.result_title_soils=Совместимые почвы: %d
+commands.bonsaitrees.checkCompatibility.exception.specify_tree_or_soil=Укажите дерево или почву, например, /bonsaitrees checkCompatibility minecraft:oak
+commands.bonsaitrees.checkCompatibility.exception.no_valid_soil_or_tree_found=Не найдено подходящего дерева или почвы с таким именем. Используйте /bonsaitrees listTrees или /bonsaitrees listSoils
+
+
+tooltip.bonsaitrees.autoexport=Автоматически экспортирует дроп в инвентари ниже.
+tooltip.bonsaitrees.use_jei_for_compatible_sapling=Используйте JEI для поиска совместимых почв, саженцев и их шансов выпадения.
+tooltip.bonsaitrees.hold_shift_hint=Удерживайте Shift для подробностей
+tooltip.bonsaitrees.warn_hopping_pots_disabled=Функциональность отключена в конфигурации!
+
+hint.bonsaitrees.incompatible_soil=Этому дереву нужен другой тип почвы.
+hint.bonsaitrees.can_not_remove_soil_with_sapling=Почву нельзя удалить, пока саженец растет.
+hint.bonsaitrees.pot_has_no_soil=Сначала поместите почву в горшок. Попробуйте %s.
+
+bonsaitrees.jei.category.growing=Деревья бонсай
+bonsaitrees.jei.category.growing.chance=Шанс: %d%%
+bonsaitrees.jei.category.sapling.growtime=Обычно требуется %s для роста этого бонсай
+bonsaitrees.jei.category.soil.hint=Деревья не будут расти без почвы!
+bonsaitrees.jei.category.soil.growTimeModifier=Время роста: %.1f%%
+bonsaitrees.jei.category.soil.dropChanceModifier=Шанс выпадения: %.1f%%
+
+advancements.bonsaitrees.craft_pot.title=Деревья бонсай
+advancements.bonsaitrees.craft_pot.description=Создайте горшок для бонсай
+
+advancements.bonsaitrees.grow_tree.title=Вырастите дерево бонсай
+advancements.bonsaitrees.grow_tree.description=Используйте его для декорации или как раннюю ферму деревьев

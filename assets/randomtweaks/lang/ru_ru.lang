@@ -1,0 +1,264 @@
+randomtweaks.config.animals=Животные
+randomtweaks.config.animals.batLeatherDropChance=Шанс выпадения кожи летучей мыши
+randomtweaks.config.animals.coloredSheep=Появление цветных овец
+randomtweaks.config.animals.leashableVillagers=Жителей можно привязывать
+randomtweaks.config.animals.ocelotsCanBeHealed=Лечить прирученных оцелотов рыбой
+randomtweaks.config.animals.parrotsCanBeHealed=Лечить прирученных попугаев семенами
+randomtweaks.config.animals.protectPetsFromOtherPets=Защита питомцев от других питомцев хозяина
+randomtweaks.config.animals.protectPetsFromOwners=Защита питомцев от хозяев
+randomtweaks.config.animals.protectPetsFromSneakingOwners=Защита питомцев от крадущихся хозяев
+
+randomtweaks.config.animals.randomizedAges=Случайный возраст
+randomtweaks.config.animals.randomizedAges.chance=Шанс случайного возраста животного
+randomtweaks.config.animals.randomizedAges.maximumAge=Максимальный возраст
+randomtweaks.config.animals.randomizedAges.minimumAge=Минимальный возраст
+
+randomtweaks.config.animals.sheepColorWeights=Веса цветов овец
+randomtweaks.config.animals.sheepColorWeights.enabled=Включить появление цветных овец
+randomtweaks.config.animals.sheepColorWeights.white=§fБелый
+randomtweaks.config.animals.sheepColorWeights.orange=§6Оранжевый
+randomtweaks.config.animals.sheepColorWeights.magenta=§bПурпурный
+randomtweaks.config.animals.sheepColorWeights.lightBlue=§9Голубой
+randomtweaks.config.animals.sheepColorWeights.yellow=§eЖёлтый
+randomtweaks.config.animals.sheepColorWeights.lime=§aЛаймовый
+randomtweaks.config.animals.sheepColorWeights.pink=§dРозовый
+randomtweaks.config.animals.sheepColorWeights.gray=§8Серый
+randomtweaks.config.animals.sheepColorWeights.silver=§7Светло-серый
+randomtweaks.config.animals.sheepColorWeights.cyan=§3Бирюзовый
+randomtweaks.config.animals.sheepColorWeights.purple=§5Фиолетовый
+randomtweaks.config.animals.sheepColorWeights.blue=§1Синий
+randomtweaks.config.animals.sheepColorWeights.brown=§6Коричневый
+randomtweaks.config.animals.sheepColorWeights.green=§2Зелёный
+randomtweaks.config.animals.sheepColorWeights.red=§4Красный
+randomtweaks.config.animals.sheepColorWeights.black=§0Чёрный
+
+randomtweaks.config.animals.squids=Поведение появления спрутов
+randomtweaks.config.animals.squids.chunkLimit=Количество спрутов в одном чанке
+randomtweaks.config.animals.squids.maxPackSize=Максимальный размер стаи спрутов
+randomtweaks.config.animals.squids.spawnRadiusLimit=Максимальный радиус появления спрутов от игрока
+
+randomtweaks.config.boneMeal=Костная мука
+randomtweaks.config.boneMeal.cacti=Кактусы
+randomtweaks.config.boneMeal.netherWart=Адский нарост
+randomtweaks.config.boneMeal.sugarCanes=Сахарный тростник
+
+randomtweaks.config.client=Клиентское
+randomtweaks.config.client.clearWater=Убрать подводный туман
+randomtweaks.config.client.contributorCapes=Включить плащи контрибьюторов
+randomtweaks.config.client.disableEnderDragonDeathSound=Отключить звук смерти дракона Края
+randomtweaks.config.client.disablePotionIcons=Отключить иконки эффектов
+randomtweaks.config.client.disablePotionShift=Отключить сдвиг инвентаря из-за значков эффектов
+randomtweaks.config.client.disableWitherSpawnSound=Отключить звук появления визера
+randomtweaks.config.client.startOnMultiplayerScreen=Запускать на экране мультиплеера
+randomtweaks.config.client.stepup=Включить автоматическое поднятие на блок
+randomtweaks.config.client.stepupEnabledByDefault=Включить автоматическое поднятие по умолчанию
+randomtweaks.config.client.storeDataInLocal=Хранить данные локально
+
+randomtweaks.config.client.armorEquipSounds=Звуки надевания брони
+randomtweaks.config.client.armorEquipSounds.enabled=Включено
+randomtweaks.config.client.armorEquipSounds.elytraSound=Звук элитры
+randomtweaks.config.client.armorEquipSounds.pumpkinSound=Звук тыквы
+randomtweaks.config.client.armorEquipSounds.skullSound=Звук черепа
+
+randomtweaks.config.client.autoThirdPerson=Авто-третье лицо
+randomtweaks.config.client.autoThirdPerson.boat=Лодка
+randomtweaks.config.client.autoThirdPerson.elytra=Элитра
+randomtweaks.config.client.autoThirdPerson.enabled=Включить авто-третье лицо
+randomtweaks.config.client.autoThirdPerson.horse=Лошадь
+randomtweaks.config.client.autoThirdPerson.minecart=Вагонетка
+randomtweaks.config.client.autoThirdPerson.pig=Свинья
+
+randomtweaks.config.client.creativeTabs=Вкладки творчества
+randomtweaks.config.client.creativeTabs.moveBucketCreativeTab=Переместить ведро на вкладку «Инструменты»
+randomtweaks.config.client.creativeTabs.noAISpawnEggs=Яйца призыва без ИИ
+randomtweaks.config.client.creativeTabs.spawnEggsCreativeTab=Переместить яйца призыва на отдельную вкладку
+randomtweaks.config.client.creativeTabs.setCommandBlockCreativeTab=Переместить командные блоки на вкладку «Красный камень»
+randomtweaks.config.client.creativeTabs.setDragonEggCreativeTab=Добавить яйцо дракона на вкладку «Украшения»
+
+randomtweaks.config.client.ding=Звук уведомления
+randomtweaks.config.client.ding.ignoreDsurroundMuteWhenBackground=Игнорировать функцию Dynamic Surroundings «Отключать звук в фоне»
+randomtweaks.config.client.ding.startupSoundPitch=Высота звука запуска
+randomtweaks.config.client.ding.startupSoundVolume=Громкость звука запуска
+randomtweaks.config.client.ding.startupSounds=Звуки запуска
+randomtweaks.config.client.ding.worldLoadSoundPitch=Высота звука загрузки мира
+randomtweaks.config.client.ding.worldLoadSoundVolume=Громкость звука загрузки мира
+randomtweaks.config.client.ding.worldLoadSounds=Звуки загрузки мира
+
+randomtweaks.config.client.keybinds=Клавиши
+randomtweaks.config.client.keybinds.fovChangesEnabledByDefault=Изменения FoV включены по умолчанию
+randomtweaks.config.client.keybinds.fovChangesStatusMessage=Сообщение о состоянии изменений FoV
+randomtweaks.config.client.keybinds.reloadSoundSystem=Включить клавишу перезагрузки звуковой системы
+randomtweaks.config.client.keybinds.toggleFoVChanges=Включить клавишу переключения изменений FoV
+randomtweaks.config.client.keybinds.toggleTimeOfDayOverlay=Включить клавишу переключения оверлея времени суток
+
+randomtweaks.config.client.nightVision=Ночное зрение
+randomtweaks.config.client.nightVision.enabled=Включено
+randomtweaks.config.client.nightVision.brightness=Яркость
+randomtweaks.config.client.nightVision.disableFlashing=Отключить мигание
+randomtweaks.config.client.nightVision.fadeOut=Затухание
+randomtweaks.config.client.nightVision.fadeOutTicks=Тики затухания
+
+randomtweaks.config.client.timeOfDay=Оверлей времени суток
+randomtweaks.config.client.timeOfDay.alignment=Выравнивание
+randomtweaks.config.client.timeOfDay.alignment.topLeft=Верхний левый
+randomtweaks.config.client.timeOfDay.alignment.topCenter=Верхний центр
+randomtweaks.config.client.timeOfDay.alignment.topRight=Верхний правый
+randomtweaks.config.client.timeOfDay.alignment.middleLeft=Центр левый
+randomtweaks.config.client.timeOfDay.alignment.middleCenter=Центр
+randomtweaks.config.client.timeOfDay.alignment.middleRight=Центр правый
+randomtweaks.config.client.timeOfDay.alignment.bottomLeft=Нижний левый
+randomtweaks.config.client.timeOfDay.alignment.bottomCenter=Нижний центр
+randomtweaks.config.client.timeOfDay.alignment.bottomRight=Нижний правый
+randomtweaks.config.client.timeOfDay.disableIfNoDaylightCycle=Отключать, если doDaylightCycle выключен
+randomtweaks.config.client.timeOfDay.disableInAdventureMode=Отключать в режиме приключения
+randomtweaks.config.client.timeOfDay.disableInGUIs=Отключать в интерфейсах
+randomtweaks.config.client.timeOfDay.enabled=Включить оверлей времени суток
+randomtweaks.config.client.timeOfDay.enabledByDefault=Включить по умолчанию
+randomtweaks.config.client.timeOfDay.lightOrDark=Светлый или тёмный
+randomtweaks.config.client.timeOfDay.twentyFourHourTime=Использовать 24-часовой формат
+randomtweaks.config.client.timeOfDay.x=Координата X
+randomtweaks.config.client.timeOfDay.y=Координата Y
+
+randomtweaks.config.cobwebBurning=Горение паутины
+randomtweaks.config.cobwebBurning.enableBurning=Включить горение
+randomtweaks.config.cobwebBurning.disableBurningIfSneaking=Отключить горение при крадущемся режиме
+randomtweaks.config.cobwebBurning.items=Предметы
+randomtweaks.config.cobwebBurning.consumeAmount=Количество потребления
+randomtweaks.config.cobwebBurning.damageAmount=Количество урона
+randomtweaks.config.cobwebBurning.burnSound=Звук горения
+randomtweaks.config.cobwebBurning.flammableCobwebs=Воспламеняемая паутина
+randomtweaks.config.cobwebBurning.cobwebFireSpreadSpeed=Скорость распространения огня по паутине
+randomtweaks.config.cobwebBurning.cobwebFlammability=Воспламеняемость паутины
+
+randomtweaks.config.commands=Команды
+randomtweaks.config.commands.deletegamerule=/deletegamerule
+randomtweaks.config.commands.disconnect=/disconnect
+randomtweaks.config.commands.giveTweaks=Настройки /give
+randomtweaks.config.commands.helpTweaks=Настройки /help
+randomtweaks.config.commands.hunger=/hunger
+randomtweaks.config.commands.rtreload=/rtreload
+randomtweaks.config.commands.rtreloadclient=/rtreloadclient
+
+randomtweaks.config.gameRules=Игровые правила
+randomtweaks.config.gameRules.disableNetherPortalCreation=disableNetherPortalCreation
+randomtweaks.config.gameRules.drowningDamageMultiplier=drowningDamageMultiplier
+randomtweaks.config.gameRules.fallDamageMultiplier=fallDamageMultiplier
+randomtweaks.config.gameRules.fireDamageMultiplier=fireDamageMultiplier
+
+randomtweaks.config.hunger=Голод
+randomtweaks.config.hunger.carryExcessHungerToSaturation=Переносить избыток голода в насыщение
+randomtweaks.config.hunger.enabled=Включить все настройки голода
+randomtweaks.config.hunger.exhaustionMultiplier=Множитель истощения
+randomtweaks.config.hunger.maximumHungerLevel=Максимальный уровень голода
+randomtweaks.config.hunger.minimumRespawnHungerLevel=Минимальный уровень голода при возрождении
+randomtweaks.config.hunger.respawnResetBehavior=Поведение сброса голода при возрождении
+randomtweaks.config.hunger.respawnResetBehavior.reset=Сбрасывать
+randomtweaks.config.hunger.respawnResetBehavior.dontReset=Не сбрасывать
+randomtweaks.config.hunger.respawnResetBehavior.resetUnlessKeepInventory=Сбрасывать, если только не keepInventory
+randomtweaks.config.hunger.saturationLimit=Лимит насыщения
+
+randomtweaks.config.misc=Разное
+randomtweaks.config.misc.allowSleepNearMobsWithCustomNames=Разрешить сон рядом с мобами с именами
+randomtweaks.config.misc.attackSpeed=Скорость атаки
+randomtweaks.config.misc.betterButtonNames=Улучшенные названия кнопок
+randomtweaks.config.misc.bowInfinityFix=Исправление бесконечности лука
+randomtweaks.config.misc.disableAttacksDuringAttackCooldown=Отключить атаки во время перезарядки атаки
+randomtweaks.config.misc.deathPunishmentMode=Режим наказания за смерть
+randomtweaks.config.misc.deathPunishmentMode.enabled=Включено
+randomtweaks.config.misc.deathPunishmentMode.enabledIfKeepInventory=Включено, если keepInventory
+randomtweaks.config.misc.deathPunishmentMode.disabled=Отключено
+randomtweaks.config.misc.disableBedProximityRequirement=Отключить требование близости кровати
+randomtweaks.config.misc.disableCumulativeAnvilCosts=Отключить накопление стоимости на наковальне
+randomtweaks.config.misc.entitiesDropNameTags=Существа с именами выпадают бирки
+randomtweaks.config.misc.farmlandTrampleBehavior=Поведение вытаптывания грядок
+randomtweaks.config.misc.farmlandTrampleBehavior.vanilla=Ванильное
+randomtweaks.config.misc.farmlandTrampleBehavior.dontTrampleIfFeatherFalling=Не вытаптывать при наличии «Невесомости»
+randomtweaks.config.misc.farmlandTrampleBehavior.dontTrample=Не вытаптывать
+randomtweaks.config.misc.localizePortalNames=Локализовать названия порталов
+randomtweaks.config.misc.mobsAlwaysDropLoot=Мобы всегда выпадают дроп
+randomtweaks.config.misc.moreRomanNumerals=Больше римских цифр
+randomtweaks.config.misc.pickUpSkeletonArrows=Подбирать стрелы, выпущенные скелетами
+randomtweaks.config.misc.updateAllMapsInInventory=Обновлять все карты в инвентаре
+
+randomtweaks.config.playerHeadDrops=Выпадение голов игроков
+randomtweaks.config.playerHeadDrops.enabled=Включить выпадение голов игроков
+randomtweaks.config.playerHeadDrops.chanceWhenKilledByChargedCreeper=Шанс выпадения при убийстве заряженным крипером
+randomtweaks.config.playerHeadDrops.chanceWhenKilledByPlayer=Шанс выпадения при убийстве другим игроком
+randomtweaks.config.playerHeadDrops.normalChance=Обычный шанс выпадения
+
+randomtweaks.config.world=Мир
+randomtweaks.config.world.fixDuplicateEntityUUIDs=Исправление дублирующихся UUID сущностей
+randomtweaks.config.world.logEntityUUIDReassignments=Логировать переназначение UUID сущностей
+randomtweaks.config.world.realisticWorldType=Включить тип мира «Реалистичный»
+
+randomtweaks.config.world.oceanFloor=Генерация дна океана
+randomtweaks.config.world.oceanFloor.clayChance=Шанс появления глины
+randomtweaks.config.world.oceanFloor.clayVeinSize=Размер жилы глины
+randomtweaks.config.world.oceanFloor.dirtChance=Шанс появления земли
+randomtweaks.config.world.oceanFloor.dirtVeinSize=Размер жилы земли
+randomtweaks.config.world.oceanFloor.enabled=Включить генерацию дна океана
+randomtweaks.config.world.oceanFloor.maxY=Максимальная координата Y
+randomtweaks.config.world.oceanFloor.minY=Минимальная координата Y
+randomtweaks.config.world.oceanFloor.sandChance=Шанс появления песка
+randomtweaks.config.world.oceanFloor.sandVeinSize=Размер жилы песка
+
+randomtweaks.config.world.voidWorld=Мир Пустоты
+randomtweaks.config.world.voidWorld.biome=Биом
+randomtweaks.config.world.voidWorld.enabled=Включено
+randomtweaks.config.world.voidWorld.mobSpawning=Появление мобов
+randomtweaks.config.world.voidWorld.randomBiomeBlacklist=Чёрный список случайных биомов
+randomtweaks.config.world.voidWorld.spawnBlock=Блок появления
+randomtweaks.config.world.voidWorld.spawnBlockMeta=Метаданные блока появления
+randomtweaks.config.world.voidWorld.ySpawn=Координата Y появления
+
+randomtweaks.config.world.voidIslandsWorld=Мир Островов в Пустоте
+randomtweaks.config.world.voidIslandsWorld.chunkRarity=Редкость чанка
+randomtweaks.config.world.voidIslandsWorld.enabled=Включено
+randomtweaks.config.world.voidIslandsWorld.voidChunkBiome=Биом чанка пустоты
+randomtweaks.config.world.voidIslandsWorld.voidChunkRandomBiomeBlacklist=Чёрный список случайных биомов для чанка пустоты
+
+timeOfDayOverlay.text=День %s, %s:%s%s %s
+timeOfDayOverlay.am=AM
+timeOfDayOverlay.pm=PM
+timeOfDayOverlay.dayTime=(§eДень§r)
+timeOfDayOverlay.nightTime=(§8Ночь§r)
+timeOfDayOverlay.light=(§eСвет§r)
+timeOfDayOverlay.dark=(§8Тьма§r)
+
+toggleFoVChanges.enabled=Изменения FoV включены
+toggleFoVChanges.disabled=Изменения FoV отключены
+
+key.categories.randomtweaks=RandomTweaks
+key.reloadSoundSystem=Перезагрузить звуковую систему
+key.toggleFoVChanges=Переключить изменения FoV
+key.toggleTimeOfDayOverlay=Переключить оверлей времени суток
+key.toggleAutoJump=Переключить автопрыжок
+
+reloadSoundSystem.success=§eЗвуковая система перезагружена!
+
+autoJump.disabled=Автопрыжок отключён
+autoJump.enabled=Автопрыжок включён
+autoJump.enabledStepup=Поднятие на блок включено
+
+commands.rtreloadclient.usage=/rtreloadclient
+commands.rtreloadclient.success=Конфигурация клиентской части RandomTweaks перезагружена!
+
+commands.disconnect.usage=/disconnect
+commands.disconnect.failure=§cПроизошла ошибка при попытке отключения: %s
+
+generator.realistic=Реалистичный
+generator.realistic.info=Реалистичный тип мира от u/Soniop
+generator.void=Пустота
+generator.void.info=Пустой мир пустоты с единственным блоком для стояния
+generator.voidislands=Острова Пустоты
+generator.voidislands.info=Острова в пустоте
+
+itemGroup.spawnEggs=Яйца призыва
+
+spawnEgg.noAI=§cБез ИИ
+
+tile.buttonStone.name=Каменная кнопка
+tile.buttonWood.name=Деревянная кнопка
+tile.netherPortal.name=Портал Нижнего мира
+tile.endPortal.name=Портал Края
+tile.endGateway.name=Врата Края

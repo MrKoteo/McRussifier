@@ -1,0 +1,32 @@
+jei.category.mod_lavacow.Intestines=Добыча из кишечников
+
+jei.category.cgm.GunWorkbench=Верстак для оружия
+
+jei.category.car.OilMill=Маслобойня
+jei.category.car.BlastFurnace=Доменная печь
+jei.category.car.BackmixReactor=Реактор обратного смешения
+jei.category.car.SplitTank=Разделительный резервуар
+
+jei.category.cfm.Minebay=Майнбэй
+jei.category.cfm.Oven=Приготовление в печи
+jei.category.cfm.Freezing=Заморозка
+jei.category.cfm.FreezerCoolants=Охлаждающие вещества для морозильника
+jei.category.cfm.Printing=Печать
+jei.category.cfm.PrinterInk=Чернила для принтера
+jei.category.cfm.Toasting=Поджаривание
+jei.category.cfm.Cutting=Нарезка
+jei.category.cfm.Blending=Смешивание
+jei.category.cfm.Dishwashing=Мытье посуды
+jei.category.cfm.ClothesWashing=Стирка одежды
+jei.category.cfm.Soap=Мыло
+jei.category.cfm.Microwaving=Разогрев в микроволновке
+jei.category.cfm.Grilling=Жарка на гриле
+
+jei.category.bibliocraft.Typesetting=Набор текста
+jei.category.bibliocraft.PrintingPress=Печать на прессе
+jei.category.bibliocraft.Typewriter=Печать на пишущей машинке
+
+jei.category.animania.CheeseMold=Форма для сыра
+
+jei.tooltip.jeri.TPO=Тиков на операцию: %s
+jei.tooltip.jeri.Ticks=%s Тиков

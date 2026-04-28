@@ -1,0 +1,26 @@
+jei.tooltip.nee.helper.crafting.text1=нажмите, чтобы запросить недостающие предметы.
+jei.tooltip.nee.helper.crafting.text2=нажмите, чтобы запросить результат рецепта.
+jei.tooltip.nee.helper.pattern=Доступно автоматическое создание
+jei.tooltip.nee.helper.craftable=Можно создать
+jei.tooltip.nee.helper.waiting=Поиск подходящего рецепта...
+
+key.neenergistics.crafting.helper.preview=Помощь в создании
+key.neenergistics.crafting.helper.noPreview=Помощь в создании (без предпросмотра)
+key.neenergistics.recipe.ingredient.change=Изменить ингредиент
+key.neenergistics.stack.count.change=Изменить количество
+
+gui.neenergistics.button.title.combination=Объединить предметы
+gui.neenergistics.button.tooltip.combination=Текущий режим: %s
+gui.neenergistics.button.name.enabled=Включено
+gui.neenergistics.button.name.disabled=Отключено
+gui.neenergistics.button.name.whitelist=Белый список
+gui.neenergistics.button.title.remove=Удалить
+gui.neenergistics.button.tooltip.remove=Удалить и отменить текущий рецепт
+gui.neenergistics.button.tooltip.preference.remove=Удалить выбранный стек из списка предпочтений.
+gui.neenergistics.button.tooltip.preference.add=Добавить выбранный стек в список предпочтений.
+gui.neenergistics.button.tooltip.preference.text1=Используйте средний клик для выбора слота.
+gui.neenergistics.button.tooltip.preference.open=Открыть список предпочтений (в разработке).
+
+tile.neenergistics.pattern_interface.name=Интерфейс шаблонов (WIP)
+
+neenergistics.category=Not Enough Energistics

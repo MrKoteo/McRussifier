@@ -1,0 +1,10 @@
+itemGroup.Electrostatics=Electrostatics
+item.rubber_boots.name=Резиновые ботинки
+item.glass_boots.name=Стеклянные ботинки
+item.rubber.name=Резина
+item.resin.name=Смола
+item.tree_tap.name=Кран для сбора смолы
+item.rubber_glove.name=Резиновая перчатка
+tile.electrostatic_generator.name=Электростатический генератор
+tile.electrostatics.leather_carpet.name=Кожаный ковёр
+tile.electrostatics.jump_generator.name=Генератор на прыжках

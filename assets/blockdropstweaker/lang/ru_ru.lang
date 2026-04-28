@@ -1,0 +1,37 @@
+
+key.blockdropstweaker.saveblockdrops=Сохранить дроп блоков
+key.blockdropstweaker.reloadblockdrops=Перезагрузить дроп блоков
+
+commands.blockdropstweaker.block.select.usage=/bd block select <ID блока,метаданные>
+commands.blockdropstweaker.block.set.usage=/bd block set <ключ> <значение>
+commands.blockdropstweaker.block.set.fortunechance.usage=/bd block set fortunechance <уровень> <шанс>
+commands.blockdropstweaker.block.get.usage=/bd block get [fortunechance]
+commands.blockdropstweaker.block.add.usage=/bd block add <ID блока> <метаданные>
+commands.blockdropstweaker.block.dupe.usage=/bd block dupe <ID блока> <метаданные>
+commands.blockdropstweaker.block.tool.add.usage=/bd block tool add <ID предмета> <метаданные>
+commands.blockdropstweaker.block.tool.remove.usage=/bd block tool remove <ID предмета> <метаданные>
+commands.blockdropstweaker.block.biome.add.usage=/bd block biome add <ID биома>
+commands.blockdropstweaker.block.biome.remove.usage=/bd block biome remove <ID биома>
+commands.blockdropstweaker.block.gamestage.add.usage=/bd block gamestage add <игровой этап>
+commands.blockdropstweaker.block.gamestage.remove.usage=/bd block gamestage remove <игровой этап>
+commands.blockdropstweaker.block.modifier.add.usage=/bd block modifier add <модификатор>
+commands.blockdropstweaker.block.modifier.remove.usage=/bd block modifier remove <модификатор>
+commands.blockdropstweaker.block.trait.add.usage=/bd block trait add <свойство>
+commands.blockdropstweaker.block.trait.remove.usage=/bd block trait remove <свойство>
+commands.blockdropstweaker.block.enchant.add.usage=/bd block enchant add <зачарование>
+commands.blockdropstweaker.block.enchant.remove.usage=/bd block enchant remove <зачарование>
+
+commands.blockdropstweaker.drop.select.usage=/bd drop select <ID предмета,метаданные>
+commands.blockdropstweaker.drop.set.usage=/bd drop set <ключ> <значение>
+commands.blockdropstweaker.drop.set.fortunechance.usage=/bd drop set fortunechance <уровень> <шанс>
+commands.blockdropstweaker.drop.set.fortunequantity.usage=/bd drop set fortunequantity <уровень> <мин:макс>
+commands.blockdropstweaker.drop.get.usage=/bd drop get [fortunechance/fortunequantity]
+commands.blockdropstweaker.drop.add.usage=/bd drop add <ID предмета> <метаданные>
+commands.blockdropstweaker.drop.dupe.usage=/bd drop dupe <ID предмета> <метаданные>
+commands.blockdropstweaker.drop.tool.add.usage=/bd drop tool add <ID предмета> <метаданные>
+commands.blockdropstweaker.drop.tool.remove.usage=/bd drop tool remove <ID предмета> <метаданные>
+commands.blockdropstweaker.drop.biome.add.usage=/bd drop biome add <ID биома>
+commands.blockdropstweaker.drop.biome.remove.usage=/bd drop biome remove <ID биома>
+
+commands.blockdropstweaker.info.usage=/bd info [руда]
+commands.blockdropstweaker.copy.usage=/bd copy <текст>

@@ -1,0 +1,2 @@
+uteamcore:command.onlyplayer=Только игрок может использовать эту команду.
+uteamcore:command.ping=Ваш пинг - %s.

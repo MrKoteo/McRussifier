@@ -1,0 +1,135 @@
+stat.psi_cast=Применено заклинаний (Psi)
+
+# -- ЭФФЕКТЫ ЗЕЛИЙ
+potion.zettai_psi:magic_shielding=Магический щит
+potion.zettai_psi:magic_shielding.desc=Блокирует некоторые попытки телепортации и уменьшает урон от магии
+potion.zettai_psi:heating=Нагрев
+potion.zettai_psi:heating.desc=Со временем нагревается, если эффект не снят
+potion.zettai_psi:freezing=Заморозка
+potion.zettai_psi:freezing.desc=Со временем замерзает, если эффект не снят
+potion.zettai_psi:slowfall=Медленное падение
+potion.zettai_psi:slowfall.desc=Вы будете падать медленно
+
+# -- СЕЛЕКТОРЫ
+psi.spellpiece.selectorWandMode=Селектор: Режим колдовства
+psi.spellpiece.selectorWandMode.desc=Возвращает текущий режим колдовства
+psi.spellpiece.selectorVectorUp=Селектор: Вектор вверх
+psi.spellpiece.selectorVectorUp.desc=Создает вектор с Y = 1.0
+psi.spellpiece.selectorVectorDown=Селектор: Вектор вниз
+psi.spellpiece.selectorVectorDown.desc=Создает вектор с Y = -1.0
+psi.spellpiece.selectorNearbyMagic=Селектор: Магия рядом
+psi.spellpiece.selectorNearbyMagic.desc=Ищет магические сущности в заданном радиусе
+psi.spellpiece.selectorNearbyUndeads=Селектор: Нежить рядом
+psi.spellpiece.selectorNearbyUndeads.desc=Ищет нежить в заданном радиусе
+# -- ОПЕРАТОРЫ
+psi.spellpiece.operatorLimit=Оператор: Ограничение
+psi.spellpiece.operatorLimit.desc=Если заданное число больше предела, возвращает предел, иначе возвращает число
+psi.spellpiece.operatorRangeLimit=Оператор: Диапазонное ограничение
+psi.spellpiece.operatorRangeLimit.desc=Если заданное число больше/меньше +/-lim, возвращает +/-lim, иначе возвращает число
+psi.spellpiece.operatorRangeRandom=Оператор: Диапазонное случайное
+psi.spellpiece.operatorRangeRandom.desc=Возвращает случайное число в заданном диапазоне, включая границы
+psi.spellpiece.operatorVectorLimit=Оператор: Ограничение вектора
+psi.spellpiece.operatorVectorLimit.desc=Если значения вектора больше предела или меньше -предела, устанавливает это значение в предел/-предел
+psi.spellpiece.operatorBoolean=Оператор: Булево значение
+psi.spellpiece.operatorBoolean.desc=Преобразует заданное число в булево число
+psi.spellpiece.operatorInvertBoolean=Оператор: Инвертировать булево
+psi.spellpiece.operatorInvertBoolean.desc=Если число меньше 0, возвращает 1, если больше 0, возвращает 0
+psi.spellpiece.operatorFindPotion=Оператор: Найти эффект
+psi.spellpiece.operatorFindPotion.desc=Сканирует сущность, чтобы узнать, наложен ли заданный/любой эффект, и если да, возвращает 1, иначе 0
+
+# -- ТРЮКИ
+psi.spellpiece.trickApplyPotion=Трюк: Наложить эффект
+psi.spellpiece.trickApplyPotion.desc=Накладывает эффект на заданную сущность, но стоимость удвоена, мощность эффекта нестабильна и не может быть больше 2
+psi.spellpiece.trickPlaySound=Трюк: Сотворить звук
+psi.spellpiece.trickPlaySound.desc=Воспроизводит звук, запрашивая его у Мирового Ядра в заданной позиции, но трудно перевести ответ
+psi.spellpiece.trickEqual=Трюк: Равенство
+psi.spellpiece.trickEqual.desc=Проверяет, равно ли значение булеву, и если да, останавливает применение!
+psi.spellpiece.trickNotEqual=Трюк: Обратное равенство
+psi.spellpiece.trickNotEqual.desc=Проверяет, равно ли значение булеву, и если нет, останавливает применение!
+psi.spellpiece.trickRangedEqual=Трюк: Диапазонное равенство
+psi.spellpiece.trickRangedEqual.desc=Проверяет, равно ли число булеву в пределах диапазона значений, и если да, останавливает применение! (если число не задано, оно равно Мин.)
+psi.spellpiece.trickRangedNotEqual=Трюк: Диапазонное обратное равенство
+psi.spellpiece.trickRangedNotEqual.desc=Проверяет, равно ли число булеву в пределах диапазона значений, и если нет, останавливает применение! (если число не задано, оно равно Мин.)
+psi.spellpiece.trickMark=Трюк: Метка
+psi.spellpiece.trickMark.desc=Помечает заданную сущность на заданное время (в секундах)
+psi.spellpiece.trickMassMark=Трюк: Массовая метка
+psi.spellpiece.trickMassMark.desc=Помечает заданных сущностей на заданное время (в секундах)
+psi.spellpiece.trickDetection=Трюк: Обнаружение
+psi.spellpiece.trickDetection.desc=Рассеивает невидимость заданной сущности, если возможно
+psi.spellpiece.trickMassDetection=Трюк: Массовое обнаружение
+psi.spellpiece.trickMassDetection.desc=Рассеивает невидимость, если сущности её используют
+psi.spellpiece.trickMagicAttack=Трюк: Магическая атака
+psi.spellpiece.trickMagicAttack.desc=Атакует сущность чистой концентрацией пси-энергии
+psi.spellpiece.trickJumpEntity=Трюк: Контроль прыжка нежити
+psi.spellpiece.trickJumpEntity.desc=Пытается управлять нежитью, чтобы заставить её прыгнуть
+psi.spellpiece.trickMoveEntity=Трюк: Контроль движения нежити
+psi.spellpiece.trickMoveEntity.desc=Пытается управлять движением нежити
+psi.spellpiece.trickChooseEntity=Трюк: Цель нежити
+psi.spellpiece.trickChooseEntity.desc=Устанавливает цель для нежити
+psi.spellpiece.trickCancelEntity=Трюк: Отменить цель нежити
+psi.spellpiece.trickCancelEntity.desc=Отменяет цель нежити, и если задана цель, отменяет только если цель == цель нежити
+psi.spellpiece.trickSwitchWandMode=Трюк: Сменить режим
+psi.spellpiece.trickSwitchWandMode.desc=Переключает режим колдовства, добавляя +1 к нему, до максимального значения, если Булево равно 1 (по умолчанию)
+psi.spellpiece.trickSatiety=Трюк: Насыщение
+psi.spellpiece.trickSatiety.desc=Насыщает тело цели, если возможно, но также накладывает ослабление
+psi.spellpiece.trickShortTeleport=Трюк: Короткая телепортация
+psi.spellpiece.trickShortTeleport.desc=Телепортирует цель в следующую позицию
+psi.spellpiece.trickSummonZombie=Трюк: Призвать зомби
+psi.spellpiece.trickSummonZombie.desc=Сотворяет зомби из плоти в целевом слоте
+psi.spellpiece.trickSummonSkeleton=Трюк: Призвать скелета
+psi.spellpiece.trickSummonSkeleton.desc=Сотворяет скелета из кости в целевом слоте
+psi.spellpiece.trickHeal=Трюк: Лечение
+psi.spellpiece.trickHeal.desc=Лечит цель на заданное значение HP
+psi.spellpiece.trickStopLoopcast=Трюк: Остановить цикл
+psi.spellpiece.trickStopLoopcast.desc=Останавливает циклическое колдовство, если значение находится в диапазоне от 0 до 1, или в диапазоне от -значения до значения
+psi.spellpiece.trickTeleport=Трюк: Телепортация
+psi.spellpiece.trickTeleport.desc=Телепортирует сущность в заданную позицию
+psi.spellpiece.trickMagicShielding=Трюк: Магический щит
+psi.spellpiece.trickMagicShielding.desc=Накладывает магический щит на тело цели, который защищает от магического урона и телепортации
+psi.spellpiece.trickNegateFall=Трюк: Предотвращение падения
+psi.spellpiece.trickNegateFall.desc=Предотвращает урон от падения с помощью воздушного диска под целью, но только при применении
+psi.spellpiece.trickSlowfalling=Трюк: Медленное падение
+psi.spellpiece.trickSlowfalling.desc=Замедляет падение в зависимости от заданной силы
+psi.spellpiece.trickConjureParticles=Трюк: Сотворить частицы
+psi.spellpiece.trickConjureParticles.desc=Создает частицы в заданной позиции
+psi.spellpiece.trickPoison=Трюк: Отравление
+psi.spellpiece.trickPoison.desc=Отравляет цель, одновременно атакуя её
+psi.spellpiece.trickFreeze=Трюк: Заморозка
+psi.spellpiece.trickFreeze.desc=Заморозить цель и окружающих её сущностей
+psi.spellpiece.trickHeating=Трюк: Нагрев
+psi.spellpiece.trickHeating.desc=Нагревает цель
+psi.spellpiece.trickLogComment=Трюк: Записать комментарий
+psi.spellpiece.trickLogComment.desc=Отправляет информацию из комментария, который вы сделали к трюку, в ваш мозг или мозг цели
+psi.spellpiece.trickBreakArmor=Трюк: Сломать магическую броню
+psi.spellpiece.trickBreakArmor.desc=Вызывает поломку магической брони, так что Магический щит будет сломан с шансом: 10% + (Сила * 2)
+# ОШИБКИ КОМПИЛЯЦИИ
+zettai_psi.spellerror.negative_int=Числовой параметр, который не должен быть отрицательным, является отрицательным
+# ОШИБКИ ВРЕМЕНИ ИСПОЛНЕНИЯ
+zettai_psi.spellerror.potion_not_found=ОШИБКА: Магический путь эффекта не существует
+zettai_psi.spellerror.sound_not_found=ОШИБКА: Не удается найти этот звук в Ядре
+zettai_psi.spellerror.color_limit=ОШИБКА: Невозможно создать цвет!
+zettai_psi.spellerror.no_comment=ОШИБКА: В трюке нет комментария!
+
+# НАЗВАНИЯ ПАРАМЕТРОВ ЗАКЛИНАНИЙ
+zettai_psi.spellparam.potion=Путь
+zettai_psi.spellparam.limit=Предел
+zettai_psi.spellparam.bool=Булево
+zettai_psi.spellparam.pitch=Высота
+zettai_psi.spellparam.volume=Громкость
+zettai_psi.spellparam.sound=Id
+zettai_psi.spellparam.undead=Нежить
+zettai_psi.spellparam.health=Здоровье
+zettai_psi.spellparam.stop_loop=Остановить цикл
+zettai_psi.spellparam.direction=Направление
+zettai_psi.spellparam.range=Диапазон
+zettai_psi.spellparam.color=Цвет
+
+# ГРУППЫ ЭЛЕМЕНТОВ
+psi.piecegroup.alchemy_code=Алхимический код
+psi.piecegroup.alchemy_code.desc=Ручное управление магическим путем накладываемого эффекта позволяет воздействовать на сущность почти всем возможным!<br><br>Но магический путь не может быть отрицательным.. он не может обрабатывать разные значения, и после определенного момента его значения заканчиваются.<br><br>Эффекты, созданные этим методом, не могут иметь силу выше 2, они просто не ухудшаются иначе!
+psi.piecegroup.undead=Манипуляция нежитью
+psi.piecegroup.undead.desc=Воздействуя на нежить с помощью Psi, мы можем манипулировать ими.<br><br>Используйте «Контроль движения нежити», чтобы переместить одного из них туда, куда вы хотите.<br><br>Также можно использовать гнилую плоть, чтобы сотворить зомби из неё, но это все равно просто зомби, а не ваш миньон.<br><br>Используя «Селектор: Нежить рядом», вы можете быстро найти всю нежить в области.
+psi.piecegroup.elemental_arts_two=Стихийные искусства 2
+psi.piecegroup.elemental_arts_two.desc=Вы можете использовать элементарную энергию, создаваемую консолидацией Psi, по-другому.<br><br>Вы можете опробовать это с «Трюком: Магическая атака», который наносит урон сущностям магией, но применяются модификаторы:<br> 1) Здоровье цели. <br>2) Является ли цель нежитью?<br>3) Видела ли вас сущность?<br><br>Другие элементарные атаки также имеют различные эффекты и мелкие особенности, которые вы можете обнаружить только экспериментами!
+psi.piecegroup.teleportation=Телепортация
+psi.piecegroup.teleportation.desc=Истинное и трудное искусство — телепортация... Создавая магический щит с помощью Psi и преобразуя пространство вокруг цели, мы можем достичь точной телепортации туда, куда хотим... И при этом мы не ограничены собственным обзором, как при Скачке.

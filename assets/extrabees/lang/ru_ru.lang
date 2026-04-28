@@ -1,0 +1,15 @@
+extrabees.alveay.frame=Рамка улья
+extrabees.alveay.frame.info=Рамка улья содержит одну рамку для изменения свойств пчелы.
+extrabees.alveay.lighting=Освещение улья
+extrabees.alveay.lighting.info=Освещение улья заставляет пчёл думать, что ночью день.
+extrabees.alveay.mutator=Мутатор
+extrabees.alveay.mutator.info=Мутатор использует определённые предметы для стимуляции мутации пчёл.
+extrabees.alveay.rainshield=Защита от дождя
+extrabees.alveay.rainshield.info=Защита от дождя предотвращает влияние осадков на пчёл.
+extrabees.alveay.stimulator=Электрический стимулятор
+extrabees.alveay.stimulator.info=Использует схемы и энергию для стимуляции пчёл, аналогично рамкам.
+extrabees.alveay.stimulator.title=Стимулятор
+extrabees.alveay.hatchery=Инкубатор
+extrabees.alveay.hatchery.info=Собирает личинки, откладываемые матками внутри улья.
+extrabees.alveay.transmission=Улейная передача
+extrabees.alveay.transmission.info=Улейная передача принимает энергию и распределяет её между всеми другими блоками улья, которые принимают энергию.

@@ -1,0 +1,48 @@
+#Creative Tab
+itemGroup.wtfic2addon:tab=HyCraftHD's WTF Ic2 Addon
+
+# Блоки
+wtfic2addon.te.solar_panel_low=Низкая солнечная панель
+
+wtfic2addon.te.solar_panel_intermediatelow=Промежуточная низкая солнечная панель
+wtfic2addon.te.solar_panel_intermediatemedium=Промежуточная средняя солнечная панель
+wtfic2addon.te.solar_panel_intermediatehigh=Промежуточная высокая солнечная панель
+
+wtfic2addon.te.solar_panel_advancedlow=Продвинутая низкая солнечная панель
+wtfic2addon.te.solar_panel_advancedmedium=Продвинутая средняя солнечная панель
+wtfic2addon.te.solar_panel_advancedhigh=Продвинутая высокая солнечная панель
+
+wtfic2addon.te.solar_panel_superior=Высококлассная солнечная панель
+
+wtfic2addon.te.solar_panel_intermediatewtf=Промежуточная WTF солнечная панель
+wtfic2addon.te.solar_panel_advancedwtf=Продвинутая WTF солнечная панель
+wtfic2addon.te.solar_panel_extremewtf=§d§kЭкстремальная WTF солнечная панель§r
+
+
+wtfic2addon.te.mfsu_compressed=Сжатый МФСУ
+wtfic2addon.te.mfsu_doublecompressed=Дважды сжатый МФСУ
+wtfic2addon.te.mfsu_triplecompressed=Трижды сжатый МФСУ
+wtfic2addon.te.mfsu_quadruplecompressed=Четырежды сжатый МФСУ
+
+wtfic2addon.te.mfsu_extreme=§d§kЭкстремальный МФСУ§r
+
+wtfic2addon.te.mfsu_convertable=Трансформаторный МФСУ
+
+# Предметы
+item.wtfic2addon:advanced_condensator_reflector.name=Экстремальный конденсаторный отражатель
+item.wtfic2addon:dense_iridium_reinforce_plate.name=Плотная иридиевая усиленная пластина
+
+# Подсказки и интерфейс
+wtfic2addon:mfsu_convertable.use=Принимает все уровни, но выдает уровень 1
+
+wtfic2addon:tooltip.solarpanel.generateDay=Генерация днем:
+wtfic2addon:tooltip.solarpanel.generateNight=Генерация ночью:
+
+wtfic2addon:gui.energy=Энергия
+wtfic2addon:gui.state=Состояние
+
+wtfic2addon:gui.text.storage=Хранилище: %s EU / %s EU
+wtfic2addon:gui.text.storageLong=Хранилище: %s EU
+wtfic2addon:gui.text.capacity=Вместимость: %s EU
+wtfic2addon:gui.text.generate=Генерация: %s EU/t
+wtfic2addon:gui.text.output=Макс. выход: %s EU/t

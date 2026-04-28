@@ -1,0 +1,32 @@
+
+// add missing
+
+screen.hwyla.warning=§cВнимание:§r Вы используете форк Waila под названием Hwyla. Вы можете просмотреть (почти полный) список изменений, нажав кнопку в верхнем левом углу этого экрана.
+choice.hidefromlist=Скрыть из списка игроков
+choice.hidefromdebug=Скрыть из меню отладки
+choice.showitem=Показывать предмет
+choice.tts=Озвучивать блоки
+choice.format.modname=Название мода
+choice.format.blockname=Название блока
+choice.format.fluidname=Название жидкости
+choice.format.entityname=Название сущности
+choice.format.metadata=Метаданные
+choice.format.background=Цвет фона
+choice.format.gradienttop=Цвет градиента (Верх)
+choice.format.gradientbottom=Цвет градиента (Низ)
+choice.format.font=Цвет текста
+screen.button.configureformat=Настроить содержимое...
+screen.button.exporttheme=Экспортировать тему
+hud.msg.health=Здоровье
+hud.msg.toomuch=Слишком много...
+hud.msg.career=Профессия: %s
+hud.item.melonstem=Стебель арбуза
+hud.item.pumpkinstem=Стебель тыквы
+cfg.theme.vanilla=Стандартная (Vanilla)
+cfg.theme.dark=Тёмная
+option.vanilla.furnacedisplay=Показывать прогресс печи
+option.general.showents=Показывать сущности
+option.general.registry=Показывать данные регистра
+option.capability.tankinfo=Показывать данные резервуара
+option.capability.energyinfo=Показывать данные энергии
+nei.options.keys.showenchant=Показывать значения зачаровывания

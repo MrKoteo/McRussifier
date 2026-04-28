@@ -1,0 +1,68 @@
+itemGroup.materials.base=Материалы B.A.S.E
+error.base.null_part=Несуществующая деталь
+
+base.part.gear=%s Шестерня
+base.part.plate=%s Пластина
+base.part.dense_plate=Плотная %s пластина
+base.part.dust=%s Пыль
+base.part.ingot=%s Слиток
+base.part.nugget=%s Самородок
+base.part.beam=%s Балка
+base.part.bolt=%s Болт
+base.part.rod=%s Стержень
+base.part.block=Блок %s
+base.part.ore_sample=%s Образец
+base.part.ore=%s Руда
+base.part.poor_ore=Бедная %s руда
+base.part.dense_ore=Плотная %s руда
+base.part.molten=Расплавленный %s
+base.part.armor.head=%s Шлем
+base.part.armor.chest=%s Нагрудник
+base.part.armor.legs=%s Поножи
+base.part.armor.feet=%s Ботинки
+base.part.casing=%s Корпус
+base.part.crystal=%s Кристалл
+base.part.crushed_ore=Дроблёная %s руда
+base.part.minecart=%s Вагонетка
+base.part.cluster=%s Скопление
+base.part.shard=%s Осколок
+base.part.clump=%s Комок
+base.part.dirty_dust=Грязная %s пыль
+base.part.rock=%s Камень
+base.part.ore_rock=%s Рудный камень
+base.part.centrifuged_ore=Центрифугированная %s руда
+base.part.chipped_gem=Сколотый %s самоцвет
+base.part.flawed_gem=Дефектный %s самоцвет
+base.part.flawless_gem=Безупречный %s самоцвет
+base.part.large_spring=Большая %s пружина
+base.part.long_rod=Длинный %s стержень
+base.part.purified_ore=Очищенная %s руда
+base.part.ring=%s Кольцо
+base.part.round=%s Шар
+base.part.small_dust=Малая %s пыль
+base.part.small_spring=Малая %s пружина
+base.part.tiny_dust=Крошечная %s пыль
+
+item.base.wrench.name=Гаечный ключ
+
+base.api.multiblock.validation.success=Проверка механизма выполнена успешно.
+base.api.multiblock.validation.too_few_parts=Механизм слишком маленький.
+base.api.multiblock.validation.machine_too_large=Механизм слишком большой, он может быть не более %1$d блоков в %2$s плоскости.
+base.api.multiblock.validation.machine_too_small=Механизм слишком маленький, он должен быть не менее %1$d блоков в %2$s плоскости.
+base.api.multiblock.validation.invalid_part=Деталь на %1$d, %2$d, %3$d несовместима с этим механизмом.
+base.api.multiblock.validation.invalid_part_for_frame=Блок на %1$d, %2$d, %3$d не подходит для использования в рамке механизма.
+base.api.multiblock.validation.invalid_part_for_bottom=Блок на %1$d, %2$d, %3$d не подходит для использования в нижнем слое механизма.
+base.api.multiblock.validation.invalid_part_for_top=Блок на %1$d, %2$d, %3$d не подходит для использования в верхнем слое механизма.
+base.api.multiblock.validation.invalid_part_for_sides=Блок на %1$d, %2$d, %3$d не подходит для использования на сторонах механизма.
+base.api.multiblock.validation.invalid_part_for_interior=Блок на %1$d, %2$d, %3$d не подходит для использования во внутренней части механизма.
+
+base.info.nofluid=Нет жидкости
+base.info.empty=Пусто
+
+#sided types
+base.block_side.facing=Лицевая сторона
+base.block_side.opposite=Противоположная сторона
+
+base.sidetype.input=Ввод
+base.sidetype.output=Вывод
+base.sidetype.none=Нет

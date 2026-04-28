@@ -1,0 +1,6 @@
+tile.denseneutroncollectors:compressed_neutron_collector.name=Сборщик нейтрония 2-го уровня
+tile.denseneutroncollectors:double_compressed_neutron_collector.name=Сборщик нейтрония 3-го уровня
+tile.denseneutroncollectors:triple_compressed_neutron_collector.name=Сборщик нейтрония 4-го уровня
+container.compressed_neutron_collector=Сборщик нейтрония 2-го уровня
+container.double_compressed_neutron_collector=Сборщик нейтрония 3-го уровня
+container.triple_compressed_neutron_collector=Сборщик нейтрония 4-го уровня

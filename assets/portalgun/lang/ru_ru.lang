@@ -1,0 +1,71 @@
+// Предметы
+item.portalgun.item.dustEnderPearl.name=Пыль эндер-жемчуга
+item.portalgun.item.miniatureBlackHole.name=Миниатюрная чёрная дыра
+item.portalgun.item.portalgun.name=Портал-пушка
+
+block.portalgun.block.portal.name=Блок портала
+
+portalgun.info.global=Global Portal Gun
+portalgun.info.owner=Портал-пушка %s
+portalgun.info.channel=Канал: %s
+portalgun.info.size=Размер: %1$s x %2$s
+portalgun.info.grabStrength0=Сила захвата: Ошибочная
+portalgun.info.grabStrength1=Сила захвата: Мелкие сущности
+portalgun.info.grabStrength2=Сила захвата: Блоки + Сущности
+portalgun.info.grabStrength3=Сила захвата: Блоки-сущности + Крупные сущности
+portalgun.info.grabStrength4=Сила захвата: Блоки-сущности + Очень крупные сущности
+portalgun.info.newPortalGun=Недавно созданная портал-пушка
+
+portalgun.config.cat.portalgun.name=Настройки портал-пушки
+
+portalgun.config.cat.portalgun.comment=Параметры конфигурации, связанные с использованием портал-пушки
+
+portalgun.config.prop.portalgunIndicatorSize.name=Размер индикатора портал-пушки
+portalgun.config.prop.seeThroughPortals.name=Видеть сквозь порталы
+portalgun.config.prop.fancyPortals.name=Улучшенные порталы
+
+portalgun.config.prop.keyGrab.name=Клавиша захвата
+portalgun.config.prop.keyReset.name=Клавиша сброса порталов
+portalgun.config.prop.keyZoom.name=Клавиша увеличения
+
+portalgun.config.prop.equipItemSound.name=Включить звук экипировки портал-пушки
+
+portalgun.config.prop.entityGrabWeightBase.name=Базовый вес захвата сущностей
+portalgun.config.prop.maxShootDistance.name=Максимальная дальность выстрела порталов
+portalgun.config.prop.canFireThroughGlass.name=Портал может проходить сквозь стекло
+portalgun.config.prop.canFireThroughLiquid.name=Портал может проходить сквозь жидкости
+portalgun.config.prop.canPortalsResizeWhenCreated.name=Порталы могут менять размер при создании
+portalgun.config.prop.canPortalProjectilesChunkload.name=Снаряды порталов могут загружать чанки
+
+portalgun.config.prop.portalgunIndicatorSize.comment=Размер индикатора вокруг перекрестия при удержании портал-пушки.\nЗначение в процентах\n0 для отключения.
+portalgun.config.prop.seeThroughPortals.comment=Включить рендеринг для обзора сквозь порталы?\n\nЕсли ваш ПК не поддерживает это, вы не сможете видеть сквозь порталы, даже если опция включена.
+portalgun.config.prop.fancyPortals.comment=Включить рендеринг порталов с шейдерами?\n\nЕсли ваш ПК не поддерживает это, шейдеры не будут использоваться, даже если опция включена.
+
+portalgun.config.prop.keyGrab.comment=Клавиша для захвата блоков/сущностей портал-пушкой
+portalgun.config.prop.keyReset.comment=Клавиша для сброса порталов вашей портал-пушки
+portalgun.config.prop.keyZoom.comment=Клавиша для увеличения и уменьшения в портал-пушке
+
+portalgun.config.prop.equipItemSound.comment=Воспроизводить звук при экипировке портал-пушки?
+
+portalgun.config.prop.entityGrabWeightBase.comment=Базовый вес, который портал-пушка может поднять, в процентах (%)\nУстановите 0 для отключения захвата блоков и сущностей, не относящихся к этому моду.
+portalgun.config.prop.maxShootDistance.comment=Максимальная дистанция выстрела порталов из портал-пушки.
+portalgun.config.prop.canFireThroughGlass.comment=Может ли снаряд, выпущенный портал-пушкой, проходить сквозь стекло?
+portalgun.config.prop.canFireThroughLiquid.comment=Может ли снаряд, выпущенный портал-пушкой, проходить сквозь жидкости?
+portalgun.config.prop.canPortalsResizeWhenCreated.comment=Может ли портал, созданный из снаряда, уменьшаться, если полный размер не помещается?
+portalgun.config.prop.canPortalProjectilesChunkload.comment=Может ли снаряд портала (который вы стреляете из портал-пушки) загружать чанки?\nОтключение может вызвать проблемы.
+
+entity.EntityPortalProjectile.name=Снаряд портала
+
+subtitles.portalgun.portal.portalenter=Вход в портал
+subtitles.portalgun.portal.portalexit=Выход из портала
+subtitles.portalgun.portal.portalfizzle=Закрытие портала
+subtitles.portalgun.portal.portalinvalid=Не удалось разместить портал
+subtitles.portalgun.portal.portalopen=Открытие портала
+subtitles.portalgun.portalgun.usefail=Портал-пушка не может поднять
+subtitles.portalgun.portalgun.useloop=Гудение портал-пушки
+subtitles.portalgun.portalgun.usestart=Портал-пушка захватывает
+subtitles.portalgun.portalgun.usestop=Портал-пушка отпускает
+subtitles.portalgun.portalgun.invalidsurface=Не удалось разместить портал
+subtitles.portalgun.portalgun.reset=Сброс портал-пушки
+subtitles.portalgun.portalgun.fire=Выстрел портал-пушки
+subtitles.portalgun.portalgun.equip=Экипировка портал-пушки

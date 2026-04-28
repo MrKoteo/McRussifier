@@ -1,0 +1,16 @@
+// Предметы
+item.mininglantern:mininglantern.name=Шахтёрский фонарь
+
+// Подсказки для предметов
+tooltip.mininglantern:activate=Нажмите %1$s%2$s%3$s, чтобы включить/выключить свет
+tooltip.mininglantern:loaded=Albedo §aустановлен§7, освещение будет работать!
+tooltip.mininglantern:notloaded=Albedo §cне установлен§7, освещение не будет работать!
+
+// Конфигурация
+config.mininglantern=Шахтёрский фонарь
+config.mininglantern.otherlight=Видеть свет других
+config.mininglantern.otherlight.tooltip=Показывать ли свет, испускаемый фонарями других игроков.
+
+// Назначение клавиш
+keys.mininglantern.category=Шахтёрский фонарь
+keys.mininglantern.light=Включить/выключить фонарь

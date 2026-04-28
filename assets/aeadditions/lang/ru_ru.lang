@@ -1,0 +1,11 @@
+
+com.the9grounds.aeadditions.item.storage.physical.dynamic.name=МЕ %sk Компонент хранилища
+com.the9grounds.aeadditions.item.storage.component.gas.dynamic.name=%sk МЕ Газовый Компонент хранилища
+
+itemGroup.AE_Additions=Extra Cells
+
+com.the9grounds.aeadditions.part.interface.name=МЕ Жидкостный интерфейс
+tile.com.the9grounds.aeadditions.block.gas_interface.name=МЕ Газовый интерфейс
+
+//GasIO Group Name
+com.the9grounds.aeadditions.gas.IO=ME Газовая шина Импорта/Экспорта

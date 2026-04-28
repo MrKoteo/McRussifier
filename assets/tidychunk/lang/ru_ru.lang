@@ -1,0 +1,28 @@
+#PARSE_ESCAPES
+# Русский перевод
+tidychunk.msg.tidychunk=TidyChunk
+
+# Строки проверки версий
+tidychunk.msg.NewVersion=["§6Доступно обновление: §9[",{"text":"§2%1$s §ev%2$s§f","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Нажмите для страницы проекта на CurseForge","color":"aqua"}},"clickEvent":{"action":"open_url","value":"%3$s"}},"§9]"]
+
+# Метаданные
+tidychunk.metadata.Name=§3TidyChunk
+tidychunk.metadata.Credits=§cГенерация мира, оставляющая мусор...§r
+tidychunk.metadata.Authors=§aOreCruncher§r
+tidychunk.metadata.Description=Очищает §6чанк§r после генерации
+
+# Текст логов
+config.tidychunk.title=Конфигурация TidyChunk
+config.tidychunk.logging=Логирование
+config.tidychunk.logging.tooltip=Параметры логирования
+config.tidychunk.logging.enableLogging=Включить отладочное логирование
+config.tidychunk.logging.enableLogging.tooltip=Вкл/Выкл вывод отладочной информации в лог Forge
+config.tidychunk.logging.enableVersionCheck=Включить проверку версий
+config.tidychunk.logging.enableVersionCheck.tooltip=Вкл/Выкл уведомления о новых версиях мода
+
+config.tidychunk.options=Параметры
+config.tidychunk.options.tooltip=Настройки поведения TidyChunk
+config.tidychunk.options.tickspan=Интервал тиков
+config.tidychunk.options.tickspan.tooltip=Количество тиков после генерации чанка для проверки EntityItems
+config.tidychunk.options.fakeplayers=Фейковые игроки
+config.tidychunk.options.fakeplayers.tooltip=Список фейковых игроков для блокировки дропа

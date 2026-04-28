@@ -1,0 +1,18 @@
+# Species
+species.dttraverse:autumn_brown.name=Коричневый осенний дуб
+species.dttraverse:autumn_orange.name=Оранжевый осенний дуб
+species.dttraverse:autumn_red.name=Красный осенний дуб
+species.dttraverse:autumn_yellow.name=Жёлтая осенняя берёза
+species.dttraverse:mini_jungle.name=Мини-джунгли
+species.dttraverse:oak_shrub.name=Дубовый куст
+species.dttraverse:fir.name=Пихта
+
+# Items
+item.dttraverse:autumn_brownseed.name=Коричневый осенний жёлудь
+item.dttraverse:autumn_redseed.name=Красный осенний жёлудь
+item.dttraverse:autumn_orangeseed.name=Оранжевый осенний жёлудь
+item.dttraverse:autumn_yellowseed.name=Жёлтая осенняя серёжка
+item.dttraverse:firseed.name=Семя пихты
+
+# Blocks
+tile.dttraverse:firbranch.name=Пихта

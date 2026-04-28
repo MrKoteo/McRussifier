@@ -1,0 +1,4 @@
+effectivelight.config.title=EffectiveLight Light-spawn Configuration
+
+effectivelight.config.max_blocklight=Максимально допустимое освещение
+effectivelight.config.max_blocklight.tooltip=Максимальное значение освещения, при котором моб может появиться. Установите 7 для Ванильного значения.

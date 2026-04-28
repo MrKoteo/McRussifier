@@ -1,0 +1,6 @@
+tile.simple_trophies.trophy.name=Трофей
+simple_trophies.misc.tooltip.displaying=Отображается: %s
+simple_trophies.misc.copied=Скопировано в буфер обмена!
+simple_trophies.misc.modelName=Модель: "%s"
+simple_trophies.misc.modelBy=Модель трофея от %s
+simple_trophies.misc.earnedAt=Получено в %s

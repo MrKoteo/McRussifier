@@ -1,0 +1,8 @@
+item.vajra.name=Ваджра
+item.vajra-core.name=Сердцевина ваджры
+item.magnetron.name=Магнетрон
+vajra.tooltip.silk-hint=Нажмите ПКМ в воздухе, присев, чтобы переключить шёлковое касание
+vajra.tooltip.charge=§b%,d / %,d RF
+vajra.silk.enabled=Шёлковое касание: §aВключено§r
+vajra.silk.disabled=Шёлковое касание: §cОтключено§r
+vajra.config.interop=Совместимость с модами

@@ -1,0 +1,23 @@
+tile.openglassesterminal.name=Терминал очков
+item.openglasses_manual.name=Руководство по OpenGlasses
+item.openglasses.name=AR-очки
+item.openglasses_card.name=Карта терминала очков
+key.categories.openglasses=OpenGlasses
+key.openglasses.interact=Наложение курсора
+key.openglasses.stable_interact=Стабильное наложение
+key.openglasses.config=Конфигурация очков
+key.openglasses.opensecurity=OpenSecurity (Режим)
+key.openglasses.nightvision=Ночное видение (Режим)
+key.openglasses.thermalvision=Тепловизор (Режим)
+itemGroup.openglasses=OpenGlasses
+
+
+openglasses.infotext.nolink=НЕ ПОДКЛЮЧЕНО К ТЕРМИНАЛУ
+openglasses.infotext.noenergy=НЕТ ПИТАНИЯ
+openglasses.infotext.widgetlimitexhausted=ДОСТИГНУТ ЛИМИТ ВИДЖЕТОВ, удалите виджеты, чтобы убрать это сообщение
+openglasses.infotext.linkrequest=принять запрос на подключение от %s в %s
+openglasses.infotext.upgraderequired=требуется улучшение '%s'
+
+gui.openglasses.config.title=Конфигурация OpenGlasses
+gui.openglasses.config.general.absolute_rendering_allowed=разрешить абсолютное отображение
+gui.openglasses.config.general.widgetlimit=лимит виджетов

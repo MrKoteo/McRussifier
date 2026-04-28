@@ -1,0 +1,33 @@
+!------------------------------------------------------ MISC ------------------------------------------------------!
+itemGroup.endertanks=EnderTanks
+
+!----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!
+error.endertanks.bucket.nolink1.txt=Не удается связать ведро, вы не владеете этим резервуаром
+error.endertanks.bucket.nolink2.txt=Не удается связать ведро, владелец резервуара неизвестен
+error.endertanks.bucket.nolink3.txt=Не удается связать ведро, вы не в той же команде
+
+error.endertanks.tank.public.disabled.txt=Публичные резервуары отключены, для использования резервуары должны быть улучшены
+error.endertanks.tank.private.disabled.txt=Создание приватных резервуаров отключено
+error.endertanks.tank.team.disabled.txt=Создание командных резервуаров отключено
+error.endertanks.tank.private.denied.txt=Только владелец может выполнить это действие
+error.endertanks.tank.team.denied.txt=Только члены команды могут выполнить это действие
+error.endertanks.bucket.public.disabled.txt=Публичные ведра отключены
+error.endertanks.bucket.private.disabled.txt=Создание приватных ведер отключено
+error.endertanks.bucket.team.disabled.txt=Создание командных ведер отключено
+
+info.endertanks.bucket.header.txt=Ведро
+info.endertanks.tank.header.txt=Резервуар
+info.endertanks.tank.empty.txt=Пусто
+info.endertanks.tank.public.txt=Общедоступный
+info.endertanks.tank.code.txt=Код:
+info.endertanks.tank.capacity.txt=Вместимость резервуара увеличена до
+info.endertanks.tank.pump.upgrade.txt=Насос улучшен до
+info.endertanks.tank.pump.txt=Насос
+
+!-------------------------------------------------- ITEMS/BLOCKS --------------------------------------------------!
+item.endertanks.bucket.public.name=Ведро Края
+item.endertanks.bucket.private.name=Ведро Края
+item.endertanks.bucket.team.name=Ведро Края
+tile.endertanks.tank.public.name=Резервуар Края
+tile.endertanks.tank.private.name=Резервуар Края
+tile.endertanks.tank.team.name=Резервуар Края

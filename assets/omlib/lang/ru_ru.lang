@@ -1,0 +1,52 @@
+# === GUI ЭЛЕМЕНТЫ ===
+gui.omtteam.omlib:base=База
+gui.omtteam.omlib:owner=Владелец
+gui.omtteam.omlib:inverted=Инвертированный
+gui.omtteam.omlib:noninverted=Неинвертированный
+gui.omtteam.omlib:always_on=Всегда включен
+gui.omtteam.omlib:always_off=Всегда выключен
+gui.omtteam.omlib:mode=Режим
+gui.omtteam.omlib:active=Активен
+gui.omtteam.omlib:true=да
+gui.omtteam.omlib:false=нет
+gui.omtteam.omlib:yes=да
+gui.omtteam.omlib:no=нет
+gui.omtteam.omlib:next=Далее
+gui.omtteam.omlib:previous=Назад
+gui.omtteam.omlib:back=Назад
+gui.omtteam.omlib:attack_mobs=Атаковать мобов
+gui.omtteam.omlib:attack_neutrals=Атаковать нейтральных
+gui.omtteam.omlib:attack_players=Атаковать игроков
+gui.omtteam.omlib:multi_targeting=Мультицелеуказание
+gui.omtteam.omlib:facing=Направление
+gui.omtteam.omlib:shift=Shift
+gui.omtteam.omlib:shift_detail_start=Нажмите
+gui.omtteam.omlib:shift_detail_end=для деталей
+gui.omtteam.omlib:trusted_players=Доверенные игроки
+gui.omtteam.omlib:add_trusted_player=Добавить доверенного игрока
+gui.omtteam.omlib:permissions=Права доступа
+gui.omtteam.omlib:access_level_none=Нет
+gui.omtteam.omlib:access_level_open_gui=Открывать интерфейс
+gui.omtteam.omlib:access_level_change_settings=Изменять настройки
+gui.omtteam.omlib:access_level_admin=Администратор
+gui.omtteam.omlib:access_type_none=Нет
+gui.omtteam.omlib:access_type_trusted=Доверенный
+gui.omtteam.omlib:access_type_owner=Владелец
+gui.omtteam.omlib:access_type_op=Оператор
+gui.omtteam.omlib:light_values=Уровни освещения
+
+# === ПОДСКАЗКИ ===
+tooltip.omtteam.omlib:add_trusted_player=Добавляет игрока в список доверенных базы
+tooltip.omtteam.omlib:remove_trusted_player=Удаляет игрока из списка доверенных базы
+tooltip.omtteam.omlib:tp_none=Игрок не может открывать интерфейс
+tooltip.omtteam.omlib:tp_can_open_gui=Игрок может открывать интерфейс
+tooltip.omtteam.omlib:tp_can_change_settings=Игрок может изменять параметры базы
+tooltip.omtteam.omlib:tp_can_administer=Игрок может управлять турелью (доверенные игроки и демонтаж)
+tooltip.omtteam.omlib:tp_decrease_access=Понизить уровень доступа выбранного игрока
+tooltip.omtteam.omlib:tp_increase_access=Повысить уровень доступа выбранного игрока
+tooltip.omtteam.omlib:tp_text_field=Имя доверенного игрока для добавления
+tooltip.omtteam.omlib:info_access_level=Уровень доступа выбранного игрока
+tooltip.omtteam.omlib:trusted_player_gui=Управление доверенными игроками
+
+# === ПРЕДМЕТЫ ===
+item.debug_tool.name=Инструмент отладки

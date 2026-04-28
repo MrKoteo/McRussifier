@@ -1,0 +1,6 @@
+info.kjlib.holdShiftForDetails=Зажмите §e§oShift§r§7 для подробностей§r
+info.kjlib.tutorial.fluxRequired=Для работы требуется RF энергия.
+info.kjlib.tutorial.tabAugment=Вкладка Улучшений позволяет добавлять модульные расширения.
+info.kjlib.tutorial.tabConfiguration=Вкладка Конфигурации определяет параметры ввода и вывода для этого блока.
+info.kjlib.tutorial.tabRedstone=Вкладка Красного камня настраивает реакцию блока на сигналы красного камня.
+info.kjlib.tutorial.tabSecurity=Вкладка Безопасности позволяет владельцу управлять доступом к этому блоку.

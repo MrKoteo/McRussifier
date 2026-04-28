@@ -1,0 +1,17 @@
+itemGroup.openscreens=OpenScreens
+tile.openscreens.backflatscreen1.name=Плоский дисплей (задний)(1 уровень)
+tile.openscreens.backflatscreen2.name=§eПлоский дисплей (задний)(2 уровень)
+tile.openscreens.backflatscreen3.name=§bПлоский дисплей (задний)(3 уровень)
+tile.openscreens.frontflatscreen1.name=Плоский дисплей (передний)(1 уровень)
+tile.openscreens.frontflatscreen2.name=§eПлоский дисплей (передний)(2 уровень)
+tile.openscreens.frontflatscreen3.name=§bПлоский дисплей (передний)(3 уровень)
+tile.openscreens.holoscreen1.name=Голографический дисплей (1 уровень)
+tile.openscreens.holoscreen2.name=§eГолографический дисплей (2 уровень)
+tile.openscreens.holoscreen3.name=§bГолографический дисплей (3 уровень)
+tooltip.openscreens.holoscreen.info=§7С пустой рукой, §lSneak/Shift+RCLICK§r§7 стороны для регулировки размера
+tooltip.openscreens.holoscreen.dyeable=§7Используйте краски для раскрашивания фона
+tooltip.openscreens.holoscreen.moreinfo=§fУдерживай SHIFT для большей информации
+tooltip.openscreens.holoscreen.left=§7Left -> Уменьшить ширину
+tooltip.openscreens.holoscreen.right=§7Right -> Увеличить ширину
+tooltip.openscreens.holoscreen.front=§7Front -> Уменьшить высоту
+tooltip.openscreens.holoscreen.top=§7Top -> Увеличить высоту

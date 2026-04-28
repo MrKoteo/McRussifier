@@ -1,0 +1,35 @@
+option.general.showstates=Показывать состояния
+
+option.capability.inventoryinfo=Показывать информацию о инвентаре
+jade.locked=Инвентарь заблокирован
+
+option.jade.horsestat=Характеристики лошади
+jade.horseStat.jump=Высота прыжка: %s
+jade.horseStat.speed=Скорость: %s
+
+option.jade.potioneffects=Эффекты сущности
+jade.potion=%s %s (%s)
+
+option.jade.itemframe=Рамка
+
+option.jade.horsechest=Сила ламы
+jade.llamaStrength=Сила: %s
+
+option.jade.mobgrowth=Рост моба
+jade.mobgrowth.time=Время роста: %s с
+
+option.jade.mobbreeding=Разведение мобов
+jade.mobbreeding.time=Время восстановления: %s с
+
+option.jade.brewingstand=Зельеварка
+jade.brewingStand.time=Время: %s с
+jade.brewingStand.fuel=Топливо: %s
+
+entity.ItemFrame.name=Рамка
+entity.MinecartRideable.name=Вагонетка
+entity.MinecartFurnace.name=Вагонетка с печью
+entity.MinecartTNT.name=Вагонетка с TNT
+entity.MinecartSpawner.name=Вагонетка со спаунером
+entity.MinecartCommandBlock.name=Вагонетка с командным блоком
+entity.EnderCrystal.name=Эндер Кристалл
+entity.LeashKnot.name=Узел поводка

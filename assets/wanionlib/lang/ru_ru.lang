@@ -1,0 +1,13 @@
+
+// add missing
+
+wanionlib.matching.matcher.disabled=Отключено
+wanionlib.matching.matcher.enum=Перечисление
+wanionlib.matching.matcher.empty=Пусто
+wanionlib.matching.matcher.damaged=Повреждённый
+wanionlib.matching.matcher.vanilla=Стандартная (Vanilla)
+wanionlib.matching.matcher.mod=Мод:
+wanionlib.amount=Количество:
+wanionlib.consumes=Потребляет %1$s FE
+wanionlib.per.operation=за операцию
+wanionlib.field.occupied=Вы не можете использовать это поле, пока его использует %1$s.

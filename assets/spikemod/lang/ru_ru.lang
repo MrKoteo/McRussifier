@@ -1,0 +1,10 @@
+itemGroup.spike_tab=Spike Mod
+tile.diamond_spike.name=Алмазный шип
+tile.golden_spike.name=Золотой шип
+tile.iron_spike.name=Железный шип
+tile.stone_spike.name=Каменный шип
+tile.wooden_spike.name=Деревянный шип
+tile.looting_spike.name=Удачный шип
+tile.freezing_spike.name=Морозный шип
+tile.extra_sharp_spike.name=Супер-острый шип
+tile.hot_spike.name=Горячий шип

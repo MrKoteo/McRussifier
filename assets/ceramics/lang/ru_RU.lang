@@ -1,0 +1,10 @@
+tile.ceramics.clay_hard.monochrome_bricks.name=Монохромные кирпичи
+tile.ceramics.clay_slab.monochrome_bricks.name=Плита из монохромных кирпичей
+tile.ceramics.monochrome_bricks_stairs.name=Ступеньки из монохромных кирпичей
+tile.ceramics.clay_wall.monochrome_bricks.name=Ограда из монохромных кирпичей
+item.ceramics.unfired.faucet.name=Необожженный кран
+item.ceramics.unfired.channel.name=Необожженный жёлоб
+tile.ceramics.faucet.name=Фарфоровый кран
+tile.ceramics.channel.name=Фарфоровый жёлоб
+tile.ceramics.faucet_clay.name=Глиняный кран
+tile.ceramics.channel_clay.name=Глиняный жёлоб

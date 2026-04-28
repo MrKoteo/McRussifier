@@ -1,0 +1,41 @@
+# Предметы
+item.extratan.emptyFlask.name=Колба
+item.extratan.emptyTemperedFlask.name=Закаленная колба
+item.extratan.hotDrink.name=Горячий напиток
+item.extratan.coldDrink.name=Холодный напиток
+item.extratan.waterFilledFlask.name=Наполненная колба
+item.extratan.superColdDrink.name=Очень холодный напиток
+item.extratan.superHotDrink.name=Очень горячий напиток
+item.extratan.appleJuice.name=Яблочный сок
+item.extratan.orangeJuice.name=Апельсиновый сок
+item.extratan.lemonade.name=Лимонад
+
+# Блоки
+tile.extratan.temperedGlassBlock.name=Блок закаленного стекла
+
+# Вкладки творческого режима
+itemGroup.extratan.extraTANDrinks=Потребляемые Extra TAN
+itemGroup.extratan.extraTANMaterials=Материалы Extra TAN
+itemGroup.extratan.extraTANBlocks=Блоки Extra TAN
+
+# Эффекты зелий
+potion.chilled=Охлаждение
+potion.steaming=Парение
+potion.temperature_resistance=Сопротивление температуре
+potion.temperature_immunity=Иммунитет к температуре
+
+# Типы зелий
+potion.effect.temperature_resistance=Зелье сопротивления температуре
+potion.effect.temperature_immunity=Зелье иммунитета к температуре
+splash_potion.effect.temperature_resistance=Взрывное зелье сопротивления температуре
+splash_potion.effect.temperature_immunity=Взрывное зелье иммунитета к температуре
+lingering_potion.effect.temperature_resistance=Долгоиграющее зелье сопротивления температуре
+lingering_potion.effect.temperature_immunity=Долгоиграющее зелье иммунитета к температуре
+tipped_arrow.effect.temperature_resistance=Стрела сопротивления температуре
+tipped_arrow.effect.temperature_immunity=Стрела иммунитета к температуре
+
+# Зачарования
+enchantment.heat_resistance=Защита от жары
+enchantment.cold_resistance=Защита от холода
+enchantment.extratan.heat_resistance.desc=Защищает вас от большинства (или всех) аспектов жары. (Уровень I: Уменьшает скорость нагрева, Уровень II: Нейтрализует жару)
+enchantment.extratan.cold_resistance.desc=Защищает вас от большинства (или всех) аспектов холода. (Уровень I: Уменьшает скорость охлаждения, Уровень II: Нейтрализует холод)

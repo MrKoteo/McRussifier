@@ -1,0 +1,78 @@
+# Подсказки
+tooltip.solcarrot.hearty.not_eaten=Ещё не пробовал! Интересно, какой у него вкус?
+tooltip.solcarrot.hearty.eaten=Уже попробовано!
+tooltip.solcarrot.cheap.eaten=Попробовано: Без заметного эффекта
+tooltip.solcarrot.cheap=Эта еда недостаточно питательна, чтобы улучшить здоровье.
+tooltip.solcarrot.disabled.blacklist=Эта еда в чёрном списке и не может улучшить здоровье.
+tooltip.solcarrot.disabled.whitelist=Эта еда не в белом списке и не может улучшить здоровье.
+tooltip.solcarrot.disabled.eaten=Попробовано: Без заметного эффекта
+
+# Команды
+command.solcarrot.foodlist.size.usage=/списокеды размер [игрок]
+command.solcarrot.foodlist.clear.usage=/списокеды очистить [игрок]
+command.solcarrot.foodlist.sync.usage=/списокеды синхр [игрок]
+command.solcarrot.foodlist.no_permissions=У вас нет прав для применения этой команды к другим игрокам!
+
+command.solcarrot.foodlist.size.desc.foods_eaten.singular=Вы попробовали 1 уникальный продукт!
+command.solcarrot.foodlist.size.desc.foods_eaten.plural=Вы попробовали %s уникальных продуктов!
+command.solcarrot.foodlist.size.desc.milestone.max=К сожалению, вы больше не можете получить здоровья за новую еду.
+command.solcarrot.foodlist.size.desc.milestone.more=Нужно попробовать ещё %s, чтобы увеличить здоровье.
+
+command.solcarrot.foodlist.clear.success=Список еды очищен!
+command.solcarrot.foodlist.sync.success=Список еды синхронизирован!
+
+# Сообщения
+message.solcarrot.chat_wrapper=[SoL: Carrot] %s
+message.solcarrot.hearts.singular=сердце
+message.solcarrot.hearts.plural=%s сердец
+message.solcarrot.milestone_achieved=Какой необычный вкус! Вы получили %s!
+message.solcarrot.finished.chat=Ваше желание пробовать новую еду наконец удовлетворено.
+message.solcarrot.finished.hotbar=Вы получили %s. Ваше желание пробовать новую еду удовлетворено.
+
+# Предметы
+item.solcarrot.food_book.name=Книга еды
+
+# Интерфейсы
+gui.solcarrot.food_book.stats=Обзор
+gui.solcarrot.food_book.eaten_foods=Уже попробовано: %s
+gui.solcarrot.food_book.uneaten_foods=Ещё не пробовал: %s
+gui.solcarrot.food_book.config=Настройки
+
+gui.solcarrot.food_book.fraction=%1$s/%2$s
+
+gui.solcarrot.food_book.stats.foods_tasted=Продуктов попробовано
+gui.solcarrot.food_book.stats.hearts_gained=Сердец получено
+gui.solcarrot.food_book.stats.tooltip.progress=До следующей вехи: %s
+gui.solcarrot.food_book.stats.tooltip.progress.max=Максимальная веха достигнута!
+gui.solcarrot.food_book.stats.tooltip.previous_milestone=Предыдущая веха: %s
+gui.solcarrot.food_book.stats.tooltip.next_milestone=Следующая веха: %s
+gui.solcarrot.food_book.stats.tooltip.total_foods=Всего продуктов: %s
+gui.solcarrot.food_book.stats.tooltip.foods_tasted=Продуктов попробовано: %s
+gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.singular=1 сердце за веху
+gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.plural=%s сердец за веху
+
+gui.solcarrot.food_book.config.minimum_food_value=Мин. сытность
+gui.solcarrot.food_book.config.tooltip.minimum_food_value=Минимальная сытность еды, необходимая для учёта в вехах.
+gui.solcarrot.food_book.config.hearty_fraction=Полезные продукты
+gui.solcarrot.food_book.config.tooltip.hearty_fraction=Из %1$s продуктов %2$s достаточно питательны для здоровья.
+gui.solcarrot.food_book.config.eaten_cheap_foods=Бесполезные продукты
+gui.solcarrot.food_book.config.tooltip.eaten_cheap_foods=Из %1$s бесполезных продуктов вы попробовали %2$s.
+gui.solcarrot.food_book.config.blacklist=Чёрный список
+gui.solcarrot.food_book.config.whitelist=Белый список
+gui.solcarrot.food_book.config.tooltip.blacklist=Количество продуктов, отключённых чёрным списком.
+gui.solcarrot.food_book.config.tooltip.whitelist=Количество продуктов, разрешённых белым списком.
+
+# Настройки
+config.solcarrot.base_hearts=Базовые сердца
+config.solcarrot.hearts_per_milestone=Сердец за веху
+config.solcarrot.milestones=Вехи
+config.solcarrot.is_food_tooltip_enabled=Подсказки о еде
+config.solcarrot.should_show_progress_above_hotbar=Прогресс над панелью
+config.solcarrot.should_show_uneaten_foods=Показывать непробованные
+config.solcarrot.should_play_milestone_sounds=Звуки вех
+config.solcarrot.should_spawn_intermediate_particles=Частицы прогресса
+config.solcarrot.should_spawn_milestone_particles=Частицы вех
+config.solcarrot.food_blacklist=Чёрный список
+config.solcarrot.food_whitelist=Белый список (отключает чёрный)
+config.solcarrot.minimum_food_value=Мин. сытность
+config.solcarrot.reset_on_death=Сбрасывать при смерти

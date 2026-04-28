@@ -1,0 +1,10 @@
+# Конфиг
+config.villagercontracts:validcontracts=Допустимые контракты
+
+# Предметы
+item.villagercontracts:contract.name=Договор с жителем
+
+# Подсказки
+tooltip.villagercontracts:desc=Переименуйте на наковальне, чтобы указать профессию жителя.
+tooltip.villagercontracts:info=Зажмите §bSHIFT§7, чтобы показать доступные варианты.
+tooltip.villagercontracts:naming=Допустимые названия контрактов:

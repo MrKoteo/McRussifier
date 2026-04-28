@@ -1,0 +1,19 @@
+item.immersivecables:wire_coil.fluix.name=Флюксовая катушка провода
+item.immersivecables:wire_coil.fluix_dense.name=Плотная флюксовая катушка провода
+item.immersivecables:wire_coil.quartz.name=Катушка кварцевого провода
+item.immersivecables:wire_coil.refined.name=Катушка очищенного провода
+
+tile.immersivecables:coil_block.0.name=Флюксовая катушка
+tile.immersivecables:coil_block.1.name=Плотная флюксовая катушка
+tile.immersivecables:coil_block.2.name=Катушка кварцевого провода
+tile.immersivecables:coil_block.3.name=Катушка очищенного провода
+tile.immersivecables:transformer_fluix.0.name=Флюксовый трансформатор
+tile.immersivecables:transformer_fluix.1.name=Плотный флюксовый трансформатор
+tile.immersivecables:transformer_fluix.name=Коннектор кварцевого провода
+tile.immersivecables:relay_fluix.0.name=Флюксовое реле провода
+tile.immersivecables:relay_fluix.1.name=Плотное флюксовое реле провода
+tile.immersivecables:connector_quartz.name=Коннектор кварцевого провода
+tile.immersivecables:transformer_refined.name=Очищенный трансформатор
+tile.immersivecables:relay_refined.name=Очищенное реле
+
+itemGroup.immersivecables=Immersive Cables

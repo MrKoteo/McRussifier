@@ -1,0 +1,17 @@
+gui.move=Move
+gui.copy=Copy
+gui.paste=Paste
+gui.cut=Cut
+lat_support=
+ftblib.lang.team.no_team=Нет команды
+team_action.ftblib.change_team=Присоединиться к другой команде
+team_action.ftblib.leave.confirmation=Внимание! Если вы это сделаете, вы можете потерять прогресс квеста и другие вещи!
+commands.team.create_server_team.usage=/team create_server_team <id>
+commands.team.info.usage=/team info <team>
+commands.team.info.id=ID: %s
+commands.team.info.uid=UID: %s
+commands.team.info.owner=Глава: %s
+commands.team.info.members=Участники: %s
+commands.team.get.usage=/team get <player>
+commands.team.list.usage=/team list
+commands.team.list.teams=Список всех команд (%d):

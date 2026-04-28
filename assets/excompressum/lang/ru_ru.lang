@@ -1,0 +1,113 @@
+item.excompressum:compressed_hammer_wood.name=Сжатый деревянный молот
+item.excompressum:compressed_hammer_stone.name=Сжатый каменный молот
+item.excompressum:compressed_hammer_iron.name=Сжатый железный молот
+item.excompressum:compressed_hammer_gold.name=Сжатый золотой молот
+item.excompressum:compressed_hammer_diamond.name=Сжатый алмазный молот
+item.excompressum:double_compressed_diamond_hammer.name=Дважды сжатый алмазный молот
+item.excompressum:compressed_crook.name=Сжатый багор
+item.excompressum:chicken_stick.name=Куриная палка
+item.excompressum:iron_mesh.name=Железная сетка
+item.excompressum:bait_wolf.name=Приманка для волка
+item.excompressum:bait_ocelot.name=Приманка для оцелота
+item.excompressum:bait_cow.name=Приманка для коровы
+item.excompressum:bait_pig.name=Приманка для свиньи
+item.excompressum:bait_chicken.name=Приманка для курицы
+item.excompressum:bait_sheep.name=Приманка для овцы
+item.excompressum:bait_squid.name=Приманка для спрута
+item.excompressum:bait_rabbit.name=Приманка для кролика
+item.excompressum:bait_horse.name=Приманка для лошади
+item.excompressum:bait_donkey.name=Приманка для осла
+item.excompressum:bait_llama.name=Приманка для ламы
+item.excompressum:bait_polar_bear.name=Приманка для белого медведя
+item.excompressum:bait_parrot.name=Приманка для попугая
+item.excompressum:wood_chippings.name=Древесная стружка
+item.excompressum:uncompressed_coal.name=Несжатый уголь
+item.excompressum:bat_zapper.name=Уничтожитель летучих мышей
+item.excompressum:ore_smasher.name=Дробилка руды
+item.excompressum:hammer_mana.name=Мана-молот
+item.excompressum:ugly_steel_plating.name=Уродливая стальная обшивка
+
+gui.excompressum:autoSieve.noMesh=Нет сетки
+gui.excompressum:autoSieve.incorrectMesh=Неправильная сетка
+
+tooltip.excompressum:double_compressed_diamond_hammer=Модификатор Tinkers Construct
+tooltip.excompressum:best_with_blasting=Сочетайте с взрывным (Blasting) для лучшего результата
+tooltip.excompressum:auto_sieve=%s в Коробке™
+tooltip.excompressum:auto_heavy_sieve=%s в Тяжёлой Коробке™
+tooltip.excompressum:mana_sieve=%s в Волшебной Коробке™
+tooltip.excompressum:consumingEnergy=Потребление %d FE/т
+tooltip.excompressum:ugly_steel_plating=Нанесите на механизм, чтобы сделать его визуально непривлекательным.
+
+info.excompressum:baitCanSpawn=Эта приманка сработает в этом окружении. Отойдите подальше, чтобы не распугать животных!
+info.excompressum:baitNearbyBait=В этой области слишком много приманок. Очень подозрительно.
+info.excompressum:baitWrongEnv=Разместите здесь больше блоков из родного биома этих животных.
+info.excompressum:baitNearbyAnimal=Животные пугливы. Их здесь слишком много.
+info.excompressum:baitNoWater=В этой области нет воды.
+info.excompressum:baitPlaceInWater=Должно быть размещено в воде.
+
+commands.excompressum:reload.success=Реестры Ex Compressum перезагружены.
+
+tile.excompressum:compressed_dust.name=Сжатая пыль
+tile.excompressum:compressed_cobblestone.name=Сжатый булыжник
+tile.excompressum:compressed_sand.name=Сжатый песок
+tile.excompressum:compressed_dirt.name=Сжатая земля
+tile.excompressum:compressed_gravel.name=Сжатый гравий
+tile.excompressum:compressed_flint.name=Сжатый кремень
+tile.excompressum:compressed_ender_gravel.name=Сжатый эндер-гравий
+tile.excompressum:compressed_nether_gravel.name=Сжатый незер-гравий
+tile.excompressum:compressed_soul_sand.name=Сжатый песок душ
+tile.excompressum:compressed_netherrack.name=Сжатый незерит
+tile.excompressum:compressed_end_stone.name=Сжатый эндерняк
+tile.excompressum:heavy_sieve_0.name=Тяжёлое дубовое сито
+tile.excompressum:heavy_sieve_1.name=Тяжёлое еловое сито
+tile.excompressum:heavy_sieve_2.name=Тяжёлое берёзовое сито
+tile.excompressum:heavy_sieve_3.name=Тяжёлое тропическое сито
+tile.excompressum:heavy_sieve_4.name=Тяжёлое акациевое сито
+tile.excompressum:heavy_sieve_5.name=Тяжёлое сито из тёмного дуба
+tile.excompressum:wooden_crucible_0.name=Дубовый тигель
+tile.excompressum:wooden_crucible_1.name=Еловый тигель
+tile.excompressum:wooden_crucible_2.name=Берёзовый тигель
+tile.excompressum:wooden_crucible_3.name=Тропический тигель
+tile.excompressum:wooden_crucible_4.name=Акациевый тигель
+tile.excompressum:wooden_crucible_5.name=Тигель из тёмного дуба
+tile.excompressum:auto_compressor.name=Автоматический компрессор
+tile.excompressum:auto_hammer.name=Автоматический молот
+tile.excompressum:auto_compressed_hammer.name=Автоматический сжатый молот
+tile.excompressum:auto_sieve.name=Автоматическое сито
+tile.excompressum:mana_sieve.name=Мана-сито
+tile.excompressum:auto_heavy_sieve.name=Автоматическое тяжёлое сито
+tile.excompressum:auto_compressor_rationing.name=Автоматический компрессор (Нормирование)
+
+entity.excompressum.AngryChicken.name=Злая курица
+
+botania.entry.excompressum.orechidEvolved=Эволюционирующая орхидея руд
+botania.tagline.excompressum.orechidEvolved=Создаёт руды из камня
+botania.page.excompressum.orechidEvolved0=Вы, вероятно, уже заметили, что в этом мире не будет добычи руд. &1Эволюционирующая орхидея руд&0 будет использовать &4Ману&0 для генерации &4руд&0 в соседних блоках &1Камня&0 быстрее и дешевле, чем &1Орхидея руд&0.<br>Генерируемые руды случайны, но кажется, что они смещены в сторону более распространённых руд, а не редких.
+botania.page.excompressum.orechidEvolved1=&oНо это всё равно не драконий помёт&r.
+tile.botania:flower.excompressum.orechidEvolved.name=Эволюционирующая орхидея руд
+tile.botania:flower.excompressum.orechidEvolved.reference=Orchid Evolved: The Movie
+
+modifier.excompressum:smashingii.name=Крушение II
+modifier.excompressum:compressing.name=Сжатие
+
+waila.excompressum:baitTooClose=Вы слишком близко.
+waila.excompressum:baitTooClose2=Животные испуганы.
+waila.excompressum:speedBoost=Ускорение: %s
+waila.excompressum:luckBonus=Бонус удачи: %s
+waila.excompressum:sieveSkin=Скин: %s
+waila.excompressum:sieveProgress=Прогресс: %s
+waila.excompressum:sieveMesh=%s %d/%d
+waila.excompressum:sieveNoMesh=Нет сетки
+waila.excompressum:solidVolume=Объём твёрдого: %s
+waila.excompressum:fluidVolume=Объём жидкости: %s
+
+jei.excompressum:heavySieve=Тяжёлое сито
+jei.excompressum:compressedHammer=Сжатый молот
+jei.excompressum:woodenCrucible=Деревянный тигель
+jei.excompressum:chickenStick=Куриная палка
+jei.excompressum:compressedHammer.dropChance=Шанс выпадения:
+jei.excompressum:heavySieve.dropChance=Шанс выпадения:
+jei.excompressum:compressedHammer.luck=удача
+jei.excompressum:heavySieve.luck=удача
+
+tooltip.excompressum:disableFakeWoodenCrucible=Отключено Ex Compressum, используйте дубовый тигель

@@ -1,0 +1,87 @@
+# Items
+
+item.crude_bow.name=Простой Лук
+item.quick_bow.name=Быстрый Лук
+item.heavy_bow.name=Тяжелый Лук
+item.lightning_bow.name=Лук Молнии
+item.flame_bow.name=Огненный Лук
+item.shot_bow.name=Лук с Зарядом
+item.ranged_bow.name=Дальнобойный Лук
+item.burst_bow.name=Лук с Очередью
+item.feather_bow.name=Перьевой Лук
+
+# Конфигурация
+
+mysticbows.general.common=Обычный
+mysticbows.general.common.tooltip=Общая конфигурация для Mystic Bows.
+
+mysticbows.general.common.bow=Лук
+mysticbows.general.common.bow.tooltip=Конфигурация для Лука, настраиваемой версии ванильного лука из Minecraft.
+
+mysticbows.general.common.crudebow=Простой Лук
+mysticbows.general.common.crudebow.tooltip=Конфигурация для Простого Лука, более слабой версии лука.
+
+mysticbows.general.common.quickbow=Быстрый Лук
+mysticbows.general.common.quickbow.tooltip=Конфигурация для Быстрого Лука.
+
+mysticbows.general.common.heavybow=Тяжелый Лук
+mysticbows.general.common.heavybow.tooltip=Конфигурация для Тяжелого Лука.
+
+mysticbows.general.common.lightningbow=Лук Молнии
+mysticbows.general.common.lightningbow.tooltip=Конфигурация для Лука Молнии.
+mysticbows.general.common.lightningbow.lightningchance=Шанс Молнии
+mysticbows.general.common.lightningbow.lightningchance.tooltip=Шанс (из 100) вызова молнии при попадании.
+mysticbows.general.common.lightningbow.strikeentitiesonly=Удар только по сущностям
+mysticbows.general.common.lightningbow.strikeentitiesonly.tooltip=Может ли стрела вызывать молнию при попадании во что-то, кроме сущности, например, в блок.
+mysticbows.general.common.lightningbow.strikes=Количество Молний
+mysticbows.general.common.lightningbow.strikes.tooltip=Количество молний, вызываемых стрелой, в пределах заданного радиуса.
+mysticbows.general.common.lightningbow.radius=Радиус
+mysticbows.general.common.lightningbow.radius.tooltip=Радиус, в котором стрела вызывает молнии. Установите 0 для того же места.
+
+mysticbows.general.common.flamebow=Огненный Лук
+mysticbows.general.common.flamebow.tooltip=Конфигурация для Огненного Лука.
+mysticbows.general.common.flamebow.igniteblocks=Поджигать Блоки
+mysticbows.general.common.flamebow.igniteblocks.tooltip=Может ли стрела поджигать блоки при попадании, как Огниво.
+
+mysticbows.general.common.shotbow=Лук с Зарядом
+mysticbows.general.common.shotbow.tooltip=Конфигурация для Лука с Зарядом.
+mysticbows.general.common.shotbow.arrowpershot=Стрел за Выстрел
+mysticbows.general.common.shotbow.arrowpershot.tooltip=Количество стрел, выпускаемых за один выстрел.
+mysticbows.general.common.shotbow.arrowconsumption=Расход Стрел
+mysticbows.general.common.shotbow.arrowconsumption.tooltip=Количество стрел, расходуемых за один выстрел.
+mysticbows.general.common.shotbow.maxspecialarrow=Макс. Спец. Стрел за Выстрел
+mysticbows.general.common.shotbow.maxspecialarrow.tooltip=Количество специальных стрел, выпускаемых за один выстрел. Если установлено 0, количество не ограничено, но специальные эффекты будут удалены.
+
+mysticbows.general.common.rangedbow=Дальнобойный Лук
+mysticbows.general.common.rangedbow.tooltip=Конфигурация для Дальнобойного Лука.
+mysticbows.general.common.rangedbow.fovmult=Множитель FOV
+mysticbows.general.common.rangedbow.fovmult.tooltip=Множитель для поля зрения (FOV) при натяжении лука (зум).
+
+mysticbows.general.common.burstbow=Лук с Очередью
+mysticbows.general.common.burstbow.tooltip=Конфигурация для Лука с Очередью.
+mysticbows.general.common.burstbow.arrowpershot=Стрел за Выстрел
+mysticbows.general.common.burstbow.arrowpershot.tooltip=Количество стрел, выпускаемых за одну очередь.
+mysticbows.general.common.burstbow.arrowconsumption=Расход Стрел
+mysticbows.general.common.burstbow.arrowconsumption.tooltip=Количество стрел, расходуемых за одну очередь.
+mysticbows.general.common.burstbow.delay=Задержка
+mysticbows.general.common.burstbow.delay.tooltip=Задержка между выстрелами в очереди в тиках.
+mysticbows.general.common.burstbow.maxspecialarrow=Макс. Спец. Стрел за Очередь
+mysticbows.general.common.burstbow.maxspecialarrow.tooltip=Количество специальных стрел, выпускаемых за одну очередь. Если установлено 0, количество не ограничено, но специальные эффекты будут удалены.
+
+mysticbows.general.common.featherbow=Перьевой Лук
+mysticbows.general.common.featherbow.tooltip=Конфигурация для Перьевого Лука.
+mysticbows.general.common.featherbow.featherconsumption=Расход Перьев
+mysticbows.general.common.featherbow.featherconsumption.tooltip=Расход перьев для Elenai Dodge 2 за выстрел. '0.5' = 1/2 пера.
+
+mysticbows.general.common.durability=Прочность
+mysticbows.general.common.durability.tooltip=Максимальная прочность лука. 0 означает бесконечную.
+mysticbows.general.common.damageMult=Множитель Урона
+mysticbows.general.common.damageMult.tooltip=Множитель базового урона лука. Чем выше, тем больше урон.
+mysticbows.general.common.velocityMult=Множитель Скорости
+mysticbows.general.common.velocityMult.tooltip=Множитель базовой скорости лука. Чем выше, тем больше скорость. Изменение скорости также влияет на урон, отдельно от Множителя Урона.
+mysticbows.general.common.drawTimeMult=Множитель Времени Натяжения
+mysticbows.general.common.drawTimeMult.tooltip=Множитель базового времени натяжения лука. Чем выше, тем больше время натяжения.
+mysticbows.general.common.inaccuracy=Неточность
+mysticbows.general.common.inaccuracy.tooltip=Неточность лука. 1.0 - как в ванильной игре, 0.0 - идеальная точность.
+mysticbows.general.common.flameTime=Время Горения
+mysticbows.general.common.flameTime.tooltip=Время, в течение которого лук будет поджигать сущность (в тиках), если зачарован на Огонь.

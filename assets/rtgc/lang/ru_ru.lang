@@ -1,0 +1,323 @@
+warning.rtgStartup1=Realistic Terrain Generation использует пользовательский тип мира.
+warning.rtgStartup2=Если вы хотите реалистичный рельеф, продолжайте нажимать кнопку «Тип мира»
+warning.rtgStartup3=в разделе «Дополнительные настройки мира», пока не отобразится «Realistic».
+warning.rtgStartup4=Этот тип мира можно использовать на серверах, изменив параметр 'level-type' в
+warning.rtgStartup5=server.properties на 'RTG' (без кавычек).
+warning.rtgStartup6=Это сообщение отобразится только один раз.
+
+#-----------------------------
+# GUI Customize World Screen
+#-----------------------------
+gui.createWorld.worldtypename=RTGC - Новый реалистичный
+gui.createWorld.worldtype.line1=Realistic Terrain Generation использует пользовательский тип мира.
+gui.createWorld.worldtype.line2=Чтобы использовать тип мира RTG, выберите
+gui.createWorld.worldtype.line3=§9Тип мира: %s§r в разделе §9Дополнительные настройки мира§r.
+gui.createWorld.worldtype.line4=Для использования на выделенном сервере установите
+gui.createWorld.worldtype.line5=§9level-type=RTG§r в файле §9server.properties§r
+
+gui.createWorld.customize.clipboard=Копировать настройки в буфер обмена
+gui.createWorld.customize.clipboard.tooltip=Нажмите эту кнопку, чтобы скопировать текущие настройки в буфер обмена для удобной вставки в поле generator-settings файла server.properties.
+
+gui.createWorld.customize.title.maintitle=Пользовательские настройки мира RTG
+
+gui.createWorld.customize.title.PAGE1=Настройки рельефа и поверхности
+
+gui.createWorld.customize.category.WORLD=Настройки мира
+gui.createWorld.customize.setting.fixedBiome=Фиксированный биом
+gui.createWorld.customize.setting.fixedBiome.tooltip=Выбирает биом для мира с одним биомом
+gui.createWorld.customize.setting.biomeSize=Размер биомов
+gui.createWorld.customize.setting.biomeSize.tooltip=Изменяет средний размер биомов
+
+gui.createWorld.customize.setting.seaLevel=Уровень моря
+gui.createWorld.customize.setting.riverSizeMult=Размер рек
+gui.createWorld.customize.category.SURFACE=Настройки поверхности
+gui.createWorld.customize.setting.useBoulders=Включить валуны
+gui.createWorld.customize.setting.useBoulders.tooltip=Включает генерацию валунов
+gui.createWorld.customize.setting.boulderMult=Шанс валуна 1/x
+gui.createWorld.customize.setting.boulderMult.tooltip=Вероятность генерации валуна
+gui.createWorld.customize.setting.sandDuneHeight=Высота песчаных дюн
+gui.createWorld.customize.setting.sandDuneHeight.tooltip=Регулирует высоту песчаных дюн
+gui.createWorld.customize.setting.snowDuneHeight=Высота снежных дюн
+gui.createWorld.customize.setting.snowDuneHeight.tooltip=Регулирует высоту снежных дюн
+gui.createWorld.customize.setting.useSnowLayers=Снежные слои
+gui.createWorld.customize.setting.useSnowLayers.tooltip=Включить градиентные слои снега в заснеженных биомах
+gui.createWorld.customize.setting.snowLayerTemp=Температура снежного слоя
+gui.createWorld.customize.setting.snowLayerTemp.tooltip=Температура, при которой генерируются снежные слои
+
+gui.createWorld.customize.category.UNDERGROUND=Настройки подземелья
+gui.createWorld.customize.setting.bedrockLayers=Слои коренной породы
+gui.createWorld.customize.setting.bedrockLayers.tooltip=Задаёт количество слоёв коренной породы
+gui.createWorld.customize.setting.useCaves=Пещеры
+gui.createWorld.customize.setting.useCaves.tooltip=Включить генерацию пещер
+gui.createWorld.customize.setting.caveChance=Шанс пещер
+gui.createWorld.customize.setting.caveChance.tooltip=БОЛЬШИЕ значения = МЕНЬШЕ пещер
+gui.createWorld.customize.setting.caveDensity=Плотность пещер
+gui.createWorld.customize.setting.caveDensity.tooltip=БОЛЬШИЕ значения = БОЛЬШЕ пещер
+gui.createWorld.customize.setting.useRavines=Овраги
+gui.createWorld.customize.setting.useRavines.tooltip=Включить генерацию оврагов
+gui.createWorld.customize.setting.ravineChance=Шанс оврага
+gui.createWorld.customize.setting.ravineChance.tooltip=БОЛЬШИЕ значения = МЕНЬШЕ оврагов
+
+gui.createWorld.customize.title.PAGE2=Настройки водных объектов
+
+gui.createWorld.customize.category.RIVERS=Настройки рек
+gui.createWorld.customize.setting.riverSize=Размер
+gui.createWorld.customize.setting.riverSize.tooltip=Регулирует ширину рек
+gui.createWorld.customize.setting.riverFrequency=Множитель частоты
+gui.createWorld.customize.setting.riverFrequency.tooltip=Регулирует, как часто будут генерироваться реки
+gui.createWorld.customize.setting.riverBendMult=Множитель извилистости
+gui.createWorld.customize.setting.riverBendMult.tooltip=Регулирует извилистость рек
+gui.createWorld.customize.setting.riverCutOffAmpl=Амплитуда среза
+gui.createWorld.customize.setting.riverCutOffAmpl.tooltip=Более высокие значения усиливают влияние крупномасштабного шума среза
+gui.createWorld.customize.setting.riverCutOffScale=Масштаб среза
+gui.createWorld.customize.setting.riverCutOffScale.tooltip=Более высокие значения увеличивают травянистые области у рек, но делают их более редкими
+
+gui.createWorld.customize.category.RTGLAKES=Настройки озёр RTG
+gui.createWorld.customize.setting.RTGlakeSizeMult=Множитель размера
+gui.createWorld.customize.setting.RTGlakeSizeMult.tooltip=Размер пользовательских озёр RTG (биом реки)
+gui.createWorld.customize.setting.RTGlakeFreqMult=Множитель частоты
+gui.createWorld.customize.setting.RTGlakeFreqMult.tooltip=Частота генерации пользовательских озёр RTG
+gui.createWorld.customize.setting.RTGlakeShoreBend=Множитель извилистости берега
+gui.createWorld.customize.setting.RTGlakeShoreBend.tooltip=Регулирует извилистость берегов озёр.
+
+gui.createWorld.customize.category.VANILLASURFACELAKES=Настройки ванильных поверхностных озёр
+gui.createWorld.customize.setting.useWaterLakes=Водные озёра
+gui.createWorld.customize.setting.useWaterLakes.tooltip=Включить ванильные поверхностные водные озёра
+gui.createWorld.customize.setting.waterLakeChance=Шанс водного озера 1/x
+gui.createWorld.customize.setting.waterLakeChance.tooltip=Вероятность генерации ванильного поверхностного водного озера
+gui.createWorld.customize.setting.useLavaLakes=Лавовые озёра
+gui.createWorld.customize.setting.useLavaLakes.tooltip=Включить ванильные поверхностные лавовые озёра
+gui.createWorld.customize.setting.lavaLakeChance=Шанс лавового озера 1/x
+gui.createWorld.customize.setting.lavaLakeChance.tooltip=Вероятность генерации ванильного поверхностного лавового озера
+
+gui.createWorld.customize.category.VANILLAUNDERGROUNDLAKES=Настройки ванильных подземных озёр
+gui.createWorld.customize.setting.useWaterUndLakes=Водные озёра
+gui.createWorld.customize.setting.useWaterUndLakes.tooltip=Включить ванильные подземные водные озёра
+gui.createWorld.customize.setting.waterUndLakeChance=Шанс водного озера 1/x
+gui.createWorld.customize.setting.waterUndLakeChance.tooltip=Вероятность генерации ванильного подземного водного озера
+gui.createWorld.customize.setting.useLavaUndLakes=Лавовые озёра
+gui.createWorld.customize.setting.useLavaUndLakes.tooltip=Включить ванильные подземные лавовые озёра
+gui.createWorld.customize.setting.lavaUndLakeChance=Шанс лавового озера 1/x
+gui.createWorld.customize.setting.lavaUndLakeChance.tooltip=Вероятность генерации ванильного подземного лавового озера
+
+gui.createWorld.customize.category.VANILLASPOUTS=Источники воды и лавы (шанс 1/x)
+gui.createWorld.customize.setting.waterSpoutChance=Шанс источника воды
+gui.createWorld.customize.setting.waterSpoutChance.tooltip=Вероятность 1/x, что источник воды появится на склоне холма или стене пещеры
+gui.createWorld.customize.setting.lavaSpoutChance=Шанс источника лавы
+gui.createWorld.customize.setting.lavaSpoutChance.tooltip=Вероятность 1/x, что источник лавы появится на склоне холма или стене пещеры
+
+
+gui.createWorld.customize.title.PAGE3=Настройки структур
+
+gui.createWorld.customize.category.VILLAGES=Настройки деревень
+gui.createWorld.customize.setting.useVillages=Деревни
+gui.createWorld.customize.setting.useVillages.tooltip=Включить генерацию деревень
+gui.createWorld.customize.setting.villageDistance=Расстояние между деревнями
+gui.createWorld.customize.setting.villageDistance.tooltip=Минимальное расстояние между деревнями
+gui.createWorld.customize.setting.villageSize=Размер деревень
+gui.createWorld.customize.setting.villageSize.tooltip=Регулирует средний размер деревень
+
+gui.createWorld.customize.category.MINESHAFTS=Настройки шахт
+gui.createWorld.customize.setting.useMineShafts=Шахты
+gui.createWorld.customize.setting.useMineShafts.tooltip=Включить генерацию шахт
+gui.createWorld.customize.setting.mineShaftChance=Шанс шахты
+gui.createWorld.customize.setting.mineShaftChance.tooltip=Вероятность генерации шахты
+
+gui.createWorld.customize.category.DUNGEONS=Настройки подземелий
+gui.createWorld.customize.setting.useDungeons=Подземелья
+gui.createWorld.customize.setting.useDungeons.tooltip=Включить генерацию подземелий
+gui.createWorld.customize.setting.dungeonChance=Шанс подземелья
+gui.createWorld.customize.setting.dungeonChance.tooltip=Вероятность генерации подземелья
+
+gui.createWorld.customize.category.TEMPLES=Настройки рассеянных структур
+gui.createWorld.customize.setting.useTemples=Рассеянные структуры
+gui.createWorld.customize.setting.useTemples.tooltip=Включить рассеянные структуры (храмы в пустыне/джунглях, хижины ведьм, иглу и т.д.)
+gui.createWorld.customize.setting.templeDistance=Расстояние между структурами
+gui.createWorld.customize.setting.templeDistance.tooltip=Расстояние между рассеянными структурами
+
+gui.createWorld.customize.category.MONUMENTS=Настройки океанских монументов
+gui.createWorld.customize.setting.useMonuments=Океанские монументы
+gui.createWorld.customize.setting.useMonuments.tooltip=Включить генерацию океанских монументов
+gui.createWorld.customize.setting.monumentSeparation=Разделение
+gui.createWorld.customize.setting.monumentSeparation.tooltip=Разделение океанских монументов
+gui.createWorld.customize.setting.monumentSpacing=Интервал
+gui.createWorld.customize.setting.monumentSpacing.tooltip=Интервал океанских монументов
+
+gui.createWorld.customize.category.MANSIONS=Настройки лесных особняков
+gui.createWorld.customize.setting.useMansions=Лесные особняки
+gui.createWorld.customize.setting.useMansions.tooltip=Включить генерацию лесных особняков
+# TODO [1.12]: mansionSeparation and mansionSpacing are likely to be removed
+gui.createWorld.customize.setting.mansionSeparation=Разделение особняков
+gui.createWorld.customize.setting.mansionSeparation.tooltip=Минимальное расстояние между лесными особняками
+gui.createWorld.customize.setting.mansionSpacing=Интервал особняков
+gui.createWorld.customize.setting.mansionSpacing.tooltip=Максимальное расстояние между лесными особняками
+
+gui.createWorld.customize.category.STRONGHOLDS=Настройки крепостей
+gui.createWorld.customize.setting.useStrongholds=Крепости
+gui.createWorld.customize.setting.useStrongholds.tooltip=Включить крепости
+gui.createWorld.customize.setting.strongholdCount=Количество крепостей
+gui.createWorld.customize.setting.strongholdCount.tooltip=Количество крепостей, которые появятся в мире
+gui.createWorld.customize.setting.strongholdDistance=Расстояние
+gui.createWorld.customize.setting.strongholdDistance.tooltip=Минимальное расстояние между крепостями?
+gui.createWorld.customize.setting.strongholdSpread=Разброс
+gui.createWorld.customize.setting.strongholdSpread.tooltip=Разброс крепостей
+
+
+gui.createWorld.customize.title.PAGE4=Настройки генерации руд
+
+gui.createWorld.customize.category.DIRT=Настройки генерации земли
+gui.createWorld.customize.setting.dirtSize=Размер скоплений земли
+gui.createWorld.customize.setting.dirtSize.tooltip=Размер скоплений земли, генерируемых в мире
+gui.createWorld.customize.setting.dirtCount=Количество скоплений земли
+gui.createWorld.customize.setting.dirtCount.tooltip=Количество скоплений земли на чанк
+gui.createWorld.customize.setting.dirtMinHeight=Мин. высота земли
+gui.createWorld.customize.setting.dirtMinHeight.tooltip=Минимальная высота генерации земли
+gui.createWorld.customize.setting.dirtMaxHeight=Макс. высота земли
+gui.createWorld.customize.setting.dirtMaxHeight.tooltip=Максимальная высота генерации земли
+
+gui.createWorld.customize.category.GRAVEL=Настройки генерации гравия
+gui.createWorld.customize.setting.gravelSize=Размер скоплений гравия
+gui.createWorld.customize.setting.gravelSize.tooltip=Размер скоплений гравия, генерируемых в мире
+gui.createWorld.customize.setting.gravelCount=Количество скоплений гравия
+gui.createWorld.customize.setting.gravelCount.tooltip=Количество скоплений гравия на чанк
+gui.createWorld.customize.setting.gravelMinHeight=Мин. высота гравия
+gui.createWorld.customize.setting.gravelMinHeight.tooltip=Минимальная высота генерации гравия
+gui.createWorld.customize.setting.gravelMaxHeight=Макс. высота гравия
+gui.createWorld.customize.setting.gravelMaxHeight.tooltip=Максимальная высота генерации гравия
+
+gui.createWorld.customize.category.GRANITE=Настройки генерации гранита
+gui.createWorld.customize.setting.graniteSize=Размер скоплений гранита
+gui.createWorld.customize.setting.graniteSize.tooltip=Размер скоплений гранита, генерируемых в мире
+gui.createWorld.customize.setting.graniteCount=Количество скоплений гранита
+gui.createWorld.customize.setting.graniteCount.tooltip=Количество скоплений гранита на чанк
+gui.createWorld.customize.setting.graniteMinHeight=Мин. высота гранита
+gui.createWorld.customize.setting.graniteMinHeight.tooltip=Минимальная высота генерации гранита
+gui.createWorld.customize.setting.graniteMaxHeight=Макс. высота гранита
+gui.createWorld.customize.setting.graniteMaxHeight.tooltip=Максимальная высота генерации гранита
+
+gui.createWorld.customize.category.DIORITE=Настройки генерации диорита
+gui.createWorld.customize.setting.dioriteSize=Размер скоплений диорита
+gui.createWorld.customize.setting.dioriteSize.tooltip=Размер скоплений диорита, генерируемых в мире
+gui.createWorld.customize.setting.dioriteCount=Количество скоплений диорита
+gui.createWorld.customize.setting.dioriteCount.tooltip=Количество скоплений диорита на чанк
+gui.createWorld.customize.setting.dioriteMinHeight=Мин. высота диорита
+gui.createWorld.customize.setting.dioriteMinHeight.tooltip=Минимальная высота генерации диорита
+gui.createWorld.customize.setting.dioriteMaxHeight=Макс. высота диорита
+gui.createWorld.customize.setting.dioriteMaxHeight.tooltip=Максимальная высота генерации диорита
+
+gui.createWorld.customize.category.ANDESITE=Настройки генерации андезита
+gui.createWorld.customize.setting.andesiteSize=Размер скоплений андезита
+gui.createWorld.customize.setting.andesiteSize.tooltip=Размер скоплений андезита, генерируемых в мире
+gui.createWorld.customize.setting.andesiteCount=Количество скоплений андезита
+gui.createWorld.customize.setting.andesiteCount.tooltip=Количество скоплений андезита на чанк
+gui.createWorld.customize.setting.andesiteMinHeight=Мин. высота андезита
+gui.createWorld.customize.setting.andesiteMinHeight.tooltip=Минимальная высота генерации андезита
+gui.createWorld.customize.setting.andesiteMaxHeight=Макс. высота андезита
+gui.createWorld.customize.setting.andesiteMaxHeight.tooltip=Максимальная высота генерации андезита
+
+gui.createWorld.customize.category.COAL=Настройки генерации угля
+gui.createWorld.customize.setting.coalSize=Размер жил угля
+gui.createWorld.customize.setting.coalSize.tooltip=Размер жил угля, генерируемых в мире
+gui.createWorld.customize.setting.coalCount=Количество жил угля
+gui.createWorld.customize.setting.coalCount.tooltip=Количество жил угля на чанк
+gui.createWorld.customize.setting.coalMinHeight=Мин. высота угля
+gui.createWorld.customize.setting.coalMinHeight.tooltip=Минимальная высота генерации угля
+gui.createWorld.customize.setting.coalMaxHeight=Макс. высота угля
+gui.createWorld.customize.setting.coalMaxHeight.tooltip=Максимальная высота генерации угля
+
+gui.createWorld.customize.category.IRON=Настройки генерации железа
+gui.createWorld.customize.setting.ironSize=Размер жил железа
+gui.createWorld.customize.setting.ironSize.tooltip=Размер жил железа, генерируемых в мире
+gui.createWorld.customize.setting.ironCount=Количество жил железа
+gui.createWorld.customize.setting.ironCount.tooltip=Количество жил железа на чанк
+gui.createWorld.customize.setting.ironMinHeight=Мин. высота железа
+gui.createWorld.customize.setting.ironMinHeight.tooltip=Минимальная высота генерации железа
+gui.createWorld.customize.setting.ironMaxHeight=Макс. высота железа
+gui.createWorld.customize.setting.ironMaxHeight.tooltip=Максимальная высота генерации железа
+
+gui.createWorld.customize.category.GOLD=Настройки генерации золота
+gui.createWorld.customize.setting.goldSize=Размер жил золота
+gui.createWorld.customize.setting.goldSize.tooltip=Размер жил золота, генерируемых в мире
+gui.createWorld.customize.setting.goldCount=Количество жил золота
+gui.createWorld.customize.setting.goldCount.tooltip=Количество жил золота на чанк
+gui.createWorld.customize.setting.goldMinHeight=Мин. высота золота
+gui.createWorld.customize.setting.goldMinHeight.tooltip=Минимальная высота генерации золота
+gui.createWorld.customize.setting.goldMaxHeight=Макс. высота золота
+gui.createWorld.customize.setting.goldMaxHeight.tooltip=Максимальная высота генерации золота
+
+gui.createWorld.customize.category.REDSTONE=Настройки генерации редстоуна
+gui.createWorld.customize.setting.redstoneSize=Размер жил редстоуна
+gui.createWorld.customize.setting.redstoneSize.tooltip=Размер жил редстоуна, генерируемых в мире
+gui.createWorld.customize.setting.redstoneCount=Количество жил редстоуна
+gui.createWorld.customize.setting.redstoneCount.tooltip=Количество жил редстоуна на чанк
+gui.createWorld.customize.setting.redstoneMinHeight=Мин. высота редстоуна
+gui.createWorld.customize.setting.redstoneMinHeight.tooltip=Минимальная высота генерации редстоуна
+gui.createWorld.customize.setting.redstoneMaxHeight=Макс. высота редстоуна
+gui.createWorld.customize.setting.redstoneMaxHeight.tooltip=Максимальная высота генерации редстоуна
+
+gui.createWorld.customize.category.DIAMOND=Настройки генерации алмазов
+gui.createWorld.customize.setting.diamondSize=Размер жил алмазов
+gui.createWorld.customize.setting.diamondSize.tooltip=Размер жил алмазов, генерируемых в мире
+gui.createWorld.customize.setting.diamondCount=Количество жил алмазов
+gui.createWorld.customize.setting.diamondCount.tooltip=Количество жил алмазов на чанк
+gui.createWorld.customize.setting.diamondMinHeight=Мин. высота алмазов
+gui.createWorld.customize.setting.diamondMinHeight.tooltip=Минимальная высота генерации алмазов
+gui.createWorld.customize.setting.diamondMaxHeight=Макс. высота алмазов
+gui.createWorld.customize.setting.diamondMaxHeight.tooltip=Максимальная высота генерации алмазов
+
+gui.createWorld.customize.category.LAPIS=Настройки генерации лазурита
+gui.createWorld.customize.setting.lapisSize=Размер жил лазурита
+gui.createWorld.customize.setting.lapisSize.tooltip=Размер жил лазурита, генерируемых в мире
+gui.createWorld.customize.setting.lapisCount=Количество жил лазурита
+gui.createWorld.customize.setting.lapisCount.tooltip=Количество жил лазурита на чанк
+gui.createWorld.customize.setting.lapisCenterHeight=Высота лазурита
+gui.createWorld.customize.setting.lapisCenterHeight.tooltip=Средняя высота генерации лазурита
+gui.createWorld.customize.setting.lapisSpread=Разброс лазурита
+gui.createWorld.customize.setting.lapisSpread.tooltip=Средний разброс высоты генерации лазурита
+
+
+#-----------------------------
+# GUI Config (Note: tooltips that are blank should remain blank)
+#-----------------------------
+rtgconfig.title=Глобальные настройки конфигурации RTG
+rtgconfig.client=Клиентские настройки
+rtgconfig.client.tooltip=Настройки, относящиеся к клиенту
+rtgconfig.client.worldTypeNotification=Уведомление о типе мира
+rtgconfig.client.worldTypeNotification.tooltip=При включении этой опции будет отображаться информационное сообщение о RTG при входе в экран настройки мира.\nОно отобразится один раз и автоматически отключится.
+rtgconfig.client.rtgWorldTypeByDefault=Тип мира RTG по умолчанию
+rtgconfig.client.rtgWorldTypeByDefault.tooltip=Автоматически выбирать тип мира RTG при создании нового мира.
+rtgconfig.common=Общие настройки
+rtgconfig.common.tooltip=Настройки, относящиеся к серверу
+rtgconfig.common.debug=Настройки отладки
+rtgconfig.common.debug.tooltip=
+rtgconfig.common.debug.enableDebugging=Включить специальное логирование отладки
+rtgconfig.common.debug.enableDebugging.tooltip=!Этот параметр сильно снижает производительность. Включайте, только если знаете, что делаете!
+rtgconfig.common.debug.patchBiome=Биом для замены
+rtgconfig.common.debug.patchBiome.tooltip=Если RTG встречает неподдерживаемый биом, вместо него будет генерироваться этот биом.\nИспользуется стандартный формат ResourceLocation: mod_id:biome_registry_name
+rtgconfig.common.surface=Настройки поверхности биомов
+rtgconfig.common.surface.tooltip=
+rtgconfig.common.surface.lushRiverbanksInDesert=Пышные берега рек в пустыне
+rtgconfig.common.surface.lushRiverbanksInDesert.tooltip=Установите значение FALSE, чтобы запретить RTG генерировать пышные украшения берегов рек в жарких биомах,\nтаких как Пустыня и Меса. Пышные украшения включают высокую траву, деревья, кусты и другую флору.
+rtgconfig.common.surface.surfaceBleedRadius=Радиус смешивания поверхности
+rtgconfig.common.surface.surfaceBleedRadius.tooltip=Максимальное расстояние, на котором поверхности будут смешиваться друг с другом, если это включено для двух соседних биомов.\nПо умолчанию смешивание поверхности включено только для пляжей. Вы можете управлять этим в настройках биомов
+rtgconfig.common.surface.shadowStoneBlock=Блок теневого камня
+rtgconfig.common.surface.shadowStoneBlock.tooltip=Блок, используемый для затенения каменного рельефа, обычно видимый на скалах каменных гор.
+rtgconfig.common.surface.shadowDesertBlock=Блок теневого песка
+rtgconfig.common.surface.shadowDesertBlock.tooltip=Блок, используемый для затенения пустынного рельефа, обычно видимый на скалах пустынных гор.
+rtgconfig.common.trees=Настройки деревьев RTG
+rtgconfig.common.trees.tooltip=
+rtgconfig.common.trees.rtgTreesFromSaplings=Деревья RTG из саженцев
+rtgconfig.common.trees.rtgTreesFromSaplings.tooltip=Установите значение TRUE, чтобы разрешить пользовательским деревьям RTG расти из ванильных саженцев.\nПользовательские деревья RTG могут вырасти только из тех саженцев, листья которых они сбрасывают, и только в биомах, где они естественно генерируются.
+rtgconfig.common.trees.rtgTreeChance=Шанс дерева RTG
+rtgconfig.common.trees.rtgTreeChance.tooltip=Вероятность 1/x, что из ванильного саженца вырастет пользовательское дерево RTG.
+rtgconfig.common.trees.treeDensityMultiplier=Множитель плотности деревьев
+rtgconfig.common.trees.treeDensityMultiplier.tooltip=Эта настройка позволяет глобально увеличить/уменьшить количество деревьев RTG.\nОна влияет только на деревья, генерируемые RTG. Деревья, генерируемые декоратором биома, будут следовать своим правилам плотности. Вы можете переопределить эту настройку для каждого биома, используя конфигурации биомов.
+rtgconfig.common.trees.treesCanGenerateOnSand=Деревья могут генерироваться на песке
+rtgconfig.common.trees.treesCanGenerateOnSand.tooltip=Установите значение FALSE, чтобы запретить деревьям генерироваться на песке.\nЭта настройка влияет только на деревья, генерируемые RTG. Деревья, генерируемые декоратором биома, будут следовать своим правилам генерации. (Пальмы RTG игнорируют эту настройку.)
+rtgconfig.common.trees.shrubsBelowSurface=Кусты под поверхностью
+rtgconfig.common.trees.shrubsBelowSurface.tooltip=Установите значение FALSE, чтобы запретить генерацию стволов кустов под поверхностью.
+rtgconfig.common.trees.barkCoveredLogs=Брёвна с корой
+rtgconfig.common.trees.barkCoveredLogs.tooltip=Установите значение FALSE, чтобы стволы деревьев RTG не использовали модель текстуры «все кора».\nДля получения дополнительной информации посетите https://minecraft.wiki/w/Java_Edition_data_values/Pre-flattening#Wood
+
+rtg.command.prefix.error=Ошибка
+rtg.command.whereami.error=Эта команда предназначена для игроков в мире

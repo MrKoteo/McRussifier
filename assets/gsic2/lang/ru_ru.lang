@@ -1,0 +1,26 @@
+#Russian (RU)
+#Tabs
+itemGroup.GSIC2=GSIC2
+
+#Items
+item.aluminum_nugget.name=Алюминиевый самородок
+
+item.nickel_crushed.name=Дроблёная никелевая руда
+item.cobalt_crushed.name=Дроблёная кобальтовая руда
+item.magnesium_crushed.name=Дроблёная магниевая руда
+
+item.nickel_purified.name=Очищенная дроблёная никелевая руда
+item.cobalt_purified.name=Очищенная дроблёная кобальтовая руда
+item.magnesium_purified.name=Очищенная дроблёная магниевая руда
+
+item.nickel_dust.name=Никелевая пыль
+item.cobalt_dust.name=Кобальтовая пыль
+item.magnesium_dust.name=Магниевая пыль
+
+item.nickel_pile.name=Маленькая кучка никеля
+item.cobalt_pile.name=Маленькая кучка кобальта
+item.magnesium_pile.name=Маленькая кучка магния
+item.aluminum_pile.name=Маленькая кучка алюминия
+
+item.faster_than_light.name=Музыкальная пластинка
+item.record.faster_than_light.desc=Быстрее света

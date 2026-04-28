@@ -1,0 +1,87 @@
+itemGroup.ae2fc=AE2 Жидкостный крафт
+
+key.ae2fc.category=AE2 Fluid Crafting
+key.ae2fc.open_wireless_fluid_pattern_terminal.desc=Открыть беспроводной жидкостный терминал шаблонов
+
+tile.ae2fc:fluid_discretizer.name=ME Дискретизатор жидкости
+tile.ae2fc:gas_discretizer.name=ME Дискретизатор газа
+tile.ae2fc:fluid_pattern_encoder.name=ME Кодировщик жидкостных шаблонов
+tile.ae2fc:fluid_packet_decoder.name=ME Декодер жидкостных пакетов
+tile.ae2fc:ingredient_buffer.name=Буфер ингредиентов
+tile.ae2fc:large_ingredient_buffer.name=Большой буфер ингредиентов
+tile.ae2fc:burette.name=Точная бюретка
+tile.ae2fc:dual_interface.name=ME Двойной интерфейс
+tile.ae2fc:part_dual_interface.name=ME Двойной интерфейс
+tile.ae2fc:fluid_level_maintainer.name=ME Устройство поддержания уровня жидкости
+tile.ae2fc:fluid_assembler.name=ME жидкостный сборщик
+tile.ae2fc:ultimate_encoder.name=ME Идеальный кодировщик
+tile.ae2fc:trio_interface.name=ME Trio Интерфейс
+
+item.ae2fc:fluid_drop.name=Дроп из %s
+item.ae2fc:gas_drop.name=Gas дроп из %s
+item.ae2fc:fluid_packet.name=Жидкостный пакет
+item.ae2fc:gas_packet.name=Газовый пакет
+item.ae2fc:dense_encoded_pattern.name=Закодированный жидкостный шаблон
+item.ae2fc:dense_craft_encoded_pattern.name=Закодированный шаблон
+item.ae2fc:large_item_encoded_pattern.name=Закодированный шаблон
+item.ae2fc:part_dual_interface.name=ME Двойной интерфейс 
+item.ae2fc:part_fluid_pattern_terminal.name=ME Терминал жидкостных шаблонов
+item.ae2fc:part_fluid_pattern_ex_terminal.name=ME Терминал расширенных жидкостных шаблонов
+item.ae2fc:wireless_fluid_pattern_terminal.name=Беспроводной жидкостный терминал шаблонов
+item.ae2fc:part_trio_interface.name=ME Trio Интерфейс
+
+ae2fc.gui.fluid_pattern_encoder=ME Кодировщик жидкостных шаблонов
+ae2fc.gui.fluid_packet_decoder=ME Декодер жидкостных пакетов
+ae2fc.gui.ingredient_buffer=Буфер ингредиентов
+ae2fc.gui.large_ingredient_buffer=Большой буфер ингредиентов
+ae2fc.gui.burette=Точная бюретка
+ae2fc.gui.fluid_level_maintainer=ME Устройство поддержания уровня жидкости
+ae2fc.gui.fluid_assembler=ME жидкостный сборщик
+ae2fc.gui.ultimate_encoder=ME Идеальный кодировщик
+ae2fc.gui.item_amount_set=Установить количество
+ae2fc.gui.set=Set
+
+ae2fc.misc.threshold=Порог
+ae2fc.misc.request=Размер партии
+
+ae2fc.tooltip.fluid_packet=Используйте декодер жидких пакетов,\nчтобы преобразовать это обратно в флюид.
+ae2fc.tooltip.gas_packet=Используйте декодер пакетов жидкости,\nчтобы преобразовать его обратно в газ.
+ae2fc.tooltip.invalid_fluid=Недопустимая жидкость!
+ae2fc.tooltip.processing_recipe_only=Не рецепт обработки!
+ae2fc.tooltip.crafting_recipe_only=Не рецепт крафта!
+ae2fc.tooltip.encode_pattern=Закодировать шаблон
+ae2fc.tooltip.empty=Пусто
+ae2fc.tooltip.dump_tank=Сброс содержимого резервуара
+ae2fc.tooltip.transpose_in=Перенести в резервуар
+ae2fc.tooltip.transpose_out=Перенести в предмет
+ae2fc.tooltip.not_combine=Объединить одинаковые предметы
+ae2fc.tooltip.not_combine.hint=Отключено
+ae2fc.tooltip.combine=Объединить одинаковые предметы
+ae2fc.tooltip.combine.hint=Включено
+ae2fc.tooltip.real_fluid=Отправлять реальную жидкость
+ae2fc.tooltip.real_fluid.hint=Реальная жидкость будет отправлена в целевой контейнер
+ae2fc.tooltip.fake_packet=Отправлять пакет жидкости
+ae2fc.tooltip.fake_packet.hint=Пакет жидкости будет отправлен в целевой контейнер
+ae2fc.tooltip.fluid_first=Размещать жидкость первой в шаблоне
+ae2fc.tooltip.fluid_first.hint=Включено
+ae2fc.tooltip.origin_order=Размещать жидкость первой в шаблоне
+ae2fc.tooltip.origin_order.hint=Отключено
+ae2fc.tooltip.craft_fluid=Закодировать шаблон
+ae2fc.tooltip.craft_fluid.hint=Специальный шаблон для ME-сборщика жидкостей. Вы можете использовать жидкость напрямую в рецептах крафта вместо ведер.
+ae2fc.tooltip.allow_splitting=Разрешить разделение предметов и жидкостей
+ae2fc.tooltip.allow_splitting.hint=Предметы и жидкости могут быть разделены на разные стороны, если интерфейс не направлен в какую-либо сторону.
+ae2fc.tooltip.prevent_splitting=Запретить разделение предметов и жидкостей
+ae2fc.tooltip.prevent_splitting.hint=Предметы и жидкости могут быть вытолкнуты только вместе через одну и ту же сторону интерфейса.
+ae2fc.tooltip.block_all=Блокировать всё
+ae2fc.tooltip.block_all.hint=Режим блокировки проверяет как предметы, так и жидкости.
+ae2fc.tooltip.block_item=Блокировать предметы
+ae2fc.tooltip.block_item.hint=Режим блокировки проверяет только предметы.
+ae2fc.tooltip.block_fluid=Блокировать жидкости
+ae2fc.tooltip.block_fluid.hint=Режим блокировки проверяет только жидкости.
+ae2fc.tooltip.pattern_encoder.name=Закодировано %s
+
+ae2fc.pauto.fluid_processing.name=Обработка жидкости
+ae2fc.pauto.fluid_processing.name_short=Жидкость
+
+ae2fc.dynamistics.category.title.pattern=Шаблон обработки жидкости
+ae2fc.dynamistics.category.title.craft_pattern=Шаблон крафта с жидкостью

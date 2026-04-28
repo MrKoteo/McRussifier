@@ -1,0 +1,5 @@
+itemGroup.usefulbackpacks:tab=Useful Backpacks
+
+usefulbackpacks:item.backpack.small.name=Маленький рюкзак
+usefulbackpacks:item.backpack.medium.name=Средний рюкзак
+usefulbackpacks:item.backpack.large.name=Большой рюкзак

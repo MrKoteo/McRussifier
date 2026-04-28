@@ -1,0 +1,24 @@
+command.itemdata.tagError=Ошибка при разборе данных: %s
+command.itemdata.success=Теги ItemStack обновлены до: %s
+command.itemdata.usage=/tenshilib:itemdata view <Опционально:Slot> <Опционально:NBT-Path> | modify <Опционально:Slot> <NBT>
+command.itemdata.noSuchTag=Нет NBT-тега с именем %s
+command.structures.usage=/structures <ID_структуры>
+command.schematic.usage=/template <save,load> x y z [x2 y2 z2 name;name rotation mirror]
+command.schematic.confirm=Файл уже существует. Введите команду снова для подтверждения.
+command.schematic.save=Шаблон сохранён как %s.nbt
+command.schematic.load=Загрузка шаблона %s.nbt
+command.schematic.load.fail=Не удалось загрузить шаблон %s.nbt
+
+structure_piece.rotation=Поворот по часовой стрелке
+structure_piece.reinit=Сбросить состояние
+structure_piece.mirror=Зеркало
+structure_piece.ground=Заменить землю
+structure_piece.offset=Смещение
+structure_piece.edit=Редактировать структуры
+structure_piece.back=Назад
+tile.tenshilib:ignore.name=Игнорировать структуру
+tile.tenshilib:structure_piece.name=Часть структуры
+
+config.structures.spawns=Спаун мобов
+
+tile.tenshilib:breakable_barrier.name=Разрушаемый барьер

@@ -1,0 +1,35 @@
+buildcraft.guide.chapter.type.block=Блоки
+buildcraft.guide.chapter.type.item=Предметы
+buildcraft.guide.chapter.type.pipe=Трубы
+buildcraft.guide.chapter.type.trigger=Триггеры
+buildcraft.guide.chapter.type.action=Действия
+buildcraft.guide.chapter.type.config=Конфигурация
+
+buildcraft.guide.chapter.subtype.gear=Шестерни
+buildcraft.guide.chapter.subtype.tool=Инструменты
+buildcraft.guide.chapter.subtype.fluid=Жидкости
+buildcraft.guide.chapter.subtype.item=Предметы
+buildcraft.guide.chapter.subtype.mining=Добыча
+buildcraft.guide.chapter.subtype.engine=Двигатели
+buildcraft.guide.chapter.subtype.automation=Автоматизация
+buildcraft.guide.chapter.subtype.pipe_item=Транспортировка предметов
+buildcraft.guide.chapter.subtype.pipe_fluid=Транспортировка жидкостей
+buildcraft.guide.chapter.subtype.pipe_plug=Разъёмы
+buildcraft.guide.chapter.subtype.refining=Переработка
+buildcraft.guide.chapter.subtype.laser=Лазерная энергия
+buildcraft.guide.chapter.subtype.basic=Базовые
+buildcraft.guide.chapter.subtype.resourcepack=Текстуры
+
+buildcraft.guide.chapter.mod.buildcraft=BuildCraft
+
+buildcraft.guide.chapter.submod.lib=Lib
+buildcraft.guide.chapter.submod.core=Core
+buildcraft.guide.chapter.submod.factory=Factory
+buildcraft.guide.chapter.submod.energy=Energy
+buildcraft.guide.chapter.submod.transport=Transport
+
+buildcraft.guide.chapter.title.gate_base=Ворота
+
+buildcraft.guide.page.guide_page_format=Формат страницы руководства
+buildcraft.guide.page.json_insn_format=Формат JSON-инструкций
+buildcraft.guide.page.registry_overview=Обзор JSON-реестра

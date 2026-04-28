@@ -1,0 +1,8 @@
+bbw.key.oops=Отменить последнее размещение
+bbw.chat.undo=Последнее размещение успешно отменено
+item.betterbuilderswandsfix.break_core.name=Ядро разрушения
+bbw.tooltip.break_mode=Режим разрушения: %s
+bbw.tooltip.break_mode.on=Вкл
+bbw.tooltip.break_mode.off=Выкл
+bbw.tooltip.break_mode.toggle=Нажмите SHIFT + ПКМ для переключения
+bbw.tooltip.break_mode.locked=Режим разрушения: Заблокирован

@@ -1,0 +1,54 @@
+bq_standard.task.retrieval=Задание на сбор предметов
+bq_standard.task.crafting=Задание на крафт
+bq_standard.task.hunt=Задание на охоту на мобов
+bq_standard.task.scoreboard=Задание на доску счёта
+bq_standard.task.location=Задание на локацию
+bq_standard.task.fluid=Задание на жидкости
+bq_standard.task.meeting=Задание на встречу
+bq_standard.task.xp=Задание на опыт
+bq_standard.task.block_break=Задание на разрушение блоков
+bq_standard.task.checkbox=Задание-флажок
+
+bq_standard.reward.choice=Награда на выбор
+bq_standard.reward.item=Предметная награда
+bq_standard.reward.scoreboard=Награда на доске счёта
+bq_standard.reward.command=Командная награда
+bq_standard.reward.xp=Награда опытом
+
+bq_standard.title.edit_hunt=Настройка задания на охоту
+bq_standard.title.edit_meeting=Настройка задания на встречу
+bq_standard.title.edit_loot_groups=Настройка групп лута
+bq_standard.title.edit_loot_entries=Настройка записей лута
+bq_standard.title.edit_retrieval=Настройка задания на сбор
+bq_standard.title.edit_crafting=Настройка задания на крафт
+bq_standard.title.edit_scoreboard=Настройка задания на доску счёта
+
+bq_standard.btn.select_mob=Выбрать моба
+bq_standard.btn.add_remove_drops=Добавить/Убрать дроп
+bq_standard.btn.edit_items=Добавить/Убрать предметы
+bq_standard.btn.consume=Потребление: %s
+
+bq_standard.gui.amount=Количество
+bq_standard.gui.kill=Убить %s
+bq_standard.gui.location=Локация: %s
+bq_standard.gui.distance=Дистанция: %s
+bq_standard.gui.dimension=Измерение: %s
+bq_standard.gui.found=Найдено!
+bq_standard.gui.undiscovered=Не открыто
+bq_standard.gui.condition=Условие: %s
+bq_standard.gui.meet=Встретить %s
+bq_standard.gui.weight=Вес
+bq_standard.gui.experience=Опыт
+
+bq_standard.importer.hqm_bag.name=Импорт сумок HQM
+bq_standard.importer.hqm_bag.desc=Импортирует награды HQM, экспортированные в json-формате.
+bq_standard.importer.hqm_quest.name=Импорт квестов HQM
+bq_standard.importer.hqm_quest.desc=Импортирует линии квестов HQM, экспортированные в json-формате. Из-за странной нумерации квестов HQM после экспорта возможны ошибки между квестами с дублирующимися названиями или условными разблокировками.
+bq_standard.importer.nat_file.name=Импорт из собственного файла
+bq_standard.importer.nat_file.desc=Импортирует собственные файлы базы данных квестов и добавляет их к существующим.
+bq_standard.importer.nat_url.name=Импорт из собственного URL
+bq_standard.importer.nat_url.desc=Импортирует собственные базы квестов из интернета и добавляет их к существующим.
+
+item.bq_standard.loot_chest.name=Сундук с добычей
+
+bq_standard.tooltip.loot_chest=Редкость: %s

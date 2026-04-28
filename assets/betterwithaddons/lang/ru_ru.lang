@@ -1,0 +1,468 @@
+tile.bwm:siding_clay.name=Сайдинг
+tile.bwm:siding_ground.name=Сайдинг
+tile.bwm:moulding_clay.name=Молдинг
+tile.bwm:moulding_ground.name=Молдинг
+tile.bwm:corner_clay.name=Угол
+tile.bwm:corner_ground.name=Угол
+
+inv.soakingbox.name=Замочный блок
+inv.dryingbox.name=Сушильный блок
+inv.tatara.name=Татара
+inv.firenet.name=Сетчатый экран
+inv.waternet.name=Сетчатый экран
+inv.sandnet.name=Сетчатый экран
+inv.packing.name=Хардкорная упаковка
+inv.spindle.name=Веретено
+inv.spindle.throw.name=Выбросить предметы
+inv.crating.name=Упаковка в ящики
+inv.crating.throw.name=Выбросить предметы
+inv.infuser.name=Инфузор предков
+inv.infuser.throw.name=Бросить
+inv.infuser.cost.name=%s
+inv.infuser.cost.description=Требуется %s духов предков
+inv.writing_table.name=Письменный стол
+inv.writing_table.cost.name=Стоимость переименования: %1$s
+
+tile.banner_detector.name=Детектор знамён
+tile.world_scale_ore.name=Руда мировых весов [УСТАРЕЛО]
+tile.world_scale_ore.broken.name=Грубые мировые весы [УСТАРЕЛО]
+tile.world_scale.name=Мировые весы [УСТАРЕЛО]
+tile.world_scale_active.name=Гравированные мировые весы [УСТАРЕЛО]
+tile.elytra_magma.name=Блок магмы верус
+tile.extra_grass.name=Трава [В РАЗРАБОТКЕ]
+tile.lattice.name=Железная решётка
+tile.thorns.name=Колючая лоза
+tile.thorn_rose.name=Семя колючей лозы
+tile.chute.name=Жёлоб
+tile.inverted_gearbox.name=Коробка сцепления
+tile.aqueduct.name=Акведук
+tile.redstone_emitter.name=Излучатель редстоуна
+
+tile.ecksie_sapling.name=Сазенец экси
+
+tile.log_luretree.name=Древесина алисио
+tile.log_luretree_face.name=Лик из древесины алисио
+tile.sapling_luretree.name=Саженец алисио
+tile.leaves_luretree.name=Листва алисио
+tile.planks_luretree.name=Доски из алисио
+
+tile.pcb_wire.name=Редстоуновый провод
+tile.pcb_block.name=Печатная плата
+
+tile.weight_wood.name=Датчик веса
+tile.weight_stone.name=Каменный датчик веса
+
+tile.scaffold.name=Строительные леса
+
+tile.spindle.name=Веретено
+tile.loom.name=Прялка
+
+tile.rail_rusted.name=Ржавая рельса
+tile.writing_table.name=Письменный стол
+
+tile.ancestry_sand.name=Наполненный душами песок
+tile.ancestry_sand.spirits=Содержит %s духов
+tile.ancestry_infuser.name=Инфузор предков
+tile.log_mulberry.name=Древесина шелковицы
+tile.log_sakura.name=Древесина сакуры
+tile.planks_mulberry.name=Доски из шелковицы
+tile.planks_sakura.name=Доски из сакуры
+tile.leaves_mulberry.name=Листва шелковицы
+tile.leaves_sakura.name=Листва сакуры
+tile.sapling_mulberry.name=Саженец шелковицы
+tile.sapling_sakura.name=Саженец сакуры
+tile.leafpile_sakura.name=Листовая куча сакуры
+tile.bamboo.name=Бамбук
+tile.slat.name=Блок бамбуковых планок
+tile.netted_screen.name=Сетчатый экран
+tile.iron_sand.name=Железный песок
+tile.kera.name=Кера
+tile.tatara.name=Татара
+tile.cherrybox.soaking.name=Замочный блок из вишни
+tile.cherrybox.drying.name=Сушильный блок из вишни
+tile.nabe.name=Набэ
+tile.crop_rice.name=Семена риса
+tile.crop_rush.name=Семена ситника
+tile.crop_tea.name=Семена чая
+tile.shoji.name=Сёдзи
+tile.fusuma.name=Фусума
+tile.tatami.name=Татами
+tile.tatami_full.name=Заглублённый татами
+tile.zen_sand.name=Песок для сада дзэн
+tile.zen_redsand.name=Красный песок для сада дзэн
+tile.zen_soulsand.name=Песок душ для сада дзэн
+tile.zen_ironsand.name=Железный песок для сада дзэн
+
+tile.block_matcher.name=Сопоставитель блоков
+tile.legendarium.name=Зал легенд
+tile.legendarium.frames_populated=Рамки заполнены.
+tile.legendarium.frames_cleared=Рамки очищены.
+tile.legendarium.not_item=Здесь можно поместить артефакт на покой.
+tile.legendarium.not_tool=Это не инструмент.
+tile.legendarium.not_artifact=Это не артефакт. У артефактов есть имена и чары.
+tile.legendarium.not_broken=Он не сломан.
+tile.legendarium.not_at_limit=Его ещё можно починить.
+tile.legendarium.not_enough_artifacts=Недостаточно артефактов.
+tile.legendarium.not_now=Ещё не готово. Попробуйте через %s дней и %s часов.
+tile.legendarium.ready=Артефакт готов к извлечению!
+
+tile.dung.name=Блок навоза
+tile.wet_soap.name=Блок мокрого мыла
+
+tile.unbaked.raw_melon_pie.name=Пирог с дыней, готовый к запеканию
+tile.unbaked.raw_meat_pie.name=Мясной пирог, готовый к запеканию
+tile.unbaked.raw_mushroom_pie.name=Грибной пирог, готовый к запеканию
+tile.unbaked.raw_amanita_pie.name=Грибной пирог, готовый к запеканию
+
+tile.whitebrick.default.name=Белые каменные кирпичи
+tile.whitebrick.mossy.name=Замшелые белые каменные кирпичи
+tile.whitebrick.cracked.name=Треснувшие белые каменные кирпичи
+tile.whitebrick.chiseled.name=Резные белые каменные кирпичи
+tile.chandelier.name=Люстра
+tile.paper_wall.name=Бумажная стена
+tile.wrought_bars.name=Кованые железные прутья
+tile.wood_lamp.name=Деревянный фонарь
+tile.wood_lamp.firefly.name=Фонарь со светлячками
+tile.wrought_lamp.name=Кованый железный фонарь
+tile.pavement.name=Мостовая
+tile.box.name=Деревянный ящик
+
+tile.adobe.wet.name=Влажный адоб
+tile.adobe.dry.name=Высушенный адоб
+
+tile.bricks_stained.white.name=Белый окрашенный кирпич
+tile.bricks_stained.orange.name=Оранжевый окрашенный кирпич
+tile.bricks_stained.magenta.name=Пурпурный окрашенный кирпич
+tile.bricks_stained.lightBlue.name=Светло-голубой окрашенный кирпич
+tile.bricks_stained.yellow.name=Жёлтый окрашенный кирпич
+tile.bricks_stained.lime.name=Лаймовый окрашенный кирпич
+tile.bricks_stained.pink.name=Розовый окрашенный кирпич
+tile.bricks_stained.gray.name=Серый окрашенный кирпич
+tile.bricks_stained.silver.name=Светло-серый окрашенный кирпич
+tile.bricks_stained.cyan.name=Бирюзовый окрашенный кирпич
+tile.bricks_stained.purple.name=Фиолетовый окрашенный кирпич
+tile.bricks_stained.blue.name=Синий окрашенный кирпич
+tile.bricks_stained.brown.name=Коричневый окрашенный кирпич
+tile.bricks_stained.green.name=Зелёный окрашенный кирпич
+tile.bricks_stained.red.name=Красный окрашенный кирпич
+tile.bricks_stained.black.name=Чёрный окрашенный кирпич
+
+item.material.arrowhead.name=Наконечник большой стрелы
+item.material.midori.name=Мидори
+item.material.midori_popped.name=Взорванный мидори
+item.material.thornrose.name=Колючая роза
+item.material.stone_brick.name=Каменный кирпич
+item.material.bone_ingot.name=Костяной слиток
+item.material.ender_cream.name=Крем магмы верус
+item.worldshard.name=Осколок мировых весов [УСТАРЕЛО]
+item.greatbow.name=Большой лук
+item.greatarrow.name=Большая стрела
+item.greatarrow_lightning.name=Большая стрела молнии
+item.greatarrow_destruction.name=Разрушительная большая стрела
+item.monument.name=Монумент
+item.warwall.name=Военная стена
+
+item.tool_shard.name=Осколки %s
+item.artifact_frame.name=Витрина для артефакта
+
+item.wool.white.name=Белая шерсть
+item.wool.orange.name=Оранжевая шерсть
+item.wool.magenta.name=Пурпурная шерсть
+item.wool.lightBlue.name=Светло-голубая шерсть
+item.wool.yellow.name=Жёлтая шерсть
+item.wool.lime.name=Лаймовая шерсть
+item.wool.pink.name=Розовая шерсть
+item.wool.gray.name=Серая шерсть
+item.wool.silver.name=Светло-серая шерсть
+item.wool.cyan.name=Бирюзовая шерсть
+item.wool.purple.name=Фиолетовая шерсть
+item.wool.blue.name=Синяя шерсть
+item.wool.brown.name=Коричневая шерсть
+item.wool.green.name=Зелёная шерсть
+item.wool.red.name=Красная шерсть
+item.wool.black.name=Чёрная шерсть
+
+item.iron_spade.name=Железная лопата
+item.iron_matchpick.name=Железная огнивная кирка
+item.iron_machete.name=Железный мачете
+item.iron_kukri.name=Железный кукри
+item.iron_carpentersaw.name=Железная плотницкая пила
+item.iron_masonpick.name=Железная каменотёсная кирка
+
+item.gold_spade.name=Золотая лопата
+item.gold_matchpick.name=Золотая огнивная кирка
+item.gold_machete.name=Золотой мачете
+item.gold_kukri.name=Золотой кукри
+item.gold_carpentersaw.name=Золотая плотницкая пила
+item.gold_masonpick.name=Золотая каменотёсная кирка
+
+item.diamond_spade.name=Алмазная лопата
+item.diamond_matchpick.name=Алмазная огнивная кирка
+item.diamond_machete.name=Алмазный мачете
+item.diamond_kukri.name=Алмазный кукри
+item.diamond_carpentersaw.name=Алмазная плотницкая пила
+item.diamond_masonpick.name=Алмазная каменотёсная кирка
+
+item.steel_spade.name=Очищенная лопата
+item.steel_matchpick.name=Очищенная огнивная кирка
+item.steel_machete.name=Очищенный мачете
+item.steel_kukri.name=Очищенный кукри
+item.steel_carpentersaw.name=Очищенная плотницкая пила
+item.steel_masonpick.name=Очищенная каменотёсная кирка
+
+item.ancient_manuscript.name=Древняя рукопись
+item.soulsand_pile.name=Куча песка душ
+item.explosion.name=§eКРАЙНЕ НЕСТАБИЛЬНО!
+item.rotten_food.name=Испорченная еда
+
+item.brick_stained.white.name=Белый окрашенный кирпич
+item.brick_stained.orange.name=Оранжевый окрашенный кирпич
+item.brick_stained.magenta.name=Пурпурный окрашенный кирпич
+item.brick_stained.lightBlue.name=Светло-голубой окрашенный кирпич
+item.brick_stained.yellow.name=Жёлтый окрашенный кирпич
+item.brick_stained.lime.name=Лаймовый окрашенный кирпич
+item.brick_stained.pink.name=Розовый окрашенный кирпич
+item.brick_stained.gray.name=Серый окрашенный кирпич
+item.brick_stained.silver.name=Светло-серый окрашенный кирпич
+item.brick_stained.cyan.name=Бирюзовый окрашенный кирпич
+item.brick_stained.purple.name=Фиолетовый окрашенный кирпич
+item.brick_stained.blue.name=Синий окрашенный кирпич
+item.brick_stained.brown.name=Коричневый окрашенный кирпич
+item.brick_stained.green.name=Зелёный окрашенный кирпич
+item.brick_stained.red.name=Красный окрашенный кирпич
+item.brick_stained.black.name=Чёрный окрашенный кирпич
+
+item.congealed.bone.name=Сгусток костей
+item.congealed.flesh.name=Сгусток гнилой плоти
+item.congealed.eye.name=Сгусток паучьих глаз
+item.congealed.amanita.name=Сгусток грибов
+item.congealed.mushroom.name=Сгусток грибов
+item.congealed.wart.name=Сгусток незерского нароста
+item.bolt.fabric.name=Рулон пеньковой ткани
+item.bolt.vine.name=Рулон лозы
+item.bolt.paper.name=Рулон бумаги
+item.bolt.leather.name=Рулон кожи
+item.bolt.scoured_leather.name=Рулон очищенной кожи
+item.bolt.tanned_leather.name=Рулон дублёной кожи
+item.bolt.string.name=Рулон нити
+item.bundle.feather.name=Связка перьев
+item.bundle.blazerods.name=Связка стержней ифрита
+item.bundle.arrows.name=Связка стрел
+item.bundle.oak.name=Связка саженцев дуба
+item.bundle.birch.name=Связка саженцев берёзы
+item.bundle.spruce.name=Связка саженцев ели
+item.bundle.jungle.name=Связка саженцев тропического дерева
+item.bundle.acacia.name=Связка саженцев акации
+item.bundle.darkoak.name=Связка саженцев тёмного дуба
+item.bag.seed.name=Мешок семян
+item.bag.seed_hemp.name=Мешок семян конопли
+item.bag.seed_melon.name=Мешок семян арбуза
+item.bag.seed_pumpkin.name=Мешок семян тыквы
+item.bag.seed_beets.name=Мешок семян свёклы
+item.bag.cocoa.name=Мешок какао-бобов
+item.bag.redstone.name=Мешок редстоуна
+item.bag.glowstone.name=Мешок светокамня
+item.bag.sugar.name=Мешок сахара
+item.bag.gunpowder.name=Мешок пороха
+item.bag.flour.name=Мешок муки
+item.bag.sulfur.name=Мешок серы
+item.bag.nitre.name=Мешок селитры
+item.bag.sawdust.name=Мешок опилок
+item.bag.sawdust_soul.name=Мешок пыли душ
+item.bag.potash.name=Мешок поташа
+item.bag.hellfire.name=Мешок адского огня
+item.bag.kibble.name=Мешок корма
+item.crate.pork.name=Ящик жареной свинины
+item.crate.pork_raw.name=Ящик сырой свинины
+item.crate.steak.name=Ящик стейка
+item.crate.steak_raw.name=Ящик сырой говядины
+item.crate.chicken.name=Ящик жареной курицы
+item.crate.chicken_raw.name=Ящик сырой курицы
+item.crate.mutton.name=Ящик жареной баранины
+item.crate.mutton_raw.name=Ящик сырой баранины
+item.crate.rabbit.name=Ящик жареной крольчатины
+item.crate.rabbit_raw.name=Ящик сырой крольчатины
+item.crate.egg.name=Ящик яиц
+item.crate.slime.name=Ящик слаймовых шариков
+item.crate.enderpearl.name=Ящик жемчуга Края
+item.crate.cactus.name=Ящик кактусов
+item.crate.inksac.name=Ящик чернильных мешков
+
+item.tweakmat.ash.name=Зола
+item.tweakmat.ink_and_quill.name=Чернила и перо (старые)
+item.ink_and_quill.name=Чернила и перо
+
+item.seed_grain.name=Зерно
+item.bag.grain.name=Мешок зерна
+item.wheatmat.hay.name=Сено
+
+item.decomat.hemp_oil.name=Пеньковое масло
+item.decomat.wood_bleach.name=Древесный отбеливатель
+item.decomat.wood_stain.name=Древесная морилка
+item.decomat.glass_chunk.name=Осколок стекла
+
+item.salt.crystal.name=Соляной кристалл
+
+item.food_mushroom_baked.name=Запечённый гриб
+item.food_amanita_baked.name=Запечённый гриб
+item.food_beetroot_cooked.name=Варёная свёкла
+item.food_beetroot_baked.name=Запечённая свёкла
+item.food_carrot_cooked.name=Варёная морковь
+item.food_carrot_baked.name=Запечённая морковь
+item.food_potato_cooked.name=Варёный картофель
+item.food_egg_cooked.name=Варёное яйцо
+item.food_chocolate.name=Шоколад
+item.food_meatballs.name=Тефтели
+item.food_ground_meat.name=Фарш
+item.food_pie_mushroom.name=Грибной пирог
+item.food_pie_amanita.name=Грибной пирог
+item.food_pie_melon.name=Пирог с дыней
+item.food_pie_meat.name=Мясной пирог
+item.food_sashimi.name=Сашими
+
+item.food_clownfish_cooked.name=Варёная рыба-клоун
+item.food_pufferfish_baked.name=Варёный иглобрюх
+item.food_pufferfish_prepared.name=Фугу
+item.food_pufferfish_cooked.name=Варёный фугу
+item.food_fugu_sac.name=Мешок фугу
+
+item.food_cooked_rice.name=Варёный рис
+item.food_bowl_rice.name=Миска риса
+item.food_sashimi.name=Сашими
+item.food_mulberry.name=Шелковица
+item.laxative.name=Слабительное
+
+item.ancestry_bottle.name=Бутыль японской родословной
+item.shinai.name=Синай
+item.katana.name=Катана
+item.wakizashi.name=Вакидзаси
+item.tanto.name=Танто
+item.yumi.name=Юми
+item.ya.name=Я
+item.poisoned_ya.name=Отравленное я
+item.japanmat.rice.name=Рис
+item.japanmat.soaked_rice.name=Замоченный рис
+item.japanmat.rice_stalk.name=Рисовая солома
+item.japanmat.rice_hay.name=Рисовое сено
+item.japanmat.rice_ash.name=Рисовая зола
+item.japanmat.rush.name=Ситник
+item.japanmat.soaked_bamboo.name=Замоченный бамбук
+item.japanmat.bamboo_slats.name=Бамбуковые планки
+item.japanmat.soaked_mulberry.name=Замоченная кора шелковицы
+item.japanmat.mulberry_paste.name=Шелковичная масса
+item.japanmat.mulberry_sheet.name=Шелковичный лист
+item.japanmat.washi.name=Васи
+item.japanmat.iron_scales.name=Железные чешуйки
+item.japanmat.lamellar.name=Ламелляр
+item.japanmat.paper_lamellar.name=Бумажный ламелляр
+item.japanmat.tsuka.name=Цука
+item.japanmat.half_katana_blade.name=Половина клинка катаны
+item.japanmat.ya_head.name=Наконечник я
+item.japanmat.yumi_top.name=Верхние части юми
+item.japanmat.yumi_bottom.name=Нижние части юми
+item.japanmat.tamahagane.name=Тамахаганэ
+item.japanmat.tamahagane_heated.name=Нагретый тамахаганэ
+item.japanmat.tamahagane_folded.name=Складной тамахаганэ
+item.japanmat.tamahagane_wrapped.name=Обёрнутый тамахаганэ
+item.japanmat.tamahagane_reheated.name=Разогретый тамахаганэ
+item.japanmat.tamahagane_finished.name=Готовый тамахаганэ
+item.japanmat.hocho_tetsu.name=Хотё-тэцу
+item.japanmat.hocho_tetsu_heated.name=Нагретый хотё-тэцу
+item.japanmat.hocho_tetsu_fold_1.name=Дважды сложенный хотё-тэцу
+item.japanmat.hocho_tetsu_fold_2.name=Трижды сложенный хотё-тэцу
+item.japanmat.hocho_tetsu_finished.name=Готовый хотё-тэцу
+item.japanmat.helmet_undecorated.name=Неукрашенный самурайский шлем
+item.japanmat.chest_undecorated.name=Неукрашенный самурайский нагрудник
+item.japanmat.legs_undecorated.name=Неукрашенные самурайские поножи
+item.japanmat.boots_undecorated.name=Неукрашенные самурайские ботинки
+item.japanmat.bark_sakura.name=Кора сакуры
+item.japanmat.bark_mulberry.name=Кора шелковицы
+
+item.teacup.empty.name=Чайная чашка
+item.teacup.poison.name=Чашка с ядом
+item.teacup.tea.name=Чашка %1$s%2$s%3$s%4$s
+item.teacup.ceremonial.name=Чашка церемониального зелёного чая
+
+tea.strength.0=Водянистый
+tea.strength.1=Слабый
+tea.strength.2=Умеренный
+tea.strength.3=Крепкий
+tea.strength.4=Очень крепкий
+tea.sugar.0=, горький
+tea.sugar.2=, сладкий
+tea.sugar.3=, очень сладкий
+tea.sugar.4=, очень сладкий
+tea.milk.0=, сухой
+tea.milk.2=, молочный
+tea.milk.3=, очень молочный
+tea.milk.4=, очень молочный
+
+tea.type.white=Белый чай
+tea.type.assam=Ассам
+tea.type.ceylon=Цейлонский чай
+tea.type.gyokuro=Гёкуро
+tea.type.sencha=Сенча
+tea.type.bancha=Бантя
+tea.type.tencha=Тэнтя
+tea.type.matcha=Матча
+tea.type.houjicha=Ходзитя
+tea.type.nether=Незерский чай
+tea.type.end=Чай Края
+
+item.tea_leaves.name=Листья %s
+item.tea_soaked.name=Вымоченные листья %s
+item.tea_wilted.name=Увядшие листья %s
+item.tea_powder.name=%s
+
+item.helmet_paper.name=Бумажный шлем
+item.chest_paper.name=Бумажный нагрудник
+item.legs_paper.name=Бумажные поножи
+item.boots_paper.name=Бумажные ботинки
+
+item.helmet_samurai.name=Самурайский шлем [В РАЗРАБОТКЕ]
+item.chest_samurai.name=Самурайский нагрудник [В РАЗРАБОТКЕ]
+item.legs_samurai.name=Самурайские поножи [В РАЗРАБОТКЕ]
+item.boots_samurai.name=Самурайские ботинки [В РАЗРАБОТКЕ]
+
+entity.karate_zombie.name=Зомби-каратист
+
+death.attack.lightningArrow=%1$s был застрелен %2$s
+death.attack.lightningArrow.item=%1$s был застрелен %2$s из %3$s
+
+info.rope.too_far=Другой столб слишком далеко.
+info.horse.will_wait=Твой скакун подождёт тебя.
+info.horse.your_horse_will_wait=%s подождёт тебя.
+
+tooltip.zen_sand=Используйте мотыгу на песке.
+tooltip.tatami_full=Используйте мотыгу на татами, лежащем на бамбуковых планках.
+
+tooltip.adobe.crafting=Зависит от смеси
+tooltip.adobe.description=Оставьте сохнуть на солнце.
+
+tooltip.quartz.verbose=%s%% Насыщенность
+tooltip.souls.verbose=%s мстительных душ
+
+tooltip.quartz.starting=Начинает меняться...
+tooltip.quartz.longway=Потребуется ещё некоторое время...
+tooltip.quartz.halfway=Начинает формировать кристаллические структуры.
+tooltip.quartz.readysoon=Скоро будет готово.
+tooltip.quartz.almostready=Почти готово.
+tooltip.souls.one=Оно только что двинулось?
+tooltip.souls.three=Беспокойно ёрзает
+tooltip.souls.half=Кричит без звука
+tooltip.souls.danger=§kМЫ ВОССТАНЕМ
+food.rot.0=Свежее
+food.rot.50=Чёрствое
+food.rot.75=Чёрствое
+food.rot.100=Тухлое
+meat.rot.0=Свежее
+meat.rot.50=Кислое
+meat.rot.75=Кислое
+meat.rot.100=Тухлое
+fish.rot.0=Свежее
+fish.rot.50=Зловонное
+fish.rot.75=Зловонное
+fish.rot.100=Тухлое
+fruit.rot.0=Свежий
+fruit.rot.75=Заплесневелый
+fruit.rot.100=Тухлый

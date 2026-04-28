@@ -1,0 +1,44 @@
+#PARSE_ESCAPES
+loottweaker.commands.dump.desc=§2/ct loottables <all|byName|target|list|generate> <args>\n§3Команда LootTweaker для экспорта и генерации таблиц добычи\n§3
+loottweaker.commands.dump.all.usage=/ct loottables all
+loottweaker.commands.dump.byName.usage=/ct loottables byName <lootTableId>
+loottweaker.commands.dump.target.usage=/ct loottables target
+loottweaker.commands.dump.list.usage=/ct loottables list
+loottweaker.commands.dump.generate.usage=/ct loottables generate chest <lootTableId>\n/ct loottables generate entity <entityId> [entityNbt]
+loottweaker.commands.dump.unknownSubcommand=Неизвестная подкоманда %s
+loottweaker.commands.dump.all.done=Все таблицы добычи экспортированы в %s
+loottweaker.commands.dump.all.exception=Произошла непредвиденная ошибка при экспорте %s. Проверьте лог игры для получения подробностей.
+loottweaker.commands.missingName=Требуется имя таблицы добычи!
+loottweaker.commands.invalidName=Недопустимое имя таблицы добычи!
+loottweaker.commands.dump.target.noTable=Цель не имеет таблицы добычи
+loottweaker.commands.dump.target.noTarget=Ничего в радиусе действия
+loottweaker.commands.dump.target.senderNotEntity=Эта команда может быть выполнена только сущностями
+loottweaker.commands.dump.dumpLink=Таблица добычи %s экспортирована в %s
+
+loottweaker.commands.generate.type.missing=Тип не указан, укажите chest или entity в качестве дополнительного аргумента
+loottweaker.commands.generate.type.unknown=Неизвестный тип %s, ожидается chest или entity
+loottweaker.commands.generate.missingEntityId=Необходимо указать ID сущности
+loottweaker.commands.generate.invalidEntityId=Сущность с ID %s не существует
+
+//Намеренно оставлено для будущей реализации в безопасной форме
+loottweaker.messages.error.invalidTableName=Таблица добычи с именем %s не существует!
+loottweaker.messages.error.invalidPoolName=Пул добычи с именем %s не существует в таблице %s!
+loottweaker.messages.error.invalidEntryName=Запись с именем %s не существует в пуле %s
+loottweaker.messages.error.unparseableFunctionType=%s не является экземпляром IData или LootFunction!
+loottweaker.messages.error.unparseableConditionType=%s не является экземпляром IData или LootCondition!
+loottweaker.messages.error.functionhelper.invalidEnchant=%s не является допустимым ID зачарования
+loottweaker.messages.error.functionhelper.damageOver100=Предметы не могут получать более 100% урона!
+loottweaker.messages.error.deprecation.warning1=LootTweaker: Один или несколько скриптов используют устаревшие методы. Проверьте crafttweaker.log для получения дополнительной информации.
+loottweaker.messages.error.deprecation.warning2=%s устарел
+loottweaker.messages.error.deprecation.warning3=Обратитесь к https://github.com/Leviathan143/LootTweaker/wiki/Deprecations для получения дополнительной информации. Это предупреждение можно отключить в конфигурации.
+
+loottweaker.messages.info.locatingLootTables=Ведется поиск всех существующих Таблиц добычи. Это может занять несколько секунд.
+
+loottweaker.messages.openDocs=Нажмите, чтобы открыть документацию в веб-браузере
+
+loottweaker.config.warnings.category=Предупреждения
+loottweaker.config.warnings.deprecation=Осуждение
+loottweaker.config.warnings.newTableMinecraftNamespace=newTable() Minecraft Namespace
+loottweaker.config.workarounds.category=Альтернативы
+loottweaker.config.workarounds.forceInitClasses=Классы для принудительной инициализации
+loottweaker.config.lastCfgVersion=Do not touch!

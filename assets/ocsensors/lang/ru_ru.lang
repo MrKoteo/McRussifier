@@ -1,0 +1,12 @@
+tile.ocsensors.sensor.name=Сенсор
+tile.ocsensors.sensor.tooltip=Используется для чтения информации, такой как энергия, содержимое инвентаря и т.д., с удаленных блоков.
+
+commands.ocsensors.usage=/ocsensors [подкоманда, оставьте пустым для списка команд]
+commands.ocsensors.available=Доступные подкоманды:
+commands.ocsensors.denied=У вас нет разрешения на использование этой команды.
+
+commands.ocsensors.extract-configs.usage=/ocsensors extract-configs
+commands.ocsensors.extract-configs.description=Извлечь конфигурации интеграции по умолчанию из .jar в папку конфигураций.
+
+commands.ocsensors.reload.usage=/ocsensors reload
+commands.ocsensors.reload.description=Перезагружает все доступные конфигурации интеграции.

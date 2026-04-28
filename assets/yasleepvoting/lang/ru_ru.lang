@@ -1,0 +1,7 @@
+# Конфиг
+config.yasleepvoting.sleepVotePercentage.name=Процент спящих
+
+# Команды
+commands.yasleepvoting.usage=/yasleepvoting <Процент>
+commands.yasleepvoting.success=Установлен процент спящих: %s%%
+commands.yasleepvoting.get=Текущий процент спящих: %s%%

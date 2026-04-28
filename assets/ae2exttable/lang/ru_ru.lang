@@ -1,0 +1,41 @@
+key.open_basic_extended_wireless_crafting_terminal=Открыть базовый беспроводной терминал крафта
+key.open_advanced_extended_wireless_crafting_terminal=Открыть продвинутый беспроводной терминал крафта
+key.open_elite_extended_wireless_crafting_terminal=Открыть элитный беспроводной терминал крафта
+key.open_ultimate_extended_wireless_crafting_terminal=Открыть максимальный беспроводной терминал крафта
+
+container.ae2exttable.custom_extended_table.name=Продвинутый верстак, но круче
+tile.ae2exttable.custom_extended_table.name=Продвинутый верстак, но круче
+container.ae2exttable.custom_extended_table=Улучшенный крафт
+tooltip.ae2exttable.custom_extended_table=Потому что расширенный верстак был недостаточно крутым
+
+item.ae2exttable.basic_crafting_terminal.name=Базовый терминал крафта
+ae2exttable.basic_crafting_terminal=Терминал
+ae2exttable.basic_crafting_terminal.crafting=Базовый крафт
+
+item.ae2exttable.advanced_crafting_terminal.name=Продвинутый терминал крафта
+ae2exttable.advanced_crafting_terminal=Терминал
+ae2exttable.advanced_crafting_terminal.crafting=Продвинутый крафт
+
+item.ae2exttable.elite_crafting_terminal.name=Элитный терминал крафта
+ae2exttable.elite_crafting_terminal=Терминал
+ae2exttable.elite_crafting_terminal.crafting=Элитный крафт
+
+item.ae2exttable.ultimate_crafting_terminal.name=Максимальный терминал крафта
+ae2exttable.ultimate_crafting_terminal=Терминал
+ae2exttable.ultimate_crafting_terminal.crafting=Максимальный крафт
+
+item.ae2exttable.wireless_basic_crafting_terminal.name=Базовый беспроводной терминал крафта
+ae2exttable.wireless_basic_crafting_terminal=Беспроводной терминал
+ae2exttable.wireless_basic_crafting_terminal.crafting=Базовый крафт
+
+item.ae2exttable.wireless_advanced_crafting_terminal.name=Продвинутый беспроводной терминал крафта
+ae2exttable.wireless_advanced_crafting_terminal=Беспроводной терминал
+ae2exttable.wireless_advanced_crafting_terminal.crafting=Продвинутый крафт
+
+item.ae2exttable.wireless_elite_crafting_terminal.name=Элитный беспроводной терминал крафта
+ae2exttable.wireless_elite_crafting_terminal=Беспроводной терминал
+ae2exttable.wireless_elite_crafting_terminal.crafting=Элитный крафт
+
+item.ae2exttable.wireless_ultimate_crafting_terminal.name=Максимальный беспроводной терминал крафта
+ae2exttable.wireless_ultimate_crafting_terminal=Беспроводной терминал
+ae2exttable.wireless_ultimate_crafting_terminal.crafting=Максимальный крафт

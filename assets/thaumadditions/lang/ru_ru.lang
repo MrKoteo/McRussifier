@@ -1,0 +1,20 @@
+research_name.thaumadditions:crystal_lamp=Кристальная лампа
+research_stage.thaumadditions:crystal_lamp.1=Я подумывал создать источник света на основе кристаллов виз, которые у меня есть. Возможно, стоит попробовать как-то преобразовать их энергию в фотоны. Возможно, великая древесина подойдет для корпуса.
+research_stage.thaumadditions:crystal_lamp.2=Нитор в оправе из великой древесины отлично справляется. Настоящее чудо происходит, когда я помещаю кристалл виз в лампу. Она начинает светиться. Новое изобретение также реагирует на редстоун, отключаясь при подаче сигнала.
+
+tile.thaumadditions:taintkin_lit.name=Фонарь порчи
+item.thaumadditions:essentia_pistol.name=Эссенциальный пистолет
+item.thaumadditions:mithrillium_cap_inert.name=Инертный наконечник из митриллия
+item.thaumadditions:adaminite_cap_inert.name=Инертный наконечник из адаманита
+item.thaumadditions:mithminite_cap_inert.name=Инертный наконечник из митминита
+item.thaumadditions:mithrillium_cap.name=Заряженный наконечник из митриллия
+item.thaumadditions:adaminite_cap.name=Заряженный наконечник из адаманита
+item.thaumadditions:mithminite_cap.name=Заряженный наконечник из митминита
+item.thaumadditions:adaminitewood_rod.name=Стержень из адамитовой древесины
+damage.thaumadditions:mithminite_scythe.melee=12 урона в ближнем бою
+damage.thaumadditions:mithminite_scythe.ranged=14 урона на дальности
+item.wand.mithrillium.cap=Настроенный на митриллий
+item.wand.adaminite.cap=Украшенный адаманитом
+item.wand.mithminite.cap=Орнаментированный митминитом
+item.wand.adaminitewood.rod=Адамитовая древесина
+research_stage.thaumadditions:disenchant_fabric.2=Зачарованная ткань вместе с salis mundus, похоже, дает хороший и относительно надежный способ снятия чар, которые могут быть наложены на предметы. Единственная загвоздка в прочности: ткань исчезает примерно после 30 попыток. Вот досада!

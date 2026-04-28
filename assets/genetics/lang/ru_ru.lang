@@ -1,0 +1,16 @@
+genetics.config.acclimatiser.energy = Энергия, потребляемая акклиматизатором за такт
+genetics.config.analyser.energy = Энергия, потребляемая анализатором за один процесс
+genetics.config.analyser.time = Время, затраченное анализатором на один процесс
+genetics.config.genepool.energy = Энергия, потребляемая генпулом за один процесс
+genetics.config.genepool.time = Время, затраченное генпулом
+genetics.config.incubator.energy = Энергия, потребляемая инкубатором за такт
+genetics.config.inoculator.energy = Энергия, потребляемая инокулятором на один ген
+genetics.config.inoculator.time = Время, затраченное инокулятором на один ген
+genetics.config.isolator.energy = Энергия, потребляемая изолятором за один процесс
+genetics.config.isolator.time = Время, затраченное изолятором на один процесс изолятор
+genetics.config.polymeriser.energy=Энергия, используемая полимеризатором за один процесс
+genetics.config.polymeriser.time=Время, затраченное полимеризатором на один процесс
+genetics.config.sequencer.energy=Множитель энергии для секвенсора
+genetics.config.sequencer.time=Множитель времени для секвенсора
+genetics.config.splicer.energy=Базовая энергия для сплайсера
+genetics.config.splicer.time=Базовое время для сплайсера

@@ -1,0 +1,20 @@
+geolosys.coal_coke.lignite.name=Лигнитовый кокс
+geolosys.coal_coke.bituminous.name=Битуминозный кокс
+geolosys.pro_pick.tooltip.nonefound_stone_surface=В этом районе нет особых камней
+geolosys.pro_pick.tooltip.mode.ores=§6Поиск залежей руды
+geolosys.pro_pick.tooltip.mode.stones=§bПоиск залежей камня
+geolosys.guide.chapter.ore.description=%1$s можно найти между %2$s и %3$s в любом биоме. Шанс появления — %4$s%%. Залежь представляет собой плутон размером около %5$s блоков. Уровень добычи этого месторождения — %6$s.
+geolosys.guide.chapter.ore.multi.description=%1$s можно найти между %2$s и %3$s в любом биоме. В целом месторождение имеет %4$s%% шанс появления и представляет собой плутон размером около %5$s блоков. Самый высокий уровень добычи этого месторождения — %6$s.
+geolosys.guide.chapter.ore.biome.description=%1$s можно найти между %2$s и %3$s, и только в биомах %4$s. Шанс появления — %5$s%%. Залежь представляет собой плутон размером около %6$s блоков. Уровень добычи этого месторождения — %7$s.
+geolosys.guide.chapter.ore.multi.biome.whitelist.description=%1$s можно найти между %2$s и %3$s, и только в биомах %4$s. В целом месторождение имеет %5$s%% шанс появления и представляет собой плутон размером около %6$s блоков. Самый высокий уровень добычи этого месторождения — %7$s.
+geolosys.guide.chapter.ore.multi.biome.blacklist.description=%1$s можно найти между %2$s и %3$s, и в любых биомах, КРОМЕ %4$s. В целом месторождение имеет %5$s%% шанс появления и представляет собой плутон размером около %6$s блоков. Самый высокий уровень добычи этого месторождения — %7$s.
+
+geolosys.guide.chapter.better_with_mods.text=Если установлен Better With Mods, все рецепты плавки будут выдавать самородки вместо слитков.
+geolosys.guide.chapter.twilight_forest.text=В измерении Twilight Forest все руды генерируются с учётом меньшей высоты мира.
+geolosys.guide.chapter.applied_energistics.text=Если установлен AE, Certus Quartz может выпадать из Assorted Quartz с шансом 8%. Кроме того, Charged Certus Quartz может выпадать с шансом 4%.
+geolosys.guide.chapter.extra_utils.text=Если установлен Extra Utilities 2, Redstone Crystals могут выпадать из Cinnabar с шансом 3.33%.
+geolosys.guide.chapter.actually_additions.text=Если установлен Actually Additions, Black Quartz может выпадать из Assorted Quartz с шансом 8%.
+geolosys.guide.chapter.cofh_mods.text=Если установлен Thermal Foundation, то Cinnabar может выпадать из Cinnabar с шансом 3.33%.
+geolosys.guide.chapter.mekanism.text=Если в конфиге включён Osmium, то Platinum разделит свой шанс выпадения 50/50 с Osmium. Если Osmium включён §oисключительно§r, то из Platinum будет выпадать только Osmium.
+geolosys.guide.chapter.extreme_reactors.text=Если в конфиге включён Yellorium, то Autunite разделит свой шанс выпадения 50/50 с Yellorium.
+geolosys.guide.chapter.nuclearcraft.text=Если установлен NuclearCraft, варианты ванильных руд из Geolosys будут выдавать дополнительные предметы из NuclearCraft с тем же шансом, что и в NuclearCraft.

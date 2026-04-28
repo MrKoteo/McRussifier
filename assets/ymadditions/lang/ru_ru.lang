@@ -1,0 +1,35 @@
+#PARSE_ESCAPES
+itemGroup.yudream_tab=YM-Additions
+tile.ymadditions.network_hub.name=ME Беспроводной приемопередатчик (трансивер)
+
+statusmessage.ymadditions.info.nopermission=§cУ вас нет разрешения.
+statusmessage.ymadditions.info.head_delete_protection=§cсначала удалите сеть
+
+tooltip.ymadditions.tile_me_base.missing_channel=Отсутствует канал устройства
+tooltip.ymadditions.tile_me_base.online=Устройство онлайн
+tooltip.ymadditions.tile_me_base.offline=Устройство оффлайн
+tooltip.ymadditions.tile_network_hub.state.true=Статус подключения: §Подключен
+tooltip.ymadditions.tile_network_hub.state.false=Статус подключения: §cНе подключен
+tooltip.ymadditions.tile_network_hub.network=Сеть:
+
+gui.ymadditions.network_hub.button.create=Создать
+gui.ymadditions.network_hub.button.delete=Удалить
+gui.ymadditions.network_hub.button.connect=Подключить
+gui.ymadditions.network_hub.button.disconnect=Отключить
+gui.ymadditions.network_hub.button.public.desc=Переключить, является ли сеть общедоступной
+gui.ymadditions.network_hub.info.network_name=Название:
+gui.ymadditions.network_hub.info.surplus_channels=каналы:
+gui.ymadditions.network_hub.info.dimension_id=Измерение:
+gui.ymadditions.network_hub.info.public.true=Публичный: Да
+gui.ymadditions.network_hub.info.public.false=Публичный: Нет
+gui.ymadditions.network_hub.info.state.true=статус: Подключен
+gui.ymadditions.network_hub.info.state.false=статус: Не подключен
+
+commands.ym.error.player_no_found=Игрок не найден
+commands.ym.error.no_args=Отсутствуют аргументы
+commands.ym.error.unknown=Неизвестный параметр. Доступные команды: add/rm/list
+commands.ym.error.args=Неверные аргументы
+commands.ym.error.unknown_network=Сеть не найдена
+commands.ym.error.no_perm_network=У вас нет прав на эту сеть
+commands.ym.info.remove_success=Игрок успешно удален
+commands.ym.info.add_success=Игрок успешно добавлен

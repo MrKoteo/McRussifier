@@ -1,0 +1,34 @@
+itemGroup.blockcraftery=Blockcraftery
+
+tile.editable_block.name=Каркасный блок
+tile.editable_slab.name=Каркасная плита
+tile.editable_stairs.name=Каркасная лестница
+tile.editable_slant.name=Каркасный скос
+tile.editable_inner_corner.name=Каркасный внутренний угол
+tile.editable_outer_corner.name=Каркасный внешний угол
+tile.editable_wall.name=Каркасная стена
+tile.editable_fence.name=Каркасный забор
+tile.editable_trap_door.name=Каркасный люк
+tile.editable_door.name=Каркасная дверь
+tile.editable_pressure_plate_all.name=Каркасная нажимная плита (все)
+tile.editable_pressure_plate_mobs.name=Каркасная нажимная плита (мобы)
+tile.editable_pressure_plate_items.name=Каркасная нажимная плита (предметы)
+tile.editable_pressure_plate_player.name=Каркасная нажимная плита (игроки)
+
+tile.editable_block_reinforced.name=Усиленный каркасный блок
+tile.editable_slab_reinforced.name=Усиленная каркасная плита
+tile.editable_stairs_reinforced.name=Усиленная каркасная лестница
+tile.editable_slant_reinforced.name=Усиленный каркасный скос
+tile.editable_inner_corner_reinforced.name=Усиленный каркасный внутренний угол
+tile.editable_outer_corner_reinforced.name=Усиленный каркасный внешний угол
+tile.editable_wall_reinforced.name=Усиленная каркасная стена
+tile.editable_fence_reinforced.name=Усиленный каркасный забор
+tile.editable_trap_door_reinforced.name=Усиленный каркасный люк
+tile.editable_door_reinforced.name=Усиленная каркасная дверь
+tile.editable_pressure_plate_all_reinforced.name=Усиленная каркасная нажимная плита (все)
+tile.editable_pressure_plate_mobs_reinforced.name=Усиленная каркасная нажимная плита (мобы)
+tile.editable_pressure_plate_items_reinforced.name=Усиленная каркасная нажимная плита (предметы)
+tile.editable_pressure_plate_player_reinforced.name=Усиленная каркасная нажимная плита (игроки)
+
+item.editable_door.name=Каркасная дверь
+item.editable_door_reinforced.name=Усиленная каркасная дверь

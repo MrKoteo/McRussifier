@@ -1,0 +1,34 @@
+tile.gtclassic.multiblockguide.name=Руководство по мультиблоку
+item.gtclassic.ultimate_armor.name=Предельная броня
+tooltip.gtclassic.oreIridium0=Появляется редко на любой высоте в любом биоме
+tooltip.gtclassic.oreIridium1=Содержит: Иридий
+tooltip.gtclassic.oreSheldonite0=Появляется между уровнями Y 10-30 в биомах ДЖУНГЛИ
+tooltip.gtclassic.oreSheldonite1=Содержит: Платину, Иридий и Никель
+tooltip.gtclassic.oreRuby0=Появляется между уровнями Y 0-48 в ГОРЯЧИХ/СУХИХ биомах
+tooltip.gtclassic.oreRuby1=Содержит: Рубин, Хром и Алюминий
+tooltip.gtclassic.oreSapphire0=Появляется между уровнями Y 0-48 в биомах ОКЕАН/РЕКА
+tooltip.gtclassic.oreSapphire1=Содержит: Сапфир и Алюминий
+tooltip.gtclassic.oreSapphire2=Имеет шанс выпасть Перидот
+tooltip.gtclassic.oreBauxite0=Появляется между уровнями Y 50-120 в биомах ЛЕС/РАВНИНЫ
+tooltip.gtclassic.oreBauxite1=Содержит: Алюминий и Титан
+tooltip.gtclassic.ultimate_armor0=Вершина моды GregTech!
+tooltip.gtclassic.ultimate_armor1=Один нагрудник, чтобы править всеми
+tooltip.gtclassic.quantumchest1=Сохранит своё содержимое при сборе
+tooltip.gtclassic.quantumtank1=Сохранит своё содержимое при сборе
+tooltip.gtclassic.energytransmitter2=Установите Сенсорную палку для задания целевой позиции.
+tooltip.gtclassic.fusionreactor6=Выход EU требует Суперконденсатор!
+tooltip.gtclassic.magicenergyabsorber1=Может использовать Яйца Дракона и Трофеи Сумеречного Леса
+tooltip.gtclassic.magicenergyabsorber2=Может использоваться многократно без взрыва
+tooltip.gtclassic.tesseractmaster1=Позволяет передавать предметы или жидкости блоку в пределах поля.
+tooltip.gtclassic.redstonetransmitter2=Не требует энергии для работы
+tooltip.gtclassic.redstonetransmitter3=Установите Сенсорную палку для задания позиции приёмника.
+
+#crops
+ic2.crop.Bauxia.name=Боксиа
+ic2.crop.Platina.name=Платина
+ic2.crop.Rubeus.name=Рубеус
+ic2.crop.Sapphirum.name=Сапфирум
+ic2.crop.GodOfThunder.name=Бог Грома
+ic2.crop.Titania.name=Титания
+ic2.crop.Scheelinium.name=Шеелиниум
+ic2.crop.Transformium.name=Трансформиум

@@ -1,0 +1,94 @@
+# Предметы
+item.flour.name=Мука
+item.dough.name=Тесто
+
+# Описания предметов
+item.horsepower:grindstone.description.size=Для работы точила требуется область [%1]7x7[%2] и [%1]2 блока[%2] в высоту
+item.horsepower:grindstone.description.location=Точило должно быть установлено на [%1]один блок[%2] выше по центру
+item.horsepower:grindstone.description.use=Чтобы использовать точило, привяжите лошадь поводком
+item.horsepower:chopping.description.size=Для работы плахи требуется область [%1]7x7[%2] и [%1]2 блока[%2] в высоту
+item.horsepower:chopping.description.location=Плаха должна быть установлена по центру
+item.horsepower:chopping.description.use=Чтобы использовать плаху, привяжите лошадь поводком
+item.horsepower:press.description.size=Для работы пресса требуется область [%1]7x7[%2] и [%1]2 блока[%2] в высоту
+item.horsepower:press.description.location=Пресс должен быть установлен по центру
+item.horsepower:press.description.use=Чтобы использовать пресс, привяжите лошадь поводком
+
+item.horsepower:hand_grindstone.description.info=ПКМ по блоку с предметом, чтобы измельчить[%1]Shift+ПКМ, чтобы забрать предмет[%1]ПКМ по блоку с предметом внутри, чтобы начать измельчение
+
+# Блоки
+tile.hand_grindstone.name=Точило
+tile.grindstone.name=Конное точило
+tile.chopping_block.name=Плаха
+tile.chopper.name=Конная плаха
+tile.press.name=Конный пресс
+
+# Информация
+info.horsepower:chopping.invalid=НЕДЕЙСТВИТЕЛЬНАЯ ОБЛАСТЬ 7x7x2
+info.horsepower:grindstone.invalid=НЕДЕЙСТВИТЕЛЬНАЯ ОБЛАСТЬ 7x7x2
+info.horsepower:press.invalid=НЕДЕЙСТВИТЕЛЬНАЯ ОБЛАСТЬ 7x7x2
+info.horsepower:item.reveal=Возьмите поводок, чтобы показать необходимую область
+info.horsepower:grindstone.info1=Точило измельчает предметы до их базовых компонентов. При установке точила убедитесь, что у вас расчищена область 7x7 и 2 блока в высоту. Под областью 7x7 должна быть твёрдая земля.
+info.horsepower:grindstone.info2=По центру области 7x7 поместите блок по вашему выбору, а затем установите точило над ним. Если область не расчищена, точило сообщит об этом, когда вы на него посмотрите. Затем с помощью поводка привяжите лошадь/осла/мула/ламу, чтобы она работала на точиле.
+info.horsepower:grindstone.info3=Когда животное привязано поводком, щёлкните ПКМ по точилу — животное должно теперь быть подключено к нему. Теперь просто щёлкните ПКМ по точилу с предметом, который можно измельчить, чтобы начать процесс, или подключите любой автоматический ввод/вывод сверху или снизу.
+
+# Команды
+commands.horsepower.usage=/horsepower entity
+commands.horsepower.entity.invalid=Эту команду может выполнить только игрок
+commands.horsepower.entity.no=Вы не смотрите на существо
+commands.horsepower.entity.has=Существо скопировано в буфер обмена: %s
+commands.horsepower.reload=Перезагрузка изменённых конфигураций HorsePower в игре
+commands.horsepower.reload.error=Перезагрузка завершена с ошибками
+commands.horsepower.reload.noerror=Перезагрузка завершена без ошибок
+
+# GUI
+gui.horsepower.jei.category.hand.grinding=Ручное точило
+gui.horsepower.jei.category.grinding=Точило
+gui.horsepower.jei.category.chopping=Плаха
+gui.horsepower.jei.category.manual.chopping=Ручная плаха
+gui.horsepower.jei.category.press.item=Пресс (предмет)
+gui.horsepower.jei.category.press.fluid=Пресс (жидкость)
+gui.horsepower.jei.tooltip.chopping=Время рубки: [%1] [%2 круг|круга|кругов]
+gui.horsepower.jei.tooltip.grinding=Время измельчения: [%1] [%2 круг|круга|кругов]
+gui.horsepower.jei.tooltip.pressing=Время прессования: [%1] [%2 круг|круга|кругов]
+gui.horsepower.jei.tooltip.grinding.chance=Шанс: [%1]%
+gui.horsepower.jei.tooltip.manual.chopping=Количество ударов: [%1]
+gui.horsepower.jei.tooltip.manual.chopping.desc.1=Возвращаемое количество (с округлением вверх): [%1]%
+gui.horsepower.jei.tooltip.manual.chopping.desc.2=Шанс на +1: [%1]%
+gui.horsepower.jei.tooltip.manual.chopping.desc.3=Возвращаемое количество с [%1]%[%2] отображается в слоте результата
+config.gui.general=Основное
+config.gui.client=Клиент
+config.gui.recipes=Рецепты
+config.gui.misc=Разное
+config.gui.recipes.grindstone=Рецепты точила
+config.gui.recipes.hand_grindstone=Рецепты ручного точила
+config.gui.recipes.chopping=Рецепты рубки
+config.gui.recipes.manual_chopping=Рецепты ручной рубки
+config.gui.mobs=Список существ для конных механизмов
+config.gui.chopping_axes=Топоры для плахи
+config.gui.harvest=Проценты сбора урожая
+itemGroup.horsepower=Лошадиная сила
+
+# Waila
+gui.horsepower.waila.grindstone.progress=Измельчение: [%1]%
+gui.horsepower.waila.windup.progress=Завод: [%1]%
+gui.horsepower.waila.chopping.progress=Рубка: [%1]%
+gui.horsepower.waila.press.progress=Прессование: [%1]%
+gui.horsepower.waila.show.items=Показывать предметы
+
+# TOP
+gui.horsepower.top.grindstone.progress=Измельчение:
+gui.horsepower.top.windup.progress=Завод:
+gui.horsepower.top.chopping.progress=Рубка:
+gui.horsepower.top.press.progress=Прессование:
+
+# Достижения
+advancements.horsepower.root.title=Лошадиная сила
+advancements.horsepower.root.description=Начало автоматизации
+advancements.horsepower.flour.title=Молотилка
+advancements.horsepower.flour.description=Перемолоть пшеницу в муку
+advancements.horsepower.grindstone.title=Конный труд на точиле
+advancements.horsepower.grindstone.description=Заставить лошадь работать на точиле
+advancements.horsepower.chopping.title=Конный труд на рубке
+advancements.horsepower.chopping.description=Заставить лошадь работать за вас, рубя блоки
+advancements.horsepower.press.title=Конный труд на прессе
+advancements.horsepower.press.description=Заставить лошадь прессовать за вас

@@ -1,0 +1,39 @@
+itemGroup.mekeng=Mekanism Energistics
+
+item.mekeng:dummy_gas.name=Фиктивный газ
+item.mekeng:dummy_gas.error.name=Неверный газ
+item.mekeng:gas_core_1k.name=§61k§r Газовый компонент хранения ME
+item.mekeng:gas_core_4k.name=§e4k§r Газовый компонент хранения ME
+item.mekeng:gas_core_16k.name=§a16k§r Газовый компонент хранения ME
+item.mekeng:gas_core_64k.name=§b64k§r Газовый компонент хранения ME
+item.mekeng:gas_cell_1k.name=§61k§r Газовая ячейка хранения ME
+item.mekeng:gas_cell_4k.name=§e4k§r Газовая ячейка хранения ME
+item.mekeng:gas_cell_16k.name=§a16k§r Газовая ячейка хранения ME
+item.mekeng:gas_cell_64k.name=§b64k§r Газовая ячейка хранения ME
+item.mekeng:portable_gas_cell.name=Переносная газовая ячейка
+item.mekeng:gas_terminal.name=ME газовый терминал
+item.mekeng:gas_import_bus.name=ME шина импорта газа
+item.mekeng:gas_export_bus.name=ME шина экспорта газа
+item.mekeng:gas_interface_part.name=ME газовый интерфейс
+item.mekeng:gas_storage_bus.name=ME шина хранения газа
+item.mekeng:gas_level_emitter.name=ME газовый извещатель уровня
+item.mekeng:gas_interface_terminal.name=Терминал настройки газового интерфейса
+item.mekeng:wireless_gas_terminal.name=Беспроводной газовый терминал
+item.mekeng:gas_storage_monitor.name=ME монитор хранения газа
+item.mekeng:gas_conversion_monitor.name=ME монитор конвертации газа
+
+tile.mekeng:gas_interface.name=ME газовый интерфейс
+
+gui.mekeng.gas_terminal=Газовый терминал
+gui.mekeng.gas_import=ME шина импорта газа
+gui.mekeng.gas_export=ME шина экспорта газа
+gui.mekeng.gas_interface=ME газовый интерфейс
+gui.mekeng.gas_storage_bus=ME шина хранения газа
+gui.mekeng.gas_level_emitter=ME газовый извещатель уровня
+gui.mekeng.gas_interface_terminal=Терминал настройки газового интерфейса
+gui.mekeng.gas_portable_cell=Переносная ячейка
+gui.mekeng.wireless_gas_terminal=Беспроводной терминал
+
+tooltip.mekeng.stored_gas=Хранимый газ
+
+group.mekeng.gas_io_bus=ME шина импорта/экспорта газа

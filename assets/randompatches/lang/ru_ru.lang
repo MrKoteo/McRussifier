@@ -1,0 +1,51 @@
+randompatches.config.boats=Лодки
+randompatches.config.boats.tooltip=Опции, связанные с лодками.
+randompatches.config.boats.patchEntityBoat=Исправить EntityBoat
+randompatches.config.boats.preventUnderwaterBoatPassengerEjection=Предотвращать выброс пассажира из лодки под водой
+randompatches.config.boats.underwaterBoatBuoyancy=Плавучесть лодки под водой
+
+randompatches.config.client=Клиентские
+randompatches.config.client.tooltip=Опции клиентских особенностей.
+randompatches.config.client.fastLanguageSwitch=Быстрое переключение языка
+randompatches.config.client.forceTitleScreenOnDisconnect=Принудительный экран заголовка при отключении
+randompatches.config.client.narratorKeybind=Клавиша переключения Чтеца
+randompatches.config.client.patchMinecraftClass=Исправить класс Minecraft
+randompatches.config.client.patchTitleScreenOnDisconnect=Исправить экран заголовка при отключении
+randompatches.config.client.removePotionGlint=Убрать блеск зелий
+randompatches.config.client.replacePortalRenderer=Заменить рендер порталов
+randompatches.config.client.rpreloadclient=/rpreloadclient
+
+randompatches.config.misc=Разное
+randompatches.config.misc.tooltip=Опции, не вошедшие в другие категории.
+randompatches.config.misc.endPortalTweaks=Настройки портала Края
+randompatches.config.misc.mc2025Fix=Исправление MC-2025
+randompatches.config.misc.minecartAIFix=Исправление ИИ вагонеток
+randompatches.config.misc.patchNetHandlerPlayServer=Исправить NetHandlerPlayServer
+randompatches.config.misc.portalBucketReplacementFix=Исправление замены ведра у порталов
+randompatches.config.misc.portalBucketReplacementFixForNetherPortals=Исправление замены ведра у порталов Нижнего мира
+randompatches.config.misc.recipeBookNBTFix=Исправление NBT книги рецептов
+randompatches.config.misc.replaceTeleporter=Заменить Teleporter
+randompatches.config.misc.rpreload=/rpreload
+randompatches.config.misc.skullStackingFix=Исправление стакирования черепов
+randompatches.config.misc.skullStackingRequiresSameTextures=Для стакирования черепов нужны одинаковые текстуры
+
+randompatches.config.speedLimits=Ограничения скорости
+randompatches.config.speedLimits.maxPlayerSpeed=Максимальная скорость игрока
+randompatches.config.speedLimits.maxPlayerElytraSpeed=Максимальная скорость игрока на элитре
+randompatches.config.speedLimits.maxPlayerVehicleSpeed=Максимальная скорость игрока в транспорте
+
+randompatches.config.timeouts=Таймауты отключения
+randompatches.config.timeouts.keepAlivePacketInterval=Интервал пакетов KeepAlive
+randompatches.config.timeouts.loginTimeout=Таймаут входа
+randompatches.config.timeouts.patchLoginTimeout=Исправить таймаут входа
+randompatches.config.timeouts.readTimeout=Таймаут чтения
+
+randompatches.config.client.window=Окно
+randompatches.config.client.window.icon16=Иконка окна (16x16)
+randompatches.config.client.window.icon32=Иконка окна (32x32)
+randompatches.config.client.window.title=Заголовок окна
+
+commands.rpreloadclient.usage=/rpreloadclient
+commands.rpreloadclient.success=Конфигурация клиентской части RandomPatches перезагружена!
+
+key.narrator=Переключить диктора

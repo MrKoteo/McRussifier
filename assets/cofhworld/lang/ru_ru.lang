@@ -1,0 +1,5 @@
+cofhworld.reload.usage=Перезагрузка конфигурации CoFHWorld
+cofhworld.reload.successful=Конфигурация перезагружена.
+cofhworld.reload.failed=Не удалось перезагрузить конфигурацию; проверьте журналы.
+cofhworld.list.usage=Список всех функций CoFHWorld
+cofhworld.list=--- Загружена страница функций CoFHWorld %d из %d ---

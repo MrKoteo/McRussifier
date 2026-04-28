@@ -1,0 +1,182 @@
+itemGroup.modularmachinery=Modular Machinery
+
+command.modularmachinery.syntax=/mm-syntax
+command.modularmachinery.hand=/mm-hand
+command.modularmachinery.hand.empty=Пожалуйста, держите предмет в руке, чтобы получить данные.  
+
+gui.controller.blueprint=Найден чертеж: %s  
+gui.controller.blueprint.none=Нет  
+gui.controller.structure=Найдена структура: %s  
+gui.controller.structure.none=Нет  
+gui.controller.status=Статус:  
+gui.controller.status.redstone_stopped=Машина остановлена сигналом редстоуна  
+gui.controller.status.missing_structure=Отсутствует структура  
+gui.controller.status.no_recipe=Не найдено подходящего рецепта  
+gui.controller.status.crafting=Обработка...  
+gui.controller.status.crafting.progress=Прогресс: %s  
+
+craftcheck.failure.item.input=Отсутствует входной предмет!  
+craftcheck.failure.item.output.space=Недостаточно места в инвентаре для выходных предметов!  
+craftcheck.failure.fluid.input=Отсутствует входная жидкость!  
+craftcheck.failure.fluid.output.space=Недостаточно места в резервуаре для выходной(ых) жидкости(ей)!  
+craftcheck.failure.gas.input=Отсутствует входной газ!  
+craftcheck.failure.gas.output.space=Недостаточно места для выходного(ых) газа(ов)!  
+craftcheck.failure.energy.input=Недостаточно энергии!  
+
+component.missing.modularmachinery.energy.output=Не найден люк выхода энергии!  
+component.missing.modularmachinery.energy.input=Не найден люк входа энергии!  
+component.missing.modularmachinery.fluid.output=Не найден люк выхода жидкости!  
+component.missing.modularmachinery.fluid.input=Не найден люк входа жидкости!  
+component.missing.modularmachinery.gas.output=Не найден люк выхода газа!  
+component.missing.modularmachinery.gas.input=Не найден люк входа газа!  
+component.missing.modularmachinery.item.output=Не найден выход предметов!  
+component.missing.modularmachinery.item.input=Не найден вход предметов!  
+
+gui.blueprint.popout.info=Присядьте, чтобы заморозить текущий предпросмотр и просмотреть его в мире.  
+gui.blueprint.popout.place=ПКМ, чтобы разместить предпросмотр; отойдите от размещенного или откройте другой предпросмотр структуры (чертеж), чтобы удалить размещенный.  
+
+jei.category.preview=Предпросмотр структуры  
+
+message.structurebuild.confirmrotation=Контроллер обращен %s  
+message.structurebuild.confirmrotation.rotating=Поворот структуры для сохранения на %s градусов...  
+message.structurebuild.empty=Вы ничего не выбрали для сохранения.  
+message.structurebuild.warndedicated=Вы сохраняете машину на выделенном сервере! Не забудьте скачать её с сервера!  
+message.structurebuild.save=Машина сохранена как %s в директории machinery!  
+message.structurebuild.fail=Не удалось сохранить машину в файл! Проверьте журнал для получения дополнительной информации.  
+
+tooltip.machinery.empty=Пусто  
+
+tooltip.machinery.fuel=Принимает любое топливо.  
+tooltip.machinery.fuel.item=Время горения: %s  
+tooltip.machinery.fuel.in=Требуемое общее время горения топлива:  
+tooltip.machinery.fuel.in.total=%s тиков.  
+
+tooltip.machinery.blueprint.required=Требуется чертеж  
+tooltip.machinery.blueprint.upgrades=Улучшения  
+
+tooltip.machinery.duration=Время обработки: %s тиков  
+
+tooltip.machinery.chance.in=Шанс потребления: %s  
+tooltip.machinery.chance.out=Шанс производства: %s  
+tooltip.machinery.chance.in.never=Не расходуется.  
+tooltip.machinery.chance.out.never=Никогда не производится.  
+
+tooltip.machinery.energy.in=Требуется энергии:  
+tooltip.machinery.energy.in.tick=За тик: %s %s/т  
+tooltip.machinery.energy.in.total=Всего: %s %s  
+tooltip.machinery.energy.out=Производится энергии:  
+tooltip.machinery.energy.out.tick=За тик: %s %s/т  
+tooltip.machinery.energy.out.total=Всего: %s %s  
+
+tooltip.energy.type.fe=FE  
+tooltip.energy.type.ic2_eu=EU  
+tooltip.energy.type.gt_eu=EU  
+
+tooltip.constructtool.creative=Творческий инструмент «Структура-в-JSON»  
+
+tooltip.itembus.slot=1 слот  
+tooltip.itembus.slots=%s слотов  
+
+tooltip.fluidhatch.empty=Пусто  
+tooltip.fluidhatch.fluid=[Жидкость]  
+tooltip.fluidhatch.gas=[Газ]  
+tooltip.fluidhatch.tank=%s мб / %s мб  
+tooltip.fluidhatch.tank.gas=%s / %s  
+tooltip.fluidhatch.tank.info=Может вмещать %s мб  
+tooltip.fluidhatch.tank.mek=Принимает газ Mekanism  
+
+tooltip.energyhatch.charge=%s / %s %s  
+tooltip.energyhatch.storage=Хранит %s FE  
+tooltip.energyhatch.out.transfer=Передает %s FE за тик  
+tooltip.energyhatch.in.accept=Принимает %s FE за тик  
+
+tooltip.energyhatch.ic2.powerrate=EU/т  
+tooltip.energyhatch.ic2.any=Любое  
+tooltip.energyhatch.ic2.out.voltage=Выходное напряжение EU: %s  
+tooltip.energyhatch.ic2.out.transfer=Выходная передача EU: %s %s  
+tooltip.energyhatch.ic2.in.voltage=Входное напряжение EU: %s  
+tooltip.energyhatch.ic2.in.transfer=Входная передача EU: %s %s  
+
+tooltip.energyhatch.gregtech.voltage.in=Напряжение ВХОД: §a%s §7(§a%s§7)  
+tooltip.energyhatch.gregtech.voltage.out=Напряжение ВЫХОД: §a%s §7(§a%s§7)  
+tooltip.energyhatch.gregtech.amperage=Сила тока: §e%s  
+tooltip.energyhatch.gregtech.storage=Внутренняя емкость энергии: §9%s  
+
+tooltip.ic2.powertier.0.name=ULV  
+tooltip.ic2.powertier.1.name=LV  
+tooltip.ic2.powertier.2.name=MV  
+tooltip.ic2.powertier.3.name=HV  
+tooltip.ic2.powertier.4.name=EV  
+tooltip.ic2.powertier.5.name=IV  
+tooltip.ic2.powertier.6.name=LuV  
+tooltip.ic2.powertier.7.name=ZPM  
+tooltip.ic2.powertier.8.name=UV  
+tooltip.ic2.powertier.9.name=UHV  
+tooltip.ic2.powertier.10.name=UEV  
+tooltip.ic2.powertier.11.name=UIV  
+tooltip.ic2.powertier.12.name=UXV  
+
+item.modularmachinery.itemblueprint.name=Чертеж машины  
+item.modularmachinery.itemmodularium.name=Модуляриум  
+item.modularmachinery.itemconstructtool.name=Инструмент выбора конструкции  
+
+tile.modularmachinery.blockcontroller.name=Контроллер машины  
+
+tile.modularmachinery.blockcasing.plain.name=Корпус машины  
+tile.modularmachinery.blockcasing.vent.name=Вентиляция машины  
+tile.modularmachinery.blockcasing.firebox.name=Корпус топки  
+tile.modularmachinery.blockcasing.gearbox.name=Редуктор машины  
+tile.modularmachinery.blockcasing.reinforced.name=Укрепленный корпус машины  
+tile.modularmachinery.blockcasing.circuitry.name=Схемы машины  
+
+tile.modularmachinery.blockinputbus.tiny.name=Крошечный вход предметов  
+tile.modularmachinery.blockinputbus.small.name=Малый вход предметов  
+tile.modularmachinery.blockinputbus.normal.name=Обычный вход предметов  
+tile.modularmachinery.blockinputbus.reinforced.name=Укрепленный вход предметов  
+tile.modularmachinery.blockinputbus.big.name=Большой вход предметов  
+tile.modularmachinery.blockinputbus.huge.name=Огромный вход предметов  
+tile.modularmachinery.blockinputbus.ludicrous.name=Невероятный вход предметов  
+
+tile.modularmachinery.blockoutputbus.tiny.name=Крошечный выход предметов  
+tile.modularmachinery.blockoutputbus.small.name=Малый выход предметов  
+tile.modularmachinery.blockoutputbus.normal.name=Обычный выход предметов  
+tile.modularmachinery.blockoutputbus.reinforced.name=Укрепленный выход предметов  
+tile.modularmachinery.blockoutputbus.big.name=Большой выход предметов  
+tile.modularmachinery.blockoutputbus.huge.name=Огромный выход предметов  
+tile.modularmachinery.blockoutputbus.ludicrous.name=Невероятный выход предметов  
+
+tile.modularmachinery.blockfluidinputhatch.tiny.name=Крошечный люк входа жидкости  
+tile.modularmachinery.blockfluidinputhatch.small.name=Малый люк входа жидкости  
+tile.modularmachinery.blockfluidinputhatch.normal.name=Обычный люк входа жидкости  
+tile.modularmachinery.blockfluidinputhatch.reinforced.name=Укрепленный люк входа жидкости  
+tile.modularmachinery.blockfluidinputhatch.big.name=Большой люк входа жидкости  
+tile.modularmachinery.blockfluidinputhatch.huge.name=Огромный люк входа жидкости  
+tile.modularmachinery.blockfluidinputhatch.ludicrous.name=Невероятный люк входа жидкости  
+tile.modularmachinery.blockfluidinputhatch.vacuum.name=Вакуумный люк входа жидкости  
+
+tile.modularmachinery.blockfluidoutputhatch.tiny.name=Крошечный люк выхода жидкости  
+tile.modularmachinery.blockfluidoutputhatch.small.name=Малый люк выхода жидкости  
+tile.modularmachinery.blockfluidoutputhatch.normal.name=Обычный люк выхода жидкости  
+tile.modularmachinery.blockfluidoutputhatch.reinforced.name=Укрепленный люк выхода жидкости  
+tile.modularmachinery.blockfluidoutputhatch.big.name=Большой люк выхода жидкости  
+tile.modularmachinery.blockfluidoutputhatch.huge.name=Огромный люк выхода жидкости  
+tile.modularmachinery.blockfluidoutputhatch.ludicrous.name=Невероятный люк выхода жидкости  
+tile.modularmachinery.blockfluidoutputhatch.vacuum.name=Вакуумный люк выхода жидкости  
+
+tile.modularmachinery.blockenergyinputhatch.tiny.name=Крошечный люк входа энергии  
+tile.modularmachinery.blockenergyinputhatch.small.name=Малый люк входа энергии  
+tile.modularmachinery.blockenergyinputhatch.normal.name=Обычный люк входа энергии  
+tile.modularmachinery.blockenergyinputhatch.reinforced.name=Укрепленный люк входа энергии  
+tile.modularmachinery.blockenergyinputhatch.big.name=Большой люк входа энергии  
+tile.modularmachinery.blockenergyinputhatch.huge.name=Огромный люк входа энергии  
+tile.modularmachinery.blockenergyinputhatch.ludicrous.name=Невероятный люк входа энергии  
+tile.modularmachinery.blockenergyinputhatch.ultimate.name=Предельный люк входа энергии  
+
+tile.modularmachinery.blockenergyoutputhatch.tiny.name=Крошечный люк выхода энергии  
+tile.modularmachinery.blockenergyoutputhatch.small.name=Малый люк выхода энергии  
+tile.modularmachinery.blockenergyoutputhatch.normal.name=Обычный люк выхода энергии  
+tile.modularmachinery.blockenergyoutputhatch.reinforced.name=Укрепленный люк выхода энергии  
+tile.modularmachinery.blockenergyoutputhatch.big.name=Большой люк выхода энергии  
+tile.modularmachinery.blockenergyoutputhatch.huge.name=Огромный люк выхода энергии  
+tile.modularmachinery.blockenergyoutputhatch.ludicrous.name=Невероятный люк выхода энергии  
+tile.modularmachinery.blockenergyoutputhatch.ultimate.name=Предельный люк выхода энергии  

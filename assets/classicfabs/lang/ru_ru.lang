@@ -1,0 +1,4 @@
+tile.lavafab.name=Лавовый фабрикатор
+tile.oilfab.name=Масляный фабрикатор
+itemGroup.classicfabs=Classic Fabricators
+message.classicfabs.tank_contents=Содержимое резервуара: %s

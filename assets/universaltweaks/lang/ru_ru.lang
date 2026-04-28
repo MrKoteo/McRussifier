@@ -1,0 +1,219 @@
+# OBSOLETE MODS SCREEN
+msg.universaltweaks.obsoletemods.warning1=Universal Tweaks заменил и улучшил функциональность других модов.
+msg.universaltweaks.obsoletemods.warning2=Поэтому следующие моды теперь несовместимы с Universal Tweaks:
+msg.universaltweaks.obsoletemods.warning3=Рекомендуется удалить их из игры или отключить соответствующие функции.
+
+# KEYBINDS
+keybind.universaltweaks.clear_toasts=Очистить уведомления
+keybind.universaltweaks.dismount=Спешиться
+keybind.universaltweaks.narrator=Переключить диктора
+
+# TOGGLE CHEATS
+btn.universaltweaks.cheats.enabled=Читы: ВКЛ
+btn.universaltweaks.cheats.disabled=Читы: ВЫКЛ
+msg.universaltweaks.cheats.enabled=Читы теперь §aвключены
+msg.universaltweaks.cheats.disabled=Читы теперь §cотключены
+
+# DISABLE SLEEPING
+msg.universaltweaks.sleep.spawnpoint=Точка возрождения установлена
+msg.universaltweaks.sleep.disabled=Сон отключен
+
+# PARRY
+enchantment.parry=Отскок
+
+# PICKUP NOTIFICATION
+msg.universaltweaks.tweaks.pickupnotification.xp=Опыт
+
+# LAN SERVER PROPERTIES
+btn.universaltweaks.lanserverproperties.allow_flight=Разрешить полёт
+btn.universaltweaks.lanserverproperties.allow_pvp=Разрешить PVP
+btn.universaltweaks.lanserverproperties.max_players=Макс. игроков
+btn.universaltweaks.lanserverproperties.online_mode=Сетевой режим
+btn.universaltweaks.lanserverproperties.online_mode_desc=Отключение разрешит неподтверждённые подключения
+btn.universaltweaks.lanserverproperties.port=Порт прослушивания
+btn.universaltweaks.lanserverproperties.spawn_animals=Спавн животных
+btn.universaltweaks.lanserverproperties.spawn_npcs=Спавн NPC
+
+# COMPACT MESSAGES
+msg.universaltweaks.compactmessages.count=Это сообщение было повторено %s раз
+
+# CONFIG
+# Не требует перевода, так как конфиг в целом на английском
+cfg.universaltweaks.config.blocks=Блоки
+cfg.universaltweaks.config.debug=Отладка
+cfg.universaltweaks.config.entities=Сущности
+cfg.universaltweaks.config.items=Предметы
+cfg.universaltweaks.config.masterswitches=Главные переключатели
+cfg.universaltweaks.config.misc=Разное
+cfg.universaltweaks.config.performance=Производительность
+cfg.universaltweaks.config.world=Мир
+
+cfg.universaltweaks.bugfixes.blocks.blockoverlay=Наложение блоков
+cfg.universaltweaks.bugfixes.entities.desync=Десинхронизация сущностей
+cfg.universaltweaks.bugfixes.entities.entitylists=Списки сущностей
+
+cfg.universaltweaks.modintegration.abyssalcraft=AbyssalCraft
+cfg.universaltweaks.modintegration.actuallyadditions=Actually Additions
+cfg.universaltweaks.modintegration.ae2uel=Applied Energistics 2 Unofficial Extended Life
+cfg.universaltweaks.modintegration.aether_legacy=Aether Legacy
+cfg.universaltweaks.modintegration.agricraft=Agricraft
+cfg.universaltweaks.modintegration.aoa=Advent of Ascension
+cfg.universaltweaks.modintegration.avaritiaddons=Avaritiaddons
+cfg.universaltweaks.modintegration.arcanearchives=Arcane Archives
+cfg.universaltweaks.modintegration.astralsorcery=Astral Sorcery
+cfg.universaltweaks.modintegration.backpack=Backpacks
+cfg.universaltweaks.modintegration.bdsandm=Barrels, Drums, Storage & More
+cfg.universaltweaks.modintegration.bewitchment=Bewitchment
+cfg.universaltweaks.modintegration.bibliocraft=BiblioCraft
+cfg.universaltweaks.modintegration.bm=Blood Magic
+cfg.universaltweaks.modintegration.bop=Biomes O' Plenty
+cfg.universaltweaks.modintegration.botania=Botania
+cfg.universaltweaks.modintegration.bwm=Better with Mods
+cfg.universaltweaks.modintegration.cbmultipart=CB Multipart/Forge Multipart CBE
+cfg.universaltweaks.modintegration.ccl=CodeChicken Lib
+cfg.universaltweaks.modintegration.chisel=Chisel
+cfg.universaltweaks.modintegration.cofhcore=CoFH Core
+cfg.universaltweaks.modintegration.cofhworld=CoFH World
+cfg.universaltweaks.modintegration.collective=Collective
+cfg.universaltweaks.modintegration.compactmachines=Compact Machines
+cfg.universaltweaks.modintegration.cookingforblockheads=Cooking For Blockheads
+cfg.universaltweaks.modintegration.corpse=Corpse
+cfg.universaltweaks.modintegration.cyclic=Cyclic
+cfg.universaltweaks.modintegration.divinerpg=Divine RPG
+cfg.universaltweaks.modintegration.cqrepoured=Chocolate Quest Repoured
+cfg.universaltweaks.modintegration.dankstorage=Dank Storage
+cfg.universaltweaks.modintegration.effortlessbuilding=Effortless Building
+cfg.universaltweaks.modintegration.electroblobswizardry=Electroblob's Wizardry
+cfg.universaltweaks.modintegration.elementarystaffs=Elementary Staffs
+cfg.universaltweaks.modintegration.elenaidodge2=Elenai Dodge 2
+cfg.universaltweaks.modintegration.enderio=Ender IO
+cfg.universaltweaks.modintegration.enderstorage=Ender Storage
+cfg.universaltweaks.modintegration.erebus=The Erebus
+cfg.universaltweaks.modintegration.evilcraft=EvilCraft
+cfg.universaltweaks.modintegration.esm=Epic Siege Mod
+cfg.universaltweaks.modintegration.extrautilities=Extra Utilities 2
+cfg.universaltweaks.modintegration.extreme_reactors=Extreme Reactors
+cfg.universaltweaks.modintegration.forestry=Forestry
+cfg.universaltweaks.modintegration.fpsreducer=FPS Reducer
+cfg.universaltweaks.modintegration.gaia_dimension=Gaia Dimension
+cfg.universaltweaks.modintegration.immersiveengineering=Immersive Engineering
+cfg.universaltweaks.modintegration.incontrol=In Control!
+cfg.universaltweaks.modintegration.industrialcraft=IndustrialCraft 2
+cfg.universaltweaks.modintegration.industrialforegoing=Industrial Foregoing
+cfg.universaltweaks.modintegration.infernalmobs=Infernal Mobs
+cfg.universaltweaks.modintegration.ironbackpacks=Iron Backpacks
+cfg.universaltweaks.modintegration.ironchests=Iron Chests
+cfg.universaltweaks.modintegration.itemfavorites=Item Favorites
+cfg.universaltweaks.modintegration.itemstages=Item Stages
+cfg.universaltweaks.modintegration.jurassicreborn=Jurassic Reborn
+cfg.universaltweaks.modintegration.mekanism=Mekanism
+cfg.universaltweaks.modintegration.moartinkers=Moar Tinkers
+cfg.universaltweaks.modintegration.mobstages=Mob Stages
+cfg.universaltweaks.modintegration.modularmagic=Modular Magic
+cfg.universaltweaks.modintegration.modularrouters=Modular Routers
+cfg.universaltweaks.modintegration.mrtjpcore=MrTJPCore
+cfg.universaltweaks.modintegration.netherchest=Nether Chest
+cfg.universaltweaks.modintegration.netherrocks=Netherrocks
+cfg.universaltweaks.modintegration.nuclearcraft=NuclearCraft
+cfg.universaltweaks.modintegration.openblocks=OpenBlocks
+cfg.universaltweaks.modintegration.openglasses=Open Glasses 2
+cfg.universaltweaks.modintegration.projectred=ProjectRed
+cfg.universaltweaks.modintegration.proper_pumpkin=Proper Pumpkin Mod
+cfg.universaltweaks.modintegration.quark=Quark
+cfg.universaltweaks.modintegration.rftools=RFTools
+cfg.universaltweaks.modintegration.railcraft=Railcraft
+cfg.universaltweaks.modintegration.randomthings=Random Things
+cfg.universaltweaks.modintegration.requiousfrakto=Requious Frakto
+cfg.universaltweaks.modintegration.roost=Roost
+cfg.universaltweaks.modintegration.roots=Roots
+cfg.universaltweaks.modintegration.steamworld=SteamWorld
+cfg.universaltweaks.modintegration.sd=Storage Drawers
+cfg.universaltweaks.modintegration.simpledifficulty=SimpleDifficulty
+cfg.universaltweaks.modintegration.simplyjetpacks=Simply Jetpacks
+cfg.universaltweaks.modintegration.spiceoflife=Spice Of Life
+cfg.universaltweaks.modintegration.tardis=Tardis Mod
+cfg.universaltweaks.modintegration.tcon=Tinkers' Construct
+cfg.universaltweaks.modintegration.tcon.toolcustomization=Настройка инструментов
+cfg.universaltweaks.modintegration.te=Thermal Expansion
+cfg.universaltweaks.modintegration.test_dummy=MmmMmmMmmMmm
+cfg.universaltweaks.modintegration.thefarlanders=The Farlanders
+cfg.universaltweaks.modintegration.tinyprogressions=Tiny Progressions
+cfg.universaltweaks.modintegration.tombmanygraves=TombManyGraves2
+cfg.universaltweaks.modintegration.tr=Tech Reborn
+cfg.universaltweaks.modintegration.woot=Woot
+cfg.universaltweaks.modintegration.xnet=XNet
+cfg.universaltweaks.modintegration=Интеграция модов
+
+cfg.universaltweaks.tweaks.blocks.anvil=Наковальня
+cfg.universaltweaks.tweaks.blocks.betterplacement=Улучшенная установка
+cfg.universaltweaks.tweaks.blocks.blockdispenser=Раздатчик блоков
+cfg.universaltweaks.tweaks.blocks.breakablebedrock=Ломаемый бедрок
+cfg.universaltweaks.tweaks.blocks.endcrystalplacement=Установка кристаллов Края
+cfg.universaltweaks.tweaks.blocks.finitewater=Конечная вода
+cfg.universaltweaks.tweaks.blocks.overhaulbeacon=Переработанный маяк
+cfg.universaltweaks.tweaks.blocks.piston=Поршень
+cfg.universaltweaks.tweaks.blocks.sapling=Поведение саженцев
+cfg.universaltweaks.tweaks.entities.arrowlayers=Слои стрел
+cfg.universaltweaks.tweaks.entities.attributes=Атрибуты
+cfg.universaltweaks.tweaks.entities.betterburning=Улучшенное горение
+cfg.universaltweaks.tweaks.entities.chickenshedding=Линяющие куры
+cfg.universaltweaks.tweaks.entities.cobwebslowness=Замедление паутиной
+cfg.universaltweaks.tweaks.entities.creeperconfetti=Конфетти крипера
+cfg.universaltweaks.tweaks.entities.damagevelocity=Урон от скорости
+cfg.universaltweaks.tweaks.entities.easybreeding=Лёгкое разведение
+cfg.universaltweaks.tweaks.entities.mobgriefing=Порча мира мобами
+cfg.universaltweaks.tweaks.entities.nogolems=Нет големов
+cfg.universaltweaks.tweaks.entities.playerspeed=Скорость игрока
+cfg.universaltweaks.tweaks.entities.rallyhealth=Здоровье строя
+cfg.universaltweaks.tweaks.entities.sleeping=Сон
+cfg.universaltweaks.tweaks.entities.spawncaps=Лимиты спавна
+cfg.universaltweaks.tweaks.entities.undeadhorses=Нежить-лошади
+cfg.universaltweaks.tweaks.entities.unsafesleeping=Небезопасный сон
+cfg.universaltweaks.tweaks.entities.waterfalldamage=Урон от падения в воду
+cfg.universaltweaks.tweaks.entities.voidteleport=Телепортация в пустоту
+cfg.universaltweaks.tweaks.items.attackcooldown=Перезарядка атаки
+cfg.universaltweaks.tweaks.items.infinity=Бесконечность
+cfg.universaltweaks.tweaks.items.itementities=Сущности предметов
+cfg.universaltweaks.tweaks.items.mending=Починка
+cfg.universaltweaks.tweaks.items.parry=Парирование щитом
+cfg.universaltweaks.tweaks.misc.advancements=Достижения
+cfg.universaltweaks.tweaks.misc.advancementscreenshot=Скриншот достижения
+cfg.universaltweaks.tweaks.misc.armorcurve=Кривая брони
+cfg.universaltweaks.tweaks.misc.chat=Чат
+cfg.universaltweaks.tweaks.misc.gamewindow=Окно игры
+cfg.universaltweaks.tweaks.misc.incurablepotions=Неизлечимые зелья
+cfg.universaltweaks.tweaks.misc.lightning=Молния
+cfg.universaltweaks.tweaks.misc.loadsounds=Звуки загрузки
+cfg.universaltweaks.tweaks.misc.music=Музыка
+cfg.universaltweaks.tweaks.misc.pickupnotification=Уведомление о подборе
+cfg.universaltweaks.tweaks.misc.smoothscrolling=Плавная прокрутка
+cfg.universaltweaks.tweaks.misc.stg=Удар сквозь траву
+cfg.universaltweaks.tweaks.misc.sound.broadcast=Трансляция звуков
+cfg.universaltweaks.tweaks.misc.timeouts=Таймауты соединения
+cfg.universaltweaks.tweaks.misc.toastcontrol=Управление уведомлениями
+cfg.universaltweaks.tweaks.performance.advancementtriggers=Триггеры достижений
+cfg.universaltweaks.tweaks.performance.entityradiuscheck=Проверка радиуса сущностей
+cfg.universaltweaks.tweaks.world.cavegen=Генерация пещер
+cfg.universaltweaks.tweaks.world.chunkgenlimit=Лимит генерации чанков
+cfg.universaltweaks.tweaks.world.flatbedrock=Ровный бедрок
+cfg.universaltweaks.tweaks.world.chunks.spawn=Чанки спавна
+cfg.universaltweaks.tweaks.world.dimensionunload=Выгрузка измерений
+cfg.universaltweaks.tweaks.world.voidfog=Туман пустоты
+
+# VANILLA
+enchantment.level.11=XI
+enchantment.level.12=XII
+enchantment.level.13=XIII
+enchantment.level.14=XIV
+enchantment.level.15=XV
+enchantment.level.16=XVI
+enchantment.level.17=XVII
+enchantment.level.18=XVIII
+enchantment.level.19=XIX
+enchantment.level.20=XX
+entity.EnderCrystal.name=Кристалл Края
+
+# EXTRA UTILITIES
+entity.Villager.shady_merchant=Тёмный торговец
+entity.Villager.red_mechanic=Красный механик
+entity.Villager.alchemist=Алхимик

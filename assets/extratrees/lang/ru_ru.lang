@@ -1,0 +1,7 @@
+extratrees.errors.brewery.insufficient.ingredients.name=Недостаточно ингредиентов
+extratrees.errors.brewery.insufficient.ingredients.desc=Недостаточно ингредиентов для пивоварения
+extratrees.errors.distillery.insufficient.liquid.desc=Нет входной жидкости
+
+extratrees.tab.carpentry=Столярное дело
+extratrees.species.osange_orange.name=Оранжевый осаже
+extratrees.fruits.osange_osange=Осаже осаже

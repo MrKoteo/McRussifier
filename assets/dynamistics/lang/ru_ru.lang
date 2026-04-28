@@ -1,0 +1,10 @@
+dynamistics.category.title.ae2.pattern.crafting_substitute=Шаблон крафта
+dynamistics.category.title.ae2.pattern.crafting_nonsubstitute=Шаблон крафта
+dynamistics.category.title.ae2.pattern.processing=Схема обработки
+dynamistics.category.title.pauto.unpackage=Распаковка
+dynamistics.category.title.pauto.package=Упаковка
+dynamistics.category.title.pauto.process=Обработка рецепта
+dynamistics.category.title.pauto.holder=Упакованный рецепт
+
+dynamistics.recipe.text.package_processing_extra=Рецепт %s:
+dynamistics.recipe.text.show_jei_categories=Показывать рецепты

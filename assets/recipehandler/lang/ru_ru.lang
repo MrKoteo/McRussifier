@@ -1,0 +1,31 @@
+# Сообщения
+handler.found.text=Найдено результатов: %d
+key.categories.gui=Интерфейс
+
+# Команды
+commands.recipes.usage=/recipes <check <результат|ингредиенты|пространство 'ширина' 'высота'>|conflict|container <вкл/выкл>|dump|furnace|get <в_руке/по_предмету 'название'/по_имени 'название-рецепта'>>
+commands.recipes.check.usage=/recipes check <результат/ингредиенты/пространство 'ширина' 'высота'>
+commands.recipes.container.usage=/recipes container <вкл/выкл/1/0>
+commands.recipes.get.usage=/recipes get <в_руке/по_предмету 'название'/по_имени 'название-рецепта'>
+
+# Результаты команд
+commands.recipes.get.item.true=Найдено %1$d рецепт(ов) для %2$s
+commands.recipes.get.item.false=%1$s не имеет рецепта крафта
+commands.recipes.conflict=Конфликт между %1$s и %2$s
+commands.recipes.suggest=Рецепт "%1$s" не найден. Возможно: %2$s?
+commands.recipes.notFound=Рецепт "%1$s" не найден
+commands.recipes.found_shaped=Найден формовочный рецепт: %1$s
+commands.recipes.found_shapeless=Найден бесформенный рецепт: %1$s
+commands.recipes.madeFrom=Крафтится из
+commands.recipes.orMadeFrom=ИЛИ из
+commands.recipes.empty_output=Рецепт %1$s не имеет результата
+commands.recipes.empty_ingredients=Рецепт %1$s не имеет ингредиентов
+commands.recipes.check.space=Поиск рецептов для пространства %1$d×%2$d
+commands.recipes.bigger_space=Рецепт %1$s требует больше места
+commands.recipes.match_empty=Рецепт %1$s подходит для пустого места
+commands.recipes.match_error=Ошибка проверки рецепта %1$s
+commands.recipes.container.true=Найдено %1$d контейнеров с местом для крафта
+commands.recipes.container.false=Отключено для %1$d контейнеров
+commands.recipes.furnace=Изменено %1$d рецептов печи
+commands.recipes.dump.page=Страница %1$d/%2$d
+commands.recipes.dump.next=Кликните для страницы %1$d

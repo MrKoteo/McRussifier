@@ -1,0 +1,19 @@
+# Item names
+item.ender_seeds.name=Семена края
+
+# Block names
+tile.ender_crop.name=Семя края
+tile.tilled_end_stone.name=Вспаханный эндерняк
+
+# Alerts
+endercrop.alert.hoe=Этот блок может быть вспахан только мотыгой, зачарованной на Прочность I+
+
+# Подсказки и WAILA/TOP
+endercrop.tip.seed=Посадите на пашне или вспаханном эндерняке
+endercrop.wailatop.nogrowth=Не растёт
+endercrop.wailatop.moist=Влажная почва
+endercrop.wailatop.dry=Сухая почва
+endercrop.wailatop.light=Уровень света
+endercrop.waila.hoeable=Можно вспахать
+endercrop.waila.nothoeable=Нельзя вспахать
+endercrop.top.hoe=Мотыга

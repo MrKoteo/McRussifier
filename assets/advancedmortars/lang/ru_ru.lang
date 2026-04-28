@@ -1,0 +1,21 @@
+text.advancedmortars.jei.category.mortar.wood=Деревянная ступа
+text.advancedmortars.jei.category.mortar.stone=Каменная ступа
+text.advancedmortars.jei.category.mortar.iron=Железная ступа
+text.advancedmortars.jei.category.mortar.diamond=Алмазная ступа
+text.advancedmortars.jei.category.mortar.gold=Золотая ступа
+text.advancedmortars.jei.category.mortar.obsidian=Обсидиановая ступа
+text.advancedmortars.jei.category.mortar.emerald=Изумрудная ступа
+
+tile.advancedmortars.mortar.mortar_wood.name=Деревянная ступа
+tile.advancedmortars.mortar.mortar_stone.name=Каменная ступа
+tile.advancedmortars.mortar.mortar_iron.name=Железная ступа
+tile.advancedmortars.mortar.mortar_diamond.name=Алмазная ступа
+tile.advancedmortars.mortar.mortar_gold.name=Золотая ступа
+tile.advancedmortars.mortar.mortar_obsidian.name=Обсидиановая ступа
+tile.advancedmortars.mortar.mortar_emerald.name=Изумрудная ступа
+
+tooltip.advancedmortars.durability=Прочность: %s
+tooltip.advancedmortars.durability.unbreakable=Неразрушимо
+tooltip.advancedmortars.extended=Зажмите %sSHIFT%s для доп. информации.
+tooltip.advancedmortars.extended.pickup=%sSHIFT%s + %sЛКМ%s, чтобы поднять ступу.
+tooltip.advancedmortars.extended.retrieve=%sSHIFT%s + %sПКМ%s, чтобы забрать ингредиенты.

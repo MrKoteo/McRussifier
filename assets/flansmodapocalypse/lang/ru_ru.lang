@@ -1,0 +1,15 @@
+item.flanSulphur.name=Сера
+tile.blockSulphur.name=Сера
+tile.blockSulphuricAcid.name=Серная кислота
+entity.Survivor.name=Выживший
+tile.labStone.name=Лабораторный камень
+itemGroup.tabFlan5=Flan's Mod: Apocalypse
+tile.powerCube.name=Силовой куб
+item.flansulphur.name=Сера
+tile.blocksulphur.name=Серный блок
+tile.blockpowercube.name=Энергокуб
+tile.blocklabstone.name=Лабораторный камень
+entity.SkullBoss.name=Нукраниум
+entity.AutoDrone.name=Костяной дрон
+death.attack.flans.unknown=%1$s был застрелен
+death.attack.sulphuricAcid=%1$s выдохся

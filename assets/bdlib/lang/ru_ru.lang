@@ -1,0 +1,9 @@
+bdlib.multiblock.tip.module=Можно установить в:
+bdlib.multiblock.tip.controller=Возможные модули:
+bdlib.multiblock.tip.module.max= * %s (до %s)
+bdlib.oredistribution.usage=/oredistribution <радиус> [<мин. высота>] [<макс. высота>] [--файл]
+bdlib.oredistribution.start1=Проверка распределения руды в диапазоне (%s,%s,%s) — (%s,%s,%s) %s
+bdlib.oredistribution.start2=Сервер может залагать во время выполнения
+bdlib.oredistribution.warn=%s Предупреждение: %s имеет несколько вариантов генерации:
+bdlib.oredistribution.saved=Распределение руды сброшено в %s
+bdlib.oredistribution.error=Не удалось сохранить дамп распределения руды: %s

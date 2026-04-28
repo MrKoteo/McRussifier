@@ -1,0 +1,200 @@
+# Items
+item.woot.die.mesh.name=Сетчатая матрица
+item.woot.die.plate.name=Пластинчатая матрица
+item.woot.die.core.name=Стержневая матрица
+item.woot.die.shard.name=Осколочная матрица
+item.woot.factorycore.heart.name=Сердечное ядро
+item.woot.factorycore.controller.name=Ядро контроллера
+item.woot.factorycore.t1_upgrade.name=Ядро улучшения I уровня
+item.woot.factorycore.t2_upgrade.name=Ядро улучшения II уровня
+item.woot.factorycore.t3_upgrade.name=Ядро улучшения III уровня
+item.woot.factorycore.power.name=Энергетическое ядро
+item.woot.factorycore.cap.name=Ядро колпака
+item.woot.factorybase.name=Основа фабрики
+item.woot.prism.name=Призма
+item.woot.stygianironingot.name=Слиток стигийского железа
+item.woot.stygianironplate.name=Пластина из стигийского железа
+item.woot.stygianirondust.name=Пыль стигийского железа
+item.woot.soulsanddust.name=Пыль душ
+item.woot.endershard.name=Осколок Края
+item.woot.shard.diamond.name=Осколок алмаза
+item.woot.shard.emerald.name=Осколок изумруда
+item.woot.shard.quartz.name=Осколок кварца
+item.woot.shard.netherstar.name=Осколок звезды Незера
+item.woot.xpshard.name=Осколок опыта (16XP)
+item.woot.shard.tier_ii.name=Осколок II уровня
+item.woot.shard.tier_iii.name=Осколок III уровня
+item.woot.shard.tier_iv.name=Осколок IV уровня
+item.woot.yahhammer.name=Я-молот
+item.woot.builder.name=Строитель
+item.woot.fakemanual.name=Фальшивое руководство
+
+# Blocks
+tile.woot.soulstone.name=Камень душ
+tile.woot.stygianiron.name=Блок стигийского железа
+tile.woot.stygianironore.name=Руда стигийского железа
+tile.woot.anvil.name=Наковальня из стигийского железа
+tile.woot.layout.name=Схема фабрики
+
+tile.woot.factory.name=Сердце фабрики
+tile.woot.controller.name=Контроллер фабрики
+tile.woot.importer.name=Импортёр фабрики
+tile.woot.exporter.name=Экспортёр фабрики
+
+tile.woot.structure.block_1.name=Корпус из плоти фабрики
+tile.woot.structure.block_2.name=Корпус из кости фабрики
+tile.woot.structure.block_3.name=Корпус из пламени фабрики
+tile.woot.structure.block_4.name=Корпус из Края фабрики
+tile.woot.structure.block_5.name=Корпус из Незера фабрики
+tile.woot.structure.block_upgrade.name=Основа улучшения фабрики
+
+tile.woot.structure.tier_i_cap.name=Колпак фабрики I уровня
+tile.woot.structure.tier_ii_cap.name=Колпак фабрики II уровня
+tile.woot.structure.tier_iii_cap.name=Колпак фабрики III уровня
+tile.woot.structure.tier_iv_cap.name=Колпак фабрики IV уровня
+
+tile.woot.cell.tier_i.name=Базовая силовая ячейка
+tile.woot.cell.tier_ii.name=Продвинутая силовая ячейка
+tile.woot.cell.tier_iii.name=Премиальная силовая ячейка
+
+tile.woot.upgrade.xp_i.name=Улучшение опыта I
+tile.woot.upgrade.xp_ii.name=Улучшение опыта II
+tile.woot.upgrade.xp_iii.name=Улучшение опыта III
+tile.woot.upgrade.rate_i.name=Улучшение скорости I
+tile.woot.upgrade.rate_ii.name=Улучшение скорости II
+tile.woot.upgrade.rate_iii.name=Улучшение скорости III
+tile.woot.upgrade.looting_i.name=Улучшение добычи I
+tile.woot.upgrade.looting_ii.name=Улучшение добычи II
+tile.woot.upgrade.looting_iii.name=Улучшение добычи III
+tile.woot.upgrade.mass_i.name=Улучшение массы I
+tile.woot.upgrade.mass_ii.name=Улучшение массы II
+tile.woot.upgrade.mass_iii.name=Улучшение массы III
+tile.woot.upgrade.decapitate_i.name=Улучшение обезглавливания I
+tile.woot.upgrade.decapitate_ii.name=Улучшение обезглавливания II
+tile.woot.upgrade.decapitate_iii.name=Улучшение обезглавливания III
+tile.woot.upgradeb.efficiency_i.name=Улучшение эффективности I
+tile.woot.upgradeb.efficiency_ii.name=Улучшение эффективности II
+tile.woot.upgradeb.efficiency_iii.name=Улучшение эффективности III
+tile.woot.upgradeb.bm_le_tank_i.name=Улучшение «Резервуар жизненной эссенции» I (Blood Magic)
+tile.woot.upgradeb.bm_le_tank_ii.name=Улучшение «Резервуар жизненной эссенции» II (Blood Magic)
+tile.woot.upgradeb.bm_le_tank_iii.name=Улучшение «Резервуар жизненной эссенции» III (Blood Magic)
+tile.woot.upgradeb.bm_le_altar_i.name=Улучшение «Алтарь жизненной эссенции» I (Blood Magic)
+tile.woot.upgradeb.bm_le_altar_ii.name=Улучшение «Алтарь жизненной эссенции» II (Blood Magic)
+tile.woot.upgradeb.bm_le_altar_iii.name=Улучшение «Алтарь жизненной эссенции» III (Blood Magic)
+tile.woot.upgradeb.ec_blood_i.name=Улучшение «Резервуар крови» I (EvilCraft)
+tile.woot.upgradeb.ec_blood_ii.name=Улучшение «Резервуар крови» II (EvilCraft)
+tile.woot.upgradeb.ec_blood_iii.name=Улучшение «Резервуар крови» III (EvilCraft)
+tile.woot.upgradeb.bm_crystal_i.name=Улучшение «Кристалл» I (Blood Magic)
+tile.woot.upgradeb.bm_crystal_ii.name=Улучшение «Кристалл» II (Blood Magic)
+tile.woot.upgradeb.bm_crystal_iii.name=Улучшение «Кристалл» III (Blood Magic)
+
+# Tooltips
+info.woot.xpshard.0=Используйте для получения опыта
+info.woot.xpshard.1=Используйте, присев, чтобы применить весь стак
+
+info.woot.fakemanual.0=Установите Guide-API для доступа к руководству
+info.woot.fakemanual.1=Предмет называется «Руководство Woot»
+
+info.woot.endershard.0=Ударьте моба осколком, чтобы захватить
+info.woot.endershard.1=Убивайте мобов для полного программирования
+info.woot.endershard.2=Осколок должен быть на панели быстрого доступа
+info.woot.endershard.3=Можно очистить на верстаке
+info.woot.endershard.a.0=[Не запрограммирован]
+info.woot.endershard.a.1=[Полностью запрограммирован]
+info.woot.endershard.b.0=%s [Убийств %d/%d]
+info.woot.endershard.b.1=%s [Полностью запрограммирован]
+
+info.woot.tier=%s уровень
+
+info.woot.heart.unformed=Фабрика не собрана
+info.woot.heart.progress=Прогресс: %d%% (%s)
+info.woot.heart.recipe=Спавн %s * %d
+info.woot.heart.cost=Энергия %dRF @ %dRF/тик в течение %d тиков
+info.woot.heart.ingredients=Ингредиентов на моба: %d * %s
+
+info.woot.guide.rclick=ПКМ для смены уровней
+info.woot.guide.srclick=ПКМ + присесть для смены ступеней
+
+info.woot.intern.0=Используйте на Сердце фабрики
+info.woot.intern.1=Блоки ввода/вывода и контроллер нужно разместить вручную
+
+info.woot.structure.block_1=Красный направляющий блок
+info.woot.structure.block_2=Серый направляющий блок
+info.woot.structure.block_3=Оранжевый направляющий блок
+info.woot.structure.block_4=Зелёный направляющий блок
+info.woot.structure.block_5=Белый направляющий блок
+info.woot.structure.block_upgrade=Фиолетовый направляющий блок
+info.woot.structure.tier_i_cap=Светло-серый направляющий блок
+info.woot.structure.tier_ii_cap=Жёлтый направляющий блок
+info.woot.structure.tier_iii_cap=Бирюзовый направляющий блок
+info.woot.structure.tier_iv_cap=Лаймовый направляющий блок
+
+info.woot.hammer.mode.validate_t1=Проверить I уровень
+info.woot.hammer.mode.validate_t1.desc=Проверяет, что структура и контроллер подходят для I уровня
+info.woot.hammer.mode.validate_t2=Проверить II уровень
+info.woot.hammer.mode.validate_t2.desc=Проверяет, что структура и контроллер подходят для II уровня
+info.woot.hammer.mode.validate_t3=Проверить III уровень
+info.woot.hammer.mode.validate_t3.desc=Проверяет, что структура и контроллер подходят для III уровня
+info.woot.hammer.mode.validate_t4=Проверить IV уровень
+info.woot.hammer.mode.validate_t4.desc=Проверяет, что структура и контроллер подходят для IV уровня
+info.woot.hammer.mode.validate_import=Проверить импорт
+info.woot.hammer.mode.validate_import.desc=Проверяет, что резервуары, хранилища и импортёры корректны
+info.woot.hammer.mode.validate_export=Проверить экспорт
+info.woot.hammer.mode.validate_export.desc=Проверяет, что резервуары, хранилища и экспортёры корректны
+
+# Enchantments
+enchant.woot.headhunter=Охотник за головами
+enchantment.woot.headhunter.desc=При убийстве мобы могут выронить свою голову.
+
+# Chat
+chat.woot.endershard.failure=Не удаётся захватить моба
+chat.woot.endershard.success=Моб захвачен
+chat.woot.anvil.nomagma=Наковальня должна стоять на магмовом блоке
+chat.woot.anvil.emptyshard=Не запрограммированный осколок Края
+chat.woot.anvil.invalid=Нет подходящего рецепта
+chat.woot.validate.power=Найдена силовая ячейка в %d,%d,%d
+chat.woot.validate.nopower=Нет силовой ячейки
+chat.woot.validate.importer=Найден импортёр в %d,%d,%d
+chat.woot.validate.noimporter=Нет импортёра
+chat.woot.validate.exporter=Найден экспортёр в %d,%d,%d
+chat.woot.validate.noexporter=Нет экспортёра
+chat.woot.validate.missing=Ожидался %s в %d,%d,%d, ничего не найдено
+chat.woot.validate.incorrect=Ожидался %s в %d,%d,%d, найден %s
+chat.woot.validate.validating=Проверка фабрики для %s
+chat.woot.validate.inputs=Проверка подключённых входов
+chat.woot.validate.outputs=Проверка подключённых выходов
+chat.woot.validate.nocontroller=Ожидался контроллер в %d,%d,%d
+chat.woot.validate.invalidmob=Контроллер содержит запрещённого или неизвестного моба
+chat.woot.validate.invalidtrolier=Контроллер требует более высокий уровень фабрики
+chat.woot.validate.ok=Найдена корректная фабрика %s
+
+# Commands
+commands.woot.dev.debug.usage=Используйте /woot dev debug {[!]event|show|list}.
+commands.woot.dev.power.usage=Используйте /woot dev power <bool>.
+commands.woot.dump.loot.usage=Не реализовано
+commands.woot.dump.mobs.usage=Используйте /woot dump mobs
+commands.woot.dump.tartarus.usage=Используйте /woot dump tartarus
+commands.woot.dump.learning.usage=Используйте /woot dump learning
+commands.woot.dump.policy.usage=Используйте /woot dump policy {int|ext} <mob|item>
+commands.woot.flush.usage=Используйте /woot flush {all|<mobname>}
+commands.woot.dump.structure.usage=Используйте /woot dump structure
+commands.woot.give.usage=Используйте /woot give <player> <mobname> <mob display name>
+commands.woot.give.unknownentity=Сущность отсутствует в EntityList
+commands.woot.invalidmob=Неверное имя моба
+
+# BloodMagic
+ritual.woot.ritualLifeEssenceTank=Ритуал кровавой урны
+ritual.woot.ritualLifeEssenceAltar=Ритуал механического алтаря
+ritual.woot.ritualClonedSoul=Ритуал клонированной души
+
+# User Interface Upgrades
+ui.woot.mass.desc=Масса %d: %dRF/тик, %d мобов
+ui.woot.decapitate.desc=Обезглавливание %d: %dRF/тик, %d%% шанс
+ui.woot.looting.desc=Добыча %d: %dRF/тик
+ui.woot.rate.desc=Скорость %d: %dRF/тик, уменьшение времени на %d%%
+ui.woot.efficiency.desc=Эффективность %d: %dRF/тик, снижение энергии на %d
+ui.woot.xp.desc=Опыт %d: %dRF/тик, генерация %d%%
+ui.woot.ec_blood.desc=Кровь EvilCraft %d: %dRF/тик, %d мБ на ХП
+ui.woot.bm_le_tank.desc=Резервуар Blood Magic %d: %dRF/тик, %d рун жертвенности
+ui.woot.bm_le_altar.desc=Алтарь Blood Magic %d: %dRF/тик, %d%% жертвенности
+ui.woot.bm_crystal.desc=Кристалл Blood Magic %d: %dRF/тик, %d%% здоровья моба
