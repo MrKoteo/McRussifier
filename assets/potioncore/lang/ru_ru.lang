@@ -1,0 +1,222 @@
+# Переведено с помощью ИИ. Могут быть неточности.
+
+attribute.name.potioncore.projectileDamage=Урон от снарядов
+attribute.name.potioncore.magicDamage=Магический урон
+attribute.name.potioncore.attackSpeed=Скорость атаки
+attribute.name.potioncore.digSpeed=Скорость копания
+attribute.name.potioncore.stepHeight=Высота шага
+attribute.name.potioncore.jumpHeight=Высота прыжка
+attribute.name.potioncore.damageResistance=Сопротивление урону
+attribute.name.potioncore.magicShielding=Магический щит\npotion.effect.nausea=Зелье Тошноты
+splash_potion.effect.nausea=Взрывное зелье Тошноты
+lingering_potion.effect.nausea=Туманное зелье Тошноты
+tipped_arrow.effect.nausea=Стрела Тошноты\npotion.effect.wither=Зелье Иссушения
+splash_potion.effect.wither=Взрывное зелье Иссушения
+lingering_potion.effect.wither=Туманное зелье Иссушения
+tipped_arrow.effect.wither=Стрела Иссушения\npotion.effect.unluck=Зелье Неудачи
+splash_potion.effect.unluck=Взрывное зелье Неудачи
+lingering_potion.effect.unluck=Туманное зелье Неудачи
+tipped_arrow.effect.unluck=Стрела Неудачи\npotion.effect.hunger=Зелье Голода
+splash_potion.effect.hunger=Взрывное зелье Голода
+lingering_potion.effect.hunger=Туманное зелье Голода
+tipped_arrow.effect.hunger=Стрела Голода\npotion.effect.mining_fatigue=Зелье Утомления
+splash_potion.effect.mining_fatigue=Взрывное зелье Утомления
+lingering_potion.effect.mining_fatigue=Туманное зелье Утомления
+tipped_arrow.effect.mining_fatigue=Стрела Утомления\npotion.effect.haste=Зелье Спешки
+splash_potion.effect.haste=Взрывное зелье Спешки
+lingering_potion.effect.haste=Туманное зелье Спешки
+tipped_arrow.effect.haste=Стрела Спешки\npotion.effect.saturation=Зелье Насыщения
+splash_potion.effect.saturation=Взрывное зелье Насыщения
+lingering_potion.effect.saturation=Туманное зелье Насыщения
+tipped_arrow.effect.saturation=Стрела Насыщения\npotion.effect.absorption=Зелье Абсорбции
+splash_potion.effect.absorption=Взрывное зелье Абсорбции
+lingering_potion.effect.absorption=Туманное зелье Абсорбции
+tipped_arrow.effect.absorption=Стрела Абсорбции\npotion.effect.resistance=Зелье Сопротивления
+splash_potion.effect.resistance=Взрывное зелье Сопротивления
+lingering_potion.effect.resistance=Туманное зелье Сопротивления
+tipped_arrow.effect.resistance=Стрела Сопротивления\npotion.effect.health_boost=Зелье Увеличения здоровья
+splash_potion.effect.health_boost=Взрывное зелье Увеличения здоровья
+lingering_potion.effect.health_boost=Туманное зелье Увеличения здоровья
+tipped_arrow.effect.health_boost=Стрела Увеличения здоровья\npotion.effect.glowing=Зелье Свечения
+splash_potion.effect.glowing=Взрывное зелье Свечения
+lingering_potion.effect.glowing=Туманное зелье Свечения
+tipped_arrow.effect.glowing=Стрела Свечения\npotion.effect.blindness=Зелье Слепоты
+splash_potion.effect.blindness=Взрывное зелье Слепоты
+lingering_potion.effect.blindness=Туманное зелье Слепоты
+tipped_arrow.effect.blindness=Стрела Слепоты\neffect.fire=Возгорание
+potion.effect.fire=Зелье Самовозгорания
+splash_potion.effect.fire=Взрывное зелье Самовозгорания
+lingering_potion.effect.fire=Туманное зелье Самовозгорания
+tipped_arrow.effect.fire=Стрела Самовозгорания\neffect.lightning=Молния
+potion.effect.lightning=Зелье Грома
+splash_potion.effect.lightning=Взрывное зелье Грома
+lingering_potion.effect.lightning=Туманное зелье Грома
+tipped_arrow.effect.lightning=Стрела Грома\neffect.explode=Взрыв
+potion.effect.explode=Зелье Детонации
+splash_potion.effect.explode=Взрывное зелье Детонации
+lingering_potion.effect.explode=Туманное зелье Детонации
+tipped_arrow.effect.explode=Стрела Детонации\neffect.burst=Взрывная волна
+potion.effect.burst=Зелье Контузии
+splash_potion.effect.burst=Взрывное зелье Контузии
+lingering_potion.effect.burst=Туманное зелье Контузии
+tipped_arrow.effect.burst=Стрела Контузии\neffect.weight=Вес
+potion.effect.weight=Зелье Тяжести
+splash_potion.effect.weight=Взрывное зелье Тяжести
+lingering_potion.effect.weight=Туманное зелье Тяжести
+tipped_arrow.effect.weight=Стрела Тяжести\neffect.recoil=Отдача
+potion.effect.recoil=Зелье Шипов
+splash_potion.effect.recoil=Взрывное зелье Шипов
+lingering_potion.effect.recoil=Туманное зелье Шипов
+tipped_arrow.effect.recoil=Стрела Шипов\neffect.drown=Утопление
+potion.effect.drown=Зелье Жабр
+splash_potion.effect.drown=Взрывное зелье Жабр
+lingering_potion.effect.drown=Туманное зелье Жабр
+tipped_arrow.effect.drown=Стрела Жабр\neffect.archery=Меткий выстрел
+potion.effect.archery=Зелье Стрельбы
+splash_potion.effect.archery=Взрывное зелье Стрельбы
+lingering_potion.effect.archery=Туманное зелье Стрельбы
+tipped_arrow.effect.archery=Стрела Стрельбы\neffect.klutz=Неуклюжесть
+potion.effect.klutz=Зелье Неуклюжести
+splash_potion.effect.klutz=Взрывное зелье Неуклюжести
+lingering_potion.effect.klutz=Туманное зелье Неуклюжести
+tipped_arrow.effect.klutz=Стрела Неуклюжести\neffect.vulnerable=Уязвимость
+potion.effect.vulnerable=Зелье Уязвимости
+splash_potion.effect.vulnerable=Взрывное зелье Уязвимости
+lingering_potion.effect.vulnerable=Туманное зелье Уязвимости
+tipped_arrow.effect.vulnerable=Стрела Уязвимости\neffect.antidote=Антидот
+potion.effect.antidote=Зелье Противоядия от яда
+splash_potion.effect.antidote=Взрывное зелье Противоядия от яда
+lingering_potion.effect.antidote=Туманное зелье Противоядия от яда
+tipped_arrow.effect.antidote=Стрела Противоядия от яда\neffect.purity=Чистота
+potion.effect.purity=Зелье Очищения от иссушения
+splash_potion.effect.purity=Взрывное зелье Очищения от иссушения
+lingering_potion.effect.purity=Туманное зелье Очищения от иссушения
+tipped_arrow.effect.purity=Стрела Очищения от иссушения\neffect.cure=Лечение
+potion.effect.cure=Зелье Исцеления
+splash_potion.effect.cure=Взрывное зелье Исцеления
+lingering_potion.effect.cure=Туманное зелье Исцеления
+tipped_arrow.effect.cure=Стрела Исцеления\neffect.dispel=Рассеивание
+potion.effect.dispel=Зелье Развеивания
+splash_potion.effect.dispel=Взрывное зелье Развеивания
+lingering_potion.effect.dispel=Туманное зелье Развеивания
+tipped_arrow.effect.dispel=Стрела Развеивания\neffect.slow_fall=Медленное падение
+potion.effect.slow_fall=Зелье Невесомости
+splash_potion.effect.slow_fall=Взрывное зелье Невесомости
+lingering_potion.effect.slow_fall=Туманное зелье Невесомости
+tipped_arrow.effect.slow_fall=Стрела Невесомости\neffect.solid_core=Твёрдая сердцевина
+potion.effect.solid_core=Зелье Неподвижности
+splash_potion.effect.solid_core=Взрывное зелье Неподвижности
+lingering_potion.effect.solid_core=Туманное зелье Неподвижности
+tipped_arrow.effect.solid_core=Стрела Неподвижности\neffect.launch=Подброс
+potion.effect.launch=Зелье Подбрасывания
+splash_potion.effect.launch=Взрывное зелье Подбрасывания
+lingering_potion.effect.launch=Туманное зелье Подбрасывания
+tipped_arrow.effect.launch=Стрела Подбрасывания\neffect.climb=Лазание
+potion.effect.climb=Зелье Паука
+splash_potion.effect.climb=Взрывное зелье Паука
+lingering_potion.effect.climb=Туманное зелье Паука
+tipped_arrow.effect.climb=Стрела Паука\neffect.love=Любовь
+potion.effect.love=Приворотное зелье
+splash_potion.effect.love=Взрывное приворотное зелье
+lingering_potion.effect.love=Туманное приворотное зелье
+tipped_arrow.effect.love=Приворотная стрела\neffect.step_up=Подъём
+potion.effect.step_up=Зелье Высокого шага
+splash_potion.effect.step_up=Взрывное зелье Высокого шага
+lingering_potion.effect.step_up=Туманное зелье Высокого шага
+tipped_arrow.effect.step_up=Стрела Высокого шага\neffect.perplexity=Недоумение
+potion.effect.perplexity=Зелье Замешательства
+splash_potion.effect.perplexity=Взрывное зелье Замешательства
+lingering_potion.effect.perplexity=Туманное зелье Замешательства
+tipped_arrow.effect.perplexity=Стрела Замешательства\neffect.disorganization=Дезорганизация
+potion.effect.disorganization=Зелье Дезорганизации
+splash_potion.effect.disorganization=Взрывное зелье Дезорганизации
+lingering_potion.effect.disorganization=Туманное зелье Дезорганизации
+tipped_arrow.effect.disorganization=Стрела Дезорганизации\neffect.spin=Вращение
+potion.effect.spin=Зелье Кружения
+splash_potion.effect.spin=Взрывное зелье Кружения
+lingering_potion.effect.spin=Туманное зелье Кружения
+tipped_arrow.effect.spin=Стрела Кружения\neffect.repair=Починка
+potion.effect.repair=Зелье Чинки
+splash_potion.effect.repair=Взрывное зелье Чинки
+lingering_potion.effect.repair=Туманное зелье Чинки
+tipped_arrow.effect.repair=Стрела Чинки\neffect.rust=Коррозия
+potion.effect.rust=Зелье Ржавчины
+splash_potion.effect.rust=Взрывное зелье Ржавчины
+lingering_potion.effect.rust=Туманное зелье Ржавчины
+tipped_arrow.effect.rust=Стрела Ржавчины\neffect.extension=Расширение
+potion.effect.extension=Зелье Продления
+splash_potion.effect.extension=Взрывное зелье Продления
+lingering_potion.effect.extension=Туманное зелье Продления
+tipped_arrow.effect.extension=Стрела Продления\neffect.chance=Случайный эффект
+potion.effect.chance=Зелье Случайности
+splash_potion.effect.chance=Взрывное зелье Случайности
+lingering_potion.effect.chance=Туманное зелье Случайности
+tipped_arrow.effect.chance=Стрела Случайности\neffect.bless=Положительный эффект
+potion.effect.bless=Зелье Благословения
+splash_potion.effect.bless=Взрывное зелье Благословения
+lingering_potion.effect.bless=Туманное зелье Благословения
+tipped_arrow.effect.bless=Стрела Благословения\neffect.curse=Отрицательный эффект
+potion.effect.curse=Зелье Проклятия
+splash_potion.effect.curse=Взрывное зелье Проклятия
+lingering_potion.effect.curse=Туманное зелье Проклятия
+tipped_arrow.effect.curse=Стрела Проклятия\neffect.teleport=Случайная телепортация
+potion.effect.teleport=Зелье Разброса
+splash_potion.effect.teleport=Взрывное зелье Разброса
+lingering_potion.effect.teleport=Туманное зелье Разброса
+tipped_arrow.effect.teleport=Стрела Разброса\neffect.teleport_surface=Телепортация на поверхность
+potion.effect.teleport_surface=Зелье Побега
+splash_potion.effect.teleport_surface=Взрывное зелье Побега
+lingering_potion.effect.teleport_surface=Туманное зелье Побега
+tipped_arrow.effect.teleport_surface=Стрела Побега\neffect.teleport_spawn=Телепортация к месту возрождения
+potion.effect.teleport_spawn=Зелье Возврата
+splash_potion.effect.teleport_spawn=Взрывное зелье Возврата
+lingering_potion.effect.teleport_spawn=Туманное зелье Возврата
+tipped_arrow.effect.teleport_spawn=Стрела Возврата\neffect.flight=Полёт
+potion.effect.flight=Зелье Крыльев
+splash_potion.effect.flight=Взрывное зелье Крыльев
+lingering_potion.effect.flight=Туманное зелье Крыльев
+tipped_arrow.effect.flight=Стрела Крыльев\neffect.invert=Инверсия
+potion.effect.invert=Зелье Обращения
+splash_potion.effect.invert=Взрывное зелье Обращения
+lingering_potion.effect.invert=Туманное зелье Обращения
+tipped_arrow.effect.invert=Стрела Обращения\neffect.revival=Возрождение
+potion.effect.revival=Зелье Дополнительной жизни
+splash_potion.effect.revival=Взрывное зелье Дополнительной жизни
+lingering_potion.effect.revival=Туманное зелье Дополнительной жизни
+tipped_arrow.effect.revival=Стрела Дополнительной жизни\neffect.reach=Досягаемость
+potion.effect.reach=Зелье Длинных рук
+splash_potion.effect.reach=Взрывное зелье Длинных рук
+lingering_potion.effect.reach=Туманное зелье Длинных рук
+tipped_arrow.effect.reach=Стрела Длинных рук\neffect.magic_focus=Магический фокус
+potion.effect.magic_focus=Зелье Магического фокуса
+splash_potion.effect.magic_focus=Взрывное зелье Магического фокуса
+lingering_potion.effect.magic_focus=Туманное зелье Магического фокуса
+tipped_arrow.effect.magic_focus=Стрела Магического фокуса\neffect.magic_inhibition=Магическое подавление
+potion.effect.magic_inhibition=Зелье Подавления магии
+splash_potion.effect.magic_inhibition=Взрывное зелье Подавления магии
+lingering_potion.effect.magic_inhibition=Туманное зелье Подавления магии
+tipped_arrow.effect.magic_inhibition=Стрела Подавления магии\neffect.magic_shield=Магический щит
+potion.effect.magic_shield=Зелье Магического щита
+splash_potion.effect.magic_shield=Взрывное зелье Магического щита
+lingering_potion.effect.magic_shield=Туманное зелье Магического щита
+tipped_arrow.effect.magic_shield=Стрела Магического щита\neffect.broken_magic_shield=Сломанный щит
+potion.effect.broken_magic_shield=Зелье Сломанного магического щита
+splash_potion.effect.broken_magic_shield=Взрывное зелье Сломанного магического щита
+lingering_potion.effect.broken_magic_shield=Туманное зелье Сломанного магического щита
+tipped_arrow.effect.broken_magic_shield=Стрела Сломанного магического щита\neffect.iron_skin=Железная кожа
+potion.effect.iron_skin=Зелье Защиты
+splash_potion.effect.iron_skin=Взрывное зелье Защиты
+lingering_potion.effect.iron_skin=Туманное зелье Защиты
+tipped_arrow.effect.iron_skin=Стрела Защиты\neffect.broken_armor=Сломанная броня
+potion.effect.broken_armor=Зелье Пробивания
+splash_potion.effect.broken_armor=Взрывное зелье Пробивания
+lingering_potion.effect.broken_armor=Туманное зелье Пробивания
+tipped_arrow.effect.broken_armor=Стрела Пробивания\neffect.diamond_skin=Алмазная кожа
+potion.effect.diamond_skin=Зелье Алмазной кожи
+splash_potion.effect.diamond_skin=Взрывное зелье Алмазной кожи
+lingering_potion.effect.diamond_skin=Туманное зелье Алмазной кожи
+tipped_arrow.effect.diamond_skin=Стрела Алмазной кожи\neffect.potion_sickness=зелья Болезни
+potion.effect.potion_sickness=Зелье Болезни
+splash_potion.effect.potion_sickness=Взрывное зелье Болезни
+lingering_potion.effect.potion_sickness=Туманное зелье Болезни
+tipped_arrow.effect.potion_sickness=Стрела зелья Болезни

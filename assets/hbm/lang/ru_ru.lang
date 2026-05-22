@@ -1,0 +1,17 @@
+# HBM
+container.rbmkIndicator=Индикаторные лампы Redstone-over-Radio
+container.rbmkLever=Рычаг Redstone-over-Radio
+container.rttyPager=Пейджер Redstone-over-Radio
+item.rtty_pager.name=Пейджер Redstone-over-Radio
+jei.construction=Строительство
+subtitles.block.leverStart=Рычаг переключается
+subtitles.block.leverStop=Рычаг щёлкает
+subtitles.block.spark=Электрические искры
+tile.fluid_duct_paintable.desc=ПКМ твёрдым блоком, чтобы задать цвет краски$Краску можно снять отвёрткой$Текстуру порта можно отключить дефузером$Цвета можно копировать инструментом копирования
+tile.fluid_duct_paintable_block_exhaust.desc=ПКМ твёрдым блоком, чтобы задать цвет краски$Краску можно снять отвёрткой$Текстуру порта можно отключить дефузером$Цвета можно копировать инструментом копирования
+tile.pneumatic_tube_paintable.desc=ПКМ твёрдым блоком, чтобы задать цвет краски$Краску можно снять отвёрткой$Текстуру порта можно отключить дефузером$Цвета можно копировать инструментом копирования
+tile.rbmk_indicator.desc=Можно настроить с помощью отвёртки.$Может иметь до шести индикаторов, которые$будут загораться, когда значение RoR$попадает в заданный диапазон.
+tile.rbmk_indicator.name=Индикаторные лампы Redstone-over-Radio
+tile.rbmk_lever.desc=Можно настроить с помощью отвёртки.$Позволяет использовать до двух рычагов, которые$могут отправлять сигналы RoR в любом положении.
+tile.rbmk_lever.name=Рычаг Redstone-over-Radio
+tile.red_cable_paintable.desc=ПКМ твёрдым блоком, чтобы задать цвет краски$Краску можно снять отвёрткой$Текстуру порта можно отключить дефузером$Цвета можно копировать инструментом копирования

@@ -1,0 +1,11 @@
+commands.dssweaponregistry.action.unknown=Допустимые значения: "allow" и "forbid"
+commands.dssweaponregistry.type.unknown=Допустимые значения: "sword" и "weapon"
+commands.dssweaponregistry.item.unknown=Не удалось найти предмет %s для мода %s
+commands.dssweaponregistry.sword.allow.success=%s успешно зарегистрирован как меч
+commands.dssweaponregistry.sword.allow.fail=Не удалось зарегистрировать %s как меч
+commands.dssweaponregistry.sword.forbid.success=%s больше не считается мечом
+commands.dssweaponregistry.sword.forbid.fail=%s не зарегистрирован как меч
+commands.dssweaponregistry.weapon.allow.success=%s успешно зарегистрирован как оружие
+commands.dssweaponregistry.weapon.allow.fail=Не удалось зарегистрировать %s как оружие
+commands.dssweaponregistry.weapon.forbid.success=%s больше не считается оружием
+commands.dssweaponregistry.weapon.forbid.fail=%s не зарегистрирован как оружие

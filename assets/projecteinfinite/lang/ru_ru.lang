@@ -1,0 +1,11 @@
+item.projecteinfinite.infinite_matter=Бесконечная материя
+item.projecteinfinite.infinite_energy_star=Бесконечная энергетическая звезда
+tile.projecteinfinite.infinite_collector.name=Коллектор МК1
+tile.projecteinfinite.infinite_relay.name=Реле МК1
+tile.projecteinfinite.infinite_emc_interface.name=Базовый интерфейс EMC
+tooltip.projecteinfinite.level=Уровень
+tooltip.projecteinfinite.emc=EMC
+tooltip.projecteinfinite.rate=EMC/с
+tooltip.projecteinfinite.capacity=Ёмкость EMC
+tooltip.projecteinfinite.transfer=Передача EMC/с
+tooltip.projecteinfinite.charge=Заряд

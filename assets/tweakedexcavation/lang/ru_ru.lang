@@ -1,0 +1,11 @@
+tweakedexcavation.jei.mineral.chance=Шанс:
+tweakedexcavation.jei.mineral.average=Средняя добыча минерала:
+tweakedexcavation.jei.mineral.average.infinite=Средняя добыча минерала: Бесконечная
+tweakedexcavation.jei.mineral.weight=Вес появления минерала:
+tweakedexcavation.hud.mineral.yield=Добыча минерала
+tweakedexcavation.hud.mineral.name=Название минерала:
+tweakedexcavation.hud.mineral.unknown=Неизвестный минерал
+tweakedexcavation.hud.mineral.depleated=Истощённый минерал
+tweakedexcavation.hud.mineral.empty=Пустая жила минерала
+tweakedexcavation.hud.mineral.req_power=Экскаватору требуется энергия
+tweakedexcavation.hud.mineral.missing_wheel=У экскаватора отсутствует колесо

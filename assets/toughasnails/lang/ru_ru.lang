@@ -4,13 +4,8 @@ commands.toughasnails.settemp.disabled=Температура Тела в нас
 commands.toughasnails.setseason.success=Установить время года на %s
 commands.toughasnails.setseason.fail=Неверное время года %s
 commands.toughasnails.setseason.disabled=Времена Года в настоящий момент отключены!
-
 config.category.survivalSettings.title=Настройки Выживания
-
-itemGroup.tabToughAsNails=Tough As Nails
-
 fluid.purified_water=Очищенная вода
-
 tile.campfire.name=Костёр
 tile.dead_crops.name=Погибшие саженцы
 tile.glowstone_torch.name=Факел из светокамня
@@ -22,7 +17,6 @@ tile.season_sensor_summer.name=Сенсор времени года
 tile.season_sensor_autumn.name=Сенсор времени года
 tile.season_sensor_winter.name=Сенсор времени года
 tile.torch_new.name=Факел
-
 item.air_filter.name=Воздушный фильтр
 item.bottle_of_blackdamp.name=Бутыль рудничного газа
 item.bottle_of_whitedamp.name=Бутыль угарного газа
@@ -66,36 +60,29 @@ item.wool_helmet.name=Шерстяной капюшон
 item.wool_chestplate.name=Шерстяная куртка
 item.wool_leggings.name=Шерстяные штаны
 item.wool_boots.name=Шерстяные ботинки
-
 potion.hypothermia=Гипотермия
 potion.hyperthermia=Гипертермия
 potion.thirst=Жажда
 potion.cold_resistance=Защита от холода
 potion.heat_resistance=Защита от жары
 potion.hydration=Гидрация
-
 potion.effect.cold_resistance_type=Зелье защиты от холода
 potion.effect.long_cold_resistance_type=Зелье защиты от холода
 potion.effect.heat_resistance_type=Зелье защиты от жары
 potion.effect.long_heat_resistance_type=Зелье защиты от жары
-
 splash_potion.effect.cold_resistance_type=Взрывающееся зелье защиты от холода
 splash_potion.effect.long_cold_resistance_type=Взрывающееся зелье защиты от холода
 splash_potion.effect.heat_resistance_type=Взрывающееся зелье защиты от жары
 splash_potion.effect.long_heat_resistance_type=Взрывающееся зелье защиты от жары
-
 lingering_potion.effect.cold_resistance_type=Оседающее зелье защиты от холода
 lingering_potion.effect.long_cold_resistance_type=Оседающее зелье защиты от холода
 lingering_potion.effect.heat_resistance_type=Оседающее зелье защиты от жары
 lingering_potion.effect.long_heat_resistance_type=Оседающее зелье защиты от жары
-
 tipped_arrow.effect.cold_resistance_type=Стрела защиты от холода
 tipped_arrow.effect.long_cold_resistance_type=Стрела защиты от холода
 tipped_arrow.effect.heat_resistance_type=Стрела защиты от жары
 tipped_arrow.effect.long_heat_resistance_type=Стрела защиты от жары
-
 entity.freeze.name=Ледяной дух
-
 enchantment.warming=Согревание
 enchantment.cooling=Охлаждение
 enchantment.toughasnails.warming.desc=Повышает температуру тела аналогично одежде из шерсти

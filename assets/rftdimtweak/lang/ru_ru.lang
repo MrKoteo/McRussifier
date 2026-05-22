@@ -1,0 +1,7 @@
+item.known_dimletreplica_power.name=Энергетический димлет
+item.empowered_dimension_tab.name=Усиленная вкладка измерений
+item.dimlet_control_circuit_seven.name=Управляющая схема димлета редкости 7
+item.dimlet_type_controller_energy.name=Контроллер типа энергии димлета
+tile.rftdimtweak.dimension_enscriber.name=Прототип кодировщика измерений
+tile.rftoolsdim.dimension_editor.name=Реплика редактора измерений
+tile.rftoolsdim.dimension_builder.name=Построитель измерений MK2

@@ -13,26 +13,17 @@ jer.config.showDevData.description=В основном для разработч
 jer.config.hiddenTabs.title=Скрыть вкладки, добавленные JER
 # не переводите строки между кавычками, поскольку они используются в коде
 jer.config.hiddenTabs.description=Вкладки, которые добавляет JER: 'dungeon', 'enchantment', 'mob', 'villager', worldgen' and 'plant'
-
-#Default dimensions
 jer.dim.all=Все
 jer.dim.overworld=Верхний мир
 jer.dim.the_nether=Незер
 jer.dim.the_end=Эндер
-
-#Usage: jer.page pageNumber jer.of lastPage
 jer.page=Страница
 jer.of=из
-#Usage X jer.stacks
-#X will either be "[max]" or "[min] - [max]"
 jer.stacks=Стаков: %s
-
 jer.lightLevel=Уровень освещения
 jer.any=Любой
 jer.dim.no=Нет доступных измерений для появления
 jer.not=Нет
-
-#Dungeon View
 jer.dungeon.title=Сундуки подземелий
 jer.dungeon.abandonedMineshaftChest=Заброшенная шахта
 jer.dungeon.desertPyramidChest=Храм в пустыне
@@ -47,14 +38,8 @@ jer.dungeon.netherBridgeChest=Крепость Незера
 jer.dungeon.endCityTreasureChest=Город Эндера
 jer.dungeon.iglooChest=Иглу
 jer.dungeon.woodlandMansion=Лесной Особняк
-
-#Enchantments View
 jer.enchantments.title=Зачарования
-
-#Plant View
 jer.plant.title=Плоды растений
-
-#Ore View
 jer.worldgen.title=Генерация руд
 jer.worldgen.silkTouch=Необходимо шёлковое касание
 jer.worldgen.biomes=Появляется в биомах
@@ -63,21 +48,14 @@ jer.worldgen.drops=Выпадает
 jer.worldgen.average=Сред. выпадение
 jer.worldgen.base=Обычное
 jer.worldgen.averageChunk=Среднее количество блоков на чанк
-
-#Mob View
 jer.mob.title=Выпадение из мобов
 jer.mob.spawn=Появляется в биоме:
 jer.mob.biome=Появляется в биомах: наведите курсор сюда
 jer.mob.exp=Даёт опыта
-
-#Villager View
 jer.villager.title=Торговля с крестьянином
-
-#Conditionals - when translating retain '%s' as this lets the modifier be properly inserted into the string
 jer.magmaCream.text=Из маленьких и больших Магмовых кубов
 jer.slimeBall.text=Только из маленьких слизней
 jer.rareDrop.text=Редкий предмет
-
 jer.slimeScale.text=Зависит от размера слизня
 jer.kingSlime.text=Только из королевских слизней
 jer.beheading.text=Обезглавливание увеличивает шанс
@@ -123,8 +101,6 @@ jer.aboveLooting.text=Добыча выше %s
 jer.belowLooting.text=Добыча ниже %s
 jer.killedBy.text=Когда убит %s
 jer.notKilledBy.text=Когда убит не %s
-
-#Moon Phases
 jer.full.moon=полнолуния
 jer.waning_gibbous.moon=убывающей луны
 jer.third_quarter.moon=последней четверти

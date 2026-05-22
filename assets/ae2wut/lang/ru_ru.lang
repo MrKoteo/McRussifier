@@ -1,0 +1,10 @@
+item.ae2wut.wireless_universal_terminal.name=Универсальный беспроводной терминал
+
+item.wut.tooltip=§9Удерживайте Shift + колесико для смены режимов
+item.wut.tooltip1=§9Поддерживает стандартные сокращения терминалов
+item.wut.tooltip2=§6Удерживайте §lSHIFT§r§6 для подробностей
+
+item.wut.shift_tooltip=§bВстроенные терминалы:
+item.wut.shift_tooltip1=§7Нет
+
+wut.btn.name=Выбрать терминал

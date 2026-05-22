@@ -1,8 +1,5 @@
-itemGroup.prospectors=Prospectors
 prospector.none=Ничего интересного в пределах  
 prospector.found=Найдено: 
-
-
 item.prospector_lowest.name=Примитивный рудоискатель
 item.prospector_low.name=Слабый рудоискатель
 item.prospector_med.name=Рудоискатель

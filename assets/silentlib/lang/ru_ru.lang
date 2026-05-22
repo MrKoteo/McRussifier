@@ -1,0 +1,8 @@
+guide.silentlib.edition=%s издание
+guide.silentlib.searchField=Нажмите для поиска
+guide.silentlib.shapelessRecipe=Рецепт без формы
+guide.silentlib.shapedRecipe=Рецепт с формой
+guide.silentlib.shapelessOreRecipe=Рецепт без формы с OreDict
+guide.silentlib.shapedOreRecipe=Рецепт с формой с OreDict
+guide.silentlib.furnaceRecipe=Рецепт плавки
+guide.silentlib.clickToSeeRecipe=Нажмите, чтобы увидеть рецепт

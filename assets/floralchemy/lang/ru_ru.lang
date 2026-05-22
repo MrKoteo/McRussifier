@@ -1,0 +1,14 @@
+tile.crystalthorn.name=Кристальный шип
+tile.floralchemy.hedge.name=Живая изгородь
+tile.floralchemy.thorny_hedge.name=Колючая изгородь
+tile.floralchemy.flooded_soil.name=Затопленная почва
+tile.floralchemy.leaky_cauldron.name=Дырявый котёл
+tile.floralchemy.leaky_cauldron.desc=*Сливочное пиво не входит в комплект
+tile.botania:flower.petro_petunia.name=Петро Петуния
+tile.botania:flower.petro_petunia.reference=Помни моё последнее, Петуния
+botania.entry.petro_petunia=Петро Петуния
+botania.tagline.petro_petunia=Мана из жидкого топлива
+botania.page.petro_petunia0=Цветок &1Петрольная Петуния&0 — это генератор средней мощности. Он впитывает горючие жидкости через свои корни, на один блок ниже и вокруг себя, и сжигает их для получения маны.
+botania.page.petro_petunia1=Нефть, чёрное золото, техасский чай.
+item.guide.floralchemy=Справочник живой изгороди
+guide.floralchemy.landing=Ваш путеводитель по силе цветов

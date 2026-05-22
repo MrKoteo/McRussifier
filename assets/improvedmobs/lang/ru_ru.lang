@@ -6,7 +6,6 @@ improvedmobs.equipment=Настройки экипировки
 improvedmobs.attributes=Настройки атрибутов
 improvedmobs.integration=Интеграция
 improvedmobs.gui=Интерфейс
-
 improvedmobs.debug.tooltip=Отладка
 improvedmobs.general.tooltip=При значении по умолчанию каждый бонус сложности достигает максимума на сложности 250.
 improvedmobs.ai.tooltip=Настройки, связанные с пользовательским ИИ для мобов.

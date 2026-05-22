@@ -1,0 +1,6 @@
+tile.blocks.integrated_proxy.access_proxy.name=Прокси доступа
+integrated_proxy.gui.access_proxy.ticks=Тиков / Операций
+integrated_proxy.gui.access_proxy.relative_mode=Относительный режим
+integrated_proxy.gui.access_proxy.absolute_mode=Абсолютный режим
+integrated_proxy.gui.access_proxy.display_value=Отображать
+integrated_proxy.gui.access_proxy.invalid_pos=Неверная позиция

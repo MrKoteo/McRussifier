@@ -1,0 +1,12 @@
+item.pointer.name=Указатель
+tile.remote_control_station.name=Станция дистанционного управления
+pointer.message.acquire=Данные указателя получены от %s
+pointer.message.cooldown=Указатель на перезарядке
+pointer.message.removal=Данные указателя удалены
+pointer.message.reset=Shift+ПКМ ещё раз, чтобы сбросить связь
+pointer.tooltip.dimension=Измерение: %s
+pointer.tooltip.position=Позиция: %s
+pointer.tooltip.facing=Направление: %s
+pointer.tooltip.hit_vector=Вектор попадания: %s
+pointer.config.item_max_durability=Максимальная прочность для предметов-указателей, оставьте 0 для неразрушаемого предмета
+pointer.config.damage_mode=Режимы повреждения предмета-указателя, если он разрушаемый

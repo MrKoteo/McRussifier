@@ -1,0 +1,4 @@
+hbmgc.message.kerosene.name=Керосин
+hbmgc.status.nokerosene.name=Нет керосина
+hbmgc.kerosene_tank.desc.0=Принимает керосин
+hbmgc.kerosene_tank.desc.1=Перерабатывается в ракетное топливо

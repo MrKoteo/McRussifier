@@ -18,7 +18,6 @@ advancement.floralis.root.name=Floralis
 advancement.floralis.root.desc=Выращиваемые кактусы и цветы для автоматизированного способа получения всех красителей.
 advancement.floralis.unfiredpot.name=Необожжённый горшок
 advancement.floralis.unfiredpot.desc=Создайте необожжённый горшок
-
 item.whiteseed.name=Семена белого цветка
 item.orangeseed.name=Семена оранжевого цветка
 item.magentaseed.name=Семена пурпурного цветка
@@ -35,7 +34,6 @@ item.brownseed.name=Семена коричневого цветка
 item.greenseed.name=Семена зелёного цветка
 item.redseed.name=Семена красного цветка
 item.blackseed.name=Семена чёрного цветка
-
 item.whitecactusseed.name=Семена белого кактуса
 item.orangecactusseed.name=Семена оранжевого кактуса
 item.magentacactusseed.name=Семена пурпурного кактуса
@@ -52,7 +50,6 @@ item.browncactusseed.name=Семена коричневого кактуса
 item.greencactusseed.name=Семена зелёного кактуса
 item.redcactusseed.name=Семена красного кактуса
 item.blackcactusseed.name=Семена чёрного кактуса
-
 item.whiteparts.name=Белые части растения
 item.orangeparts.name=Оранжевые части растения
 item.magentaparts.name=Пурпурные части растения
@@ -69,9 +66,7 @@ item.brownparts.name=Коричневые части растения
 item.greenparts.name=Зелёные части растения
 item.redparts.name=Красные части растения
 item.blackparts.name=Чёрные части растения
-
 item.parts.desc=Как костная мука
-
 item.whitepetal.name=Белый лепесток
 item.orangepetal.name=Оранжевый лепесток
 item.magentapetal.name=Пурпурный лепесток
@@ -88,7 +83,6 @@ item.brownpetal.name=Коричневый лепесток
 item.greenpetal.name=Зелёный лепесток
 item.redpetal.name=Красный лепесток
 item.blackpetal.name=Чёрный лепесток
-
 item.whitedye.name=Белый краситель
 item.orangedye.name=Оранжевый краситель
 item.magentadye.name=Пурпурный краситель
@@ -105,7 +99,6 @@ item.browndye.name=Коричневый краситель
 item.greendye.name=Зелёный краситель
 item.reddye.name=Красный краситель
 item.blackdye.name=Чёрный краситель
-
 item.whiteclay.name=Белая глина
 item.orangeclay.name=Оранжевая глина
 item.magentaclay.name=Пурпурная глина
@@ -122,7 +115,6 @@ item.brownclay.name=Коричневая глина
 item.greenclay.name=Зелёная глина
 item.redclay.name=Красная глина
 item.blackclay.name=Чёрная глина
-
 item.whiteunfiredpot.name=Белый необожжённый горшок
 item.orangeunfiredpot.name=Оранжевый необожжённый горшок
 item.magentaunfiredpot.name=Пурпурный необожжённый горшок
@@ -139,7 +131,6 @@ item.brownunfiredpot.name=Коричневый необожжённый горш
 item.greenunfiredpot.name=Зелёный необожжённый горшок
 item.redunfiredpot.name=Красный необожжённый горшок
 item.blackunfiredpot.name=Чёрный необожжённый горшок
-
 item.whitefiredpot.name=Белый обожжённый горшок
 item.orangefiredpot.name=Оранжевый обожжённый горшок
 item.magentafiredpot.name=Пурпурный обожжённый горшок
@@ -156,9 +147,6 @@ item.brownfiredpot.name=Коричневый обожжённый горшок
 item.greenfiredpot.name=Зелёный обожжённый горшок
 item.redfiredpot.name=Красный обожжённый горшок
 item.blackfiredpot.name=Чёрный обожжённый горшок
-
-tab.floralis=Floralis
-
 tile.whiteflower.name=Белый цветок
 tile.orangeflower.name=Оранжевый цветок
 tile.magentaflower.name=Пурпурный цветок
@@ -175,7 +163,6 @@ tile.brownflower.name=Коричневый цветок
 tile.greenflower.name=Зелёный цветок
 tile.redflower.name=Красный цветок
 tile.blackflower.name=Чёрный цветок
-
 tile.whitecactus.name=Белый кактус
 tile.orangecactus.name=Оранжевый кактус
 tile.magentacactus.name=Пурпурный кактус
@@ -192,7 +179,6 @@ tile.browncactus.name=Коричневый кактус
 tile.greencactus.name=Зелёный кактус
 tile.redcactus.name=Красный кактус
 tile.blackcactus.name=Чёрный кактус
-
 tile.whiteflowerpot.name=Белый цветочный горшок
 tile.orangeflowerpot.name=Оранжевый цветочный горшок
 tile.magentaflowerpot.name=Пурпурный цветочный горшок
@@ -209,7 +195,6 @@ tile.brownflowerpot.name=Коричневый цветочный горшок
 tile.greenflowerpot.name=Зелёный цветочный горшок
 tile.redflowerpot.name=Красный цветочный горшок
 tile.blackflowerpot.name=Чёрный цветочный горшок
-
 tile.whitecactuspot.name=Белый горшок для кактуса
 tile.orangecactuspot.name=Оранжевый горшок для кактуса
 tile.magentacactuspot.name=Пурпурный горшок для кактуса
@@ -226,7 +211,6 @@ tile.browncactuspot.name=Коричневый горшок для кактуса
 tile.greencactuspot.name=Зелёный горшок для кактуса
 tile.redcactuspot.name=Красный горшок для кактуса
 tile.blackcactuspot.name=Чёрный горшок для кактуса
-
 tile.whitedyeblock.name=Блок белого красителя
 tile.orangedyeblock.name=Блок оранжевого красителя
 tile.magentadyeblock.name=Блок пурпурного красителя
@@ -243,9 +227,7 @@ tile.browndyeblock.name=Блок коричневого красителя
 tile.greendyeblock.name=Блок зелёного красителя
 tile.reddyeblock.name=Блок красного красителя
 tile.blackdyeblock.name=Блок чёрного красителя
-
 tile.dyeblock.desc=Декоративный и компактный
-
 tile.whiteclayblock.name=Блок белой глины
 tile.orangeclayblock.name=Блок оранжевой глины
 tile.magentaclayblock.name=Блок пурпурной глины
@@ -262,5 +244,4 @@ tile.brownclayblock.name=Блок коричневой глины
 tile.greenclayblock.name=Блок зелёной глины
 tile.redclayblock.name=Блок красной глины
 tile.blackclayblock.name=Блок чёрной глины
-
 tile.clayblock.desc=Декоративный и компактный

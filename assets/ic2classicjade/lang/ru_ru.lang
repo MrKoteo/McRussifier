@@ -1,27 +1,20 @@
 progress.material.name=Материал: %s/%s
 probe.transformer.inverted=Инвертирован: %s
 probe.enchanter.missing=Требуется опыт!
-
 probe.crop.seed_drop=Режим семян: %s
 probe.personal.owner=Владелец: %s
-
 tooltip.item.eu_reader.cable_flow_out=Энергии на выходе: %s EU/т
 tooltip.item.eu_reader.cable_flow_in=Энергии на входе: %s EU/т
 tooltip.item.eu_reader.cable_flow=Поток энергии: %s EU/т
-
 probe.sneak.info=Присядьте для статистики энергии...
 probe.energy.stats.info=-== Статистика энергии ==-
-
 probe.barrel.status.beer.name=Тип: Пиво
 probe.barrel.status.rum.name=Тип: Ром
 probe.barrel.status.storage.name=Хранилище
 probe.barrel.status.brew.name=Варка
-
 probe.barrel.beer.wheat.name=Пшеница: %s / 64
 probe.barrel.beer.hops.name=Хмель: %s / 64
-
 probe.barrel.beer.sugar_cane.name=Сахарный тростник: %s / 32
-
 probe.barrel.beer.alc.0.name=Уровень алкоголя: Суп
 probe.barrel.beer.alc.1.name=Уровень алкоголя: Безалкогольное
 probe.barrel.beer.alc.2.name=Уровень алкоголя: Белое
@@ -43,7 +36,6 @@ probe.barrel.beer.solid.4.name=Соотношение плотности: Кре
 probe.barrel.beer.solid.5.name=Соотношение плотности: Густое
 probe.barrel.beer.solid.6.name=Соотношение плотности: Плотное
 probe.barrel.beer.solid.6a=Соотношение плотности: Плотное
-
 probe.energy.tier=Уровень: %s
 probe.energy.output=Текущий выход: %s EU/т
 probe.energy.output.max=Макс. выход: %s EU/т
@@ -56,7 +48,6 @@ probe.storage.fuel=Топливо: %s
 probe.packet.tick=Исходящих пакетов: %s
 probe.energy.storage.name=Энергия: %s EU
 probe.energy.storage.full.name=Энергия: %s/%s EU
-probe.info.fluid=%s: %s/%s мВ
 probe.wrenchable.drop_chance.info=%s шанс выпадения
 probe.wrenchable.info=Блок, откручиваемый ключом
 probe.progress.full.name=Прогресс: %s / %s т
@@ -100,8 +91,6 @@ probe.teleporter.type.fluid=Жидкость
 probe.teleporter.type.energy=Энергия
 probe.teleporter.type.spawner=Спаунер
 probe.teleporter.target=Цель: %s %s %s
-probe.uranium.type=%s: %s / 1000
-
 probe.crop.grow.not=Не может расти
 probe.crop.grow.rate=~ Скорость роста: %s
 probe.crop.growth=Рост

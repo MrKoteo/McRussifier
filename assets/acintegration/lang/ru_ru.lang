@@ -1,0 +1,3 @@
+modifier.light_pierce.name=Пронзание светом
+modifier.light_pierce.desc=§oПротив тени§r\nНаносит огромный урон теням.
+modifier.light_pierce.extra=Против теней: +%s

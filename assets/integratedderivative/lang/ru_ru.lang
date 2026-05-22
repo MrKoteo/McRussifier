@@ -1,0 +1,4 @@
+operator.operators.integratedderivative.arithmetic.name=Арифметика
+operator.operators.integratedderivative.arithmetic.pow.name=Степень
+operator.operators.integratedderivative.arithmetic.basename=Интегр. производная - %s
+tooltip.omni_duplicate.name=Копирует группу первого разъёма, у которого есть канал

@@ -1,0 +1,13 @@
+item.inferiumcrystal.name=§eКристалл инфузии инфериума
+item.prudentiumcrystal.name=§2Кристалл инфузии пруденциума
+item.intermediumcrystal.name=§6Кристалл инфузии интермедиума
+item.superiumcrystal.name=§9Кристалл инфузии супериума
+item.supremiumcrystal.name=§cКристалл инфузии супремиума
+itemGroup.tab_matc=Mystical Agriculture: многоуровневые кристаллы
+matc.config.infusiondurabilities=Прочность кристаллов инфузии
+matc.config.infusiondurabilities.inferiumDurability=Инфериум
+matc.config.infusiondurabilities.prudentiumDurability=Пруденциум
+matc.config.infusiondurabilities.intermediumDurability=Интермедиум
+matc.config.infusiondurabilities.superiumDurability=Супериум
+matc.config.infusiondurabilities.supremiumDurability=Супремиум
+matc.config.infusiondurabilities.enabled=Прочность

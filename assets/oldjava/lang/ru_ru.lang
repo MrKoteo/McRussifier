@@ -1,0 +1,7 @@
+oldjava.notice.update.title=Minecraft: Старая версия Java
+oldjava.notice.update.body=<html><p>Внимание: обнаружена устаревшая версия Java. Это может вызвать следующие проблемы в игре.<br>Настоятельно рекомендуется обновить Java до более новой версии Java 8.</p><ul><li>Низкая производительность и зависания.</li><li>Вылеты с новыми модами.</li><li>Различные уязвимости безопасности.</li></ul>
+oldjava.notice.bit.title=Minecraft: Разрядность Java
+oldjava.notice.bit.body=Обнаружена x32-установка Java. Рекомендуется использовать x64 версию Java.
+oldjava.buttons.readmore=Подробнее
+oldjava.buttons.ignore=Игнорировать
+oldjava.buttons.stop=Остановить

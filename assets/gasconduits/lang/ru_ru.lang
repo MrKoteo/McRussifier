@@ -1,0 +1,15 @@
+enderio.item_gas_conduit.name=Газовый трубопровод
+enderio.item_gas_conduit_advanced.name=Газовый трубопровод под давлением
+enderio.item_gas_conduit_ender.name=Эндер-газовый трубопровод
+gasconduits.item_gas_conduit.locked_type=Тип газа заблокирован на %s
+gasconduits.item_gas_conduit.unlocked_type=Тип газа разблокирован
+gasconduits.item_gas_conduit.locked_waila=Заблокирован на %s
+gasconduits.item_gas_conduit.tooltip.max_extract=Макс. извлечение:
+gasconduits.item_gas_conduit.tooltip.max_io=Макс. ввод/вывод:
+gasconduits.gui.gas_auto_extract=Автоизвлечение
+gasconduits.gui.gas_filter=Газовый фильтр
+gasconduits.gui.gas_whitelist=Белый список
+gasconduits.gui.gas_blacklist=Чёрный список
+gasconduits.gui.conduit_gas.header=Газовый трубопровод
+gasconduits.config.condit.gas=Газовые трубопроводы
+item.item_gas_filter.name=Газовый фильтр

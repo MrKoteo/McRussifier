@@ -1,0 +1,16 @@
+item.cave_root.name=Пещерный корень
+item.torch_spore.name=Факельная спора
+config.caveroot.tile=Пещерный корень
+config.caveroot.category.caveroot=Пещерный корень
+config.caveroot.category.driedroot=Сушёный корень
+config.caveroot.category.torchfungi=Факельные грибы
+config.caveroot.disabled=Отключить генерацию в мире
+config.caveroot.spawnProbability=Вероятность появления пещерного корня
+config.caveroot.isHasteEnabled=Эффект спешки при поедании пещерного корня
+config.caveroot.hasteLevel=Уровень спешки
+config.caveroot.hasteDuration=Длительность эффекта спешки
+config.caveroot.hasteProbability=Вероятность получения эффекта спешки
+config.caveroot.foodValue=Пищевая ценность пещерного корня
+config.caveroot.saturationValue=Насыщение от пещерного корня
+config.caveroot.isWolfFood=Может ли волк есть
+config.caveroot.dimensions=ID измерений

@@ -1,0 +1,4 @@
+config.baubleye.creativeAccessibility=Доступность творческих украшений
+config.baubleye.creativeAccessibility.tooltip=True, если кнопка Baubles должна быть добавлена ​​в творческий инвентарь.
+config.baubleye.slot=Слот для украшения Элитры
+config.baubleye.slot.tooltip=Возможные значения: АМУЛЕТ, КОЛЬЦО, ПОЯС, ДЕКОРАЦИЯ, ГОЛОВА, ТЕЛО, АРХИВ.

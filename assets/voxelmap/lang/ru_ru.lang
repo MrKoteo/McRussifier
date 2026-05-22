@@ -1,6 +1,6 @@
 key.minimap.toggleingamewaypoints=Переключить метки в игре
-options.minimap.radar.radarmode=Radar Mode
-options.minimap.radar.radarmode.full=Full
-options.minimap.radar.radarmode.simple=Simple
-options.minimap.radar.showfacing=Show Facing
-options.minimap.rotation=Rotation
+options.minimap.radar.radarmode=Режим радара
+options.minimap.radar.radarmode.full=Полный
+options.minimap.radar.radarmode.simple=Обычный
+options.minimap.radar.showfacing=Показать направление
+options.minimap.rotation=Вращение

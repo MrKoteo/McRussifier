@@ -1,0 +1,9 @@
+commands.parameters.missing=Отсутствует обязательный параметр: %s
+commands.parameters.missing.argument=У параметра отсутствует аргумент: %s
+commands.parameters.invalid.generic=Неверный аргумент для параметра: %s
+commands.parameters.unknown=Неизвестный параметр: %s
+commands.parameters.toomany.ordered=Слишком много параметров
+commands.parameters.toomany.named=Слишком много параметров: %s
+commands.parameters.dimension.invalid=Нет такого измерения
+commands.parameters.biome.invalid=Нет такого биома
+commands.parameters.biometype.invalid=Нет такого типа биома

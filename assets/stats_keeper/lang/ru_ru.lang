@@ -1,5 +1,3 @@
-< ru_ru.lang - Russian localization file for Stats Keeper >
-
 potion.stats_keeper.appetite=Нет аппетита
 health.statskeeper.death_remove=Ой, вы потеряли %s сердце(ца)!
 health.statskeeper.item_add=Вы получили %s сердце(ца)!

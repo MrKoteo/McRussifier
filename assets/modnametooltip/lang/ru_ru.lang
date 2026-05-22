@@ -1,0 +1,2 @@
+config.modnametooltip.formatting.modNameFormat=Формат имени мода
+config.modnametooltip.formatting.modNameFormat.comment=Как должно отображаться имя мода во всплывающей подсказке. Оставьте пустым, чтобы отключить. Допустимые модификаторы: %s

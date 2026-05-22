@@ -1,0 +1,35 @@
+item.item_endergy_alloy_crude_steel.name=Неочищенная сталь
+item.item_endergy_alloy_combustive_metal.name=Горючий металл
+item.item_endergy_alloy_crystalline_alloy.name=Кристаллический сплав
+item.item_endergy_alloy_melodic_alloy.name=Мелодичный сплав
+item.item_endergy_alloy_stellar_alloy.name=Звёздный сплав
+item.item_capacitor_grainy.name=Зернистый конденсатор
+item.item_capacitor_crystalline.name=Кристаллический конденсатор
+item.item_capacitor_melodic.name=Мелодичный конденсатор
+item.item_capacitor_stellar.name=Звёздный конденсатор
+item.item_capacitor_totemic.name=Тотемический конденсатор
+item.item_capacitor_silver.name=Серебряный конденсатор
+item.item_capacitor_energetic_silver.name=Энергетический серебряный конденсатор
+item.item_capacitor_vivid.name=Эндергизированный конденсатор
+enderio.item_endergy_conduit_cobble.name=Грубый энергоканал
+enderio.item_endergy_conduit_iron.name=Железный энергоканал
+enderio.item_endergy_conduit_gold.name=Золотой энергоканал
+enderio.item_endergy_conduit_silver.name=Серебряный энергоканал
+enderio.item_endergy_conduit_energetic_silver.name=Энергетический серебряный энергоканал
+enderio.item_endergy_conduit_electrum.name=Электрумовый энергоканал
+enderio.item_endergy_conduit_alu.name=Алюминиевый энергоканал
+enderio.item_endergy_conduit_copper.name=Медный энергоканал
+enderio.item_endergy_conduit_crystalline.name=Кристаллический энергоканал
+enderio.item_endergy_conduit_pink_slime.name=Кристаллический розово-слизневый энергоканал
+enderio.item_endergy_conduit_melodic.name=Мелодичный энергоканал
+enderio.item_endergy_conduit_stellar.name=Звёздный энергоканал
+item.item_stellar_alloy_sword.name=Эндер Марк IV
+item.item_stellar_alloy_sword.tooltip.detailed.line1=После 47 попыток Рэндальф наконец создал идеальное оружие!
+item.item_stellar_alloy_pickaxe.name=Звёздная кирка
+item.item_stellar_alloy_axe.name=Звёздный топор
+item.item_stellar_alloy_helmet.name=Звёздный шлем
+item.item_stellar_alloy_chestplate.name=Звёздный нагрудник
+item.item_stellar_alloy_leggings.name=Звёздные поножи
+item.item_stellar_alloy_boots.name=Звёздные ботинки
+
+

@@ -1,0 +1,8 @@
+config.backpackdisplay.displayrules.name=Правила отображения
+config.backpackdisplay.tooltip_rows.name=Строк подсказки
+config.backpackdisplay.tooltip_height.name=Высота подсказки
+config.backpackdisplay.full_digits.name=Полные цифры для метки количества
+config.backpackdisplay.needs_keybind.name=Требование клавиши
+config.backpackdisplay.offset_x.name=Смещение подсказки по X
+config.backpackdisplay.offset_y.name=Смещение подсказки по Y
+config.backpackdisplay.fluidSection.name=Раздел жидкостей

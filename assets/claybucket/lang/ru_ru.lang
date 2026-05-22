@@ -1,0 +1,10 @@
+item.claybucket:unfiredclaybucket.name=Необожжённое глиняное ведро
+item.claybucket:claybucket.name=Глиняное ведро
+item.claybucket:claybucket_water.name=Глиняное ведро с водой
+item.claybucket:claybucket_lava.name=Глиняное ведро с лавой
+chat.claybucketnether.0=Нет, здесь слишком жарко.
+chat.claybucketnether.1=Эй, так нельзя!
+chat.claybucketnether.2=Я не хочу злить свинолюдей.
+chat.claybucketnether.3=Нет, вода просто испарится.
+chat.claybucketnether.4=Ого, чуть не пролил воду.
+chat.claybucketnether.5=С железным ведром это не работает, почему должно работать с глиняным?

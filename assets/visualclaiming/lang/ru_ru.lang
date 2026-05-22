@@ -1,0 +1,5 @@
+visualores.button.chunk_claiming=Переключить отображение чанков FTB Utilities с возможностью захвата
+visualores.button.chunk_viewing=Переключить только отображение чанков FTB Utilities
+visualclaiming.team=Захвачено: %s
+visualclaiming.chunkedloaded=§cЧанк загружен
+visualclaiming.wilderness=§2Дикая местность

@@ -1,0 +1,13 @@
+tile.demagnetize.demagnetizer.name=Размагничиватель
+tile.demagnetize.demagnetizer_advanced.name=Продвинутый размагничиватель
+label.demagnetize.demagnetizer.filter.name=Фильтр
+label.demagnetize.demagnetizer.range.name=Радиус
+label.demagnetize.demagnetizer.blacklist.name=Чёрный список предметов
+label.demagnetize.demagnetizer.whitelist.name=Белый список предметов
+label.demagnetize.demagnetizer.rsignored.name=Игнорировать редстоун
+label.demagnetize.demagnetizer.rson.name=Вкл. по редстоуну
+label.demagnetize.demagnetizer.rsoff.name=Выкл. по редстоуну
+description.demagnetize.demagnetizer.1=Размагничиватели предотвращают подбор предметов магнитными предметами из разных модов в радиусе действия.
+description.demagnetize.demagnetizer.2=Могут использовать фильтры или управляться редстоуном.
+description.demagnetize.demagnetizer.3=Продвинутый размагничиватель имеет больший радиус и больше слотов фильтров.
+tooltip.demagnetize.configured.name=Настроен

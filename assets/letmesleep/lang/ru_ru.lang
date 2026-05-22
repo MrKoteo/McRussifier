@@ -1,0 +1,13 @@
+block.minecraft.bed.obstructed=Эта кровать заблокирована
+block.minecraft.bed.no_sleep.short_message=Вы можете спать только %s
+block.minecraft.bed.no_sleep.long_message=Вы можете спать только %s и %s
+block.minecraft.bed.no_sleep.night=ночью
+block.minecraft.bed.no_sleep.time=с %s до %s
+block.minecraft.bed.no_sleep.thunder=во время грозы
+block.minecraft.bed.no_sleep.rain=пока идёт дождь
+block.minecraft.bed.no_sleep.bad_weather=в непогоду
+block.minecraft.bed.spawn_set=Точка возрождения установлена
+multiplayer.spawn.button=Установить точку возрождения
+multiplayer.spawn.message=Точка возрождения: %s
+multiplayer.spawn.confirm=[Подтвердить]
+multiplayer.spawn.tooltip=Нажмите для подтверждения

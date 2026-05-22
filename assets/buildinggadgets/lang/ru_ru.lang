@@ -1,6 +1,3 @@
-#PARSE_ESCAPES
-itemGroup.buildingGadgets=Building Gadgets
-
 singles.buildinggadgets.depth=Глубина
 singles.buildinggadgets.down=Вниз
 singles.buildinggadgets.left=Влево
@@ -160,10 +157,6 @@ config.buildinggadgets.general.subCategoryPasteContainers.capacity.t2=Вмест
 config.buildinggadgets.general.subCategoryPasteContainers.capacity.t2.tooltip=Макс. вместимость контейнера T2 (золотой)
 config.buildinggadgets.general.subCategoryPasteContainers.capacity.t3=Вместимость T3
 config.buildinggadgets.general.subCategoryPasteContainers.capacity.t3.tooltip=Макс. вместимость контейнера T3 (алмазный)
-
-
-# add some missing
-
 
 tooltip.gadget.block=Блок
 tooltip.gadget.mode=Режим

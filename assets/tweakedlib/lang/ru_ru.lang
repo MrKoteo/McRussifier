@@ -1,0 +1,8 @@
+tweakedlib.jei.dimensions=Измерения
+tweakedlib.jei.dimension_whitelist=Белый список измерений:
+tweakedlib.jei.dimension_blacklist=Чёрный список измерений:
+tweakedlib.jei.power_tier=Уровень мощности машины:
+tweakedlib.jei.power_capacity=Ёмкость мощности машины:
+tweakedlib.jei.power_usage=Потребление мощности машины:
+tweakedlib.jei.lshift=Удерживайте LShift для дополнительной информации
+tweakedlib.hud.power_tier=Уровень мощности:

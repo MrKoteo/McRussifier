@@ -1,0 +1,271 @@
+psiaddons.misc.keybinding.category=Psi: Быстрый выбор
+psiaddons.misc.keybinding.slot0=Нет слота
+psiaddons.misc.keybinding.slot1=Слот 1
+psiaddons.misc.keybinding.slot2=Слот 2
+psiaddons.misc.keybinding.slot3=Слот 3
+psiaddons.misc.keybinding.slot4=Слот 4
+psiaddons.misc.keybinding.slot5=Слот 5
+psiaddons.misc.keybinding.slot6=Слот 6
+psiaddons.misc.keybinding.slot7=Слот 7
+psiaddons.misc.keybinding.slot8=Слот 8
+psiaddons.misc.keybinding.slot9=Слот 9
+psiaddons.misc.keybinding.slot10=Слот 10
+psiaddons.misc.keybinding.slot11=Слот 11
+psiaddons.misc.keybinding.slot12=Слот 12
+psiaddons.misc.keybinding.slotUp=Слот вверх
+psiaddons.misc.keybinding.slotDown=Слот вниз
+psiaddons.misc.keybinding.lastSlot=Последний выбранный слот
+
+item.psiaddons:psimetal_bow.name=Псиметаллический лук
+
+psi.spellpiece.trickNegateFallDamage=Фокус: Отмена урона от падения
+psi.spellpiece.trickNegateFallDamage.desc=Отменяет весь урон от падения на указанное время в секундах
+psi.spellpiece.trickGravityControl=Фокус: Контроль гравитации
+psi.spellpiece.trickGravityControl.desc=Устанавливает гравитацию в заданную долю на указанное время в секундах
+psi.spellpiece.trickMassGravityControl=Фокус: Массовый контроль гравитации
+psi.spellpiece.trickMassGravityControl.desc=Устанавливает гравитацию в заданную долю на указанное время в секундах для всех сущностей
+psi.spellpiece.trickCancelGravityControl=Фокус: Отмена контроля гравитации
+psi.spellpiece.trickCancelGravityControl.desc=Отменяет контроль гравитации на указанной сущности
+psi.spellpiece.trickMassCancelGravityControl=Фокус: Массовая отмена контроля гравитации
+psi.spellpiece.trickMassCancelGravityControl.desc=Отменяет контроль гравитации на указанных сущностях
+psi.spellpiece.trickFreezeEntity=Фокус: Заморозка сущности
+psi.spellpiece.trickFreezeEntity.desc=Замораживает сущность в текущем положении на указанное время
+psi.spellpiece.trickSetEntityLook=Фокус: Установка направления взгляда сущности
+psi.spellpiece.trickSetEntityLook.desc=Устанавливает направление, в котором смотрит сущность
+psi.spellpiece.trickTetherEntityToPosition=Фокус: Привязка сущности к позиции
+psi.spellpiece.trickTetherEntityToPosition.desc=Привязывает сущность к позиции магической верёвкой
+psi.spellpiece.trickCancelTetherEntity=Фокус: Отмена привязки сущности
+psi.spellpiece.trickCancelTetherEntity.desc=Отменяет действие фокуса привязки сущности
+psi.spellpiece.trickTetherEntityToEntity=Фокус: Привязка сущности к сущности
+psi.spellpiece.trickTetherEntityToEntity.desc=Связывает две сущности вместе магической верёвкой
+psi.spellpiece.trickGrappleEntityToPosition=Фокус: Притягивание сущности к позиции
+psi.spellpiece.trickGrappleEntityToPosition.desc=Притягивает сущность к указанной позиции
+
+psi.spellpiece.trickAirAOE=Фокус: Воздушная область воздействия
+psi.spellpiece.trickAirAOE.desc=Создаёт область воздействия воздуха в заданной позиции и радиусе, отталкивающую сущности
+psi.spellpiece.trickAirProjectile=Фокус: Воздушный шар
+psi.spellpiece.trickAirProjectile.desc=Создаёт воздушный снаряд, отталкивающий сущности при попадании
+psi.spellpiece.trickAirBlast=Фокус: Воздушный взрыв
+psi.spellpiece.trickAirBlast.desc=Выпускает взрыв воздуха в конусе заданной длины и диаметра, отталкивая сущности
+psi.spellpiece.trickAirWhirlwind=Фокус: Вихрь
+psi.spellpiece.trickAirWhirlwind.desc=Создаёт вихрь указанного размера, подбрасывающий сущности в воздух
+psi.spellpiece.trickSuffocateEntity=Фокус: Удушение
+psi.spellpiece.trickSuffocateEntity.desc=Удаляет воздух вокруг головы сущности, вызывая удушение
+psi.spellpiece.trickAirWall=Фокус: Воздушная стена
+psi.spellpiece.trickAirWall.desc=Создаёт стену воздуха, отталкивающую сущности
+# Земля
+psi.spellpiece.trickEarthAOE=Фокус: Земляная область воздействия
+psi.spellpiece.trickEarthAOE.desc=Создаёт землетрясение в заданной позиции и радиусе, наносящее урон сущностям (работает только на земле)
+psi.spellpiece.trickEarthBlast=Фокус: Земляной взрыв
+psi.spellpiece.trickEarthBlast.desc=Выпускает взрыв земли в конусе заданной длины и диаметра, отталкивая, нанося урон и оглушая сущности (только на земле)
+psi.spellpiece.trickEarthProjectile=Фокус: Земляной бросок
+psi.spellpiece.trickEarthProjectile.desc=Создаёт земляной снаряд, который при попадании отталкивает, наносит урон и оглушает сущности (только на земле)
+psi.spellpiece.trickEarthWall=Фокус: Земляная стена
+psi.spellpiece.trickEarthWall.desc=Поднимает стену земли из грунта
+psi.spellpiece.trickEarthLaunch=Фокус: Земляной подброс
+psi.spellpiece.trickEarthLaunch.desc=Вызывает дрожь в области вокруг позиции, наносящую урон сущностям и подбрасывающую их в воздух
+psi.spellpiece.trickEarthTremor=Фокус: Земная дрожь
+psi.spellpiece.trickEarthTremor.desc=Вызывает дрожь, наносящую урон сущностям и подбрасывающую их в воздух
+
+# Огонь
+psi.spellpiece.trickFireAOE=Фокус: Огненная область воздействия
+psi.spellpiece.trickFireAOE.desc=Создаёт область воздействия огня в заданной позиции и радиусе, наносящую урон и поджигающую сущности
+psi.spellpiece.trickFireProjectile=Фокус: Огненный шар
+psi.spellpiece.trickFireProjectile.desc=Создаёт огненный снаряд, который наносит урон, поджигает сущности при попадании
+psi.spellpiece.trickFireBlade=Фокус: Огненный клинок
+psi.spellpiece.trickFireBlade.desc=Создаёт огненный клинок заданной длины, проходящий сквозь сущности, нанося им урон и поджигая
+psi.spellpiece.trickFireBlast=Фокус: Огненный взрыв
+psi.spellpiece.trickFireBlast.desc=Выпускает взрыв огня в конусе заданной длины и радиуса, нанося урон и поджигая сущности
+psi.spellpiece.trickFireWall=Фокус: Огненная стена
+psi.spellpiece.trickFireWall.desc=Создаёт стену огня, наносящую урон и поджигающую сущности
+psi.spellpiece.trickBlazeArea=Фокус: Область пылания
+psi.spellpiece.trickBlazeArea.desc=Заставляет область вокруг позиции пылать
+psi.spellpiece.trickBlazePath=Фокус: Пылающий путь
+psi.spellpiece.trickBlazePath.desc=Создаёт пылающий путь заданной длины и ширины
+# Лёд
+psi.spellpiece.trickIceAOE=Фокус: Ледяная область воздействия
+psi.spellpiece.trickIceAOE.desc=Создаёт область воздействия льда в заданной позиции и радиусе, наносящую урон и замораживающую сущности
+psi.spellpiece.trickIceBlast=Фокус: Ледяной взрыв
+psi.spellpiece.trickIceBlast.desc=Выпускает взрыв льда в конусе заданной длины и радиуса, нанося урон и замораживая сущности
+psi.spellpiece.trickIceProjectile=Фокус: Ледяной шип
+psi.spellpiece.trickIceProjectile.desc=Создаёт ледяной снаряд, который наносит урон и замораживает сущности при попадании
+psi.spellpiece.trickIceWall=Фокус: Ледяная стена
+psi.spellpiece.trickIceWall.desc=Создаёт стену льда, блокирующую атаки
+psi.spellpiece.trickFreezePath=Фокус: Замораживание пути
+psi.spellpiece.trickFreezePath.desc=Замораживает путь заданной длины и ширины
+psi.spellpiece.trickFreezeArea=Фокус: Замораживание области
+psi.spellpiece.trickFreezeArea.desc=Замораживает область вокруг позиции
+psi.spellpiece.trickIceSpikes=Фокус: Ледяные шипы
+psi.spellpiece.trickIceSpikes.desc=Создаёт ледяные шипы, выстреливающие из заданной позиции, наносящие урон и замораживающие сущности
+# Молния
+psi.spellpiece.trickLightningAOE=Фокус: Область воздействия молнии
+psi.spellpiece.trickLightningAOE.desc=Создаёт область воздействия молнии в заданной позиции, наносящую урон сущностям
+psi.spellpiece.trickLightningBlast=Фокус: Взрыв молнии
+psi.spellpiece.trickLightningBlast.desc=Выпускает взрыв молнии в конусе заданной длины и радиуса, нанося урон сущностям
+psi.spellpiece.trickLightningBolt=Фокус: Удар молнии
+psi.spellpiece.trickLightningBolt.desc=Создаёт удар молнии, наносящий урон сущностям при попадании
+psi.spellpiece.trickLightningProjectile=Фокус: Шар молнии
+psi.spellpiece.trickLightningProjectile.desc=Выстреливает шаром молнии, который поражает врагов и наносит урон при попадании
+psi.spellpiece.trickLightningChain=Фокус: Цепная молния
+psi.spellpiece.trickLightningChain.desc=Вызывает цепную молнию между сущностями в заданном списке; урон по каждой сущности обратно пропорционален их количеству
+psi.spellpiece.trickLightningWall=Фокус: Стена молнии
+psi.spellpiece.trickLightningWall.desc=Создаёт стену молнии, наносящую урон сущностям
+# Псион
+psi.spellpiece.trickMagicAOE=Фокус: Область воздействия псиона
+psi.spellpiece.trickMagicAOE.desc=Создаёт концентрированную область воздействия псиона в заданной позиции, наносящую урон сущностям
+psi.spellpiece.trickMagicProjectile=Фокус: Псионическая пуля
+psi.spellpiece.trickMagicProjectile.desc=Создаёт пулю из псиона, которая наносит урон сущностям при попадании
+psi.spellpiece.trickMagicBeam=Фокус: Псионный луч
+psi.spellpiece.trickMagicBeam.desc=Создаёт луч концентрированного псиона заданной длины и радиуса, наносящий урон сущностям (перезарядка 5 секунд)
+psi.spellpiece.trickLaser=Фокус: Лазер
+psi.spellpiece.trickLaser.desc=Генерирует псионический лазер, наносящий урон сущностям
+psi.spellpiece.trickMagicBlast=Фокус: Взрыв псиона
+psi.spellpiece.trickMagicBlast.desc=Выпускает взрыв концентрированного псиона в конусе заданной длины и радиуса, нанося урон сущностям
+psi.spellpiece.trickMagicWall=Фокус: Стена псиона
+psi.spellpiece.trickMagicWall.desc=Создаёт стену концентрированного псиона, наносящую урон сущностям
+psi.spellpiece.trickPhantomArrow=Фокус: Псионическая стрела
+psi.spellpiece.trickPhantomArrow.desc=Призывает псионическую стрелу, которая наносит урон сущностям
+# Высшие
+psi.spellpiece.trickMistDispersion=Фокус: Рассеивание в туман
+psi.spellpiece.trickMistDispersion.desc=Рассеивает указанную сущность с здоровьем не выше заданного максимума на атомном уровне (сущность не выпадает)
+psi.spellpiece.trickPlasmaFormation=Фокус: Плазменное образование
+psi.spellpiece.trickPlasmaFormation.desc=Сжимает воздух в указанном месте, образуя плазму, которая притягивает сущности и наносит огромный урон
+psi.spellpiece.trickRupture=Фокус: Разрыв
+psi.spellpiece.trickRupture.desc=Испаряет все жидкости внутри указанной сущности, вызывая взрыв тела (не работает на сущностях без жидкостей)
+# Вода
+psi.spellpiece.trickDrownEntity=Фокус: Утопление
+psi.spellpiece.trickDrownEntity.desc=Создаёт воду внутри лёгких сущности, вызывая утопление (не работает, если у цели есть дыхание под водой)
+psi.spellpiece.trickWaterAOE=Фокус: Водная область воздействия
+psi.spellpiece.trickWaterAOE.desc=Создаёт область воздействия воды в заданной позиции, наносящую урон и отталкивающую сущности (требуется исходный блок)
+psi.spellpiece.trickWaterBlast=Фокус: Водный взрыв
+psi.spellpiece.trickWaterBlast.desc=Выпускает взрыв воды в конусе заданной длины и радиуса, отталкивая и нанося урон сущностям (требуется исходный блок)
+psi.spellpiece.trickWaterProjectile=Фокус: Водный снаряд
+psi.spellpiece.trickWaterProjectile.desc=Создаёт шар воды, который при попадании отталкивает и наносит урон сущностям (требуется исходный блок)
+psi.spellpiece.trickWaterWall=Фокус: Водная стена
+psi.spellpiece.trickWaterWall.desc=Создаёт стену воды
+psi.spellpiece.trickWaterSurgePath=Фокус: Волновой путь
+psi.spellpiece.trickWaterSurgePath.desc=Создаёт волну воды в заданном направлении с указанной высотой и шириной
+
+# Психика
+psi.spellpiece.trickTeleportation=Фокус: Телепортация
+psi.spellpiece.trickTeleportation.desc=Телепортироваться к заданным координатам в измерении
+
+# Кровь
+psi.spellpiece.trickHeal=Фокус: Исцеление
+psi.spellpiece.trickHeal.desc=Исцеляет цель на указанное количество здоровья
+
+# - БЛОК
+psi.spellpiece.trickFreezeBlock=Фокус: Заморозка блока
+psi.spellpiece.trickFreezeBlock.desc=Замораживает блок в заданной позиции на указанное время в тактах
+psi.spellpiece.trickFreezeBlockRadius=Фокус: Последовательная заморозка блоков
+psi.spellpiece.trickFreezeBlockRadius.desc=Замораживает блоки в заданной позиции в радиусе на указанное время в тактах
+
+# - ЗАЩИТА
+psi.spellpiece.trickFortificationArmour=Фокус: Укрепление брони
+psi.spellpiece.trickFortificationArmour.desc=Укрепляет броню указанной сущности, что снижает физический урон (эффективнее с большим количеством частей брони)
+psi.spellpiece.trickFortificationItem=Фокус: Укрепление оружия
+psi.spellpiece.trickFortificationItem.desc=Укрепляет указанное оружие, увеличивая его урон и прочность
+psi.spellpiece.trickFortifcationMagic=Фокус: Укрепление магической защиты
+psi.spellpiece.trickFortifcationMagic.desc=Укрепляет магическую защиту указанной сущности, снижая урон от магии
+psi.spellpiece.trickInterferenceArmour=Фокус: Интерференционная броня
+psi.spellpiece.trickInterferenceArmour.desc=Создаёт помехи для всех заклинаний в заданном радиусе вокруг сущности, блокируя их
+psi.spellpiece.trickReflection=Фокус: Отражение
+psi.spellpiece.trickReflection.desc=Обращает скорость любых снарядов, коснувшихся сущности, на указанное время в секундах
+psi.spellpiece.trickZoneInterference=Фокус: Зональные помехи
+psi.spellpiece.trickZoneInterference.desc=Создаёт помехи для всех заклинаний в заданном радиусе вокруг позиции, блокируя их
+
+# - РАЗНОЕ
+psi.spellpiece.trickDetectEntities=Фокус: Обнаружение
+psi.spellpiece.trickDetectEntities.desc=Добавляет эффект спектральной стрелы ко всем сущностям в заданном списке на время в секундах
+psi.spellpiece.trickBreakLoopcast=Фокус: Прерывание зацикленного чародейства
+psi.spellpiece.trickBreakLoopcast.desc=Останавливает зацикленное чародейство, если цель находится в диапазоне ]-1, 1[
+
+# -- СЕЛЕКТОРЫ --
+psi.spellpiece.selectorNearbyAll=Селектор: Ближайшие сущности
+psi.spellpiece.selectorNearbyAll.desc=Выбирает сущности любого типа рядом с заданной позицией
+
+# -- ОПЕРАТОРЫ --
+psi.spellpiece.operatorEntityRaycast=Оператор: Трассировка сущности
+psi.spellpiece.operatorEntityRaycast.desc=Выполняет трассировку из позиции в заданном направлении и возвращает сущность (работает сквозь блоки)
+psi.spellpiece.operatorFurthestFromPoint=Оператор: Наиболее удалённая от точки
+psi.spellpiece.operatorFurthestFromPoint.desc=Возвращает сущность из списка, наиболее удалённую от заданной точки
+psi.spellpiece.operatorListLength=Оператор: Длина списка
+psi.spellpiece.operatorListLength.desc=Возвращает длину заданного списка
+psi.spellpiece.operatorVectorWaterWrapper=Оператор: Обёртка вектора (вода)
+psi.spellpiece.operatorVectorWaterWrapper.desc=Обёртка, содержащая вектор позиции, направления и исходной позиции
+psi.spellpiece.operatorVectorWrapper=Оператор: Обёртка вектора
+psi.spellpiece.operatorVectorWrapper.desc=Обёртка, содержащая вектор позиции и направления
+psi.spellpiece.operatorDefaultVector=Оператор: Вектор по умолчанию
+psi.spellpiece.operatorDefaultVector.desc=Возвращает Вектор 2, если Вектор 1 равен null, иначе возвращает Вектор 1
+psi.spellpiece.operatorGetBowCharge=Оператор: Получить заряд лука
+psi.spellpiece.operatorVectorWrapper.desc=Получает значение заряда псиметаллического лука в диапазоне [0.0, 1.0]
+psi.spellpiece.operatorGetEntityHealth=Оператор: Получить здоровье сущности
+psi.spellpiece.operatorGetEntityHealth.desc=Получает здоровье сущности
+
+# -- КОНСТАНТЫ --
+psi.spellpiece.constantWallParameterWrapper=Константа: Обёртка параметров стены
+psi.spellpiece.constantWallParameterWrapper.desc=Константа: объединяет значения высоты, длины и ширины в один фрагмент
+
+
+# ГРУППЫ ФОКУСОВ
+psi.piecegroup.movementAddons=Дополнения движения
+psi.piecegroup.movementAddons.desc=Эта группа добавляет фокусы, связанные с движением.<br><br>Управление гравитацией принимает параметр сущности, число (долю желаемой гравитации, например 0.5 для половины), и время действия заклинания в секундах. Также есть массовое управление гравитацией, которое работает так же, но принимает список сущностей. Включён также фокус для отмены управления гравитацией.<br><br>Отмена урона от падения довольно очевидна: принимает параметры сущности и времени.<br><br>Заморозка сущности замораживает её в текущей позиции на заданное время.<br><br>Привязка сущности к позиции и привязка сущности к сущности действуют аналогично поводку в ванильном Minecraft и существуют заданное время.<br><br>Притягивание сущности похоже на привязку, но притягивает указанную сущность к желаемой позиции.<br><br>Установка направления взгляда устанавливает вектор взгляда сущности на заданный.
+psi.piecegroup.psionAbilities=Способности на основе псиона
+psi.piecegroup.psionAbilities.desc=Эта группа добавляет набор фокусов, наносящих урон с помощью псиона.<br><br>Атака областью псиона принимает параметры позиции, радиуса и множителя урона и наносит урон в сфере указанного радиуса.<br><br>Псионическая пуля, псионный луч и взрыв псиона принимают параметр «обёртка вектора». Этот параметр содержит позицию и направление. Его можно опустить, тогда фокус появится перед заклинателем в направлении его взгляда. Псионическая пуля принимает обёртку вектора и множитель урона и создаёт снаряд, наносящий урон сущностям при попадании. Псионный луч создаёт луч магической силы указанной длины и радиуса в заданном направлении. Псионный луч имеет перезарядку 5 секунд между использованиями. Взрыв псиона создаёт конус магической силы заданной длины и диаметра.<br><br>Также есть группы для каждого типа элементальной магии, основанные на этих заклинаниях.
+psi.piecegroup.airAbilities=Способности воздуха
+psi.piecegroup.airAbilities.desc=Каждый из этих фокусов работает очень похоже на свои базовые заклинания, однако воздушные атаки не наносят урон, а только отталкивают сущности — чтобы вызвать урон от падения или очистить область. Также включены воздушная стена, вихрь и удушение.<br><br>Воздушная стена создаёт стену воздуха в желаемой позиции и направлении (или перед заклинателем, если не указано) и отталкивает сущности, входящие в неё. Вихрь создаёт небольшой вихрь, который подбрасывает в воздух любые сущности, с которыми соприкасается. Наконец, удушение лишает сущность дыхания, нанося ей урон.
+psi.piecegroup.earthAbilities=Способности земли
+psi.piecegroup.earthAbilities.desc=(ВНИМАНИЕ: СЛЕГКА БАГОВИТО)<br><br>Эти атаки требуют, чтобы позиция фокуса находилась на земле, камне и т.п., и отбрасывают сущности, нанося им урон. Преимущество ограниченности землёй — низкая стоимость пси для высокого урона.
+psi.piecegroup.fireAbilities=Способности огня
+psi.piecegroup.fireAbilities.desc=Эти атаки работают так же, как их базовые аналоги, но также поджигают повреждённых сущностей. Также включён огненный клинок, который работает как огненный шар, но в форме клинка указанной длины. Огненная стена создаёт стену огня, наносящую урон и поджигающую сущностей, проходящих сквозь неё. Пылающий путь и область пылания зажигают огонь на земле в виде пути или области вокруг позиции.
+psi.piecegroup.iceAbilities=Способности льда
+psi.piecegroup.iceAbilities.desc=Эти атаки работают так же, как их базовые заклинания, но также накладывают эффект замедления на затронутых сущностей.
+psi.piecegroup.lightningAbilities=Способности молнии
+psi.piecegroup.lightningAbilities.desc=Атаки молнии также добавляют длительный электрический эффект повреждённым сущностям, который продолжает наносить урон. Кроме того, вместо снаряда включён удар молнии, который мгновенно поражает в направлении на 32 блока, нанося урон всем сущностям на пути. Также есть цепная молния, при которой молния перепрыгивает между всеми сущностями в указанном списке, нанося им урон. Однако общая мощность распределяется между сущностями.
+psi.piecegroup.ultimateAbilities=Высшие способности
+psi.piecegroup.ultimateAbilities.desc=Эти атаки самые мощные и могут мгновенно убивать сущностей. Рассеивание в туман принимает параметр сущности и параметр максимального здоровья. При активации, если здоровье сущности ниже параметра, она мгновенно уничтожается и не выпадает. Этот фокус работает на любой сущности.<br><br>Разрыв действует аналогично рассеиванию, но расширяет все жидкости внутри цели, вызывая разрыв тела. Сущность выпадает, но заклинание требует секунды на применение и не работает на сущностях без жидкостей, например скелетах.<br><br>Плазменное образование сверхсжимает воздух в желаемой позиции, создавая шар плазмы, который притягивает сущности и наносит огромный урон.
+psi.piecegroup.waterAbilities=Способности воды
+psi.piecegroup.waterAbilities.desc=(ВНИМАНИЕ: СЛЕГКА БАГОВИТО)<br><br>Водные атаки немного отличаются от других, так как используют «водную обёртку вектора», поскольку эти фокусы требуют исходный блок воды (включая листья и снег). Водные заклинания наносят урон и отталкивают сущностей. Утопление создаёт воду внутри лёгких сущности, нанося ей урон.
+psi.piecegroup.defenseAbilities=Защитные способности
+psi.piecegroup.defenseAbilities.desc=Пока единственный фокус здесь — отражение, которое принимает параметры радиуса и длительности. В течение указанного времени все сущности в радиусе, движущиеся к вам, меняют направление движения на противоположное. Также отражает весь урон и защищает от взрывов.
+psi.piecegroup.miscAddons=Разные дополнения
+psi.piecegroup.miscAddons.desc=Обнаружение сущностей просто накладывает эффект спектральной стрелы на каждую сущность в списке на заданное время.<br><br>Получить заряд лука возвращает заряд псиметаллического лука, если заклинатель использует его.<br><br>Трассировка сущности работает точно так же, как трассировка вектора, но возвращает сущность и игнорирует блоки.<br><br>Длина списка возвращает количество элементов в объекте-списке.<br><br>Наиболее удалённая от точки очевидна и работает противоположно ближайшей к точке.<br><br>Вектор по умолчанию можно использовать для указания альтернативного вектора, если первый передан как null.
+psi.piecegroup.bloodAbilities=Манипуляция кровью
+psi.piecegroup.psychicAbilities=Психические способности
+psi.piecegroup.psychicAbilities.desc=Телепортация позволяет указать измерение и позицию для телепортации. Требуется время на подготовку; если вы двигаетесь или вас атакуют, концентрация нарушается, и заклинание отменяется. Телепортироваться можно только на позиции, находящиеся на земле.
+
+# ПАРАМЕТРЫ ЗАКЛИНАНИЙ
+psi.spellparam.entity1=Сущность A
+psi.spellparam.entity2=Сущность B
+psi.spellparam.health=Здоровье
+psi.spellparam.sourceblock=Источник
+psi.spellparam.diameter=Диаметр
+psi.spellparam.spellparameters=Параметры
+psi.spellparam.length=Длина
+psi.spellparam.height=Высота
+psi.spellparam.width=Ширина
+psi.spellparam.wallparamwrapper=Размеры стены
+psi.spellparam.rotation=Вращение
+psi.spellparam.destroyBlocks=Уничтожать блоки
+psi.spellparam.dimension=Измерение
+
+# ТИПЫ ДАННЫХ
+psi.datatype.VectorWrapper=Обёртка вектора
+
+# ОШИБКИ КОМПИЛЯЦИИ ЗАКЛИНАНИЙ
+psi.spellerror.maxhealthtoolow=Максимальное здоровье должно быть не менее 10
+psi.spellerror.outofbounds=Значение выходит за границы
+psi.spellerror.invaliddimension=Неверный ID измерения
+psi.spellerror.unsafeteleport=Небезопасная точка телепортации
+
+# ОШИБКИ ВРЕМЕНИ ВЫПОЛНЕНИЯ ЗАКЛИНАНИЙ
+psi.spellerror.maxhealthhigher=ОШИБКА: Здоровье сущности слишком высоко
+psi.spellerror.targetfortified=ОШИБКА: Сущность укреплена
+psi.spellerror.noearth=ОШИБКА: В этой позиции нет земли
+psi.spellerror.nowater=ОШИБКА: В этой позиции нет воды
+psi.spellerror.cooldown=ОШИБКА: Это заклинание перезаряжается
+psi.spellerror.noflatground=ОШИБКА: В этом месте нет ровной земли
+psi.spellerror.selfdisperion=ОШИБКА: Бро, не надо так
+
+# ИМЕНА ТИПОВ ДАННЫХ
+psi.datatype.ElementalBlastWrapper=Обёртка параметров

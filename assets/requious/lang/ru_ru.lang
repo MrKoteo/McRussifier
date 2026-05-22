@@ -1,0 +1,8 @@
+requious.duration.ticks=%s тиков
+requious.duration.seconds=%s секунд
+requious.duration.minutes=%s минут
+requious.duration.hours=%s часов
+requious.duration.instant=Мгновенно
+requious.fluid.empty=Пусто
+requious.text.test=Я живу уже %s тиков
+requious.text.owner=Владелец: %s

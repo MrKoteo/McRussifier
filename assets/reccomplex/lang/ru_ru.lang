@@ -1,0 +1,474 @@
+item.blockSelector.name=Выбор блоков
+item.blockSelectorFloating.name=Плавающий выбор блоков
+item.inventoryGenerationTag.name=Тег генерации добычи
+item.inventoryGenerationSingleTag.name=Тег генерации единичной добычи
+item.inventoryGenerationComponentTag.name=Тег компонента таблицы добычи
+item.artifactGenerationTag.name=Тег генерации артефактов
+item.bookGenerationTag.name=Тег генерации книг
+item.recinspector.name=Инспектор\ntile.negativeSpace.name=Пустота
+tile.negativeSpace.meta.0.name=Пустота (0 ~ Отрицательное пространство)
+tile.negativeSpace.meta.1.name=Пустота (1 ~ Естественный воздух)
+tile.negativeSpace.meta.2.name=Пустота (2)
+tile.negativeSpace.meta.3.name=Пустота (3)
+tile.negativeSpace.meta.4.name=Пустота (4)
+tile.negativeSpace.meta.5.name=Пустота (5)
+tile.negativeSpace.meta.6.name=Пустота (6)
+tile.negativeSpace.meta.7.name=Пустота (7)
+tile.negativeSpace.meta.8.name=Пустота (8)
+tile.negativeSpace.meta.9.name=Пустота (9)
+tile.negativeSpace.meta.10.name=Пустота (10)
+tile.negativeSpace.meta.11.name=Пустота (11)
+tile.negativeSpace.meta.12.name=Пустота (12)
+tile.negativeSpace.meta.13.name=Пустота (13)
+tile.negativeSpace.meta.14.name=Пустота (14)
+tile.negativeSpace.meta.15.name=Пустота (15)
+tile.naturalFloor.name=Твёрдый блок
+tile.naturalFloor.meta.0.name=Твёрдый (0 ~ Естественная поверхность)
+tile.naturalFloor.meta.1.name=Твёрдый (1 ~ Барьер)
+tile.naturalFloor.meta.2.name=Твёрдый (2)
+tile.naturalFloor.meta.3.name=Твёрдый (3)
+tile.naturalFloor.meta.4.name=Твёрдый (4)
+tile.naturalFloor.meta.5.name=Твёрдый (5)
+tile.naturalFloor.meta.6.name=Твёрдый (6)
+tile.naturalFloor.meta.7.name=Твёрдый (7)
+tile.naturalFloor.meta.8.name=Твёрдый (8)
+tile.naturalFloor.meta.9.name=Твёрдый (9)
+tile.naturalFloor.meta.10.name=Твёрдый (10)
+tile.naturalFloor.meta.11.name=Твёрдый (11)
+tile.naturalFloor.meta.12.name=Твёрдый (12)
+tile.naturalFloor.meta.13.name=Твёрдый (13)
+tile.naturalFloor.meta.14.name=Твёрдый (14)
+tile.naturalFloor.meta.15.name=Твёрдый (15)
+tile.structureGenerator.name=Генератор структур
+tile.mazeGenerator.name=Генератор лабиринтов
+tile.spawnCommand.name=Блок команд появления
+tile.spawn_script.name=Блок скриптов\nitemGroup.structureTools=Инструменты структур
+itemGroup.inventoryGenerators=Лут\ncommands.rc.noEntityInfo=Отправитель не обрабатывает информацию о структуре!
+commands.rc.noSelection=Отправитель не обрабатывает выделения!
+commands.rc.large.warn=Выделение очень большое! Это может занять некоторое время.
+commands.rc.large.error=Выделение слишком большое! (А если бы нет, то выполнение этой команды, вероятно, заняло бы несколько дней!)\ncommands.structure.notGeneric=Структура '%s' не является общей!
+commands.structure.notRegistered=Не найдено структуры с именем '%s'!\ncommands.strucGen.failure=Не удалось создать структуру: %s
+commands.strucGen.noStructure=Нет зарегистрированной структуры с именем '%s'\ncommands.strucImport.noStructure=Нет зарегистрированной структуры с именем '%s'\ncommands.selectSet.get=Выделение: %s
+commands.selectSet.size=Размер: %s (%s блоков)\ncommands.selectModify.noSelection=У игрока нет полного выделения
+commands.selectModify.invalidMetadata=Метаданные должны быть в формате '0,1,5', а получено '%s'\ncommands.strucReload.success=Перезагружено %s файлов.\ncommands.selectCopy.success=Скопировано (%s) в буфер обмена\ncommands.strucPaste.noClipboard=Сначала нужно скопировать область!\ncommands.rcpreview.invalid=Неверный тип предпросмотра
+commands.rcpreview.success=Тип предпросмотра установлен на '%s'\ncommands.rc.noOperation=Нет операции в очереди
+commands.rc.queuedOp=Операция в режиме предпросмотра - %s или %s
+commands.rcconfirm.run=Выполнить операцию
+commands.rccancel.run=Отменить операцию\ncommands.rcreopen.run=Открыть GUI заново
+commands.rcreopen.nogui=Нет GUI для повторного открытия!
+commands.rcreopen.fail=Не удалось переоткрыть GUI!
+commands.rc.didhide=GUI скрыт - %s?\ncommands.rcimportschematic.missing=Файл '%s' не найден в %s
+commands.rcimportschematic.format=Файл '%s' имеет неподдерживаемый формат (%s)\ncommands.strucExportSchematic.success=Схема экспортирована в %s\ncommands.biomedict.get=Типы биомов для %s: %s
+commands.biomedict.get.number=Поиск (%s биомов)
+commands.biomedict.list=Биомы типа %s: %s
+commands.biomedict.list.number=Поиск (%s типов)\ncommands.dimensiondict.get=Типы измерений для %d: %s
+commands.dimensiondict.get.number=Поиск (%s измерений)
+commands.dimensiondict.list=Измерения типа %s: %s
+commands.dimensiondict.list.number=Поиск (%s типов)\ncommands.rcvisual.enabled='%s' успешно включён
+commands.rcvisual.disabled='%s' успешно отключён\ncommands.whatisthis.none=Здесь ничего нет!
+commands.whatisthis.one=Это: %s
+commands.whatisthis.many=Это что-то из: %s\ncommands.rcarea.get=%s до %s
+commands.rcarea.select=Выбрать эту область
+commands.rcpos.none=§oнигде§r
+commands.rccopy.suggest=Копировать\ncommands.rcsightinfo.lookup=Информация о появлении
+commands.rcsightinfo.unknown=Неизвестный UUID появления!
+commands.rcsightinfo.get=%s %s, ID: %s
+commands.rcsightinfo.structure=%s %s, Сид: %s, ID: %s
+commands.rcforget.forget=Забыть %s
+commands.rcforget.success=%s забыт(а)!
+commands.rcforgetall.success=Забыто %s структур!\ncommands.rcremember.success=%s запомнен(а)!\ncommands.rclookup.reply.silent=%s: §bНеактивен§r, автор: %s, является %s, %s
+commands.rclookup.reply.generates=%s: §bГенерируется§r, автор: %s, является %s, %s
+commands.rclookup.reply.noauthor=§oНеизвестно§r
+commands.rclookup.reply.nolink=§oСсылка не указана§r
+commands.rclookup.reply.comment=Комментарий: %s\ncommands.rclist.previous=Предыдущая страница
+commands.rclist.next=Следующая страница
+commands.rclist.none=Нет структур\ncommands.rcsearch.empty=Нет результатов!
+commands.rcsearch.lookup=Найти\ncommands.rcdecorateone.none=Не найдено подходящих структур!
+commands.rcretro.count=Сгенерировано заново %s чанков!\ncommands.rcsave.noregistry=Нет такого идентификатора реестра!
+commands.rcsave.nodirectory=Нет такого идентификатора каталога!
+commands.rcsaveall.result=Сохранено %s элементов в %s. %s не удалось.
+commands.rcmap.nonvirtual=Нельзя отобразить этой командой!
+commands.rcmap.nonvirtual.arguments=Нельзя отобразить с этими аргументами команды!
+commands.rcmapall.result=Сохранено %s элементов в %s. %s не удалось. %s пропущено.\ninventoryGen.vanilla=Ванильная таблица добычи
+inventoryGen.custom=Пользовательская таблица добычи
+inventoryGen.create=Создать новую таблицу добычи
+inventoryGen.none=Нет таблицы добычи
+inventoryGen.mod=Таблица добычи мода
+inventoryGen.active=%sАктивна%s
+inventoryGen.inactive=%sНеактивна%s\nreccomplex.server.status=<Recurrent Complex> Загружено %s активных структур: %s %s %s %s\nreccomplex.save.permission=У вас нет прав на сохранение!
+reccomplex.save.failure=Не удалось сохранить %s в %s
+reccomplex.save.full=%s: %s
+reccomplex.save.success=%s сохранён в %s
+reccomplex.save.submit=[Отправить]
+reccomplex.save.submit.hover=Отправить в репозиторий
+reccomplex.delete.failure=Не удалось удалить %s из %s
+reccomplex.delete.success=%s удалён из %s\nreccomplex.configgui.title=Конфигурация генерации структур
+reccomplex.configgui.ctgy.general=Основное
+reccomplex.configgui.ctgy.general.tooltip=Основные настройки
+reccomplex.configgui.ctgy.visual=Визуальное
+reccomplex.configgui.ctgy.visual.tooltip=Настройки отображения
+reccomplex.configgui.ctgy.balancing=Баланс
+reccomplex.configgui.ctgy.balancing.tooltip=Настройки, влияющие на баланс мода
+reccomplex.configgui.ctgy.controls=Управление
+reccomplex.configgui.ctgy.controls.tooltip=Настройки управления
+reccomplex.configgui.ctgy.decoration=Декорации
+reccomplex.configgui.ctgy.decoration.tooltip=Настройки переопределения ванильных декораций\nreccomplex.structure.metadata=Метаданные
+reccomplex.structure.metadata.tooltip=Текстовые данные, описывающие структуру,<br>например автор или комментарий.
+reccomplex.structure.generation=Генерация
+reccomplex.structure.generation.tooltip=Как структура генерируется в мире.
+reccomplex.structure.transformers=Трансформеры
+reccomplex.structure.transformers.tooltip=Скрипты, изменяющие генерацию<br>структуры случайным образом.
+reccomplex.structure.dependencies=Зависимости
+reccomplex.structure.dependencies.tooltip=Если не совпадают, структура не будет генерироваться.<br>Технически это не обязательно,<br>но поможет с модовыми структурами.
+reccomplex.structure.orientation=Ориентация
+reccomplex.structure.orientation.tooltip=Может ли структура быть повёрнута или отражена.<br>Возможно, потребуется установить значение false<br>при использовании определённых TileEntity или сущностей.
+reccomplex.structure.rotatable.true=§aПоворачиваемая§r
+reccomplex.structure.rotatable.false=§7Не поворачиваемая§r
+reccomplex.structure.mirrorable.true=§aОтражаемая§r
+reccomplex.structure.mirrorable.false=§7Не отражаемая§r
+reccomplex.structure.blocking=Блокировка
+reccomplex.structure.blocking.true=§aБлокирующая§r
+reccomplex.structure.blocking.false=§7Не блокирующая§r
+reccomplex.structure.blocking.tooltip=Блокирует ли структура появление других<br>структур в том же месте.
+reccomplex.structure.randomrange=Случайное значение между двумя величинами.\nreccomplex.structure.variables=Локальные переключатели
+reccomplex.structure.variables.tooltip=Переключатели, специфичные для структуры,<br>которые могут использоваться в выражениях<br>окружения везде внутри<br>структуры.
+reccomplex.structure.variables.id=Идентификатор
+reccomplex.structure.variables.id.tooltip=Уникальный идентификатор переключателя<br>(используется в выражениях)
+reccomplex.structure.variables.chance=Шанс
+reccomplex.structure.variables.chance.tooltip=Шанс срабатывания переключателя (-> истина)
+reccomplex.structure.variables.logical=Логический
+reccomplex.structure.variables.logical.tooltip=Истина, если переключатель влияет на логику размещения<br>(например, выходы из лабиринта).<br>Ложь, если он чисто визуальный.
+reccomplex.structure.variables.condition=Условие\nreccomplex.structure.id=ID структуры
+reccomplex.structure.id.tooltip=Уникальный идентификатор структуры.
+reccomplex.structure.directory=Место сохранения
+reccomplex.structure.deleteOther.true=%sУдаление%s противоположного
+reccomplex.structure.deleteOther.false=%sСохранение%s противоположного
+reccomplex.structure.deleteOther.tooltip=Примечание: Структуры в папке %s<br>имеют приоритет загрузки<br>над структурами в папке %s.\nreccomplex.structure.generation.id=ID генерации
+reccomplex.structure.generation.id.tooltip=Идентификатор типа генерации.<br>Уникален в пределах файла структуры.\nreccomplex.generationInfo.natural=Естественная
+reccomplex.generationInfo.natural.tooltip=Случайная генерация в любом биоме
+reccomplex.generationInfo.natural.category=Категория
+reccomplex.generationInfo.natural.limitations=Ограничения
+reccomplex.generationInfo.natural.limitation.context.world=На мир
+reccomplex.generationInfo.natural.limitation.context.dimension=На измерение
+reccomplex.generationInfo.natural.limitation.context.dimension.tooltip=Структура встречается не более x раз<br>на измерение.
+reccomplex.generationInfo.natural.limitation.context.x_chunks=Каждые X чанков\nreccomplex.generationInfo.mazeComponent=Компонент лабиринта
+reccomplex.generationInfo.mazeComponent.mazeid=ID лабиринта
+reccomplex.generationInfo.mazeComponent.tooltip=Комната в лабиринте.
+reccomplex.generationInfo.mazeComponent.title=В лабиринте: %s
+reccomplex.generationInfo.mazeComponent.rooms=Комнаты
+reccomplex.generationInfo.mazeComponent.rooms.tooltip=Комнаты, которые занимает этот компонент.<br>Учтите, что они масштабируются в соответствии<br>с размером комнаты лабиринта.
+reccomplex.generationInfo.mazeComponent.exits=Выходы
+reccomplex.generationInfo.mazeComponent.exits.tooltip=Выходы, ведущие из этого компонента.<br>Учтите, что они масштабируются в соответствии<br>с размером комнаты лабиринта.
+reccomplex.generationInfo.mazeComponent.reachability=Достижимость
+reccomplex.generationInfo.mazeComponent.position.x=Позиция (x)
+reccomplex.generationInfo.mazeComponent.position.x.tooltip=Позиция этого выхода по оси восток/запад.<br>Учтите, что она масштабируется в соответствии<br>с размером комнаты лабиринта.
+reccomplex.generationInfo.mazeComponent.position.y=Позиция (y)
+reccomplex.generationInfo.mazeComponent.position.y.tooltip=Позиция этого выхода по оси вверх/вниз.<br>Учтите, что она масштабируется в соответствии<br>с размером комнаты лабиринта.
+reccomplex.generationInfo.mazeComponent.position.z=Позиция (z)
+reccomplex.generationInfo.mazeComponent.position.z.tooltip=Позиция этого выхода по оси юг/север.<br>Учтите, что она масштабируется в соответствии<br>с размером комнаты лабиринта.
+reccomplex.generationInfo.mazeComponent.path.invert=Инвертировать
+reccomplex.generationInfo.mazeComponent.path.side=Сторона\nreccomplex.generationInfo.static=Статическая
+reccomplex.generationInfo.static.summary.pattern=Каждые %s, %s блоков
+reccomplex.generationInfo.static.summary.spawn=От точки возрождения %s, %s
+reccomplex.generationInfo.static.summary.nospawn=В %s, %s
+reccomplex.generationInfo.static.tooltip=Постоянное положение в определённом измерении.<br>Также полезно для структур у точки возрождения.
+reccomplex.generationInfo.static.spawn=От точки возрождения
+reccomplex.generationInfo.static.pattern=Шаблон
+reccomplex.generationInfo.static.pattern.repeat.x=Повтор (x)
+reccomplex.generationInfo.static.pattern.repeat.z=Повтор (z)
+reccomplex.generationInfo.static.pattern.repeat.tooltip=Количество блоков, после которого<br>структура генерируется снова.
+reccomplex.generationInfo.static.pattern.rshift.tooltip=Случайное смещение для каждого<br>размещения структуры.
+reccomplex.generationInfo.static.pattern.rshift.x=Случайный сдвиг (x)
+reccomplex.generationInfo.static.pattern.rshift.z=Случайный сдвиг (z)\nreccomplex.generationInfo.structureList=Список структур
+reccomplex.generationInfo.structureList.tooltip=Как часть списка структур<br>(Используется в блоках структур)
+reccomplex.generationInfo.structureList.title=В списке %s
+reccomplex.generationInfo.structureList.front=Передняя
+reccomplex.generationInfo.structureList.id=ID списка\nreccomplex.generationInfo.vanilla=В структуре
+reccomplex.generationInfo.vanilla.tooltip=Как часть ванильной структуры<br>(например, деревни)
+reccomplex.generationInfo.vanilla.title=В сложной структуре
+reccomplex.generationInfo.vanilla.type=Тип
+reccomplex.generationInfo.vanilla.type.village=Деревня
+reccomplex.generationInfo.vanilla.front=Передняя
+reccomplex.generationInfo.vanilla.amount.pervillage=Количество (на дер.)
+reccomplex.generationInfo.vanilla.amount.pervillage.tooltip=Количество этой структуры в<br>каждой деревне.
+reccomplex.generationInfo.vanilla.amount.scaled=Количество (масшт.)
+reccomplex.generationInfo.vanilla.amount.scaled.tooltip=Количество этой структуры в<br>каждой деревне, масштабированное по размеру деревни.\nreccomplex.generationInfo.sapling=Саженец
+reccomplex.generationInfo.sapling.tooltip=Как дерево из саженца.
+reccomplex.generationInfo.sapling.title=Саженец\nreccomplex.generationInfo.decoration=Ванильная декорация
+reccomplex.generationInfo.decoration.tooltip=Вместо ванильной декорации<br>(например, деревья, грибы, кактусы).
+reccomplex.generationInfo.decoration.title=Ванильная декорация
+reccomplex.generationInfo.decoration.types.tree=Дерево
+reccomplex.generationInfo.decoration.types.tree.tooltip=Деревья
+reccomplex.generationInfo.decoration.types.cactus=Кактус
+reccomplex.generationInfo.decoration.types.cactus.tooltip=Кактусы
+reccomplex.generationInfo.decoration.types.big_mushroom=Большой гриб
+reccomplex.generationInfo.decoration.types.big_mushroom.tooltip=Большие грибы
+reccomplex.generationInfo.decoration.types.desert_well=Пустынный колодец
+reccomplex.generationInfo.decoration.types.desert_well.tooltip=Колодцы, появляющиеся в пустынях
+reccomplex.generationInfo.decoration.types.fossil=Ископаемое
+reccomplex.generationInfo.decoration.types.fossil.tooltip=Ископаемые останки
+reccomplex.generationInfo.decoration.types.ocean_monument=Океанский памятник
+reccomplex.generationInfo.decoration.types.ocean_monument.tooltip=Океанский памятник со стражами,<br>морскими фонарями и призмарином.
+reccomplex.generationInfo.decoration.types.scattered_feature=Разрозненная особенность
+reccomplex.generationInfo.decoration.types.scattered_feature.tooltip=Различные разрозненные особенности,<br>такие как хижины ведьм.
+reccomplex.generationInfo.decoration.types.village=Деревня
+reccomplex.generationInfo.decoration.types.village.tooltip=Деревни, наполненные жителями и фермами.
+reccomplex.generationInfo.decoration.types.nether_bridge=Крепость Незера
+reccomplex.generationInfo.decoration.types.nether_bridge.tooltip=Крепости в Незере, наполненные ифритами,<br>сделанные из незерского кирпича.
+reccomplex.generationInfo.decoration.types.stronghold=Крепость
+reccomplex.generationInfo.decoration.types.stronghold.tooltip=Крепость, содержащая портал в Край.
+reccomplex.generationInfo.decoration.types.mineshaft=Шахта
+reccomplex.generationInfo.decoration.types.mineshaft.tooltip=Шахты в земле, наполненные случайной добычей.\nreccomplex.transformer.block.source.tooltip=Блоки в структуре, к которым применяется<br>этот трансформер.
+reccomplex.transformer.block.dest.tooltip=Блоки в окружении, по которым<br>проходит этот трансформер.\nreccomplex.transformer.id=ID трансформера
+reccomplex.transformer.id.tooltip=Уникальный идентификатор трансформера.\nreccomplex.transformer.multi=Несколько
+reccomplex.transformer.multi.condition=Условие
+reccomplex.transformer.multi.tooltip=Обёртка для нескольких трансформеров.
+reccomplex.transformer.multi.none=Нет трансформеров
+reccomplex.transformer.multi.multiple=%s трансформеров
+reccomplex.transformer.worldscript=Мировой скрипт
+reccomplex.transformer.worldscript.tooltip=Запускает мировой скрипт из соответствующих блоков.
+reccomplex.transformer.villagereplace=Специфичный для деревни
+reccomplex.transformer.villagereplace.tooltip=Заменяет все подходящие блоки<br>на версию, свойственную<br>деревне.\nreccomplex.transformer.natural=Естественная поверхность
+reccomplex.transformer.natural.tooltip=Создаёт под блоками блоки поверхности, свойственные биому
+reccomplex.transformer.natural.naturalExpansionDistance=Расстояние
+reccomplex.transformer.natural.naturalExpansionDistance.tooltip=Радиус в блоках.
+reccomplex.transformer.natural.naturalExpansionRandomization=Рандомизация
+reccomplex.transformer.natural.naturalExpansionRandomization.tooltip=Степень случайности расстояния.\nreccomplex.transformer.naturalAir=Естественный воздух
+reccomplex.transformer.naturalAir.tooltip=Создаёт воздушные карманы вокруг блоков
+reccomplex.transformer.naturalAir.naturalExpansionDistance=Расстояние
+reccomplex.transformer.naturalAir.naturalExpansionDistance.tooltip=Радиус в блоках.
+reccomplex.transformer.naturalAir.naturalExpansionRandomization=Рандомизация
+reccomplex.transformer.naturalAir.naturalExpansionRandomization.tooltip=Степень случайности расстояния.\nreccomplex.transformer.pillar=Столб
+reccomplex.transformer.pillar.dest.block=Целевой блок
+reccomplex.transformer.pillar.dest.metadata= Метаданные цели
+reccomplex.transformer.pillar.tooltip=Создаёт столбы вниз до поверхности
+reccomplex.transformer.pillar.generateUpwards=Направление
+reccomplex.transformer.pillar.generateUpwards.true=Вверх (висячий)
+reccomplex.transformer.pillar.generateUpwards.false=Вниз (стоячий)
+reccomplex.transformer.replaceAll=Замена
+reccomplex.transformer.replaceAll.tooltip=Заменяет блоки при генерации
+reccomplex.transformer.replace.uniformity.true=Однородно
+reccomplex.transformer.replace.uniformity.false=Каждый по-разному
+reccomplex.transformer.replace.uniformity.tooltip=Должны ли все блоки быть<br>заменены на один и тот же блок.
+reccomplex.transformer.replace.destinations=Заменить на\nreccomplex.transformer.ruins=Руины
+reccomplex.transformer.ruins.tooltip=Разрушает и подвергает структуру распаду
+reccomplex.transformer.ruins.decay.title=Распад
+reccomplex.transformer.ruins.decay.base=Базовый распад
+reccomplex.transformer.ruins.decay.base.tooltip=Количество блоков, которое будет<br>удалено при генерации структуры.
+reccomplex.transformer.ruins.decay.chaos=Хаос
+reccomplex.transformer.ruins.decay.chaos.tooltip=Уровень, на котором распад структуры<br>может различаться внутри<br>одной структуры.
+reccomplex.transformer.ruins.decay.density=Плотность
+reccomplex.transformer.ruins.decay.density.tooltip=Плотность различных прогрессий распада.<br>Короче говоря, установите низкое значение для больших дыр<br>и высокое для маленьких дыр.
+reccomplex.transformer.ruins.decay.direction=Направление
+reccomplex.transformer.ruins.decay.direction.tooltip=Направление, в котором происходит распад.
+reccomplex.transformer.ruins.other.title=Прочее
+reccomplex.transformer.ruins.erosion=Эрозия
+reccomplex.transformer.ruins.erosion.tooltip=Шанс того, что каждый блок<br>будет заменён на его<br>'разрушенную' версию.
+reccomplex.transformer.ruins.vines=Рост лиан
+reccomplex.transformer.ruins.vines.tooltip=Шанс появления лиан и мха<br>на каждом блоке.
+reccomplex.transformer.ruins.cobwebs=Рост паутины
+reccomplex.transformer.ruins.cobwebs.tooltip=Шанс образования паутины в углах.
+reccomplex.transformer.ruins.gravity=Гравитация
+reccomplex.transformer.ruins.gravity.tooltip=Блоки, которые парят в воздухе,<br>падают вниз при генерации.\nreccomplex.transformer.negativeSpace=Отрицательное пространство
+reccomplex.transformer.negativeSpace.tooltip=Заставляет генерацию игнорировать блоки\nreccomplex.transformer.ensureBlocks=Проверка блоков
+reccomplex.transformer.ensureBlocks.tooltip=Отменяет генерацию, если<br>у любых размещённых блоков нет места.
+reccomplex.transformer.ensureBlocks.dest=Проверить\nreccomplex.transformer.propertyReplace=Замена свойств
+reccomplex.transformer.propertyReplace.tooltip=Ищет в состояниях блоков определённые<br>свойства и заменяет их на<br>заданные значения.
+reccomplex.transformer.propertyReplace.id=ID свойства
+reccomplex.transformer.propertyReplace.value=Значение свойства\nreccomplex.expression.biome=Выражение биома
+reccomplex.expression.biome.tooltip=Это §oвыражение биома§r.<br>Посетите вики для получения информации о синтаксисе.
+reccomplex.expression.dimension=Выражение измерения
+reccomplex.expression.dimension.tooltip=Это §oвыражение измерения§r.<br>Посетите вики для получения информации о синтаксисе.
+reccomplex.expression.block=Выражение блока
+reccomplex.expression.block.tooltip=Это §oвыражение блока§r.<br>Посетите вики для получения информации о синтаксисе.
+reccomplex.expression.positioned_block=Выражение позиционированного блока
+reccomplex.expression.positioned_block.tooltip=Это §oвыражение позиционированного блока§r.<br>Посетите вики для получения информации о синтаксисе.
+reccomplex.expression.dependency=Выражение зависимости
+reccomplex.expression.dependency.tooltip=Это §oвыражение зависимости§r.<br>Посетите вики для получения информации о синтаксисе.
+reccomplex.expression.environment=Выражение окружения
+reccomplex.expression.environment.tooltip=Это §oвыражение окружения§r.<br>Посетите вики для получения информации о синтаксисе.\nreccomplex.direction.up=Вверх (+Y)
+reccomplex.direction.down=Вниз (-Y)
+reccomplex.direction.north=Север (-Z)
+reccomplex.direction.south=Юг (+Z)
+reccomplex.direction.east=Восток (+X)
+reccomplex.direction.west=Запад (-X)
+reccomplex.direction.none=Нет
+reccomplex.direction.all=Все стороны
+reccomplex.direction.random=Случайно\nreccomplex.maze=Лабиринт
+reccomplex.maze.id=ID лабиринта
+reccomplex.maze.rooms.size.x=Размер комнаты (x)
+reccomplex.maze.rooms.size.y=Размер комнаты (y)
+reccomplex.maze.rooms.size.z=Размер комнаты (z)
+reccomplex.maze.connector=Соединитель
+reccomplex.maze.connector.tooltip=ID соединителя.<br>Они работают как электронные соединители.<br><br>§bГермафродит§r (по умолчанию): Соединяется сам с собой.<br><br>Если ID начинается с...<br>§bМужской:§r Соединяется с женским аналогом.<br>§bЖенский:§r Соединяется с мужским аналогом.
+reccomplex.maze.connector.default=Соединитель по умолчанию
+reccomplex.maze.conditional_connectors=Варианты
+reccomplex.maze.conditional_connectors.tooltip=Соединители, которые будут использованы,<br>если выполнены определённые условия.
+reccomplex.maze.conditional_connector.condition=Условие\nreccomplex.selection.area.additive=Добавляющая
+reccomplex.selection.area.subtractive=Вычитающая
+reccomplex.selection.area.range.x=Диапазон (x)
+reccomplex.selection.area.range.x.tooltip=Позиция этого диапазона по оси восток/запад.
+reccomplex.selection.area.range.y=Диапазон (y)
+reccomplex.selection.area.range.y.tooltip=Позиция этого диапазона по оси вверх/вниз.
+reccomplex.selection.area.range.z=Диапазон (z)
+reccomplex.selection.area.range.z.tooltip=Позиция этого диапазона по оси юг/север.
+reccomplex.selection.area.identifier=Идентификатор\nreccomplex.reachability.tooltip=Описывает достижимость между<br>выходами этого компонента лабиринта.
+reccomplex.reachability.groups=Группы
+reccomplex.reachability.groups.tooltip=Все пути в одной группе<br>достижимы друг из друга.
+reccomplex.reachability.groups.default=По умолчанию (без группы)
+reccomplex.reachability.groups.default.behavior=Поведение по умолчанию
+reccomplex.reachability.groups.default.behavior.tooltip=Как должны вести себя пути без группы.
+reccomplex.reachability.groups.group=Группа %s
+reccomplex.reachability.groups.previous=Предыдущая группа
+reccomplex.reachability.groups.next=Следующая группа
+reccomplex.reachability.groups.new=Новая группа
+reccomplex.reachability.crossconnections=Перекрёстные соединения
+reccomplex.reachability.crossconnections.tooltip=Односторонние соединения между<br>путями из разных<br>групп.\nreccomplex.mazerule.connect=Соединить
+reccomplex.mazerule.connect.tooltip=Обеспечить путь между двумя выходами.
+reccomplex.mazerule.connectall=Соединить все
+reccomplex.mazerule.connectall.tooltip=Обеспечить путь между всеми выходами.\nreccomplex.mazerule.connect.prevent=Запретить соединение
+reccomplex.mazerule.connect.ensure=Обеспечить соединение
+reccomplex.mazerule.connect.start=Начало
+reccomplex.mazerule.connect.start.tooltip=Соединить любые из этих с<br>любыми из конечных путей.
+reccomplex.mazerule.connect.end=Конец
+reccomplex.mazerule.connect.end.tooltip=Соединить любые из этих с<br>любыми из начальных путей.
+reccomplex.mazerule.connectall.additive=Добавляющая
+reccomplex.mazerule.connectall.subtractive=Вычитающая
+reccomplex.mazerule.connectall.preview=Предпросмотр\nreccomplex.worldscript.command=Выполнить команду
+reccomplex.worldscript.command.tooltip=Выполняет ванильную команду
+reccomplex.worldscript.multi=Несколько
+reccomplex.worldscript.multi.tooltip=Выполняет несколько команд подряд.
+reccomplex.worldscript.multi.none=Нет скриптов
+reccomplex.worldscript.multi.multiple=%s скриптов
+reccomplex.worldscript.multi.condition=Условие
+reccomplex.worldscript.mazeGen=Сгенерировать лабиринт
+reccomplex.worldscript.mazeGen.rules=Правила
+reccomplex.worldscript.mazeGen.tooltip=Генерирует лабиринт из взвешенных компонентов.
+reccomplex.worldscript.strucGen=Сгенерировать структуру
+reccomplex.worldscript.strucGen.tooltip=Генерирует структуру из взвешенных вариантов.
+reccomplex.worldscript.strucGen.mode.simple=Простой режим
+reccomplex.worldscript.strucGen.simple.generators=Генераторы
+reccomplex.worldscript.strucGen.simple.generators.tooltip=Разделённые запятыми ID структур<br>Пример: §oTowerRed,TowerBlue,TowerYellow§r
+reccomplex.worldscript.strucGen.mode.list.id=ID списка
+reccomplex.worldscript.strucGen.mode.list.front=Передняя
+reccomplex.worldscript.strucGen.rotation.random=Случайно (если поворачиваемая)
+reccomplex.worldscript.strucGen.mirror.random=Случайно (если отражаемая)\nreccomplex.worldscript.holder=Хранитель
+reccomplex.worldscript.holder.tooltip=Скрипт, содержащий область,<br>которая будет генерироваться из<br>скрипта при генерации структуры.<br>Для сложных случаев использования используйте<br>вместо этого генерацию списка.
+reccomplex.worldscript.holder.capture=§aКопировать область
+reccomplex.worldscript.holder.delete=§cУдалить сохранённую область
+reccomplex.worldscript.holder.switch=§bПереключить области
+reccomplex.worldscript.holder.holder.tooltip=Переключает область блоков между двумя настройками.
+reccomplex.worldscript.holder.point.1=Позиция 1
+reccomplex.worldscript.holder.point.1.tooltip=Первая точка области.
+reccomplex.worldscript.holder.point.2=Позиция 2
+reccomplex.worldscript.holder.point.2.tooltip=Вторая точка области.
+reccomplex.worldscript.holder.self=Собственный блок
+reccomplex.worldscript.holder.self.tooltip=Блок, размещаемый в позиции<br>этого скрипта.\nreccomplex.gui.list.noelements=Нет элементов\nreccomplex.gui.random.weight=Вес
+reccomplex.gui.random.weight.default.short=П
+reccomplex.gui.random.weight.custom.short=С
+reccomplex.gui.random.weight.tooltip=Вес этого элемента для случайного выбора.<br>§aшанс = вес / сумма_всех_весов§r<br>Другими словами, двойной вес означает<br>двойную вероятность.<br>Установите значение D для значения по умолчанию.\nreccomplex.gui.block=Блок
+reccomplex.gui.blocks=Блоки
+reccomplex.gui.metadata=Метаданные
+reccomplex.gui.add=Добавить
+reccomplex.gui.remove=Удалить
+reccomplex.gui.save=Сохранить
+reccomplex.gui.edit=Изменить
+reccomplex.gui.apply=Применить
+reccomplex.gui.later=Позже
+reccomplex.gui.earlier=Раньше
+reccomplex.gui.hidegui=Скрыть GUI
+reccomplex.gui.visualizegui=Визуализировать
+reccomplex.gui.randomize=Случайно
+reccomplex.gui.randomize.short=??
+reccomplex.gui.biomes=Биомы
+reccomplex.gui.dimensions=Измерения
+reccomplex.gui.environment=Окружение
+reccomplex.gui.source=Источник
+reccomplex.gui.sources=Источники
+reccomplex.gui.destination=Назначение
+reccomplex.gui.destinations=Назначения
+reccomplex.gui.command=Команда
+reccomplex.gui.custom=Пользовательский
+reccomplex.gui.customize=Настроить
+reccomplex.gui.reset=Сбросить
+gui.back.page=Назад §7(%s)\nreccomplex.rotation=Поворот
+reccomplex.mirror=Отражение
+reccomplex.rotation.clockwise.0=Без поворота
+reccomplex.rotation.clockwise.1=90° по часовой
+reccomplex.rotation.clockwise.2=180° по часовой
+reccomplex.rotation.clockwise.3=270° по часовой\nreccomplex.preset=Предустановка
+reccomplex.preset.save=§aСохранить§r как §bпредустановку
+reccomplex.preset.id.tooltip=Уникальный идентификатор предустановки
+reccomplex.preset.title=Название
+reccomplex.preset.title.tooltip=Название = видимое название предустановки
+reccomplex.preset.description=Описание
+reccomplex.preset.description.tooltip=Видимое описание предустановки.<br>Используйте <BR> для новой строки.
+reccomplex.preset.use=Использовать: §b%s
+reccomplex.preset.use.default=Использовать: §a%s
+reccomplex.preset.customize=Настроить: §b%s
+reccomplex.presets=Предустановки\nreccomplex.gui.inventorygen.minMax=Мин: %s, Макс: %s
+reccomplex.gui.inventorygen.minMaxItems=Мин предметов: %s, Макс предметов: %s
+reccomplex.gui.inventorygen.range=Мин - Макс
+reccomplex.gui.inventorygen.weightNumber=Вес: %s
+reccomplex.gui.inventorygen.componentid=ID компонента
+reccomplex.gui.inventorygen.componentid.tooltip=Уникальный ID этого компонента.
+reccomplex.gui.inventorygen.groupid=ID группы
+reccomplex.gui.inventorygen.groupid.tooltip=Общий ID группы этого компонента.<br>Все компоненты с этим ID<br>будут добавлены в таблицу добычи<br>под этим именем.
+reccomplex.inventorygen.dependencies=Зависимости
+reccomplex.inventorygen.dependencies.tooltip=Если не совпадают, таблица добычи не активируется.<br>Технически это не обязательно,<br>но поможет с модовыми структурами.
+reccomplex.gui.inventorygen.items.summary=%s предметов
+reccomplex.gui.inventorygen.componentid=ID компонента
+reccomplex.gui.inventorygen.groupid=ID группы
+reccomplex.gui.inventorygen.multi.count=Количество предметов
+reccomplex.gui.inventorygen.single.chance=Шанс предмета\ngui.tweakStructures.generate=Ген
+gui.tweakStructures.generate.tooltip=Сгенерировать эту структуру.\nreccomplex.gui.blockpos=Позиция
+reccomplex.gui.blockpos.tooltip=Координаты x, y и z.\nreccomplex.gui.surfacepos=Позиция
+reccomplex.gui.surfacepos.tooltip=Координаты x и z.\nreccomplex.gui.blockpos.shift=Сдвиг
+reccomplex.gui.blockpos.shift.tooltip=Перемещение позиции x, y, z.\nreccomplex.tileentity.nbt=NBT блоковой сущности\nreccomplex.placer=Разместитель
+reccomplex.placer.tooltip=Определяет высоту, на которой<br>появится структура.
+reccomplex.placer.baseline=Базовый уровень
+reccomplex.placer.baseline.tooltip=Высота поверхности в структуре.<br>'0' означает, что первый ряд<br>блоков находится на уровне поверхности.\nreccomplex.placer.factor.priority=Приоритет
+reccomplex.placer.factor.priority.tooltip=Приоритет, с которым будет<br>учитываться этот фактор.<br>Это значение используется в степенной шкале:<br>вес ^ приоритет\nreccomplex.placer.factors.limit=Ограничение
+reccomplex.placer.factors.limit.tooltip=Ограничить размещение определёнными высотами.<br>Запускает лучи, которые устанавливают приемлемость<br>для пересекаемой местности, пока не достигнут цели.
+reccomplex.placer.factors.limit.ray.weight=Приемлемость
+reccomplex.placer.factors.limit.ray.weight.tooltip=Коэффициент, с которым эта область принимается.<br>(например, 0 = не появляться здесь, 1 = появляться здесь).<br>Установите ignore, чтобы просто двигаться<br>без изменения приемлемости.\nreccomplex.placer.factors.limit.rays.move=Перемещение
+reccomplex.placer.factors.limit.rays.move.tooltip=Переместиться на определённое количество блоков.
+reccomplex.placer.factors.limit.rays.move.title=Переместить
+reccomplex.placer.factors.limit.rays.move.title.mark=Отметить
+reccomplex.placer.factors.limit.rays.move.tooltip=Переместиться вверх или вниз на заданное расстояние
+reccomplex.placer.factors.limit.rays.move.distance=Расстояние\nreccomplex.placer.factors.limit.rays.dynpos=Динамическая позиция
+reccomplex.placer.factors.limit.rays.dynpos.tooltip=Переместиться на определённую позицию.
+reccomplex.placer.factors.limit.rays.dynpos.type=Позиция
+reccomplex.placer.factors.limit.rays.dynpos.type.bedrock=Коренная порода
+reccomplex.placer.factors.limit.rays.dynpos.type.bedrock.tooltip=Дно мира: y=0
+reccomplex.placer.factors.limit.rays.dynpos.type.sealevel=Уровень моря
+reccomplex.placer.factors.limit.rays.dynpos.type.sealevel.tooltip=Высота океана: y=63
+reccomplex.placer.factors.limit.rays.dynpos.type.world_height=Верх (высота мира)
+reccomplex.placer.factors.limit.rays.dynpos.type.world_height.tooltip=Верх мира:<br>y = 255 - высота_структуры\nreccomplex.placer.factors.limit.rays.dynmove=Динамическое перемещение
+reccomplex.placer.factors.limit.rays.dynmove.tooltip=Переместиться на динамическое количество блоков
+reccomplex.placer.factors.limit.rays.dynmove.type=Количество
+reccomplex.placer.factors.limit.rays.dynmove.type.structure_height=Высота структуры
+reccomplex.placer.factors.limit.rays.dynmove.type.structure_height.tooltip=Высота генерируемой структуры\nreccomplex.placer.factors.limit.rays.matcher=Поиск
+reccomplex.placer.factors.limit.rays.matcher.tooltip=Перемещаться, пока местность не удовлетворит<br>заданным критериям.
+reccomplex.placer.factors.limit.rays.matcher.condition=Условие
+reccomplex.placer.factors.limit.rays.matcher.direction=Направление луча
+reccomplex.placer.factors.limit.rays.matcher.ratio=Требуемое соотношение
+reccomplex.placer.factors.limit.rays.matcher.ratio.tooltip=Соотношение совпавших блоков,<br>необходимое для остановки луча.\nreccomplex.placer.factors.limit.rays.average=Поиск поверхности
+reccomplex.placer.factors.limit.rays.average.tooltip=Найти среднюю высоту поверхности,<br>удовлетворяющую критериям.\nreccomplex.placer.factors.match=Соответствие
+reccomplex.placer.factors.match.tooltip=Обеспечить, чтобы определённые блоки из<br>структуры имели подходящую<br>местность для появления.
+reccomplex.placer.factors.match.dest=Обеспечить
+reccomplex.placer.factors.match.conformity=Требуемое соответствие
+reccomplex.placer.factors.match.conformity.tooltip=Насколько требуется соответствие,<br>чтобы разрешить появление структуры.\nreccomplex.spawncommand.preset.entity=Призвать сущность\nreccomplex.blockpattern=Шаблон блоков
+reccomplex.blockpattern.pattern=Шаблон
+reccomplex.blockpattern.pattern.tooltip=Шаблон / форма блоков,<br>необходимая для появления.
+reccomplex.blockpattern.ingredients=Ингредиенты
+reccomplex.blockpattern.ingredients.tooltip=Информация о блоках, используемых<br>в шаблоне.
+reccomplex.blockpattern.ingredient.identifier=Идентификатор
+reccomplex.blockpattern.ingredient.delete=Удалить блоки\nreccomplex.parameters.biome=измерение
+reccomplex.parameters.biome.type=измерение
+reccomplex.parameters.dimension=измерение
+reccomplex.parameters.block=измерение
+reccomplex.parameters.command=измерение
+reccomplex.parameters.command.arguments=измерение
+reccomplex.parameters.entity=измерение
+reccomplex.parameters.rotation=измерение

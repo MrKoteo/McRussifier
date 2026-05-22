@@ -1,0 +1,30 @@
+itemGroup.tabengineerstools=Инструменты инженера
+engineerstools.tooltip.hint.extended=§6[§9§lSHIFT§r§6 Подробнее§6]§r
+engineerstools.tooltip.hint.help=§6[§9CTRL+SHIFT§r Помощь§6]§r
+item.engineerstools.crushing_hammer.name=Молот для дробления руды
+item.engineerstools.crushing_hammer.help=§6Ручной молот для дробления руды.§r Позволяет получить больше ресурсов при ручном \
+                                         создании крупки из руды в верстаке. Имеет низкую прочность и не ремонтируется. \
+                                         Наносит почти никакого урона.
+item.engineerstools.redia_tool.name=Инструмент REDIA
+item.engineerstools.redia_tool.help=§6Мультиинструмент из стали с покрытием из НАСТОЯЩЕГО алмаза.§r Сочетает топор, кирку и лопату. \
+                                    Очень эффективен в хорошем состоянии, медленный при низкой прочности. Ремонтируется алмазами.\n\
+                                    ПКМ: установить факел.\n\
+                                    ПКМ + крадусь: превратить землю в грядку, обработать грубую землю и т.п.; остричь овцу, срезать лианы, листву и т.д.\n\
+                                    Крадусь во время ломки бревна: повалить дерево.
+item.engineerstools.iron_grit.name=Крупка железа
+item.engineerstools.iron_grit.help=§6Можно переплавить в железные слитки, но не подходит для продвинутой обработки материалов.
+item.engineerstools.gold_grit.name=Крупка золота
+item.engineerstools.gold_grit.help=§6Можно переплавить в золотые слитки, но не подходит для продвинутой обработки материалов.
+item.engineerstools.ariadne_coal.name=Уголь Ариадны
+item.engineerstools.ariadne_coal.help=§6Рисует стрелки-указатели, чтобы найти выход из шахт.§r\n\
+                                      Направление стрелки зависит от того, по какой стороне блока вы щёлкнули.
+item.engineerstools.stimpack.name=Автостимулятор
+item.engineerstools.stimpack.help=§6Помогает, когда вы в большой беде§r\n\
+                                  ... подлечивая на несколько сердец, когда здоровье падает низко. Также даёт небольшой бафф, чтобы выбраться \
+                                  из любой неприятности. Внимание: инъекция может иметь задержку.
+item.engineerstools.sleeping_bag.name=Спальный мешок
+item.engineerstools.sleeping_bag.help=§6Сделан из прочной ткани§r, поэтому непромокаем и очень прочен. Не устанавливает точку возрождения, в отличие от кроватей.
+tile.engineerstools.ariadne_coal_x.name=Уголь Ариадны
+tile.engineerstools.ariadne_coal_y.name=Уголь Ариадны
+tile.engineerstools.ariadne_coal_z.name=Уголь Ариадны
+engineerstools.subtitle.stimpack_inject=Впрыск стимулятора

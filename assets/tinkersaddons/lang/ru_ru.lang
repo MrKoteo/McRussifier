@@ -1,0 +1,16 @@
+tinkersaddons.amelioration_tome.name=Том улучшения
+tinkersaddons.amelioration_tome.description=§2Модификатор авто-ремонта§r
+tinkersaddons.iron_toolkit.name=Железный набор инструментов
+tinkersaddons.iron_toolkit.description=§3Даёт дополнительный модификатор§r
+tinkersaddons.gold_toolkit.name=Золотой набор инструментов
+tinkersaddons.gold_toolkit.description=§3Даёт дополнительный модификатор§r
+tinkersaddons.diamond_toolkit.name=Алмазный набор инструментов
+tinkersaddons.diamond_toolkit.description=§3Даёт дополнительный модификатор§r
+tinkersaddons.ender_toolkit.name=Эндер-набор инструментов
+tinkersaddons.ender_toolkit.description=§3Даёт дополнительный модификатор§r
+modifier.auto-repair.name=Авторемонт
+modifier.bonus-modifier_1.name=Бонусный модификатор: набор инструментов
+modifier.bonus-modifier_2.name=Бонусный модификатор: набор инструментов
+modifier.bonus-modifier_3.name=Бонусный модификатор: набор инструментов
+modifier.bonus-modifier_4.name=Бонусный модификатор: набор инструментов
+modifier.auto-repair.desc=§oАвторемонт, как в старые добрые времена§r\nВы ведь скучали по этому, правда?

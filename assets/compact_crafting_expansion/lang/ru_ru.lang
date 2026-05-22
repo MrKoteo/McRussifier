@@ -1,0 +1,13 @@
+item.binding.name=Связка
+item.normal_machine_part.name=Деталь обычной машины
+tile.compact_block.name=Компактный блок
+item.large_machine_part.name=Деталь большой машины
+item.compact_ingot.name=Компактный слиток
+item.small_machine_part.name=Деталь маленькой машины
+item.empty_crafting_component.name=Пустой крафтовый компонент
+item.maximum_machine_part.name=Деталь максимальной машины
+item.gravity_normalizer.name=Нормализатор гравитации
+item.processor.name=Процессор
+item.tiny_machine_part.name=Деталь крошечной машины
+item.giant_machine_part.name=Деталь гигантской машины
+item.core_stabilizer.name=Стабилизатор ядра

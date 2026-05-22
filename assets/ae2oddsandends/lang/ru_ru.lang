@@ -1,0 +1,55 @@
+######################################################################
+# AE2 Odds & Ends - Локализация
+######################################################################
+
+
+#########################
+# GUI конфигурации - Категории
+#########################
+
+ae2oddsandends.config.category.quantum_reserve=Квантовый резерв
+ae2oddsandends.config.category.quantum_reserve.tooltip=Общие настройки функции «Квантовый резерв».
+ae2oddsandends.config.category.supported_upgrades_tooltip=Подсказка поддерживаемых улучшений
+ae2oddsandends.config.category.supported_upgrades_tooltip.tooltip=Общие настройки подсказок о поддерживаемых улучшениях.
+ae2oddsandends.config.category.fuzzy_interface=Улучшенный интерфейс
+ae2oddsandends.config.category.fuzzy_interface.tooltip=Общие настройки функции «Улучшенный интерфейс».
+
+################################
+# GUI конфигурации - Квантовый резерв
+################################
+
+ae2oddsandends.config.quantum_reserve.enabled=Включено
+ae2oddsandends.config.quantum_reserve.bonus_per_level=Бонус за уровень
+ae2oddsandends.config.quantum_reserve.book_tooltip=Подсказка книги
+ae2oddsandends.config.quantum_reserve.register_enchantment=Зарегистрировать зачарование
+ae2oddsandends.config.quantum_reserve.apply_capacity_scaling=Применять масштабирование ёмкости
+ae2oddsandends.config.quantum_reserve.clamp_stored_power=Ограничить сохранённую энергию
+ae2oddsandends.config.quantum_reserve.max_level=Макс. уровень
+
+######################################################################
+# GUI конфигурации - Подсказка поддерживаемых улучшений
+######################################################################
+
+ae2oddsandends.config.supported_upgrades_tooltip.enabled=Включено
+ae2oddsandends.config.supported_upgrades_tooltip.require_shift=Требовать Shift
+
+item.ae2oddsandends.supported_upgrades.hold_shift=Удерживайте %s для списка поддерживаемых улучшений.
+item.ae2oddsandends.supported_upgrades.header=Поддерживаемые улучшения:
+
+################################
+# GUI конфигурации - Улучшенный интерфейс
+################################
+
+ae2oddsandends.config.fuzzy_interface.enabled=Включено
+ae2oddsandends.config.fuzzy_interface.extra_upgrade_slot=Дополнительный слот улучшения
+ae2oddsandends.config.fuzzy_interface.fuzzy_mode_support=Поддержка нечёткого режима
+ae2oddsandends.config.fuzzy_interface.ignore_metadata_variants=Игнорировать варианты метаданных
+
+#################################
+# Зачарование - Квантовый резерв
+#################################
+
+enchantment.ae2oddsandends.quantum_reserve=Квантовый резерв
+tooltip.ae2oddsandends.quantum_reserve.desc=Увеличивает максимальную внутреннюю энергию энергоёмких предметов AE2.
+tooltip.ae2oddsandends.quantum_reserve.per_level=Каждый уровень увеличивает макс. энергию на %s%%.
+tooltip.ae2oddsandends.quantum_reserve.current=Эта книга даёт +%s%% к макс. энергии (%s ёмкости).

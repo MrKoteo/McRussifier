@@ -1,0 +1,15 @@
+item.techreborn.dust.plutonium.name=Плутониевая пыль
+item.techreborn.dust.thorium.name=Ториевая пыль
+item.techreborn.dust.uranium.name=Урановая пыль
+item.techreborn.dustsmall.plutonium.name=Маленькая кучка плутониевой пыли
+item.techreborn.dustsmall.thorium.name=Маленькая кучка ториевой пыли
+item.techreborn.dustsmall.uranium.name=Маленькая кучка урановой пыли
+item.techreborn.ingot.plutonium.name=Плутониевый слиток
+item.techreborn.ingot.thorium.name=Ториевый слиток
+item.techreborn.ingot.uranium.name=Урановый слиток
+item.techreborn.single_thorium_fuel_rod.name=Ториевый топливный стержень (одинарный)
+item.techreborn.dual_thorium_fuel_rod.name=Ториевый топливный стержень (двойной)
+item.techreborn.quad_thorium_fuel_rod.name=Ториевый топливный стержень (четверной)
+item.techreborn.depleted_single_thorium_fuel_rod.name=Отработанный ториевый топливный стержень (одинарный)
+item.techreborn.depleted_dual_thorium_fuel_rod.name=Отработанный ториевый топливный стержень (двойной)
+item.techreborn.depleted_quad_thorium_fuel_rod.name=Отработанный ториевый топливный стержень (четверной)

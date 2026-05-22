@@ -1,0 +1,5 @@
+item.wicked_jewel.name=Злобная драгоценность
+item.conditionoverload.wicked_jewel.desc=Внутри вы слышите крики злоупотребляющих метой...
+item.conditionoverload.wicked_jewel.desc2=Модификатор: Перегрузка состояний
+modifier.condition_overload.name=Состояние: Перегрузка
+modifier.condition_overload.desc=Наносит увеличенный урон в зависимости от количества отрицательных эффектов зелий на цели.

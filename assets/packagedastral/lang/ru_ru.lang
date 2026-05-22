@@ -1,0 +1,16 @@
+tile.packagedastral.discovery_crafter.name=Светящийся упаковщик
+tile.packagedastral.attunement_crafter.name=Алтарь создания пакетов звёздного света
+tile.packagedastral.constellation_crafter.name=Небесный алтарь создания пакетов
+tile.packagedastral.trait_crafter.name=Радужный алтарь создания пакетов
+tile.packagedastral.trait_crafter.relays.usable=Доступно помеченных спектральных ретрансляторов: %s
+tile.packagedastral.trait_crafter.relays.required=Минимально необходимо помеченных спектральных ретрансляторов: %s
+tile.packagedastral.marked_relay.name=Помеченный спектральный ретранслятор
+item.packagedastral.constellation_focus.name=Фокус созвездия
+recipe.packagedastral.discovery=Светящийся верстак
+recipe.packagedastral.discovery.short=Светящийся
+recipe.packagedastral.attunement=Алтарь создания звёздного света
+recipe.packagedastral.attunement.short=Звёздный свет
+recipe.packagedastral.constellation=Небесный алтарь
+recipe.packagedastral.constellation.short=Небесный
+recipe.packagedastral.trait=Радужный алтарь
+recipe.packagedastral.trait.short=Радужный

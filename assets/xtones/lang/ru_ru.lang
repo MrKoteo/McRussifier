@@ -1,0 +1,6 @@
+tooltip.xtones.cycle=Прокрутка панели быстрого доступа при удержании %s для переключения
+tooltip.xtones.cycle_disabled=На этом сервере отключено переключение между треками
+
+key.xtones.scroll=Модификатор переключения между треками
+tile.xtones.base.name=Блок Xtones
+tile.xtones.lamp_flat.name=Плоская лампа

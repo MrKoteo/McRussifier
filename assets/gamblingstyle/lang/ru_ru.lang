@@ -1,0 +1,5 @@
+gui.button.show=Показать: %s
+gui.button.show.all=Все
+gui.button.show.buys=Покупки
+gui.button.show.sells=Продажи
+gui.button.show.favorites=Избранное

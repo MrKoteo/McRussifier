@@ -1,0 +1,110 @@
+general.integratedcrafting.description=Создавайте предметы в сетях Integrated Dynamics.
+
+gui.integratedcrafting.partsettings.channel.interface=Канал создания
+gui.integratedcrafting.partinterface.slot.message.valid=Рецепт подходит для целевого устройства.
+gui.integratedcrafting.partinterface.slot.message.invalid=Рецепт не подходит для целевого устройства.
+gui.integratedcrafting.partinterface.slot.message.norecipe=Переменная не содержит рецепта.
+
+advancement.integratedcrafting.craft_crafting_interface=Интерфейс создания²
+advancement.integratedcrafting.craft_crafting_interface.desc=Создайте Интерфейс создания
+advancement.integratedcrafting.insert_recipe_planks=Автодоски
+advancement.integratedcrafting.insert_recipe_planks.desc=Вставьте рецепт дубовых досок в Интерфейс создания
+advancement.integratedcrafting.craft_crafting_writer=Записчик создания²
+advancement.integratedcrafting.craft_crafting_writer.desc=Создайте Записчик создания
+advancement.integratedcrafting.craft_planks=Эффективные автодоски
+advancement.integratedcrafting.craft_planks.desc=Используйте Записчик создания, чтобы начать задание на создание дубовых досок
+
+parttype.parttypes.integratedcrafting.interface_crafting.name=Интерфейс создания
+parttype.parttypes.integratedcrafting.interface_crafting.info=Хранит переменные рецептов для создания в целевом устройстве.
+parttype.parttypes.integratedcrafting.crafting_writer.name=Записчик создания
+parttype.parttypes.integratedcrafting.crafting_writer.info=Запускает задания на создание
+
+aspect.aspecttypes.integratedcrafting.boolean.ignorestorage.name=Игнорировать содержимое хранилища
+aspect.aspecttypes.integratedcrafting.boolean.ignorecrafting.name=Игнорировать задания создания
+aspect.aspecttypes.integratedcrafting.boolean.craftmissing.name=Создавать недостающие ингредиенты
+aspect.aspecttypes.integratedcrafting.integer.craftamount.name=Количество создания
+
+## Network
+aspect.aspects.integratedcrafting.read.list.network.recipes.name=Рецепты
+aspect.aspects.integratedcrafting.read.list.network.recipes.info=Список всех доступных рецептов.
+aspect.aspects.integratedcrafting.read.list.network.craftingjobs.name=Активные задания создания
+aspect.aspects.integratedcrafting.read.list.network.craftingjobs.info=Список всех активных заданий создания в виде рецептов.
+aspect.aspects.integratedcrafting.read.list.network.craftingingredients.name=Создаваемые ингредиенты
+aspect.aspects.integratedcrafting.read.list.network.craftingingredients.info=Список всех ингредиентов, которые сейчас создаются.
+
+## Crafting
+aspect.aspects.integratedcrafting.write.recipe.craft.name=Создать по рецепту
+aspect.aspects.integratedcrafting.write.recipe.craft.info=Создать по указанному рецепту
+aspect.aspects.integratedcrafting.write.itemstack.craft.name=Создать предмет
+aspect.aspects.integratedcrafting.write.itemstack.craft.info=Создать указанный предмет
+aspect.aspects.integratedcrafting.write.fluidstack.craft.name=Создать жидкость
+aspect.aspects.integratedcrafting.write.fluidstack.craft.info=Создать указанную жидкость
+aspect.aspects.integratedcrafting.write.integer.craft.name=Создать энергию
+aspect.aspects.integratedcrafting.write.integer.craft.info=Создать указанное количество энергии
+
+## Config categories
+config.integratedcrafting.general=Общие настройки
+config.integratedcrafting.general.tooltip=Общие настройки
+
+## General Settings
+config.integratedcrafting.general.craftingWriterBaseConsumption=Базовая потребление Записчика создания
+config.integratedcrafting.general.interfaceCraftingBaseConsumption=Базовая потребление Интерфейса создания
+
+# ------ О содержании "О динамике интеграции" ------
+info_book.integratedcrafting.section.main=Создание
+info_book.integratedcrafting.introduction=Введение
+info_book.integratedcrafting.introduction.text1=&lIntegrated Crafting&r — это расширение для &lIntegrated Dynamics&r, добавляющее автоматическое создание предметов в сетях &lIntegrated Dynamics&r. Автоматическое создание может работать с любой комбинацией &oпредметов&r, &oжидкостей&r и &oэнергии&r. Две основные части, необходимые для этого: &lИнтерфейс создания&r и &lЗаписчик создания&r.
+info_book.integratedcrafting.introduction.text2=&lИнтерфейс создания&r можно разместить рядом с любым устройством для создания предметов и использовать для предоставления сети вариантов создания на основе &lКарт переменных&r, содержащих &8Рецепты&0.
+info_book.integratedcrafting.introduction.text3=&lЗаписчик создания&r затем можно использовать для автоматического запуска заданий создания на основе рецептов, которые предоставляются всеми &lИнтерфейсами создания&r в сети.
+info_book.integratedcrafting.introduction.text4=В следующих разделах объясняется, как работает этот процесс автоматического создания.
+info_book.integratedcrafting.crafting_interface=Интерфейс создания
+info_book.integratedcrafting.crafting_interface.introduction=Введение
+info_book.integratedcrafting.crafting_interface.introduction.text1=В этом разделе мы рассмотрим основы, процесс создания, настройку и особые возможности &lИнтерфейса создания&r.
+info_book.integratedcrafting.crafting_interface.basics=Основы
+info_book.integratedcrafting.crafting_interface.basics.text1=&lИнтерфейс создания&r используется, чтобы сообщить сети, &oгде&r и &oкак&r можно создавать предметы.
+info_book.integratedcrafting.crafting_interface.basics.text2=Направив &lИнтерфейс создания&r на устройство &o(например, верстак или печь)&r, этот интерфейс привяжется к этому устройству для обработки рецептов.
+info_book.integratedcrafting.crafting_interface.basics.text3=При открытии GUI &lИнтерфейса создания&r вы можете вставить &lКарты переменных&r, содержащие &8Рецепты&0. Это укажет интерфейсу, что данный рецепт может быть выполнен с использованием привязанного устройства.
+info_book.integratedcrafting.crafting_interface.crafting=Процесс создания
+info_book.integratedcrafting.crafting_interface.crafting.text1=В этом разделе объясняется, как &lИнтерфейсы создания&r обрабатывают процесс создания. Эта информация важна для эффективного использования мода и отладки возможных проблем.
+info_book.integratedcrafting.crafting_interface.crafting.text2=Когда запускается задание создания (например, с помощью &lЗаписчика создания&r), используется один (или несколько) &lИнтерфейсов создания&r, у которых есть рецепт, соответствующий заданию. &lИнтерфейс создания&r отвечает за вставку всех входных ингредиентов рецепта в привязанное устройство. Он делает это на основе содержимого сети хранения, предоставляемого интерфейсами &lIntegrated Tunnels&r.
+info_book.integratedcrafting.crafting_interface.crafting.text3=Однако &lИнтерфейс создания&r &lне&r импортирует результаты создания из привязанного устройства. Игрок должен сам позаботиться о том, чтобы результаты создания попали обратно в сеть. Верстак является исключением — для создания с ним достаточно только &lИнтерфейса создания&r. &lИнтерфейс создания&r отслеживает изменения в сети хранения и помечает задание создания как завершённое, только когда ожидаемые результаты появятся в сети хранения. Этого можно добиться, либо установив активный &lИмпортёр Integrated Tunnels&r на устройство, либо настроив автоматический вывод из устройства в &lИнтерфейс создания&r. Всё (предметы, жидкости, энергия), что вставлено в &lИнтерфейс создания&r, будет помещено в сеть хранения для настроенного канала.
+info_book.integratedcrafting.crafting_interface.crafting.text4=На следующих рисунках показаны примеры корректных минимальных конфигураций для автоматического создания с верстаком и печью.
+info_book.integratedcrafting.crafting_interface.configuration=Настройка
+info_book.integratedcrafting.crafting_interface.configuration.text1=Как и у большинства частей &lIntegrated Dynamics&r, в &lИнтерфейсе создания&r можно настроить канал, приоритет и частоту тактов.
+info_book.integratedcrafting.crafting_interface.configuration.text2=Кроме того, вы можете отдельно изменить целевую сторону &oдля каждого типа ингредиентов&r. Это полезно, если привязанное устройство принимает разные типы ингредиентов с разных сторон. Например, предметы могут приниматься с боковых сторон, а жидкости — сверху.
+info_book.integratedcrafting.crafting_interface.recipe_feedback=Обратная связь по рецепту
+info_book.integratedcrafting.crafting_interface.recipe_feedback.text1=При вставке &lКарт переменных&r в &lИнтерфейс создания&r вы увидите либо &2зелёную галочку&0, либо &4красный крест&0, указывающие, подходит ли данный рецепт для привязанного устройства. Вы можете навести курсор на эти символы, чтобы получить дополнительную информацию.
+info_book.integratedcrafting.crafting_interface.recipe_feedback.text2=Это система раннего оповещения на случай, если вы случайно вставили не тот рецепт в интерфейс, например, если вы вставили рецепт сундука в &lИнтерфейс создания&r, привязанный к печи.
+info_book.integratedcrafting.crafting_interface.recipe_feedback.text3=Если вы видите &4красный крест&0, это означает, что &lКарта переменных&r либо не содержит корректного рецепта, либо рецепт не может быть выполнен в привязанном устройстве.
+info_book.integratedcrafting.crafting_interface.recipe_feedback.text4=&2Зелёная галочка&0 означает, что &lКарта переменных&r содержит корректный рецепт &oи&r устройство (вероятно) может его обработать.
+info_book.integratedcrafting.crafting_interface.distribution=Распределённые задания создания
+info_book.integratedcrafting.crafting_interface.distribution.text1=Если вы работаете с медленными устройствами или хотите повысить эффективность определённых заданий создания, вы можете &oраспределить&r задание создания между несколькими &lИнтерфейсами создания&r. Например, эта функция позволяет равномерно распределить создание 40 железных слитков между 10 печами.
+info_book.integratedcrafting.crafting_interface.distribution.text2=Единственное, что для этого нужно — убедиться, что все устройства, между которыми вы хотите распределить задание, имеют &lИнтерфейс создания&r, который (как минимум) предоставляет тот же самый рецепт, который вы хотите распределить. В случае нашего предыдущего примера, нужно убедиться, что все 10 печей имеют &lИнтерфейс создания&r, содержащий (как минимум) тот же рецепт переплавки железных слитков.
+info_book.integratedcrafting.crafting_interface.dynamic_recipes=Динамические рецепты
+info_book.integratedcrafting.crafting_interface.dynamic_recipes.text1=Следуя динамической природе &lКарт переменных&r из &lIntegrated Dynamics&r, рецепты, предоставляемые через &lИнтерфейсы создания&r, также могут быть полностью динамическими. Например, вы можете предоставить рецепт, который меняется в зависимости от времени суток или наличия определённого предмета в сети.
+info_book.integratedcrafting.crafting_interface.dynamic_recipes.text2=&lИнтерфейсы создания&r автоматически обнаруживают обновление рецепта, и все новые задания создания немедленно используют новый рецепт. Однако все выполняющиеся задания создания по-прежнему будут использовать старый рецепт.
+info_book.integratedcrafting.crafting_interface.dynamic_recipes.text3=Учтите, что чем чаще меняется ваш рецепт, тем больше лагов это может вызвать. Используйте эту возможность с осторожностью.
+info_book.integratedcrafting.crafting_interface.debugging_jobs=Отладка заданий создания
+info_book.integratedcrafting.crafting_interface.debugging_jobs.text1=При настройке автоматического создания вы можете столкнуться с ситуациями, когда ваше задание не работает должным образом из-за неправильной конфигурации.
+info_book.integratedcrafting.crafting_interface.debugging_jobs.text2=Вы можете отлаживать такие случаи с помощью аспектов, связанных с созданием, в &lСчитывателе сети&r, например, получить список всех доступных рецептов в сети, получить все выполняющиеся задания создания и получить все недостающие ингредиенты для задания. Визуализация этих списков на &lПанелях отображения&r может помочь вам точно определить проблему, с которой вы столкнулись.
+info_book.integratedcrafting.crafting_interface.debugging_jobs.text3=Учтите, что если у вас установлен &lIntegrated Terminals&r, вы можете использовать &lТерминал заданий создания&r для визуализации всех выполняющихся заданий, просмотра недостающих ингредиентов или отмены заданий.
+info_book.integratedcrafting.crafting_writer=Записчик создания
+info_book.integratedcrafting.crafting_writer.text1=&lЗаписчик создания&r позволяет автоматически запускать задания создания на основе определённых условий, используя рецепты, предоставляемые &lИнтерфейсами создания&r.
+info_book.integratedcrafting.crafting_writer.text2=Используя следующие аспекты, вы можете запускать задания на создание по заданному рецепту, выходному предмету, выходной жидкости или выходной энергии. С помощью настроек аспекта вы можете настроить канал создания, следует ли блокировать новые задания уже выполняющимися, следует ли также запускать создание недостающих входных ингредиентов, а также следует ли блокировать новые задания создания при наличии ингредиентов в сети хранения.
+info_book.integratedcrafting.crafting_writer.text3=Если вы хотите вставить &lКарту переменных&r, чтобы указать, что &oничего&r не следует создавать, просто вставьте пустое значение, например, &lКарту переменных&r с типом значения &8Item&0 без фактического предмета.
+info_book.integratedcrafting.crafting_writer.text4=Учтите, что если у вас установлен &lIntegrated Terminals&r, вы сможете визуально запускать задания создания из &lТерминала хранения&r.
+info_book.integratedcrafting.section.tutorials=Учебные руководства по созданию
+info_book.integratedcrafting.tutorials.introduction=Введение
+info_book.integratedcrafting.tutorials.introduction.text1=Этот раздел содержит несколько руководств, которые помогут вам освоить &lIntegrated Crafting&r — дополнение для &lIntegrated Dynamics&r, добавляющее автоматическое создание предметов в сетях &lIntegrated Dynamics&r.
+info_book.integratedcrafting.tutorials.autocrafting_setup=Настройка автоматического создания
+info_book.integratedcrafting.tutorials.autocrafting_setup.text1=В этом первом руководстве по &lIntegrated Crafting&r мы рассмотрим базовую настройку автоматического создания.
+info_book.integratedcrafting.tutorials.autocrafting_setup.text2=Первое требование для автоматического создания — это &lИнтерфейс создания&r, часть сети, которая должна быть обращена к устройству, например, верстаку или печи. Сначала создайте такой &lИнтерфейс создания&r и направьте его на &lВерстак&r.
+info_book.integratedcrafting.tutorials.autocrafting_setup.text3=Затем мы укажем &lИнтерфейсу создания&r, как он может создавать дубовые доски. Сделайте это, открыв &lЛогический программатор&r и записав &lКарту переменных&r, содержащую &lРецепт&r с дубовым бревном на входе и 4 дубовыми досками на выходе &o(не меняйте стандартные настройки сопоставления предметов)&r.
+info_book.integratedcrafting.tutorials.autocrafting_setup.text4=Наконец, давайте вставим ваш только что созданный рецепт в ваш &lИнтерфейс создания&r, чтобы завершить это первое руководство. Если отображается &2зелёная галочка&0, это означает, что ваш рецепт корректен и теперь доступен сети для автоматического создания.
+info_book.integratedcrafting.tutorials.autocrafting_trigger=Запуск автоматического создания
+info_book.integratedcrafting.tutorials.autocrafting_trigger.text1=В этом втором руководстве по &lIntegrated Crafting&r мы запустим задание на создание дубовых досок с помощью &lЗаписчика создания&r.
+info_book.integratedcrafting.tutorials.autocrafting_trigger.text2=Для начала давайте создадим &lЗаписчик создания&r. Это позволит вам автоматически запускать задания на создание по заданному рецепту, предмету, жидкости или энергии. Как только вы получите его, разместите записчик в любом месте сети, где есть ваш &lИнтерфейс создания&r из предыдущего руководства.
+info_book.integratedcrafting.tutorials.autocrafting_trigger.text3=Прежде чем мы укажем &lЗаписчику создания&r создавать дубовые доски, нам нужно сначала добавить несколько дубовых брёвен в сеть. Для этого подключите какое-нибудь хранилище (например, сундук) к сети с помощью &lИнтерфейса предметов&r из &lIntegrated Tunnels&r и убедитесь, что в сундуке есть хотя бы одно дубовое бревно.
+info_book.integratedcrafting.tutorials.autocrafting_trigger.text4=Теперь мы укажем &lЗаписчику создания&r начать создание дубовых досок. Сделайте это, создав &lКарту переменных&r с дубовыми досками с помощью вашего &lЛогического программатора&r, и вставьте её в &lЗаписчик создания&r.
+info_book.integratedcrafting.tutorials.autocrafting_trigger.text5=Если вы всё настроили правильно, вы увидите, что одно дубовое бревно превратилось в 4 дубовые доски. Как только вы заберёте эти доски, будут созданы 4 новые доски, если доступны другие брёвна. Вы можете поиграть с настройками аспекта &lЗаписчика создания&r, например, игнорировать содержимое хранилища и создавать столько досок, сколько возможно.
+info_book.integratedcrafting.tutorials.autocrafting_trigger.text6=Рисунок в конце этого раздела показывает пример необходимых компонентов для завершения этого руководства.

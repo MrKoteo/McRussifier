@@ -1,0 +1,238 @@
+itemGroup.tabBasalt=Базальт
+itemGroup.tabCathedral=Кафедральный
+itemGroup.tabDwemer=Двемерский
+itemGroup.tabRoofing=Кровельный
+
+tile.basalt_block_carved.paver.name=Базальтовая брусчатка
+tile.basalt_block_carved.poison.name=Базальтовый яд
+tile.basalt_block_carved.sunkenpanel.name=Базальтовая углубленная плитка
+tile.basalt_block_carved.vault.name=Базальтовый свод
+tile.basalt_block_carved.sunken.name=Базальтовое углубление
+tile.basalt_block_carved.knot.name=Базальтовый узел
+
+tile.basalt_slab_carved.raw.name=Плита из необработанного базальта
+tile.basalt_slab_carved.smalltiles.name=Плита из мелкой базальтовой плитки
+tile.basalt_slab_carved.layers.name=Слоистая базальтовая плита
+tile.basalt_slab_carved.bricks.name=Плита из базальтового кирпича
+tile.basalt_slab_carved.smallbricks.name=Плита из мелкого базальтового кирпича
+tile.basalt_slab_carved.tiles.name=Плита из базальтовой плитки
+tile.basalt_slab_carved.slabs.name=Скошенная базальтовая плита
+
+tile.basalt_stairs_carved_raw.name=Базальтовые ступеньки
+tile.basalt_stairs_carved_smalltiles.name=Ступеньки из мелкой базальтовой плитки
+tile.basalt_stairs_carved_layers.name=Слоистые базальтовые ступеньки
+tile.basalt_stairs_carved_bricks.name=Ступеньки из базальтового кирпича
+tile.basalt_stairs_carved_smallbricks.name=Ступеньки из мелкого базальтового кирпича
+tile.basalt_stairs_carved_tiles.name=Ступеньки из базальтовой плитки
+tile.basalt_stairs_carved_slabs.name=Ступеньки из базальтовых плит
+
+tile.basalt_block_checkered.normal.name=Клетчатый базальт
+tile.basalt_block_checkered.border.name=Клетчатый базальт с каймой
+tile.basalt_block_checkered.small.name=Мелкая клетка
+tile.basalt_block_checkered.tiles.name=Клетчатая плитка
+tile.basalt_block_checkered.tilessmall.name=Мелкая клетчатая плитка
+
+tile.basalt_slab_checkered.normal.name=Клетчатая плита
+tile.basalt_slab_checkered.small.name=Плита с мелкой клеткой
+tile.basalt_slab_checkered.tiles.name=Плита из клетчатой плитки
+tile.basalt_slab_checkered.tilessmall.name=Плита из мелкой клетчатой плитки
+
+tile.basalt_stairs_checkered_normal.name=Клетчатые ступеньки
+tile.basalt_stairs_checkered_small.name=Ступеньки из мелкой клетчатой плитки
+tile.basalt_stairs_checkered_tiles.name=Ступеньки из клетчатой плитки
+tile.basalt_stairs_checkered_tilessmall.name=Ступеньки из клетчатого кирпича
+
+tile.dwemer_block_carved.embedded.name=Двемерская врезная плита
+tile.dwemer_block_carved.pillar.name=Двемерский столб с каймой
+tile.dwemer_block_carved.altar.name=Двемерский каменный алтарь
+tile.dwemer_block_carved.carving1.name=Двемерская резная змея
+tile.dwemer_block_carved.carving2.name=Двемерские резные фигуры
+tile.dwemer_block_carved.layered.name=Двемерский армированный кирпич
+tile.dwemer_block_carved.scalepillar.name=Двемерский чешуйчатый столб
+tile.dwemer_block_carved.wormgear.name=Двемерская червячная передача
+tile.dwemer_block_carved.rays.name=Двемерская резьба "Лучи"
+tile.dwemer_block_carved.knot.name=Двемерский узел
+tile.dwemer_block_carved.mask.name=Двемерская маска
+tile.dwemer_block_carved.panel.name=Двемерская панель
+tile.dwemer_block_carved.vent.name=Двемерский вентиляционный люк
+
+tile.dwemer_glass_normal.fence.name=Двемерская металлическая ограда
+tile.dwemer_glass_normal.ornate.name=Двемерский металлический орнамент
+
+tile.dwemer_light_normal.path.name=Двемерское дорожное освещение
+tile.dwemer_light_normal.vent.name=Двемерский горящий вентиляционный люк
+tile.dwemer_light_normal.gas.name=Двемерский газовый светильник
+
+tile.dwemer_bars_normal.normal.name=Двемерские металлические прутья
+tile.dwemer_bars_normal.ornate.name=Двемерские металлические прутья орнаментальные
+tile.dwemer_bars_normal.footer.name=Двемерские металлические прутья (нижняя часть)
+tile.dwemer_bars_normal.header.name=Двемерские металлические прутья (верхняя часть)
+tile.dwemer_bars_normal.mask.name=Двемерские металлические прутья (маска)
+tile.dwemer_bars_normal.rhombus.name=Двемерские металлические прутья (ромб)
+
+tile.basalt_dwemercatwalk.name=Двемерский мост
+
+item.tile.dwemer_door_normal.name=Короткая двемерская дверь
+item.tile.dwemer_door_tall.name=Высокая двемерская дверь
+
+tile.basalt_extraslabs.fantasy-brick.name=Плита из фэнтезийного кирпича
+tile.basalt_extraslabs.fantasy-damaged.name=Плита из поврежденного фэнтезийного кирпича
+tile.basalt_extraslabs.fantasy-disarray.name=Плита из фэнтезийного кирпича в беспорядке
+tile.basalt_extraslabs.endstone-brick.name=Плита из эндернякового кирпича
+tile.basalt_extraslabs.endstone-checkered.name=Клетчатая плита из эндерняка
+
+tile.cathedral_railing_various.stone.name=Каменные перила
+tile.cathedral_railing_various.sandstone.name=Песчаниковые перила
+tile.cathedral_railing_various.redsandstone.name=Перила из красного песчаника
+tile.cathedral_railing_various.obsidian.name=Обсидиановые перила
+tile.cathedral_railing_various.netherbrick.name=Адские кирпичные перила
+tile.cathedral_railing_various.quartz.name=Кварцевые перила
+tile.cathedral_railing_various.endstone.name=Перила из эндерняка
+tile.cathedral_railing_various.packedice.name=Перила из уплотнённого льда
+tile.cathedral_railing_various.snow.name=Снежные перила
+tile.cathedral_railing_various.marble.name=Мраморные перила
+tile.cathedral_railing_various.limestone.name=Известняковые перила
+tile.cathedral_railing_various.basalt.name=Базальтовые перила
+tile.cathedral_railing_various.dwemer.name=Двемерские перила
+
+tile.cathedral_pillar_various.stone.name=Каменный столб
+tile.cathedral_pillar_various.sandstone.name=Песчаниковый столб
+tile.cathedral_pillar_various.redsandstone.name=Столб из красного песчаника
+tile.cathedral_pillar_various.obsidian.name=Обсидиановый столб
+tile.cathedral_pillar_various.netherbrick.name=Адский кирпичный столб
+tile.cathedral_pillar_various.quartz.name=Кварцевый столб
+tile.cathedral_pillar_various.endstone.name=Столб из эндерняка
+tile.cathedral_pillar_various.packedice.name=Столб из уплотнённого льда
+tile.cathedral_pillar_various.snow.name=Снежный столб
+tile.cathedral_pillar_various.marble.name=Мраморный столб
+tile.cathedral_pillar_various.limestone.name=Известняковый столб
+tile.cathedral_pillar_various.basalt.name=Базальтовый столб
+tile.cathedral_pillar_various.dwemer.name=Двемерский столб
+
+tile.cathedral_chain_various.iron.name=Железная цепь
+tile.cathedral_chain_various.gold.name=Золотая цепь
+tile.cathedral_chain_various.dwemer.name=Двемерская цепь
+tile.cathedral_chain_various.copper.name=Медная цепь
+tile.cathedral_chain_various.bronze.name=Бронзовая цепь
+tile.cathedral_chain_various.silver.name=Серебряная цепь
+tile.cathedral_chain_various.enderium.name=Цепь из эндериума
+
+tile.cathedral_gargoyle_demon_stone.name=Каменная горгулья
+tile.cathedral_gargoyle_demon_sandstone.name=Песчаниковая горгулья
+tile.cathedral_gargoyle_demon_redsandstone.name=Горгулья из красного песчаника
+tile.cathedral_gargoyle_demon_obsidian.name=Обсидиановая горгулья
+tile.cathedral_gargoyle_demon_netherbrick.name=Адская кирпичная горгулья
+tile.cathedral_gargoyle_demon_quartz.name=Кварцевая горгулья
+tile.cathedral_gargoyle_demon_endstone.name=Горгулья из эндерняка
+tile.cathedral_gargoyle_demon_packedice.name=Горгулья из уплотнённого льда
+tile.cathedral_gargoyle_demon_snow.name=Снежная горгулья
+tile.cathedral_gargoyle_demon_marble.name=Мраморная горгулья
+tile.cathedral_gargoyle_demon_limestone.name=Известняковая горгулья
+tile.cathedral_gargoyle_demon_basalt.name=Базальтовая горгулья
+tile.cathedral_gargoyle_demon_dwemer.name=Двемерская горгулья
+
+tile.deckprism.white.name=Белая палубная призма
+tile.deckprism.orange.name=Оранжевая палубная призма
+tile.deckprism.magenta.name=Пурпурная палубная призма
+tile.deckprism.lightBlue.name=Светло-голубая палубная призма
+tile.deckprism.yellow.name=Жёлтая палубная призма
+tile.deckprism.lime.name=Лаймовая палубная призма
+tile.deckprism.pink.name=Розовая палубная призма
+tile.deckprism.gray.name=Серая палубная призма
+tile.deckprism.silver.name=Светло-серая палубная призма
+tile.deckprism.cyan.name=Бирюзовая палубная призма
+tile.deckprism.purple.name=Фиолетовая палубная призма
+tile.deckprism.blue.name=Синяя палубная призма
+tile.deckprism.brown.name=Коричневая палубная призма
+tile.deckprism.green.name=Зелёная палубная призма
+tile.deckprism.red.name=Красная палубная призма
+tile.deckprism.black.name=Чёрная палубная призма
+
+tile.extras_block_stone.paver.name=Каменная брусчатка
+tile.extras_block_stone.knot.name=Каменный узел
+tile.extras_block_stone.embedded.name=Врезной камень
+tile.extras_block_stone.pillar.name=Каменный столб
+tile.extras_block_stone.vault.name=Каменный свод
+tile.extras_block_stone.metalknot.name=Каменный металлический узел
+
+tile.extras_block_endstone.paver.name=Эндерняковая брусчатка
+tile.extras_block_endstone.checkered.name=Клетчатая плитка из эндерняка
+tile.extras_slab_endstone.raw.name=Плита из сырого эндерняка
+tile.extras_slab_endstone.smalltiles.name=Плита из мелкой эндерняковой плитки
+tile.extras_slab_endstone.layers.name=Слоистая плита из эндерняка
+tile.extras_slab_endstone.bricks.name=Плита из эндернякового кирпича
+tile.extras_slab_endstone.smallbricks.name=Плита из мелкого эндернякового кирпича
+tile.extras_slab_endstone.tiles.name=Плита из эндерняковой плитки
+tile.extras_slab_endstone.slabs.name=Эндерняковая плита
+
+tile.extras_stairs_endstone_raw.name=Ступеньки из сырого эндерняка
+tile.extras_stairs_endstone_smalltiles.name=Ступеньки из мелкой эндерняковой плитки
+tile.extras_stairs_endstone_layers.name=Слоистые ступеньки из эндерняка
+tile.extras_stairs_endstone_bricks.name=Ступеньки из эндернякового кирпича
+tile.extras_stairs_endstone_smallbricks.name=Ступеньки из мелкого эндернякового кирпича
+tile.extras_stairs_endstone_tiles.name=Ступеньки из эндерняковой плитки
+tile.extras_stairs_endstone_slabs.name=Ступеньки из эндерняковых плит
+tile.extras_stairs_endstone_checkered.name=Клетчатые ступеньки из эндерняка
+
+item.claytile.name=Необожжённая глиняная плитка
+item.firedtile.name=Обожжённая глиняная плитка
+
+tile.roofing_shingles_natural.name=Натуральная терракотовая черепица
+tile.roofing_shingles_black.name=Чёрная терракотовая черепица
+tile.roofing_shingles_red.name=Красная терракотовая черепица
+tile.roofing_shingles_green.name=Зелёная терракотовая черепица
+tile.roofing_shingles_brown.name=Коричневая терракотовая черепица
+tile.roofing_shingles_blue.name=Синяя терракотовая черепица
+tile.roofing_shingles_purple.name=Фиолетовая терракотовая черепица
+tile.roofing_shingles_cyan.name=Бирюзовая терракотовая черепица
+tile.roofing_shingles_silver.name=Светло-серая терракотовая черепица
+tile.roofing_shingles_gray.name=Серая терракотовая черепица
+tile.roofing_shingles_pink.name=Розовая терракотовая черепица
+tile.roofing_shingles_lime.name=Лаймовая терракотовая черепица
+tile.roofing_shingles_yellow.name=Жёлтая терракотовая черепица
+tile.roofing_shingles_light_blue.name=Светло-голубая терракотовая черепица
+tile.roofing_shingles_magenta.name=Пурпурная терракотовая черепица
+tile.roofing_shingles_orange.name=Оранжевая терракотовая черепица
+tile.roofing_shingles_white.name=Белая терракотовая черепица
+
+tile.roofing_block_natural.name=Натуральный терракотовый блок
+tile.roofing_block_black.name=Чёрный терракотовый блок
+tile.roofing_block_red.name=Красный терракотовый блок
+tile.roofing_block_green.name=Зелёный терракотовый блок
+tile.roofing_block_brown.name=Коричневый терракотовый блок
+tile.roofing_block_blue.name=Синий терракотовый блок
+tile.roofing_block_purple.name=Фиолетовый терракотовый блок
+tile.roofing_block_cyan.name=Бирюзовый терракотовый блок
+tile.roofing_block_silver.name=Светло-серый терракотовый блок
+tile.roofing_block_gray.name=Серый терракотовый блок
+tile.roofing_block_pink.name=Розовый терракотовый блок
+tile.roofing_block_lime.name=Лаймовый терракотовый блок
+tile.roofing_block_yellow.name=Жёлтый терракотовый блок
+tile.roofing_block_light_blue.name=Светло-голубой терракотовый блок
+tile.roofing_block_magenta.name=Пурпурный терракотовый блок
+tile.roofing_block_orange.name=Оранжевый терракотовый блок
+tile.roofing_block_white.name=Белый терракотовый блок
+
+tile.roofing_slab_natural.name=Плита из натуральной терракоты
+tile.roofing_slab_black.name=Плита из чёрной терракоты
+tile.roofing_slab_red.name=Плита из красной терракоты
+tile.roofing_slab_green.name=Плита из зелёной терракоты
+tile.roofing_slab_brown.name=Плита из коричневой терракоты
+tile.roofing_slab_blue.name=Плита из синей терракоты
+tile.roofing_slab_purple.name=Плита из фиолетовой терракоты
+tile.roofing_slab_cyan.name=Плита из бирюзовой терракоты
+tile.roofing_slab_silver.name=Плита из светло-серой терракоты
+tile.roofing_slab_gray.name=Плита из серой терракоты
+tile.roofing_slab_pink.name=Плита из розовой терракоты
+tile.roofing_slab_lime.name=Плита из лаймовой терракоты
+tile.roofing_slab_yellow.name=Плита из жёлтой терракоты
+tile.roofing_slab_light_blue.name=Плита из светло-голубой терракоты
+tile.roofing_slab_magenta.name=Плита из пурпурной терракоты
+tile.roofing_slab_orange.name=Плита из оранжевой терракоты
+tile.roofing_slab_white.name=Плита из белой терракоты
+
+tile.chisel.stainedglass.name=Витражи кафедрального стекла
+tile.cathedral_glass_stained.firetaijitu.name=Кафедральное стекло "Огненный Тайцзиту"
+tile.cathedral_glass_stained.amberrhombus.name=Кафедральное стекло "Янтарный ромб"
+tile.cathedral_pane_stained.firetaijitu.name=Стеклянная панель "Огненный Тайцзиту"
+tile.cathedral_pane_stained.amberrhombus.name=Стеклянная панель "Янтарный ромб"
