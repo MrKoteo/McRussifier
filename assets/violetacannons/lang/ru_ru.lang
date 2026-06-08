@@ -1,0 +1,7 @@
+tile.cannon.name=Железная пушка
+tile.goldcannon.name=Золотая пушка
+tile.diamondcannon.name=Алмазная пушка
+container.cannon=Железная пушка
+container.goldcannon=Золотая пушка
+container.diamondcannon=Алмазная пушка
+key.cannonshoot.desc=Стрельба из пушки

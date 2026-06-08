@@ -1,13 +1,11 @@
 tile.fusion.single_mode=Одиночный режим
 tile.fusion.regular_mode=Обычный режим
-
-# Alchemistry
 tile.fission_glass.name=Стекло камеры деления
 tile.fusion_glass.name=Стекло камеры синтеза
 tile.radon_light.name=Радоновый светильник
 item.alchemistry:periodic_table.name=Периодическая таблица
-jei.chemical_combiner.name=Химический комбайнер
-jei.chemical_dissolver.name=Химический диссольвер
+jei.chemical_combiner.name=Химический комбайн
+jei.chemical_dissolver.name=Химический растворитель
 jei.fusion_controller.name=Мультиблок синтеза
 item.alchemistry:periodic_table.tooltip=ПКМ для открытия полноэкранной периодической таблицы
 tile.fusion.single_mode=Одиночный режим
