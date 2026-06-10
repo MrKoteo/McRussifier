@@ -1,0 +1,5 @@
+block.refinedstorage:emccrafter.name=Крафт EMC
+block.refinedstorage:liquifier.name=Сжижитель EMC
+gui.refinedexchange:emccrafter=Крафт EMC
+gui.refinedexchange:liquifier=Сжижитель EMC
+fluid.liquidemc=Сжиженный EMC

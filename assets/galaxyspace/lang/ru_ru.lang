@@ -1,3 +1,7 @@
 menu.update=Обновить [Galaxy Space]!
 advancement.galaxyspace.root.description=Исследуй космос!
 item.mars_rover.name=Ровер
+keybind.togglehelmet.name=Переключить шлем
+keybind.togglechest.name=Переключить нагрудник
+keybind.togglelegs.name=Переключить поножи
+keybind.toggleboots.name=Переключить ботинки

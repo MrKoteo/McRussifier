@@ -1,0 +1,3 @@
+item.torchbow.name=Лук с факелом
+itemGroup.TorchBowModTab=Torch Bow
+death.attack.EntityTorch=%1$s умер от факела %2$s

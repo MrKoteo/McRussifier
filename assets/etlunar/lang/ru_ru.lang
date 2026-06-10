@@ -1,0 +1,11 @@
+tile.etlunar.lunar_cont_1.name=Контроллер лунной решётки уровень 1
+tile.etlunar.lunar_cont_2.name=Контроллер лунной решётки уровень 2
+tile.etlunar.lunar_cont_3.name=Контроллер лунной решётки уровень 3
+tile.etlunar.lunar_cont_4.name=Контроллер лунной решётки уровень 4
+tile.etlunar.lunar_cont_5.name=Контроллер лунной решётки уровень 5
+tile.etlunar.lunar_cont_6.name=Контроллер лунной решётки уровень 6
+tile.etlunar.lunar_cell_mica.name=Слюдяная лунная ячейка
+item.etlunar.lunarvoltaic_cell.name=Лунновольтаическая ячейка
+guide.etlunar.lunar_arrays.button.title=Лунные решётки
+guide.etlunar.lunar_arrays.page.title=Лунные решётки
+guide.etlunar.lunar_arrays.page.text.description=Лунные решётки позволяют использовать силу луны! Они отлично работают ночью, но на них влияет погода, и они не генерируют энергию днём

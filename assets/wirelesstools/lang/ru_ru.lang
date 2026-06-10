@@ -1,8 +1,6 @@
-
-
-
-// add missing
-
-
 wirelesstools.gui.WP.storage=Накопленная энергия
 wirelesstools.gui.WP.maxOutput=Максимальный выход
+message.tile.wirelessstorage.isconnected=Подключено
+message.tile.wirelessstorage.targetset=Активировано
+tile.wirelessNeutronSP.name=Беспроводная Нейтронная солнечная панель
+wirelessNeutronPanel.name=Беспроводная Нейтронная солнечная панель

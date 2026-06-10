@@ -1,0 +1,15 @@
+tile.corruption.name=Порча
+item.deprivedchunk.name=Месиво лишённого
+tile.bleachstone.name=Отбеливающий камень
+entity.slug.name=Слизнебот
+tile.messinfertile.name=Месиво
+entity.chickenhead.name=Куриная голова
+entity.thcreeper.name=Крипер
+entity.sirenhead.name=Сирена
+tile.useddepravity.name=Испорченность
+entity.crawler.name=Ползун
+tile.depravity.name=Плодородная испорченность
+tile.wombsiding.name=Ткань матки
+fluid.bleach=Отбеливатель
+entity.hoarder.name=Орда
+item.coruptionmess.name=Месиво порчи

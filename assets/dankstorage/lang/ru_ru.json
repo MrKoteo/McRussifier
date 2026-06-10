@@ -1,0 +1,9 @@
+{
+  "dankstorage.mode.normal": "Обычный",
+  "dankstorage.mode.pickup_all": "Подбирать всё",
+  "dankstorage.mode.filtered_pickup": "Фильтрованный подбор",
+  "dankstorage.mode.void_pickup": "Подбор с уничтожением",
+  "key.dankstorage.construction": "Режим строительства",
+  "text.dankstorage.changemode": "Нажмите %s для смены режима",
+  "text.dankstorage.currentmode": "Текущий режим: %s"
+}

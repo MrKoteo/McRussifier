@@ -1,9 +1,3 @@
-v1.8
+v1.11
 Added:
- lots of new mods
-
-Fixed:
- ...
-
-Edited:
- GT
+artifacts, Celeritas , celeritasleafculling, cellterminal, lycanitesmobs, lycaniteadditions, rlmixins, textiles, valkyrienskies

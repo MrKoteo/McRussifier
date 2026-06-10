@@ -1,0 +1,8 @@
+block.rangedpumps:pump.state=%d mB %s - %d / %d FE
+block.rangedpumps:pump.name=Насос
+block.rangedpumps:pump.state_empty=Пуст - %d / %d FE
+block.rangedpumps:pump.state.energy=Недостаточно энергии
+block.rangedpumps:pump.state.redstone=Не работает из-за сигнала редстоуна
+block.rangedpumps:pump.state.working=Сканирование в %d, %d, %d (дальность: %d)
+block.rangedpumps:pump.state.full=Внутренний резервуар полон
+block.rangedpumps:pump.state.done=Готово

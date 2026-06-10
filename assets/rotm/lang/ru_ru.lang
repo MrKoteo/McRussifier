@@ -1,0 +1,4 @@
+item.debug_damages.name=Отладчик названий урона
+item.debug_entities.name=Отладчик названий сущностей
+item.debug_potions.name=Отладчик названий зелий
+debug_damages.print=Получил урон '%s' от непосредственного источника '%s' и истинного источника '%s'

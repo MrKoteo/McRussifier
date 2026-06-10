@@ -1,0 +1,7 @@
+item.openglider:hang_glider_basic.name=Дельтаплан
+item.openglider:hang_glider_advanced.name=Продвинутый дельтаплан
+item.openglider:hang_glider_part.wing_left.name=Крыло дельтаплана (левое)
+item.openglider:hang_glider_part.wing_right.name=Крыло дельтаплана (правое)
+item.openglider:hang_glider_part.scaffolding.name=Строительные леса
+openglider.elytra.error=Вы не можете использовать дельтаплан с элитрой!
+openglider.tooltip.upgrade=Улучшение

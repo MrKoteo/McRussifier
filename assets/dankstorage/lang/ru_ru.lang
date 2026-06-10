@@ -1,0 +1,15 @@
+dankstorage.pickup.enabled=Автоподбор включён
+dankstorage.pickup.disabled=Автоподбор отключён
+dankstorage.void.enabled=Уничтожение включено
+dankstorage.void.disabled=Уничтожение отключено
+key.dankstorage.pickup=Автоподбор
+key.dankstorage.void=Уничтожение
+key.categories.dankstorage=Клавиши Dank Storage
+text.dankstorage.shift=Нажмите %s для информации
+text.dankstorage.empty=Пусто
+text.dankstorage.enablevoid=Нажмите %s для включения уничтожения
+text.dankstorage.disablevoid=Нажмите %s для отключения уничтожения
+text.dankstorage.enablepickup=Нажмите %s для включения подбора
+text.dankstorage.disablepickup=Нажмите %s для отключения подбора
+dankstorage.construction.enabled=Режим строительства включён
+dankstorage.construction.disabled=Режим строительства отключён

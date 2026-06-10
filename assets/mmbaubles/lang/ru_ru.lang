@@ -1,0 +1,9 @@
+item.mmbaubles.earth_trinket.name=Амулет Земли
+item.mmbaubles.luminous_ring.name=Кольцо Света
+item.mmbaubles.naga_ring.name=Кольцо Защиты наги
+item.mmbaubles.sun_trinket.name=Амулет Солнца
+tooltip.mmbaubles.earth_trinket.equip=Даёт эффект «Геомантия» при ношении
+tooltip.mmbaubles.luminous_ring.equip=Даёт эффекты «Свечение» и «Ночное зрение» при ношении
+tooltip.mmbaubles.naga_ring.equip=Даёт эффект «Сопротивление яду» при ношении
+tooltip.mmbaubles.sun_trinket.equip=Даёт эффект «Благословение солнца» при ношении
+item.grantSunsBlessing.text.2.notimer=С пустой рукой, крадучись + ПКМ, чтобы выстрелить солнечным лучом
