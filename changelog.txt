@@ -1,3 +1,15 @@
 v1.11
 Added:
 artifacts, Celeritas , celeritasleafculling, cellterminal, lycanitesmobs, lycaniteadditions, rlmixins, textiles, valkyrienskies
+
+
+
+v2.0
+Removed: Textiles (перевод включён в файл мода)
+
+Added: apocamobs, atlcraft, bc_ex_laser, bonecraft, brewcraft, tfc_cellars, chococraft, dankstorage, desertcraft, dynamictreesphc, etlunar, funkylocomotion, industrialwires, integrateddynamics, ironbackpacks, lmreengaged, magneticraft, medieval_craft, mmbaubles, moremobss, mowziesmobs, openglider, pizzacraft, portality, primitivemobs, rangedpumps, redstonepaste, runecraft, simpleplanes, solargeneration, specialmobs, tanaddons, tofucraft, torchbowmod, cryfish's vehicle  и другие
+
+Edited: botania, chisel, exnihilocreatio, immersiveintelligence, neenergistics, pneumaticcraft, rpsideas, wirelesstools
+
+---
+Переводы Nuclearcraft и QMD вскоре будут включены в оригинальные моды!!!
