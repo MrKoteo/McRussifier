@@ -1,5 +1,3 @@
-itemGroup.tab.mystical_agradditions.name=Mystical Agradditions  
-
 tile.ma.storage_essence.name=§5Блок эссенции инсаниума  
 tile.ma.storage_ingot.name=§5Блок инсаниума  
 tile.ma.storage_coal.name=§5Блок инсаниумного угля  
@@ -12,7 +10,6 @@ tile.ma.nether_star_crop.name=Культура звезды Незера
 tile.ma.dragon_egg_crop.name=Культура яйца дракона  
 tile.ma.awakened_draconium_crop.name=Культура пробужденного дракониума  
 tile.ma.neutronium_crop.name=Культура нейтрониума  
-
 item.ma.insanium_essence.name=§5Эссенция инсаниума  
 item.ma.insanium_crafting_seed.name=Семя для крафта 6 уровня  
 item.ma.insanium_ingot.name=§5Слиток инсаниума  
@@ -39,15 +36,12 @@ item.ma.prudentium_paxel.name=§aПаксель из пруденциума
 item.ma.intermedium_paxel.name=§6Паксель из интермедиума  
 item.ma.superium_paxel.name=§bПаксель из супериума  
 item.ma.supremium_paxel.name=§cПаксель из суперемиума  
-
 jei.ma.tier_6_crop=Культура 6 уровня  
-desc.withering_soul=Выпадает с визеров.  
-desc.dragon_scale=Выпадает с драконов Края.  
-tooltip.ma.creative_essence=Эссенция бесконечного творчества.  
+desc.withering_soul=Выпадает с визеров
+desc.dragon_scale=Выпадает с драконов Края
+tooltip.ma.creative_essence=Эссенция бесконечного творчества
 tooltip.ma.insanium=Инсаниум  
 tooltip.ma.paxel=Паксель  
-
-# TINKERS  
 fluid.base_essence.name=Расплавленная базовая эссенция  
 fluid.soulium.name=Расплавленный соулиум  
 fluid.inferium.name=Расплавленный инфериум  
@@ -64,6 +58,6 @@ material.ma.intermedium.name=Интермедиум
 material.ma.superium.name=Супериум  
 material.ma.supremium.name=Суперемиум  
 trait.ma.prosperous=Процветающий  
-trait.ma.prosperous.desc=Заставляет ваш инструмент или оружие случайно ронять осколки процветания.  
+trait.ma.prosperous.desc=Заставляет ваш инструмент или оружие случайно ронять осколки процветания
 trait.ma.chunky=Кускастый  
 trait.ma.chunky.desc=Заставляет ваш инструмент или оружие ронять моб-куски.  

@@ -1,32 +1,19 @@
-# Подсказки
 tooltip.valkyrielib.shiftmoreinfo=Зажмите Shift
 tooltip.valkyrielib.witherproof=Защита от Визера
 tooltip.valkyrielib.playerbreakonly=Могут сломать только игроки
-
-# Группа предметов
-itemgroup.valkyrielib.tab=ValkyrieLib
-
-# Предметы
 item.valkyrielib.guide.name=Цифровое руководство
 item.valkyrielib.modifier_component.name=Компонент модификатора
 item.valkyrielib.modifier_speed.name=Модификатор скорости
 item.valkyrielib.modifier_range.name=Модификатор радиуса
 item.valkyrielib.modifier_magnitude.name=Модификатор величины
-
-# Информационные сообщения
-info.valkyrielib.shift=SHIFT
 info.valkyrielib.forinfo=Для информации
 info.valkyrielib.useguide=Ищите "@ValkyrieLib Digital Guide" в JEI для получения руководства в игре
 info.valkyrielib.assembled=Собрано
 info.valkyrielib.owner=Владелец
 info.valkyrielib.duration=Длительность
-
-# Аргументы информационных сообщений
 infoarg.valkyrielib.duration=Длительность: %s
 infoarg.valkyrielib.owner=Владелец: %s
 infoarg.valkyrielib.assembled=Собрано: %s
-
-# Элементы GUI
 gui.valkyrielib.next=Далее
 gui.valkyrielib.prev=Назад
 gui.valkyrielib.scrollup=Прокрутить вверх
@@ -57,26 +44,12 @@ gui.valkyrielib.green=Зелёный
 gui.valkyrielib.blue=Синий
 gui.valkyrielib.info=Информация
 gui.valkyrielib.clickhere=Нажмите здесь
-gui.valkyrielib.infosymbol=i
-gui.valkyrielib.jeisymbol=j
-gui.valkyrielib.modifiersymbol=m
-
-# Кнопки руководства/ссылки
-guide.valkyrielib.button.patreon=Поддержите ValkyrieofNight на Patreon!!!
-guide.valkyrielib.button.twitter=Подпишитесь на ValkyrieofNight в Twitter
 guide.valkyrielib.button.discord=Присоединяйтесь к Discord ValkyrieofNights
 guide.valkyrielib.button.curseforge=Найдите другие моды ValkyrieofNights на CurseForge
-guide.valkyrielib.button.youtube=Подпишитесь на ValkyrieofNight на Youtube
-guide.valkyrielib.button.twitch=Подпишитесь на ValkyrieofNight на Twitch
-guide.valkyrielib.button.website=Посетите веб-сайт ValkyrieofNights
 guide.valkyrielib.button.github=Сообщите об ошибке на github
-
-# Заголовки руководства
 guide.valkyrielib.title.description=Описание
 guide.valkyrielib.title.commonreq=Общие требования
 guide.valkyrielib.title.modifiers=Модификаторы
-
-# Конфигурация/системные сообщения
 valkyrielib.module.enabled=Модуль включен?
 valkyrielib.feature.enabled=Функция включена?
 valkyrielib.documentation.version=Версия документации
@@ -85,8 +58,6 @@ valkyrielib.documentation.version.noedit=Редактирование этого
 valkyrielib.documentation.version.regen=Документация regenerates только при выходе новой версии мода
 valkyrielib.default=По умолчанию
 valkyrielib.requirements=Требования
-
-# Общие термины
 valkyrielib.range=Радиус
 valkyrielib.strings=Строки
 valkyrielib.chars=Символы

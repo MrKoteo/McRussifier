@@ -1,6 +1,3 @@
-#Русский перевод для Tesla
-
-#Единицы измерения энергии
 unit.tesla.t=Тесла
 unit.tesla.kt=КилоТесла
 unit.tesla.mt=МегаТесла
@@ -8,9 +5,7 @@ unit.tesla.gt=ГигаТесла
 unit.tesla.tt=ТераТесла
 unit.tesla.pt=ПетаТесла
 unit.tesla.et=ЭксаТесла
-
-#Подсказки
-tooltip.tesla.showinfo=Нажмите %s%s%s для получения дополнительной информации.
+tooltip.tesla.showinfo=Нажмите %s%s%s для получения дополнительной информации
 tooltip.tesla.powerinfo=%s/%s Тесла
-tooltip.tesla.output=Выход: %s Тесла/т
-tooltip.tesla.input=Вход: %s Тесла/т
+tooltip.tesla.output=Выход: %s Тесла/t
+tooltip.tesla.input=Вход: %s Тесла/t
