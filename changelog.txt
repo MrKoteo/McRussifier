@@ -12,4 +12,21 @@ Added: apocamobs, atlcraft, bc_ex_laser, bonecraft, brewcraft, tfc_cellars, choc
 Edited: botania, chisel, exnihilocreatio, immersiveintelligence, neenergistics, pneumaticcraft, rpsideas, wirelesstools
 
 ---
-Переводы Nuclearcraft и QMD вскоре будут включены в оригинальные моды!!!
+Переводы Nuclearcraft и QMD вскоре будут включены в оригинальные моды
+
+
+v2.1
+Removed:
+
+
+Added:
+The ResidentEvil Up, Tinker's Toolbelt
+
+Edited:
+
+---
+
+
+
+
+...
