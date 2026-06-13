@@ -20,7 +20,7 @@ Removed:
 
 
 Added:
-The ResidentEvil Up, Tinker's Toolbelt
+The ResidentEvil Up, Tinker's Toolbelt, simpledifficulty
 
 Edited:
 
