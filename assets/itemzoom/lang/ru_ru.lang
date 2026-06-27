@@ -1,0 +1,16 @@
+key.itemzoom.toggle=Переключить
+key.itemzoom.hold=Удерживать для включения
+key.itemzoom.zoom.in=Приблизить
+key.itemzoom.zoom.out=Отдалить
+config.itemzoom.toggle.enabled=Переключение включено
+config.itemzoom.toggle.enabled.comment=True, если Item Zoom включен переключением.
+config.itemzoom.zoom.amount=Степень увеличения
+config.itemzoom.zoom.amount.comment=Установите меньшее значение, чтобы уменьшить увеличение.
+config.itemzoom.jei.only=Только список JEI
+config.itemzoom.jei.only.comment=Увеличивать только предметы из списка JEI.
+config.itemzoom.show.help.text=Показывать подсказку
+config.itemzoom.show.help.text.comment=Показывает «Item Zoom» и клавишу для отключения под увеличенным изображением.
+config.itemzoom.show.damage.bar=Показывать шкалу прочности
+config.itemzoom.show.damage.bar.comment=Показывать шкалу прочности предмета при увеличении.
+config.itemzoom.show.stack.size=Показывать размер стака
+config.itemzoom.show.stack.size.comment=Показывать размер стака предмета при увеличении.

@@ -1,0 +1,11 @@
+# JAOPCA Singularities
+item.jaopca.singularity.name=%s сингулярность
+
+
+# JAOPCA Agriculture
+item.jaopca.essence.name=%s Эссенция
+item.jaopca.mysticalSeeds.name=%s Семена
+tile.jaopca.mysticalCrops.name=%s Культуры
+tile.jaopca.crux.name=%s Крест
+plant.jaopca.mystical=%s Культура
+plant.desc.jaopca.mystical=%s Семена.

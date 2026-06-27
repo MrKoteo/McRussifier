@@ -1,0 +1,4 @@
+msc.default=По умолчанию (Как в системе)
+msc.output=Вывод: %s
+msc.newdevice=Выберите новое устройство вывода
+msc.activedevice=Активное устройство: %s

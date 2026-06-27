@@ -1656,3 +1656,9 @@ entity.aetherwave=Эфирная Волна
 entity.summoningseed=Призывающее Семя
 entity.primeember=Первичная Искра
 entity.smitefireball=Карающий Огненный Шар
+
+// Ice and Fire QOL Fix
+entity.iceandfire_dragon.name=Дракон
+entity.iceandfire_dragon.description=Привязанный к душе дракон Ice and Fire.
+entity.iceandfire_dragon.habitat=Привязан через Камень Души.
+entity.iceandfire_dragon.combat=Использует подбор предметов в стиле Рока, находясь верхом. Дыхательные атаки отключены, за исключением использования в кузнице драконов 4-й стадии и выше.

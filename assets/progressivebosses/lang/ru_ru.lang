@@ -1,0 +1,6 @@
+commands.counter.usage.help=Устанавливает или показывает сложность Виверны и Дракона для игрока
+commands.counter.usage.number=<difficulty> принимает только числа
+item.progressivebosses:nether_star_shard.name=Осколок звезды Нижнего мира
+dragon.minion=Прислужник Дракона
+dragon.larva=Личинка Дракона
+wither.minion=Прислужник Виверны

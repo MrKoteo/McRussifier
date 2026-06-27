@@ -1,0 +1,12 @@
+key.fullscreenwindowed.unused=Неиспользуемая клавиша – оставьте пустым
+key.fullscreenwindowed.category=Мод полноэкранного окна
+comment.fullscreenwindowed.enableFullscreenWindowed=Включить полноэкранный оконный режим (заменяет полноэкранный режим Minecraft)
+comment.fullscreenwindowed.fullscreenmonitor=Указывает, какой монитор (начиная с 1) использовать для полноэкранного оконного режима. Используйте 0 для поведения по умолчанию - развернуть на активном мониторе
+comment.fullscreenwindowed.enableAdvancedFeatures=Чтобы использовать любые функции в разделе «дополнительно», установите true
+comment.fullscreenwindowed.enableMaximumCompatibility=TRUE: используйте другую стратегию запуска, чтобы этот мод лучше работал с Optifine и другими модами, изменяющими GL. ИЗМЕНЯЙТЕ НА СВОЙ СТРАХ И РИСК
+comment.fullscreenwindowed.customFullscreenDimensions=Установите true, чтобы настроить размер окна в полноэкранном режиме. Ширина И высота должны быть больше 256, чтобы вступить в силу
+comment.fullscreenwindowed.customFullscreenDimensionsX=Координата X для размещения окна в полноэкранном режиме. 0 - левый столбец пикселей основного монитора, если fullscreenMonitor равен 0, или левый столбец выбранного монитора. customFullscreenDimensions должно быть true
+comment.fullscreenwindowed.customFullscreenDimensionsY=Координата Y для размещения окна в полноэкранном режиме. 0 - верхняя строка пикселей основного монитора, если fullscreenMonitor равен 0, или верхняя строка выбранного монитора. customFullscreenDimensions должно быть true
+comment.fullscreenwindowed.customFullscreenDimensionsW=Ширина окна в полноэкранном режиме. Должна быть больше 256, чтобы вступить в силу. customFullscreenDimensions должно быть true
+comment.fullscreenwindowed.customFullscreenDimensionsH=Высота окна в полноэкранном режиме. Должна быть больше 256, чтобы вступить в силу. customFullscreenDimensions должно быть true
+comment.fullscreenwindowed.onlyRemoveDecorations=Если установлено true, нажатие кнопки полноэкранного режима только уберёт заголовок окна, но не изменит его размер

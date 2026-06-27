@@ -1,0 +1,15 @@
+item.magicalmap.map.name=Волшебная карта
+item.magicalmap.structure_map.name=Волшебная карта (Использована)
+desc.magicalmap.line1=Назови меня!
+desc.magicalmap.line2=Допустимые структуры:
+desc.magicalmap.repair=Можно сбросить на наковальне с помощью Ока Края
+msg.magicalmap.invalid=%s - недопустимая структура!
+msg.magicalmap.notfound=Не удалось найти "%s"!
+msg.magicalmap.mapped=Вы уже нанесли на карту ближайшую %s!
+msg.magicalmap.found=Структура "%s" найдена в %s
+msg.magicalmap.dist=Структура находится в %s блоках от вас. Двигайтесь %s.
+msg.magicalmap.here=Вы находитесь у структуры.
+dir.magicalmap.north=Север
+dir.magicalmap.east=Восток
+dir.magicalmap.south=Юг
+dir.magicalmap.west=Запад

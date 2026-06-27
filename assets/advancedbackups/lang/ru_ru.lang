@@ -1,0 +1,5 @@
+advancedbackups.backup_starting=Резервное копирование запущено!
+advancedbackups.progress=Резервное копирование выполняется: %s%%
+advancedbackups.backup_failed=Резервное копирование не удалось!\nПроверьте логи для получения дополнительной информации.
+advancedbackups.backup_cancelled=Резервное копирование отменено!
+advancedbackups.backup_finished=Резервное копирование завершено!

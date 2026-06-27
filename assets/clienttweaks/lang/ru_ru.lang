@@ -1,0 +1,7 @@
+key.clienttweaks.disable_step_assist=Переключить клавишу отключения Step Assist
+key.clienttweaks.hide_offhand_item=Переключить скрытие произвольного элемента
+key.categories.clienttweaks=Настройки клиента
+clienttweaks.on=ВКЛ
+clienttweaks.off=ВЫКЛ
+gui.clienttweaks.mipmapConfirm=Вы действительно хотите изменить уровень mip-карты?
+gui.clienttweaks.mipmapWarning=При наличии большого количества установленных модов это может занять до нескольких минут

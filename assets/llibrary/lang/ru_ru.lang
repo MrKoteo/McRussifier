@@ -1,0 +1,7 @@
+gui.llibrary.update=Обновить
+gui.llibrary.update.title=Обновления модов
+gui.llibrary.currentVersion=Текущая версия
+gui.llibrary.latestVersion=Последняя версия
+gui.llibrary.updated.1=Всё обновлено!
+gui.llibrary.updated.2=LLibrary не нашла устаревших модов.
+snackbar.llibrary.updates_found=LLibrary обнаружила устаревшие моды!

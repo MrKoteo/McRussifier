@@ -1,0 +1,9 @@
+item.bloodtinker.blood_bronze_ingot.name=Слиток кровавой бронзы
+tile.bloodtinker.blood_bronze_block.name=Блок кровавой бронзы
+fluid.bloodbronze=Расплавленная кровавая бронза
+material.bloodbronze.name=Кровавая бронза
+modifier.soulstealer.name=Похититель душ
+modifier.soulstealer.desc=§oДьявольски злобно!§r\nКрадёт души врагов и кристаллизует их в демоническую волю.
+modifier.bloodstained_armor.name=Окровавленный
+modifier.bloodstained_armor.desc=§oКроваво!§r\nПокрывайте себя собственной кровью, пролитой врагами, чтобы питать вашу сеть душ.
+item.bloodtinker.bloody_thorn_ring.name=Кольцо кровавой розы

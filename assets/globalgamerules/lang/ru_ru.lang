@@ -1,0 +1,6 @@
+ggr.configgui.rules=Настройки правил
+ggr.configgui.rules.tooltip=Содержит все настройки для установки правил по умолчанию
+ggr.configgui.misc=Разные настройки
+ggr.configgui.misc.tooltip=Содержит любые другие настройки, не являющиеся правилами
+ggr.configgui.diffDisabled=Отключено
+worldDifficulty.tooltip=Устанавливает сложность мира при загрузке, может быть отключено

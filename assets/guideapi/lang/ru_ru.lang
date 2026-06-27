@@ -1,0 +1,9 @@
+item.guideapi.book.name=Книга-руководство
+button.search.name=Поиск
+text.brewing.brew=Варка
+text.brewing.error=&cОшибка в рецепте
+text.linked.open=Присесть + Использовать, чтобы открыть
+text.open.failed=Что-то помешало вам открыть эту книгу
+test.guide.format=Это тест\nформатирования\n\tс отступом
+test.category.name=Тестовая категория
+test.entry.name=Тестовый раздел

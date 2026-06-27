@@ -1,0 +1,16 @@
+tile.vendingStorageAttachment.name=Прикреплённое хранилище автомата
+gui.vendingBlock.ok=ОК
+gui.vendingBlock.cancel=Отмена
+gui.vendingBlock.number_of_credits=Количество кредитов
+gui.vendingBlock.toInventory=Добавить в инвентарь
+gui.vendingBlock.buy_buffer=Буфер покупки
+gui.vendingBlock.sell_buffer=Буфер продажи
+gui.vendingBlock.inventory=Инвентарь
+subtitles.block.vendingMachine.click=Автомат щёлкает
+subtitles.block.vendingMachine.dispense=Автомат выдал предмет
+subtitles.block.vendingMachineStorage.open=Хранилище автомата открывается
+subtitles.block.vendingMachineStorage.close=Хранилище автомата закрывается
+gui.vendingBlock.banknoteInStorageRequiredToAcceptPayments=Положите банкноту в хранилище для приёма платежей
+vending:stat.vendingMachinesUsed=Использовано автоматов
+vending:stat.vendingMachinesOpened=Открыто автоматов
+vending:stat.storageAttachmentsOpened=Открыто прикреплённых хранилищ

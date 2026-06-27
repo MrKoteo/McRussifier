@@ -1,0 +1,9 @@
+effects.replacememodid.example=Пример
+potion.effect.example=Зелье примера
+splash_potion.effect.example=Взрывное зелье примера
+lingering_potion.effect.example=Туманное зелье примера
+tipped_arrow.effect.example=Стрела с зельем примера
+item.example_helmet.name=Шлем примера
+item.example_chestplate.name=Нагрудник примера
+item.example_leggings.name=Поножи примера
+item.example_boots.name=Ботинки примера
