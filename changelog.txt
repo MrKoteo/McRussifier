@@ -17,12 +17,19 @@ Edited: botania, chisel, exnihilocreatio, immersiveintelligence, neenergistics, 
 
 v2.1
 Removed:
-
-
 Added:
-The ResidentEvil Up, Tinker's Toolbelt, simpledifficulty
+ The ResidentEvil Up, Tinker's Toolbelt, simpledifficulty
+Edited:
+
+---
+
+v2.2
+Added:
+advancedbackups, advancedcombat, ancientbeasts, avaritiaddons, bewitchment, blue_skies, built_ristroturato, cqrepoured, dungeons2, equivalentenergistics, erebus, extrabitmanipulation, geneticsreborn, magipsi, mod_lavacow, musketsplease, mysticaladaptations, pewter, primal_tech, projectex, qualitytools, snad, storagenetwork, theaurorian, tombstone, toroquest, treasure2, vending, wormhole,  and more.....
 
 Edited:
+advgenerators, lycanitesmobs
+
 
 ---
 
