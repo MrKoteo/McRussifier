@@ -54,3 +54,4 @@ item.projectred.illumination.falloutLampInverted|14.name=Инвертирова�
 item.projectred.illumination.falloutLampInverted|15.name=Инвертированный чёрный свет радиации
 item.projectred.integration.gate|34.name=ИС-вентиль
 tile.projectred.relocation.frame.name=Рама
+item.projectred.core.itemResource.tin_coil.name=Оловянная катушка

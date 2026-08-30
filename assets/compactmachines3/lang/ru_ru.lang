@@ -1,6 +1,7 @@
+#PARSE_ESCAPES
 tooltip.compactmachines3.lockforotherplayers.checkbox=Закрыть для других игроков
 gui.compactmachines3.psd.tunnels.label=Туннели
-gui.compactmachines3.psd.tunnels.text=Туннели используются для соединения внутренних стен с внешними гранями блока. Только одно соединение на внешнюю грань, всего 6 туннелей на машину.\nПКМ по стене компактной машины с инструментом-туннелем, чтобы разместить туннель. Повторный ПКМ переключает внешнюю грань, к которой он подключён.\nТуннели используют систему Forge Capability для «соединения» двух блоков. Для корректной работы туннелей другие моды должны использовать эту систему. Это справедливо для большинства хранилищ, но редко для мультиблочных структур, так что некоторые трубы и т.п. могут работать не так, как ожидалось.
+gui.compactmachines3.psd.tunnels.text=Туннели используются для соединения внутренних стен с внешними гранями блока. Только одно соединение на внешнюю грань, всего 6 туннелей на машину.\nПКМ по стене компактной машины с инструментом-туннелем, чтобы разместить туннель. Повторный ПКМ переключает внешнюю грань, к которой он подключён.\nТуннели используют систему Forge Capability для «соединения» двух блоков. Для корректной работы туннелей другие моды должны использовать эту систему. Это справедливо для большинства хранилищ, но редко для мультиблочных структур, так что некоторые трубы и т.п. могут работать не так, как ожидалось
 gui.compactmachines3.compactsky.whitelist=Белый список
 gui.compactmachines3.compactsky.preview=Просмотр
 gui.compactmachines3.compactsky.enter=Войти в машину
@@ -8,7 +9,6 @@ gui.compactmachines3.compactsky.rename=Переименовать
 gui.compactmachines3.compactsky.configuration.small=16 игроков
 gui.compactmachines3.compactsky.configuration.medium=64 игрока
 gui.compactmachines3.compactsky.configuration.large=256 игроков
-
 generator.compactsky=Компактное небо
 hint.compactmachines3.skyworld.no_block_breaking=Вы не можете разрушать блоки в Компактном хабе!
 hint.compactmachines3.skyworld.no_block_placing=Вы не можете размещать блоки в Компактном хабе!

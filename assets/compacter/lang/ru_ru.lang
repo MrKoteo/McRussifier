@@ -1,0 +1,10 @@
+tile.compacter.compacter.name=Компактер
+tile.compacter.cobbler.name=Генератор булыжника (творческий)
+compacter.recurse.enabled=Рекурсивное уплотнение включено
+compacter.recurse.disabled=Рекурсивное уплотнение отключено
+compacter.craftmode.two_three=Сначала пробовать рецепты 2x2
+compacter.craftmode.three_two=Сначала пробовать рецепты 3x3
+compacter.craftmode.three_only=Только рецепты 3x3
+compacter.craftmode.two_only=Только рецепты 2x2
+compacter.craftmode.one_only=Режим одного предмета (1x1)
+compacter.craftmode.hollow=Полый режим (3x3 без центра)

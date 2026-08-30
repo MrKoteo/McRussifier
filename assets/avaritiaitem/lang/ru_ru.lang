@@ -1,0 +1,2 @@
+message.item_register.success=Предмет успешно зарегистрирован: %s
+message.item_register.blank_name=Имя предмета не может быть пустым или null

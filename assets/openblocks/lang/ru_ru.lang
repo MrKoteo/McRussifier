@@ -1,0 +1,11 @@
+#PARSE_ESCAPES
+enchantment.openblocks.explosive.desc=Вызывает взрывы разного размера при прыжке или получении урона
+enchantment.openblocks.last_stand.desc=Вместо смерти при смертельном уроне игрок остаётся с 1 здоровьем, расходуя опыт; стоимость зависит от урона и уменьшается от общего уровня зачарования "Последний рубеж" на всём снаряжении
+enchantment.openblocks.flim_flam.desc=Налагает ряд негативных эффектов на ближайших игроков
+openblocks.gui.drawingtable.stencils=Трафареты
+openblocks.gui.drawingtable.glyphs=Глифы
+openblocks.gui.drawingtable.print=Печать
+item.openblocks.glyph.name=Глиф
+item.openblocks.glyph.with_char=Глиф '%c'
+openblocks.misc.get_witched=Получи колдовство!
+item.openblocks.wrench.description=Это чрезвычайно сложный инструмент, используемый для преобразования объектов с октаэдрической симметрией.\n\n\nИли просто большой тупой кусок металла, которым можно вращать кубы и прочее.\n\nТак что да, это очередной гаечный ключ. Я просто пытаюсь быть оригинальным, ок?

@@ -1,0 +1,5 @@
+entity.trumpetskeleton.TrumpetSkeleton.name=Скелет-трубач
+subtitles.entity.trumpetskeleton.trumpet_skeleton.ambient=Скелет трубит
+subtitles.entity.parrot.imitate.trumpet_skeleton=Попугай трубит
+subtitles.item.trumpetskeleton.trumpet.use=Тру-ту-ту
+item.trumpetskeleton.trumpet.name=Труба

@@ -1,0 +1,3 @@
+text.integrationforegoing.plant.randomthings_lotus_replant= - Лотос из Random Things §o(Требуется пересадка)
+text.integrationforegoing.plant.randomthings_lotus_no_replant= - Лотос из Random Things §o(Пересадка не требуется)
+text.integrationforegoing.book.addon_introduction=Похоже, вы установили Integration Foregoing...@L@@L@Integration Foregoing — это официальное дополнение для Industrial Foregoing, использующее его API и добавляющее недостающие интеграции с модами.@L@@L@Добавленный контент включает: дополнительный обработчик питья через соломинку для жидкостей из других модов, записи для биореактора, обработчики для сборщика растений, материалы для инструментов Tinkers' Construct и многое другое!

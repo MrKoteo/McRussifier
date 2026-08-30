@@ -1,0 +1,16 @@
+entity.entity_clam.name=Моллюск
+item.pearleporter.name=Жемчужный портатор
+item.beetroot_salad.name=Салат из свёклы
+item.cactus_dandelion_salad.name=Салат из кактуса и одуванчика
+item.cooked_beetroot.name=Варёная свёкла
+item.cooked_carrot.name=Варёная морковь
+item.dandelion_cornflower_salad.name=Салат из одуванчика и василька
+item.fish_and_chips.name=Рыба с картофелем фри
+item.stewed_eggplant.name=Тушёный баклажан
+item.aubergine_salad.name=Салат из баклажанов
+tile.mud_brick_fence_gate.name=Калитка из глиняного кирпича
+message.pearleporter.immature=Этот моллюск ещё не произвёл жемчужину. Подождите, пока он не начнёт испускать частицы!
+mysticalworld.subtitles.entity.lava_cat.purreow=Лавовая кошка мурлычет
+mysticalworld.subtitles.item.pearleporter.use=Жемчужный портатор активирован
+mysticalworld.guidebook.name=Энциклопедия Mysticum
+mysticalworld.tooltip.pearleporter=ПКМ по зрелому моллюску, чтобы извлечь жемчуг, не убивая его

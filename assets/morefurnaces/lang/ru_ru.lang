@@ -1,0 +1,6 @@
+item.morefurnacesupgrade.gold_to_diamond.name=Улучшение печки: золотая -> алмазная
+tile.copper_furnace.name=Медная печка
+tile.silver_furnace.name=Серебряная печка
+item.morefurnacesupgrade.copper_to_silver.name=Улучшение печки: медная -> серебряная
+item.morefurnacesupgrade.iron_to_silver.name=Улучшение печки: железная -> серебряная
+item.morefurnacesupgrade.stone_to_copper.name=Улучшение печки: каменная -> медная

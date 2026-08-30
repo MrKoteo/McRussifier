@@ -1,0 +1,17 @@
+stackie.general.stacklimit=Лимит стака
+stackie.general.stacklimit.tooltip=Если количество сущностей превышает это число, стакинг будет отключён (на измерение)
+stackie.general.interval=Интервал
+stackie.general.interval.tooltip=Количество тиков (20 тиков = 1 секунда) между попытками стакинга
+stackie.general.distance=Расстояние
+stackie.general.distance.tooltip=Максимальное расстояние между предметами/сферами опыта, которые могут быть объединены (относительно размера блока)
+stackie.general.stackitems=Стакать предметы
+stackie.general.stackitems.tooltip=Должен ли он стакать предметы?
+stackie.general.stackexperience=Стакать опыт
+stackie.general.stackexperience.tooltip=Должен ли он стакать сферы опыта?
+stackie.general.stacksizes=Размеры стаков
+stackie.general.stacksizes.tooltip=Список соответствий уникальноеИмя-размерСтака. Эти значения переопределяют стандартные размеры стаков
+stackie.general.maximumstacksize=Максимальный размер стака
+stackie.general.maximumstacksize.tooltip=Предметы будут стакаться до этого количества
+stackie.general.maximumexperience=Максимальный опыт
+stackie.general.maximumexperience.tooltip=Опыт будет стакаться до этого количества
+commands.stackie.stacklimit=Лимит стакинга установлен на: %d

@@ -1,0 +1,13 @@
+entity.furantur.name=Фурантур
+entity.hoarder.name=Стяжатель
+entity.necromancer.name=Некромант
+entity.illager_king.name=Король илладжеров
+entity.enchanter.name=Чародей
+entity.archer.name=Лучник
+config.illager_tower_freq.name=Частота башен илладжеров
+config.illager_archer_tower_freq.name=Частота башен лучников илладжеров
+config.illager_centre_freq.name=Частота центров илладжеров
+gui.config.illagers_plus.title=Настройка Illagers+
+gui.config.category.general.name=Общие
+gui.config.category.general.name.tooltip=Общие настройки для Illagers+
+gui.config.category.general.title=Общие настройки Illagers+

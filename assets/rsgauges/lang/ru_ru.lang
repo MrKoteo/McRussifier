@@ -1,0 +1,680 @@
+# Файл языковых строк для Gauges and Switches
+
+# - Всплывающие подсказки при наведении на предмет в инвентаре (когда зажаты CTRL-SHIFT).
+#   Тексты для предметов и блоков, ключи идентичны названиям, только
+#   с ".help" вместо ".name" в конце. Эти переводы позволяют
+#   перекрёстно ссылаться (нерекурсивно) на другие ключи языка, поскольку
+#   у многих блоков одинаковые описания. Используйте "один.ключ.help=${другой.ключ.help}".
+
+#PARSE_ESCAPES
+
+
+
+itemGroup.tabrsgauges=Датчики и переключатели
+rsgauges.config.title=Конфигурация Gauges and Switches
+rsgauges.subtitle.soundindicator1=сирена тревоги
+rsgauges.tooltip.hint.extended=§6[§9SHIFT§r Подробнее§6]§r
+rsgauges.tooltip.hint.help=§6[§9CTRL-SHIFT§r Помощь§6]§r
+
+#-----------------------------------------------------------------------------------------------------------
+# Названия датчиков (измерителей)
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.flatgauge1.name=Аналоговый вольтметр (редстоун)
+tile.rsgauges.flatgauge2.name=Аналоговая шкала (редстоун)
+tile.rsgauges.flatgauge3.name=Малый цифровой дисплей (редстоун)
+tile.rsgauges.flatgauge4.name=Стеклянная шкала (редстоун)
+tile.rsgauges.flatgauge5.name=Стеклянная трубка (редстоун)
+tile.rsgauges.flatgauge6.name=Малый аналоговый вольтметр (редстоун)
+tile.rsgauges.gauge_rustic2.name=Рустикальный круглый настенный измеритель (редстоун)
+# Всплывающая подсказка
+tile.rsgauges.flatgauge1.help=§6Устройство отображения, которое можно прикрепить к твёрдому блоку для визуализации силы редстоуна этого блока.§r\n\
+                              Если блок сам может выдавать энергию, датчик использует его выходной сигнал, в противном случае он косвенно измеряет мощность, которую блок получает от соседних блоков. \
+                              Поддерживается сильное и слабое питание. Косвенные слабые измерения могут иметь небольшую задержку.
+tile.rsgauges.flatgauge2.help=${tile.rsgauges.flatgauge1.help}
+tile.rsgauges.flatgauge3.help=${tile.rsgauges.flatgauge1.help}
+tile.rsgauges.flatgauge4.help=${tile.rsgauges.flatgauge1.help}
+tile.rsgauges.flatgauge5.help=${tile.rsgauges.flatgauge1.help}
+tile.rsgauges.flatgauge6.help=${tile.rsgauges.flatgauge1.help}
+tile.rsgauges.gauge_rustic2.help=${tile.rsgauges.flatgauge1.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Названия индикаторов бинарного состояния
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.indicator_led_white.name=Белый светодиодный индикатор (редстоун)
+tile.rsgauges.indicator_led_white_blink.name=Мигающий белый светодиодный индикатор (редстоун)
+tile.rsgauges.indicator1.name=Зелёный светодиодный индикатор (редстоун)
+tile.rsgauges.indicator2.name=Жёлтый светодиодный индикатор (редстоун)
+tile.rsgauges.indicator3.name=Красный светодиодный индикатор (редстоун)
+tile.rsgauges.indicator4.name=Лампа тревоги
+tile.rsgauges.indicator1blink1.name=Мигающий зелёный светодиодный индикатор (редстоун)
+tile.rsgauges.indicator2blink1.name=Мигающий жёлтый светодиодный индикатор (редстоун)
+tile.rsgauges.indicator3blink1.name=Мигающий красный светодиодный индикатор (редстоун)
+tile.rsgauges.soundindicator1.name=Сирена тревоги
+tile.rsgauges.indicator_rustic_flag.name=Рустикальный семафор (редстоун)
+
+tile.rsgauges.indicator_led_white.help=§6Маленькое устройство, которое можно прикрепить к блоку, чтобы показывать, питается ли этот блок.§r\n\
+                              Если блок сам может выдавать энергию, используется выходной сигнал блока, в противном случае определяется мощность, которую блок получает от соседних блоков.\n\
+                              ЛКМ с красителем меняет цвет светодиода.
+tile.rsgauges.indicator1.help=${tile.rsgauges.indicator_led_white.help}
+tile.rsgauges.indicator2.help=${tile.rsgauges.indicator_led_white.help}
+tile.rsgauges.indicator3.help=${tile.rsgauges.indicator_led_white.help}
+tile.rsgauges.indicator_led_white_blink.help=${tile.rsgauges.indicator_led_white.help} Мигает с частотой около 0.5 Гц.
+tile.rsgauges.indicator1blink1.help=${tile.rsgauges.indicator_led_white.help} Мигает с частотой около 0.5 Гц.
+tile.rsgauges.indicator2blink1.help=${tile.rsgauges.indicator_led_white.help} Мигает с частотой около 0.5 Гц.
+tile.rsgauges.indicator3blink1.help=${tile.rsgauges.indicator_led_white.help} Мигает с частотой около 0.5 Гц.
+tile.rsgauges.indicator4.help=§6Красная лампа, мигающая при обнаружении сигнала редстоуна от блока, к которому она прикреплена.§r Излучает свет, когда активна.
+tile.rsgauges.soundindicator1.help=§6Сирена, которая издаёт звук тревоги при обнаружении сигнала редстоуна от блока, к которому она прикреплена.
+tile.rsgauges.indicator_rustic_flag.help=§6Небольшой металлический корпус с флагом семафора, который поднимается, когда блок, к которому прикреплён индикатор, получает питание.§r\n\
+                              Если блок сам может выдавать энергию, используется его выходной сигнал, в противном случае определяется мощность, получаемая от соседних блоков.\n\
+                              ЛКМ с красителем изменяет цвет флага.
+
+#-----------------------------------------------------------------------------------------------------------
+# Вспомогательные описания функций переключателей
+#-----------------------------------------------------------------------------------------------------------
+rsgauges.switch.feature.pulseextend.help=Активация во время уже активного состояния продлевает время импульса.
+rsgauges.switch.feature.hoppermountable.help=Можно размещать на воронках.
+rsgauges.switch.feature.pulsetime.help=ЛКМ со стопкой редстоуна устанавливает фиксированное время импульса от 0.1 с (1) до 6.4 с (64).
+rsgauges.switch.feature.outputconfig.help=Клик факелом редстоуна настраивает выход (циклически переключает доступные для этого переключателя варианты).
+rsgauges.switch.feature.projectilesense.help=Может активироваться снарядами.
+rsgauges.switch.feature.colortinting.help=ЛКМ с любым красителем изменяет цвет переключателя.
+rsgauges.switch.feature.linktarget.help=Клик жемчугом Края создаёт Жемчуг связи, привязанный к этому переключателю.
+rsgauges.switch.feature.linksource.help=Клик Жемчугом связи использует этот переключатель как источник связи.
+rsgauges.switch.feature.contactmat.offdelay.help=ЛКМ со стопкой редстоуна устанавливает время удержания от 0.1 с (1) до 6.4 с (64).
+rsgauges.switch.feature.contactmat.touch.help=Нажмите на кнопки вверх/вниз на сенсорной панели, чтобы настроить выходную мощность, фильтр сущностей, количество сущностей и чувствительность.
+
+#-----------------------------------------------------------------------------------------------------------
+# Названия ручных бистабильных переключателей
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.bistableswitch1.name=Роторный машинный переключатель
+tile.rsgauges.bistableswitch2.name=Индустриальный контактный рычаг
+tile.rsgauges.bistableswitch3.name=Двухкнопочный машинный переключатель
+tile.rsgauges.bistableswitch4.name=Малый выключатель света
+tile.rsgauges.bistableswitch5.name=Аварийная кнопка (ESTOP)
+tile.rsgauges.bistableswitch6.name=Блокиратор воронки
+tile.rsgauges.bistableswitch7.name=Индустриальный роторный рычаг
+tile.rsgauges.bistableswitch8.name=Индустриальный рычаг
+tile.rsgauges.bistableswitch_oldfancy1.name=Старинный рычаг
+tile.rsgauges.bistableswitch_oldfancy2.name=Старинный роторный рычаг
+tile.rsgauges.bistableswitch_oldfancy3.name=Бистабильный переключатель
+tile.rsgauges.bistableswitch_oldfancy4.name=Бистабильный переключатель
+tile.rsgauges.bistableswitch_oldfancy5.name=Бистабильный переключатель
+tile.rsgauges.bistableswitch_oldfancy6.name=Бистабильный переключатель
+tile.rsgauges.bistableswitch_oldfancy7.name=Бистабильный переключатель
+tile.rsgauges.bistableswitch_rustic1.name=Рустикальный рычаг
+tile.rsgauges.bistableswitch_rustic2.name=Рустикальный рычаг на двух петлях
+tile.rsgauges.bistableswitch_rustic3.name=Рустикальный роторный рычаг
+tile.rsgauges.bistableswitch_rustic4.name=Бистабильный переключатель
+tile.rsgauges.bistableswitch_rustic5.name=Бистабильный переключатель
+tile.rsgauges.bistableswitch_rustic6.name=Бистабильный переключатель
+tile.rsgauges.bistableswitch_rustic7.name=Рустикальный гвоздевой рычаг
+tile.rsgauges.bistableswitch_glass1.name=Стеклянный бистабильный переключатель
+tile.rsgauges.bistableswitch_glass2.name=Стеклянный сенсорный бистабильный переключатель
+tile.rsgauges.valve_wheel_switch.name=Клапанный переключатель
+tile.rsgauges.elevator_button.name=Кнопка лифта
+
+rsgauges.switch.feature.typebistable.help=§6Переключатель, который включается/выключается вручную, как рычаг.\n§r
+tile.rsgauges.bistableswitch1.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch2.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch3.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch4.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch5.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} Может быть выключен снарядом.
+tile.rsgauges.bistableswitch6.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.hoppermountable.help}
+tile.rsgauges.bistableswitch7.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.hoppermountable.help}
+tile.rsgauges.bistableswitch8.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch_oldfancy1.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch_oldfancy2.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch_rustic1.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch_rustic2.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch_rustic3.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.hoppermountable.help}
+tile.rsgauges.bistableswitch_rustic7.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.bistableswitch_glass1.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+tile.rsgauges.bistableswitch_glass2.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+tile.rsgauges.valve_wheel_switch.help=${rsgauges.switch.feature.typebistable.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.elevator_button.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+#-----------------------------------------------------------------------------------------------------------
+# Названия ручных импульсных переключателей
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.arrowtarget.name=Мишень для стрел
+tile.rsgauges.pulseswitch1.name=Машинная кнопка
+tile.rsgauges.pulseswitch2.name=Ограждённая машинная кнопка
+tile.rsgauges.pulseswitch3.name=Индустриальная кнопка с рукояткой
+tile.rsgauges.pulseswitch5.name=Индустриальная ножная кнопка
+tile.rsgauges.pulseswitch6.name=Индустриальная кнопка
+tile.rsgauges.pulseswitch_oldfancy1.name=Старинная кнопка
+tile.rsgauges.pulseswitch_oldfancy2.name=Старинная кнопка на цепочке
+tile.rsgauges.pulseswitch_oldfancy3.name=Импульсный переключатель
+tile.rsgauges.pulseswitch_oldfancy4.name=Малая старинная кнопка
+tile.rsgauges.pulseswitch_rustic1.name=Рустикальная кнопка
+tile.rsgauges.pulseswitch_rustic2.name=Малая рустикальная кнопка
+tile.rsgauges.pulseswitch_rustic3.name=Рустикальная кнопка на цепочке
+tile.rsgauges.pulseswitch_rustic4.name=Импульсный переключатель
+tile.rsgauges.pulseswitch_rustic5.name=Импульсный переключатель
+tile.rsgauges.pulseswitch_rustic6.name=Импульсный переключатель
+tile.rsgauges.pulseswitch_rustic7.name=Рустикальная гвоздевая кнопка
+tile.rsgauges.pulseswitch_glass1.name=Стеклянная кнопка
+tile.rsgauges.pulseswitch_glass2.name=Малая стеклянная кнопка
+tile.rsgauges.pulseswitch_glass3.name=Стеклянная сенсорная кнопка
+
+rsgauges.switch.feature.typepulse.help=§6Переключатель, который выдаёт сигнал редстоуна на короткое время, как кнопка.\n§r
+tile.rsgauges.arrowtarget.help=§6Мишень, которая посылает импульс редстоуна в блок, к которому прикреплена, при попадании стрелы или активации рукой.\n§r\
+                               ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch1.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+tile.rsgauges.pulseswitch2.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch3.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch5.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch6.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch_oldfancy1.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+tile.rsgauges.pulseswitch_oldfancy2.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch_oldfancy3.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+tile.rsgauges.pulseswitch_oldfancy4.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+tile.rsgauges.pulseswitch_rustic1.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
+tile.rsgauges.pulseswitch_rustic2.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch_rustic3.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch_rustic4.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch_rustic5.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch_rustic6.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch_rustic7.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.pulseswitch_glass1.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+tile.rsgauges.pulseswitch_glass2.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+tile.rsgauges.pulseswitch_glass3.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Напольные контактные переключатели
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.contactmat1.name=Индустриальный дверной контактный коврик
+tile.rsgauges.contactmat2.name=Индустриальный контактный коврик
+tile.rsgauges.contactmat3.name=Индустриальный ударно-чувствительный контактный коврик
+tile.rsgauges.contactmat_rustic1.name=Рустикальная дверная нажимная пластина
+tile.rsgauges.contactmat_rustic2.name=Рустикальная нажимная пластина
+tile.rsgauges.contactmat_rustic3.name=Рустикальная ударно-чувствительная нажимная пластина
+tile.rsgauges.contactmat_glass1.name=Настраиваемая стеклянная контактная пластина
+tile.rsgauges.contactmat_glass2.name=Стеклянная контактная пластина
+
+tile.rsgauges.contactmat1.help=§6Индустриальный напольный контактный коврик, который выдаёт сигнал редстоуна при механическом давлении сверху (например, кто-то стоит на нём) и ещё короткое время после снятия давления.§r\n\
+                               Выход направлен вперёд и вниз. \
+                               ${rsgauges.switch.feature.contactmat.touch.help} ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.contactmat2.help=§6Индустриальный напольный контактный коврик, который выдаёт сигнал редстоуна при механическом давлении сверху (например, кто-то стоит на нём) и ещё короткое время после снятия давления.§r\n\
+                               Выход направлен вперёд и вниз. \
+                               ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.contactmat3.help=§6Индустриальный контактный коврик, выдающий импульс редстоуна при механическом ударе сверху (например, что-то падает на него).§r\n\
+                               Выход направлен вперёд и вниз. Мощность всегда 15. \
+                               ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.contactmat_rustic1.help=§6Металлическая пластина, выдающая сигнал редстоуна при механическом давлении сверху (например, кто-то стоит на ней) и ещё короткое время после снятия давления.§r\n\
+                               Выход направлен вперёд и вниз. \
+                               ${rsgauges.switch.feature.contactmat.touch.help} ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.contactmat_rustic2.help=§6Металлическая пластина, выдающая сигнал редстоуна при механическом давлении сверху (например, кто-то стоит на ней) и ещё короткое время после снятия давления.§r\n\
+                               Выход направлен вперёд и вниз. \
+                               ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.contactmat_rustic3.help=§6Металлическая пластина, выдающая импульс редстоуна при механическом ударе сверху (например, что-то падает на неё).§r\n\
+                               Выход направлен вперёд и вниз. Мощность всегда 15. \
+                               ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.contactmat_glass1.help=§6Стеклянная напольная пластина, которая меняет цвет и выдаёт сигнал редстоуна при механическом давлении сверху (например, кто-то стоит на ней) и ещё короткое время после снятия давления.§r\n\
+                               Выход направлен вперёд и вниз. Не издаёт звуков. \
+                               ${rsgauges.switch.feature.contactmat.touch.help} ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+tile.rsgauges.contactmat_glass2.help=§6Стеклянная напольная пластина, которая меняет цвет и выдаёт сигнал редстоуна при механическом давлении сверху (например, кто-то стоит на ней) и ещё короткое время после снятия давления.§r\n\
+                               Выход направлен вперёд и вниз. Не издаёт звуков. Датчики очень чувствительны. \
+                               ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.colortinting.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Люковые переключатели
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.trapdoorswitch1.name=Индустриальный ударно-активируемый люк
+tile.rsgauges.trapdoorswitch2.name=Индустриальный чувствительный ударно-активируемый люк
+tile.rsgauges.trapdoorswitch3.name=Индустриальная рамка обнаружения пролёта
+tile.rsgauges.trapdoorswitch_rustic1.name=Рустикальный ударно-активируемый люк
+tile.rsgauges.trapdoorswitch_rustic2.name=Рустикальный чувствительный ударно-активируемый люк
+tile.rsgauges.trapdoorswitch_rustic3.name=Рустикальный детекторный люк пролёта
+
+tile.rsgauges.trapdoorswitch1.help=§6Индустриальный напольный люк, который открывается и выдаёт сигнал редстоуна, когда кто-то или что-то падает на него.§r\n\
+                                   Выход идёт в блок, на котором он установлен. \
+                                   ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
+                                   ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.trapdoorswitch2.help=§6Индустриальный напольный люк, который открывается и выдаёт сигнал редстоуна, когда кто-то или что-то падает на него, или когда кто-то проходит по нему не крадучись.§r\n\
+                                   Выход идёт в блок, на котором он установлен. \
+                                   ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
+                                   ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.trapdoorswitch3.help=§6Индустриальная сенсорная рамка, которая выдаёт сигнал редстоуна, когда что-то пролетает сквозь неё.§r\n\
+                                   Выход идёт в блок, на котором она установлена. \
+                                   ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
+                                   ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.trapdoorswitch_rustic1.help=§6Металлический напольный люк, который открывается и выдаёт сигнал редстоуна, когда кто-то или что-то падает на него.§r\n\
+                                   Выход идёт в блок, на котором он установлен. \
+                                   ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
+                                   ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.trapdoorswitch_rustic2.help=§6Металлический напольный люк, который открывается и выдаёт сигнал редстоуна, когда кто-то или что-то падает на него, или когда кто-то проходит по нему не крадучись.§r\n\
+                                   Выход идёт в блок, на котором он установлен. \
+                                   ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
+                                   ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.trapdoorswitch_rustic3.help=§6Металлический люк, который открывается и выдаёт сигнал редстоуна, когда что-то касается его.§r\n\
+                                   Выход идёт в блок, на котором он установлен. \
+                                   ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
+                                   ${rsgauges.switch.feature.linksource.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Названия автоматических переключателей
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.automaticswitch1.name=Индустриальный ИК-детектор сущностей
+tile.rsgauges.automaticswitch2.name=Индустриальный линейный лазерный детектор сущностей
+tile.rsgauges.automaticswitch3.name=Индустриальный локальный датчик света
+tile.rsgauges.automaticswitch4.name=Индустриальный дневной таймер-часы
+tile.rsgauges.automaticswitch5.name=Индустриальный датчик дождя
+tile.rsgauges.automaticswitch6.name=Индустриальный детектор грозы
+tile.rsgauges.automaticswitch7.name=Индустриальный интервальный сигнальный таймер
+tile.rsgauges.detectorswitch_glass1.name=Стеклянный ИК-детектор сущностей
+tile.rsgauges.detectorswitch_glass2.name=Стеклянный линейный лазерный детектор сущностей
+tile.rsgauges.daytimeswitch_glass1.name=Стеклянный дневной таймер-часы
+tile.rsgauges.timerswitch_glass1.name=Стеклянный интервальный сигнальный таймер
+tile.rsgauges.industrial_comparator_switch.name=Индустриальный компараторный переключатель
+tile.rsgauges.door_sensor_switch.name=Датчик двери
+
+
+tile.rsgauges.automaticswitch1.help=§6Маленькое устройство, которое наблюдает за определённым объёмом и выдаёт сигнал редстоуна, если видит сущность.§r\n\
+                                    Объём: два блока вверх и вниз и «дальность» вперёд, влево и вправо (охватывает 180°). \
+                                    Дальность можно настроить маленькими кнопками на лицевой панели, а также выходную мощность, \
+                                    количество сущностей и тип сущностей (мобы, игроки, животные и т.д.). \
+                                    Выход идёт в блок, на котором установлен датчик. \
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.automaticswitch2.help=§6Маленькое устройство, которое наблюдает в одном направлении и выдаёт сигнал редстоуна, если обнаруживает сущность.§r\n\
+                                    Наблюдаемый объём: «дальность» блоков вперёд и полблока по бокам. \
+                                    Дальность можно настроить маленькими кнопками на лицевой панели, а также выходную мощность, \
+                                    количество сущностей и тип сущностей (мобы, игроки, животные и т.д.). \
+                                    Выход идёт в блок, на котором установлен датчик. \
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.automaticswitch3.help=§6Маленькое устройство, которое измеряет локальный уровень освещённости в своём месте и выдаёт сигнал редстоуна \
+                                    в зависимости от порогов включения и выключения, установленных маленькими кнопками на лицевой панели.§r\n\
+                                    Эти кнопки также позволяют установить выходную мощность и подавление дребезга. Подавление задерживает переключение \
+                                    до тех пор, пока уровень света не стабилизируется; большие значения означают лучшее подавление шумов, но и большую задержку переключения. \
+                                    Если параметры включения и выключения совпадают, измеренный уровень света должен точно соответствовать заданному значению. \
+                                    Выход идёт в блок, на котором установлен датчик. \
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.automaticswitch4.help=§6Маленькое устройство, которое выдаёт сигнал редстоуна от настроенного времени начала (день) до настроенного времени окончания.§r\n\
+                                    Временной интервал задаётся кнопками на лицевой панели устройства (24-часовой формат, где 06:00 — восход). \
+                                    Эти кнопки также позволяют установить выходную мощность и значение рандомизации. Последнее означает задержку \
+                                    включения или выключения на случайный промежуток времени; большие значения вызывают более длительные задержки. \
+                                    Выход идёт в блок, на котором установлен датчик. \
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.automaticswitch5.help=§6Маленькое настенное устройство, которое выдаёт сигнал редстоуна, когда на него идёт дождь.§r\n\
+                                    Кнопки на лицевой панели позволяют настроить силу выходного сигнала. \
+                                    Выход идёт в блок, на котором установлен датчик. \
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.automaticswitch6.help=§6Маленькое настенное устройство, которое выдаёт сигнал редстоуна, когда ощущает высокий электрический \
+                                    потенциал в воздухе, т.е. во время гроз.§r\n\
+                                    Кнопки на лицевой панели позволяют настроить силу выходного сигнала. \
+                                    Выход идёт в блок, на котором установлен датчик. \
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.automaticswitch7.help=§6Маленькое устройство, которое выдаёт прямоугольный сигнал редстоуна с заданным временем включения и выключения.§r\n\
+                                    Время настраивается кнопками на лицевой панели и может быть установлено от 0.1 с (2 тика) \
+                                    до 600 с (10 мин). Шаг изменения адаптируется к текущим значениям (маленький шаг для малых значений, \
+                                    большой шаг для больших значений). Кнопки конфигурации также позволяют задать выходную мощность \
+                                    и значение нарастания, которое заставит таймер плавно увеличивать и уменьшать сигнал редстоуна \
+                                    при переключении. §eТаймер находится в режиме ожидания для настройки. Нажмите на лицевую панель, чтобы \
+                                    перевести его в рабочий режим.§r \
+                                    Выход идёт в блок, на котором установлен датчик. \
+                                    ${rsgauges.switch.feature.outputconfig.help} \
+                                    Как цель Switch Link, таймер переключается между рабочим и режимом ожидания.
+tile.rsgauges.detectorswitch_glass1.help=§6Маленькое стеклянное устройство, которое наблюдает за определённым объёмом и выдаёт сигнал редстоуна, если видит сущность.§r\n\
+                                    Объём: два блока вверх и вниз и «дальность» вперёд, влево и вправо (охватывает 180°). \
+                                    Дальность можно настроить маленькими кнопками на лицевой панели, а также выходную мощность, \
+                                    количество сущностей и тип сущностей (мобы, игроки, животные и т.д.). \
+                                    Выход идёт в блок, на котором установлен датчик. Не издаёт звуков переключения. \
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.detectorswitch_glass2.help=§6Маленькое стеклянное устройство, которое наблюдает в одном направлении и выдаёт сигнал редстоуна, если обнаруживает сущность.§r\n\
+                                    Наблюдаемый объём: «дальность» блоков вперёд и полблока по бокам. \
+                                    Дальность можно настроить маленькими кнопками на лицевой панели, а также выходную мощность, \
+                                    количество сущностей и тип сущностей (мобы, игроки, животные и т.д.). \
+                                    Выход идёт в блок, на котором установлен датчик. Не издаёт звуков переключения. \
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.daytimeswitch_glass1.help=§6Маленькое стеклянное устройство, которое выдаёт сигнал редстоуна от настроенного времени начала (день) до настроенного времени окончания.§r\n\
+                                    Временной интервал задаётся кнопками на лицевой панели устройства (24-часовой формат, где 06:00 — восход). \
+                                    Эти кнопки также позволяют установить выходную мощность и значение рандомизации. Последнее означает задержку \
+                                    включения или выключения на случайный промежуток времени; большие значения вызывают более длительные задержки. \
+                                    Выход идёт в блок, на котором установлен датчик. Не издаёт звуков переключения.\
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.timerswitch_glass1.help=§6Маленькое устройство, которое выдаёт прямоугольный сигнал редстоуна с заданным временем включения и выключения.§r\n\
+                                    Время настраивается кнопками на лицевой панели и может быть установлено от 0.1 с (2 тика) \
+                                    до 600 с (10 мин). Шаг изменения адаптируется к текущим значениям (маленький шаг для малых значений, \
+                                    большой шаг для больших значений). Кнопки конфигурации также позволяют задать выходную мощность \
+                                    и значение нарастания, которое заставит таймер плавно увеличивать и уменьшать сигнал редстоуна \
+                                    при переключении. §eТаймер находится в режиме ожидания для настройки. Нажмите на лицевую панель, чтобы \
+                                    перевести его в рабочий режим.§r \
+                                    Выход идёт в блок, на котором установлен датчик. Не издаёт звуков переключения.\
+                                    ${rsgauges.switch.feature.outputconfig.help} \
+                                    Как цель Switch Link, таймер переключается между рабочим и режимом ожидания.
+tile.rsgauges.industrial_comparator_switch.help=§6Маленькое устройство, которое выдаёт сигнал редстоуна в зависимости от выходного уровня компаратора \
+                                    или статистики инвентаря блока, к которому оно прикреплено.§r\n\
+                                    Кнопки на лицевой панели позволяют настроить выходную мощность, значение компаратора для включения, \
+                                    значение компаратора для выключения и режим работы ("режим компаратора, свободные слоты, занятые слоты, ..."). \
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.door_sensor_switch.help=§6Детектор игроков, устанавливаемый на стены над дверями.§r
+
+#-----------------------------------------------------------------------------------------------------------
+# Переключатели наблюдения и инспекции блоков
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.observerswitch1.name=Индустриальный детектор категории блоков
+
+tile.rsgauges.observerswitch1.help=§6Переключатель, выдающий сигнал редстоуна, если один или несколько блоков перед ним соответствуют \
+                                    настроенному типу или категории.§r\n\
+                                    Настройка производится с помощью кнопок на противоположной стороне детектора и включает \
+                                    «дальность» (как далеко наблюдать), «порог» (сколько блоков должны совпадать), \
+                                    «фильтр» (критерии, например, твёрдый, жидкость, древесина, руда, растения, культуры, \
+                                    зрелые культуры и другие фильтры на основе словаря руд), «подавление дребезга» (задержка для устранения дребезга) \
+                                    и выходную «мощность» (на всех сторонах, кроме стороны детектора). Примечание: детектор распознаёт модифицированные блоки \
+                                    только если они корректно зарегистрированы в словаре руд (необходимо тестировать). \
+                                    §r\n\
+                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Регуляторы яркости (диммеры)
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.dimmerswitch1.name=Индустриальный диммер
+
+rsgauges.switchconfig.dimmerswitch.output_power=мощность: %1$s
+
+tile.rsgauges.dimmerswitch1.help=§6Индустриальный ручной регулятор мощности редстоуна.§r\n\
+                                Позволяет вручную устанавливать выходной сигнал от 0 до 15 на задней стороне \
+                                устройства. Вертикальное положение клика определяет силу сигнала. \
+                                ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Названия релейных переключателей (связь)
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.relay_bistableswitchrx1.name=Индустриальный приёмник Switch Link (бистабильный)
+tile.rsgauges.relay_bistableswitchrx2.name=Индустриальный приёмник Switch Link в корпусе (бистабильный)
+tile.rsgauges.relay_pulseswitchrx1.name=Индустриальный приёмник Switch Link (импульсный)
+tile.rsgauges.relay_pulseswitchrx2.name=Индустриальный приёмник Switch Link в корпусе (импульсный)
+tile.rsgauges.relay_bistableswitchtx1.name=Индустриальный передатчик Switch Link (бистабильный)
+tile.rsgauges.relay_pulseswitchtx1.name=Индустриальный передатчик Switch Link (импульсный)
+
+tile.rsgauges.relay_bistableswitchrx1.help=§6Маленькое индустриальное бистабильное коммутационное устройство, оптимизированное для использования \
+                                           в качестве цели Switch Link.§r\n\
+                                           Внутреннее реле зашумлено и поэтому очень тихое. \
+                                           Также может активироваться вручную, как рычаг. \
+                                           ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
+                                           ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.relay_bistableswitchrx2.help=§6Полноразмерное индустриальное бистабильное коммутационное устройство в корпусе, оптимизированное для использования \
+                                           в качестве цели Switch Link.§r\n\
+                                           Внутреннее реле зашумлено и поэтому очень тихое. \
+                                           Также может активироваться вручную, как рычаг. \
+                                           ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
+                                           ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.relay_pulseswitchrx1.help=§6Маленькое индустриальное импульсное коммутационное устройство, оптимизированное для использования \
+                                           в качестве цели Switch Link.§r\n\
+                                           Как и обычный импульсный переключатель, активируется на короткое время при ручном нажатии или при срабатывании по Switch Link. \
+                                           Внутреннее реле зашумлено и поэтому очень тихое. \
+                                           ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
+                                           ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.pulsetime.help}
+tile.rsgauges.relay_pulseswitchrx2.help=§6Полноразмерное индустриальное импульсное коммутационное устройство, оптимизированное для использования \
+                                           в качестве цели Switch Link.§r\n\
+                                           Как и обычный импульсный переключатель, активируется на короткое время при ручном нажатии или при срабатывании по Switch Link. \
+                                           Внутреннее реле зашумлено и поэтому очень тихое. \
+                                           ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
+                                           ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.pulsetime.help}
+tile.rsgauges.relay_bistableswitchtx1.help=§6Маленькое индустриальное коммутационное устройство, оптимизированное для использования \
+                                           в качестве реле Switch Link с входом по редстоуну.§r\n\
+                                           Реле не может выдавать сигналы редстоуна, но позволяет находиться внутри Жемчугам связи, которые срабатывают \
+                                           при изменении мощности редстоуна блока, на котором оно установлено. \
+                                           Двойным ЛКМ с пустой рукой можно изменить полярность входа (инвертированный означает активный низкий уровень) \
+                                           и чувствительность по силе (по умолчанию слабая; сильная означает, что для срабатывания связей нужна мощная сила). \
+                                           Зашумлено, поэтому очень тихое. Также может быть активировано вручную, как рычаг, для тестирования. \
+                                           ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.relay_pulseswitchtx1.help=§6Маленькое индустриальное импульсное коммутационное устройство, оптимизированное для использования \
+                                           в качестве реле Switch Link с входом по редстоуну.§r\n\
+                                           Импульсное реле не может выдавать сигналы редстоуна, но позволяет находиться внутри Жемчугам связи, которые срабатывают \
+                                           при изменении мощности редстоуна блока, на котором оно установлено. \
+                                           Оно активируется на короткое время, когда входной сигнал редстоуна меняется с 0 на любое большее значение. \
+                                           Двойным ЛКМ с пустой рукой можно изменить полярность входа (инвертированный означает активный низкий уровень) \
+                                           и чувствительность по силе (по умолчанию слабая; сильная означает, что для срабатывания связей нужна мощная сила). \
+                                           Зашумлено, поэтому очень тихое. Также может быть активировано вручную, как импульсный переключатель, для тестирования. \
+                                           ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Электростанции (на самом деле цветы, не энергопроизводящие объекты)
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.powerplant_yellow.name=Жёлтый электроцветок
+tile.rsgauges.powerplant_red.name=Красный электроцветок
+
+tile.rsgauges.powerplant_yellow.help=§6Искусственный жёлтый цветок, очень похожий на одуванчик, \
+                                     выдающий сигнал редстоуна вперёд и вниз, когда к нему кто-то прикасается (как контактная пластина).§r\n\
+                                     ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
+                                     ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.powerplant_red.help=§6Искусственный красный цветок, очень похожий на мак, \
+                                     выдающий сигнал редстоуна вперёд и вниз, когда к нему кто-то прикасается (как контактная пластина).§r\n\
+                                     ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
+                                     ${rsgauges.switch.feature.linksource.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Названия стучательных переключателей
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.industrial_knock_button.name=Импульсный переключатель-детектор стука (индустриальный)
+tile.rsgauges.industrial_knock_switch.name=Бистабильный переключатель-детектор стука (индустриальный)
+
+tile.rsgauges.industrial_knock_button.help=§6Выдаёт импульс редстоуна при клике по соседнему блоку в направлении его стороны.§r ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.industrial_knock_switch.help=§6Включается/выключается при клике по соседнему блоку в направлении его стороны.§r ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Названия чувствительных стеклянных блоков
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.sensitiveglass.name=Чувствительный к редстоуну стеклянный блок (свечение)
+tile.rsgauges.sensitiveglass_white.name=Чувствительный к редстоуну стеклянный блок (белый)
+tile.rsgauges.sensitiveglass_red.name=Чувствительный к редстоуну стеклянный блок (красный)
+tile.rsgauges.sensitiveglass_green.name=Чувствительный к редстоуну стеклянный блок (зелёный)
+tile.rsgauges.sensitiveglass_blue.name=Чувствительный к редстоуну стеклянный блок (синий)
+tile.rsgauges.sensitiveglass_yellow.name=Чувствительный к редстоуну стеклянный блок (жёлтый)
+tile.rsgauges.sensitiveglass_orange.name=Чувствительный к редстоуну стеклянный блок (оранжевый)
+tile.rsgauges.sensitiveglass_magenta.name=Чувствительный к редстоуну стеклянный блок (пурпурный)
+tile.rsgauges.sensitiveglass_lightblue.name=Чувствительный к редстоуну стеклянный блок (светло-голубой)
+tile.rsgauges.sensitiveglass_lime.name=Чувствительный к редстоуну стеклянный блок (лаймовый)
+tile.rsgauges.sensitiveglass_pink.name=Чувствительный к редстоуну стеклянный блок (розовый)
+tile.rsgauges.sensitiveglass_gray.name=Чувствительный к редстоуну стеклянный блок (серый)
+tile.rsgauges.sensitiveglass_lightgray.name=Чувствительный к редстоуну стеклянный блок (светло-серый)
+tile.rsgauges.sensitiveglass_cyan.name=Чувствительный к редстоуну стеклянный блок (циановый)
+tile.rsgauges.sensitiveglass_purple.name=Чувствительный к редстоуну стеклянный блок (фиолетовый)
+tile.rsgauges.sensitiveglass_brown.name=Чувствительный к редстоуну стеклянный блок (коричневый)
+tile.rsgauges.sensitiveglass_black.name=Чувствительный к редстоуну стеклянный блок (чёрный)
+tile.rsgauges.sensitiveglass_inverted.name=Чувствительный к редстоуну стеклянный блок (инвертированный, свечение)
+
+tile.rsgauges.sensitiveglass.help=§6Стеклянный блок, излучающий свет при подаче сигнала редстоуна, аналогично редстоуновой лампе.
+tile.rsgauges.sensitiveglass_inverted.help=§6Стеклянный блок, который обычно светится как редстоуновая лампа, но выключается при подаче сигнала редстоуна.§r
+rsgauges.sensitiveglass.colored.help=§6Стеклянный блок, который меняется с прозрачного на цветной при подаче сигнала редстоуна.§r Слабая пунктирная рамка указывает цвет в обесточенном состоянии.
+tile.rsgauges.sensitiveglass_white.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_red.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_green.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_blue.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_yellow.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_orange.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_magenta.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_lightblue.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_lime.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_pink.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_gray.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_lightgray.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_cyan.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_purple.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_brown.help=${rsgauges.sensitiveglass.colored.help}
+tile.rsgauges.sensitiveglass_black.help=${rsgauges.sensitiveglass.colored.help}
+
+#-----------------------------------------------------------------------------------------------------------
+# Прочие блоки
+#-----------------------------------------------------------------------------------------------------------
+tile.rsgauges.qube.name=Куб
+tile.rsgauges.qube.help=Это блок для разработчиков, не предназначенный для создания или использования в игре.
+
+#-----------------------------------------------------------------------------------------------------------
+# Предметы
+#-----------------------------------------------------------------------------------------------------------
+item.rsgauges.switchlink_pearl.name=Жемчуг связи (Switch Link)
+item.rsgauges.switchlink_pearl.help=§6Создаётся ЛКМ по переключателю жемчугом Края. Дистанционно активирует этот (целевой) переключатель при использовании или при вставке в другой (источник) переключатель также по ЛКМ.§r\n\
+                                    Измените параметры связи, нажав ЛКМ по цели этим Жемчугом связи (циклически переключает параметры). Можно вставить более одного жемчуга в переключатель. \
+                                    Жемчуги будут жаловаться, если они перегружены или не могут найти свою цель – вы услышите это. \
+                                    Если переключатель не подходит для использования в качестве источника или цели связи, жемчуг также сообщит об этом. \
+                                    Различные типы переключателей могут по-разному реагировать на триггеры связи (просто поэкспериментируйте).
+
+#-----------------------------------------------------------------------------------------------------------
+# Состояния конфигурации мощности переключателей (настройка ЛКМ)
+#-----------------------------------------------------------------------------------------------------------
+rsgauges.switchconfig.options=%1$s
+rsgauges.switchconfig.options.output_power=мощность: %1$s
+rsgauges.switchconfig.options.no_output=нет выхода
+rsgauges.switchconfig.options.weak=слабая
+rsgauges.switchconfig.options.strong=сильная
+rsgauges.switchconfig.options.weakinverted=слабая инвертированная
+rsgauges.switchconfig.options.stronginverted=сильная инвертированная
+rsgauges.switchconfig.options.pulsetime=импульс: %1$s с (%2$s тиков)
+
+#-----------------------------------------------------------------------------------------------------------
+# Подтверждения окрашивания переключателей
+#-----------------------------------------------------------------------------------------------------------
+# (примечание: цвета тонирования явно перечислены, так как леммы для окраски могут меняться в разных языках)
+#
+rsgauges.switchconfig.tinting=окрашен в %1$s
+rsgauges.switchconfig.tinting.white=белый
+rsgauges.switchconfig.tinting.orange=оранжевый
+rsgauges.switchconfig.tinting.magenta=пурпурный
+rsgauges.switchconfig.tinting.lightblue=светло-голубой
+rsgauges.switchconfig.tinting.yellow=жёлтый
+rsgauges.switchconfig.tinting.lime=лаймовый
+rsgauges.switchconfig.tinting.pink=розовый
+rsgauges.switchconfig.tinting.gray=серый
+rsgauges.switchconfig.tinting.silver=светло-серый
+rsgauges.switchconfig.tinting.cyan=циановый
+rsgauges.switchconfig.tinting.purple=фиолетовый
+rsgauges.switchconfig.tinting.blue=синий
+rsgauges.switchconfig.tinting.brown=коричневый
+rsgauges.switchconfig.tinting.green=зелёный
+rsgauges.switchconfig.tinting.red=красный
+rsgauges.switchconfig.tinting.black=чёрный
+
+#--------------------------------------------------
+# sensor range: <int>
+# entity type: <int>
+# entity threshold: <int>
+# power: <int>
+#
+rsgauges.switchconfig.detector.sensor_range=дальность датчика: %1$s
+rsgauges.switchconfig.detector.entity_filter=тип сущностей: %1$s
+rsgauges.switchconfig.detector.entity_filter.creatures=существа
+rsgauges.switchconfig.detector.entity_filter.players=игроки
+rsgauges.switchconfig.detector.entity_filter.mobs=мобы
+rsgauges.switchconfig.detector.entity_filter.animals=животные
+rsgauges.switchconfig.detector.entity_filter.villagers=жители
+rsgauges.switchconfig.detector.entity_filter.objects=объекты
+rsgauges.switchconfig.detector.entity_filter.everything=всё
+rsgauges.switchconfig.detector.entity_threshold=порог сущностей: %1$s
+rsgauges.switchconfig.detector.output_power=мощность: %1$s
+
+#--------------------------------------------------
+# on: <int>lux  off: <int>lux  power: <int>  debounce:<int>
+#
+rsgauges.switchconfig.lightsensor=%1$s%2$s%3$s%4$s
+rsgauges.switchconfig.lightsensor.lightunit=лк
+rsgauges.switchconfig.lightsensor.threshold_on=вкл: %1$s%2$s
+rsgauges.switchconfig.lightsensor.threshold_off=выкл: %1$s%2$s
+rsgauges.switchconfig.lightsensor.output_power=мощность: %1$s
+rsgauges.switchconfig.lightsensor.debounce=подавление: %1$s %2$s
+
+
+#--------------------------------------------------
+# on: <int> off: <int> power: <int>  debounce:<int>
+#
+rsgauges.switchconfig.comparator_switch.threshold_on=уровень вкл: %1$s
+rsgauges.switchconfig.comparator_switch.threshold_off=уровень выкл: %1$s
+rsgauges.switchconfig.comparator_switch.output_power=мощность: %1$s
+rsgauges.switchconfig.comparator_switch.mode0=режим компаратора
+rsgauges.switchconfig.comparator_switch.mode1=занятые слоты инвентаря
+rsgauges.switchconfig.comparator_switch.mode2=свободные слоты инвентаря
+
+#--------------------------------------------------
+# on: <int>  off: <int>  power: <int>  random:<int>
+#
+rsgauges.switchconfig.daytimerclock=%1$s%2$s%3$s%4$s
+rsgauges.switchconfig.daytimerclock.daytime_on=вкл: %1$s
+rsgauges.switchconfig.daytimerclock.daytime_off=выкл: %1$s
+rsgauges.switchconfig.daytimerclock.output_power=мощность: %1$s
+rsgauges.switchconfig.daytimerclock.random=рандом: %1$s
+
+#--------------------------------------------------
+# power: <int>
+#
+rsgauges.switchconfig.rainsensor.output_power=мощность: %1$s
+rsgauges.switchconfig.thundersensor.output_power=мощность: %1$s
+
+#
+# on: <float:%.02f>s  off: <float:%.02f>s  power: <int>  ramp:<int>
+#
+rsgauges.switchconfig.intervaltimer=%1$s%2$s%3$s%4$s%5$s
+rsgauges.switchconfig.intervaltimer.t_on=вкл: %1$s с
+rsgauges.switchconfig.intervaltimer.t_off=выкл: %1$s с
+rsgauges.switchconfig.intervaltimer.output_power=мощность: %1$s
+rsgauges.switchconfig.intervaltimer.ramp=нарастание: %1$s
+rsgauges.switchconfig.intervaltimer.standby=ОЖИДАНИЕ
+
+#--------------------------------------------------
+# Контактные напольные переключатели с сенсорной настройкой
+#
+# weight: <normal|high>
+rsgauges.switchconfig.touchcontactmat.sensitivity=чувствительность: %1$s
+rsgauges.switchconfig.touchcontactmat.sensitivity.normal=обычная
+rsgauges.switchconfig.touchcontactmat.sensitivity.high=высокая
+rsgauges.switchconfig.touchcontactmat.entity_threshold=порог сущностей: %1$s
+rsgauges.switchconfig.touchcontactmat.entity_filter=тип сущностей: %1$s
+rsgauges.switchconfig.touchcontactmat.entity_filter.everything=всё
+rsgauges.switchconfig.touchcontactmat.entity_filter.creatures=существа
+rsgauges.switchconfig.touchcontactmat.entity_filter.players=игроки
+rsgauges.switchconfig.touchcontactmat.entity_filter.mobs=мобы
+rsgauges.switchconfig.touchcontactmat.entity_filter.animals=животные
+rsgauges.switchconfig.touchcontactmat.entity_filter.villagers=жители
+rsgauges.switchconfig.touchcontactmat.entity_filter.objects=объекты
+rsgauges.switchconfig.touchcontactmat.output_power=мощность: %1$s
+
+#--------------------------------------------------
+# range: <int>  threshold: <int>  filter: <string>  power: <int>  debounce: <int>
+#
+rsgauges.switchconfig.blocksensor=%1$s%2$s%3$s%4$s%5$s
+rsgauges.switchconfig.blocksensor.range=дальность: %1$s
+rsgauges.switchconfig.blocksensor.threshold=порог: %1$s
+rsgauges.switchconfig.blocksensor.output_power=мощность: %1$s
+rsgauges.switchconfig.blocksensor.debounce=подавление: %1$s
+rsgauges.switchconfig.blocksensor.filter=фильтр: %1$s
+rsgauges.switchconfig.blocksensor.filter.any=любой блок
+rsgauges.switchconfig.blocksensor.filter.solid=твёрдый
+rsgauges.switchconfig.blocksensor.filter.liquid=жидкость
+rsgauges.switchconfig.blocksensor.filter.air=воздух
+rsgauges.switchconfig.blocksensor.filter.woodlog=древесина (бревно)
+rsgauges.switchconfig.blocksensor.filter.fertile=плодородная почва
+rsgauges.switchconfig.blocksensor.filter.soil=почва
+rsgauges.switchconfig.blocksensor.filter.plant=растение
+rsgauges.switchconfig.blocksensor.filter.crop=культура
+rsgauges.switchconfig.blocksensor.filter.crop_mature=зрелая культура
+rsgauges.switchconfig.blocksensor.filter.ore=руда (словарь)
+rsgauges.switchconfig.blocksensor.filter.sapling=саженец (словарь)
+rsgauges.switchconfig.blocksensor.filter.material_wood=деревянный (словарь)
+rsgauges.switchconfig.blocksensor.filter.material_stone=каменный (словарь)
+rsgauges.switchconfig.blocksensor.filter.material_glass=стеклянный (словарь)
+rsgauges.switchconfig.blocksensor.filter.material_water=вода/лёд
+rsgauges.switchconfig.blocksensor.filter.material_clay=глина/керамика
+rsgauges.switchconfig.blocksensor.filter.planks=доски (словарь)
+rsgauges.switchconfig.blocksensor.filter.slab=плита (словарь)
+
+#-----------------------------------------------------------------------------------------------------------
+# Связь переключателей (Switch Link)
+#-----------------------------------------------------------------------------------------------------------
+rsgauges.switchlinking.switchlink_pearl.tooltip.linkedblock=Связан с %1$s.
+rsgauges.switchlinking.switchlink_pearl.tooltip.linkeddistance=Цель на расстоянии %1$s блоков.
+rsgauges.switchlinking.switchlink_pearl.tooltip.toofaraway=(слишком далеко)
+rsgauges.switchlinking.switchlink_pearl.use.toofaraway=Целевой переключатель слишком далеко от вас
+rsgauges.switchlinking.switchlink_pearl.use.targetgone=Целевой переключатель сломан или перемещён
+rsgauges.switchlinking.target_assign.ok=Целевой переключатель запомнен
+rsgauges.switchlinking.target_assign.error_notarget=Этот переключатель не может быть целью связи
+rsgauges.switchlinking.source_assign.ok=Жемчуг связи вставлен
+rsgauges.switchlinking.source_assign.error_nosource=Этот переключатель не может связываться с целевыми переключателями
+rsgauges.switchlinking.source_assign.error_alreadylinked=Уже связан с целью этого жемчуга
+rsgauges.switchlinking.source_assign.error_toofaraway=Цель слишком далеко для этого переключателя
+rsgauges.switchlinking.source_assign.error_failed=Жемчуг связи не принимает этот переключатель
+rsgauges.switchlinking.relayconfig.confval0=Срабатывать как выход источника.
+rsgauges.switchlinking.relayconfig.confval1=Срабатывать при активации источника.
+rsgauges.switchlinking.relayconfig.confval2=Срабатывать при деактивации источника.
+rsgauges.switchlinking.relayconfig.confval3=Срабатывать при изменении источника.
+rsgauges.switchlinking.relayconfig.confval4=Срабатывать как инверсный выход источника.
+#
+# EOF
+#-----------------------------------------------------------------------------------------------------------

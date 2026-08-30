@@ -1,0 +1,15 @@
+tile.oreberries.oreberry_bush.name=Куст %s рудных ягод
+item.oreberries.oreberry.name=%s рудная ягода
+item.oreberries.nugget.name=Кусочек %s
+entity.Villager.tinker=Инженер
+itemGroup.oreberries=Рудные ягоды
+config.oreberries.tickGrowthChance=Шанс роста при случайном такте блока
+config.oreberries.tickGrowthChance.tooltip=Шанс того, что случайный такт блока продвинет куст рудных ягод на одну стадию роста
+config.oreberries.bonemealGrowthChance=Шанс роста от костной муки
+config.oreberries.bonemealGrowthChance.tooltip=Шанс того, что применение костной муки продвинет куст рудных ягод на одну стадию роста. Значение ноль отключает использование костной муки на кустах
+config.oreberries.enableVillager=Включить жителя-инженера
+config.oreberries.enableVillager.tooltip=Включает жителя-инженера, который продаёт кусты рудных ягод
+config.oreberries.rewriteJson=Перезаписывать JSON после чтения
+config.oreberries.rewriteJson.tooltip=Перезаписывает JSON-конфигурацию после её чтения для очистки и стандартизации форматирования
+config.oreberries.silkTouchRequirement=Требование шёлкового касания
+config.oreberries.silkTouchRequirement.tooltip=Минимальный уровень шёлкового касания, необходимый для сбора кустов рудных ягод. Так как доступен только 1-й уровень, установка значения 2 или выше полностью предотвратит их сбор
