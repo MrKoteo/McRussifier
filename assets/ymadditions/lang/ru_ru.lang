@@ -1,4 +1,4 @@
-tile.ymadditions.network_hub.name=ME Беспроводной приемопередатчик (трансивер)
+tile.ymadditions.network_hub.name=ME Беспроводной приёмопередатчик (трансивер)
 statusmessage.ymadditions.info.nopermission=§cУ вас нет разрешения.
 statusmessage.ymadditions.info.head_delete_protection=§cсначала удалите сеть
 tooltip.ymadditions.tile_me_base.missing_channel=Отсутствует канал устройства

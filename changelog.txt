@@ -33,6 +33,14 @@ advgenerators, lycanitesmobs
 
 ---
 
+v2.3
+Added:
+advanced_memory_card, animus, apotheosis, caves_n_cliffs, compacter, cookingforblockheads, danknull, densemetals, dimensionaledibles, dj2addons, effortlessbuilding, fenceoverhaul, framedcompactdrawers, illagers_plus, integrationforegoing, mcwbridges, mcwlights, mekanism, mekores, modularmachineryaddons, moreplates, moretcon, mysticalworld, netherblocks, netherite, openblocks, oreberries, prodigytech, rsgauges, shadowmc, stackie, stygian, taiga, tinkersaether, torcherino, trumpetskeleton, xreliquary, yoyos
+
+Edited:
+industrialforegoing, mod_lavacow, morefurnaces, projectred, ic2, ymadditions
+
+---
 
 
 

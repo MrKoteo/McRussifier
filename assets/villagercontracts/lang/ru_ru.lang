@@ -3,3 +3,35 @@ item.villagercontracts:contract.name=Договор с жителем
 tooltip.villagercontracts:desc=Переименуйте на наковальне, чтобы указать профессию жителя.
 tooltip.villagercontracts:info=Зажмите §bSHIFT§7, чтобы показать доступные варианты.
 tooltip.villagercontracts:naming=Допустимые названия контрактов:
+
+
+
+# Villager Contracts - Extended
+# Удалить после включения в мод
+
+message.villagercontracts.cooldown_slavery=Житель отказывается работать! У вас не может быть раба!
+message.villagercontracts.cooldown_rest=Жителю нужен отдых.
+message.villagercontracts.cooldown_tired=Житель выглядит измученным.
+message.villagercontracts.cooldown_union=Союз жителей говорит: больше никаких сверхурочных!
+message.villagercontracts.cooldown_boss=Житель говорит: я вам не сотрудник!
+message.villagercontracts.insufficient_funds=У вас недостаточно ресурсов для применения этого контракта!
+message.villagercontracts.contract_applied=%s теперь %s!
+gui.villagercontracts.title=Профессии жителей
+gui.villagercontracts.professions=Профессии
+gui.villagercontracts.careers=Специализации
+gui.villagercontracts.select_profession=< Выберите профессию
+gui.villagercontracts.select_career=< Выберите специализацию
+gui.villagercontracts.contract_name=Имя контракта
+gui.villagercontracts.no_contract=Вы должны держать контракт жителя
+gui.villagercontracts.cost_none=Бесплатно
+gui.villagercontracts.cost_experience=Стоимость: %s уровней опыта (у вас: %s)
+gui.villagercontracts.cost_item=Стоимость: %s %s (у вас: %s)
+gui.villagercontracts.cost_item_not_found=Настроенный предмет стоимости не найден!
+gui.villagercontracts.insufficient_funds=Недостаточно ресурсов!
+tooltip.villagercontracts.desc=Переименуйте на наковальне или нажмите ПКМ, чтобы указать специализацию жителя
+tooltip.villagercontracts.rightclick=ПКМ для просмотра профессий
+tooltip.villagercontracts.valid=Действительный контракт
+tooltip.villagercontracts.invalid=Недействительный контракт
+item.villagercontracts.contract.name=Контракт жителя
+itemGroup.villagercontracts=Контракты жителей
+message.villagercontracts.stage_required=Вам нужен этап %s, чтобы использовать контракты!
