@@ -42,6 +42,31 @@ industrialforegoing, mod_lavacow, morefurnaces, projectred, ic2, ymadditions
 
 ---
 
+v2.4
+Added:
+birdsnests, bonetorch, ci, cjcm, compactxpbottles, dynamictreestconstruct, fruits_delight_legacy, gyth, horse_colors, infilter, littleopener, morebeautifulplates, morecauldrons, netherchest, notenoughpets, primalchests, rusticthaumaturgy, skinnedcarts, slabmachines, xencraft
+
+Edited:
+mocreatures
+
+---
+
+---
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
 
 
 ...
