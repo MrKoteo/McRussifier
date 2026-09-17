@@ -1,0 +1,14 @@
+customloadingscreen.modstate.minecraft_init=Инициализация ресурсов Minecraft
+customloadingscreen.modstate.construction=Сборка
+customloadingscreen.modstate.pre_initialization=Pre Init
+customloadingscreen.modstate.initialization=Init
+customloadingscreen.modstate.post_initialization=Post Init
+customloadingscreen.modstate.completed=Завершено
+customloadingscreen.modstate.reloading_resource_packs=Перезагрузка пакетов ресурсов
+customloadingscreen.mcstate.modelloader.items=Загрузка моделей предметов
+customloadingscreen.mcstate.modelloader.blocks=Загрузка моделей блоков
+customloadingscreen.mcstate.modelloader.bake=Запекание моделей
+customloadingscreen.mcstate.texture.load=Загрузка текстур
+customloadingscreen.mcstate.texture.stitch=Сшивание текстур
+customloadingscreen.loading=Загрузка
+customloadingscreen.finishing=Завершение

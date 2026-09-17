@@ -1,0 +1,9 @@
+item.littleopener.coord_checker.name=Установщик координат
+tile.littleopener.block_opener.name=Little Opener
+text.littleopener.coord_checker.info1=Отображает и сохраняет координаты блока, по которому был сделан клик.
+text.littleopener.coord_checker.info2=Используйте на Little Opener для передачи координат.
+text.littleopener.coord_checker.set_opener_pos=§aКоординаты Opener установлены на %s
+text.littleopener.coord_checker.over_limit=§cРасстояние до блока превышает лимит! Максимум — %s§c блоков.
+text.littleopener.gui_opener.over_limit=Расстояние до блока превышает лимит! Восстановлены предыдущие координаты.
+text.littleopener.gui_opener.title=Настройка координат Opener
+text.littleopener.gui_opener.max_dist=Макс. расстояние до Little Tile: %s

@@ -1,0 +1,14 @@
+item.skinnedcarts:elephant_minecart.name=Вагонетка-слон
+item.skinnedcarts:frog_minecart.name=Вагонетка-лягушка
+item.skinnedcarts:panda_minecart.name=Вагонетка-панда
+item.skinnedcarts:pelican_minecart.name=Вагонетка-пеликан
+item.skinnedcarts:pufferfish_minecart.name=Вагонетка-рыба-фугу
+item.skinnedcarts:snail_minecart.name=Вагонетка-улитка
+item.skinnedcarts:turtle_minecart.name=Вагонетка-черепаха
+entity.skinnedcarts:ElephantMinecart.name=Вагонетка-слон
+entity.skinnedcarts:FrogMinecart.name=Вагонетка-лягушка
+entity.skinnedcarts:PandaMinecart.name=Вагонетка-панда
+entity.skinnedcarts:PelicanMinecart.name=Вагонетка-пеликан
+entity.skinnedcarts:PufferFishMinecart.name=Вагонетка-рыба-фугу
+entity.skinnedcarts:SnailMinecart.name=Вагонетка-улитка
+entity.skinnedcarts:TurtleMinecart.name=Вагонетка-черепаха

@@ -1,0 +1,3 @@
+customloadingscreen.modstate.pre_initialization=Pre Init
+customloadingscreen.modstate.initialization=Init
+customloadingscreen.modstate.post_initialization=Post Init

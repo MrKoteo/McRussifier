@@ -1,0 +1,11 @@
+item.dynamictreestconstruct:slimeblueseed.name=Семена синей слизи
+item.dynamictreestconstruct:slimepurpleseed.name=Семена фиолетовой слизи
+item.dynamictreestconstruct:slimemagmaseed.name=Семена магмовой слизи
+species.dynamictreestconstruct:slimeblue.name=Синяя слизь
+species.dynamictreestconstruct:slimepurple.name=Фиолетовая слизь
+species.dynamictreestconstruct:slimemagma.name=Магмовая слизь
+tile.dynamictreestconstruct:leaves0.name=Слизевая листва
+tile.dynamictreestconstruct:slimebluebranch.name=Дерево синей слизи
+tile.dynamictreestconstruct:slimepurplebranch.name=Дерево фиолетовой слизи
+tile.dynamictreestconstruct:slimemagmabranch.name=Дерево магмовой слизи
+tile.dynamictreestconstruct:rootyslimydirt.name=Слизистая корнистая земля
